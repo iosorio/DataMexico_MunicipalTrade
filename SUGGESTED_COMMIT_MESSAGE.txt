@@ -1,0 +1,14 @@
+Initial project setup
+
+- Add documented Stata do‑file (`00_Run_Python.do`) to orchestrate batch
+  downloads of municipal foreign trade data from DataMéxico.
+- Add Python downloader script with docstrings and inline comments
+  (`municipal_trade_download.py`).
+- Provide usage guide in `docs/USAGE.md` and project overview in
+  `README.md`.
+- Include MIT licence, `.gitignore`, `.gitattributes`, and requirements
+  files for runtime and development dependencies.
+- Add contribution guidelines, a code of conduct, issue and pull
+  request templates under `.github/`.
+- Configure pre‑commit hooks and a GitHub Actions workflow for
+  linting using ruff and code formatting via black.

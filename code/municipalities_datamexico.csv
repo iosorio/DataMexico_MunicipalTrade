@@ -1,0 +1,733 @@
+Nation ID,Nation,State ID,State,Municipality ID,Municipality,CVE Municipality Full,CVE Municipality,Municipality Slug,Municipality ES,Trade Value
+mex,México,1,Aguascalientes,1001,Aguascalientes,01001,001,aguascalientes-mun-ag,Aguascalientes,498413142966
+mex,México,1,Aguascalientes,1002,Asientos,01002,002,asientos-mun-ag,Asientos,1003032524
+mex,México,1,Aguascalientes,1003,Calvillo,01003,003,calvillo-mun-ag,Calvillo,444177015
+mex,México,1,Aguascalientes,1005,Jesús María,01005,005,jesus-maria-mun-ag,Jesús María,12013037308
+mex,México,1,Aguascalientes,1006,Pabellón de Arteaga,01006,006,pabellon-de-arteaga-mun-ag,Pabellón de Arteaga,12549089
+mex,México,1,Aguascalientes,1007,Rincón de Romos,01007,007,rincon-de-romos-mun-ag,Rincón de Romos,162798071
+mex,México,1,Aguascalientes,1009,Tepezalá,01009,009,tepezala-mun-ag,Tepezalá,347461
+mex,México,1,Aguascalientes,1010,El Llano,01010,010,el-llano-mun-ag,El Llano,43329096
+mex,México,1,Aguascalientes,1011,San Francisco de los Romo,01011,011,san-francisco-de-los-romo-mun-ag,San Francisco de los Romo,179051284773
+mex,México,2,Baja California,2001,Ensenada,02001,001,ensenada-mun-bc,Ensenada,301455045799
+mex,México,2,Baja California,2002,Mexicali,02002,002,mexicali-mun-bc,Mexicali,2015601549870
+mex,México,2,Baja California,2003,Tecate,02003,003,tecate-mun-bc,Tecate,179120026511
+mex,México,2,Baja California,2004,Tijuana,02004,004,tijuana-mun-bc,Tijuana,5381122407541
+mex,México,2,Baja California,2005,Playas de Rosarito,02005,005,playas-de-rosarito-mun-bc,Playas de Rosarito,145177804744
+mex,México,3,Baja California Sur,3001,Comondú,03001,001,comondu-mun-bs,Comondú,4533653970
+mex,México,3,Baja California Sur,3002,Mulegé,03002,002,mulege-mun-bs,Mulegé,11654796123
+mex,México,3,Baja California Sur,3003,La Paz,03003,003,la-paz-mun-bs,La Paz,10011615880
+mex,México,3,Baja California Sur,3008,Los Cabos,03008,008,los-cabos-mun-bs,Los Cabos,3901661541
+mex,México,3,Baja California Sur,3009,Loreto,03009,009,loreto-mun-bs,Loreto,5146489
+mex,México,4,Campeche,4001,Calkiní,04001,001,calkini-mun-cm,Calkiní,718216
+mex,México,4,Campeche,4002,Campeche,04002,002,campeche-mun-cm,Campeche,5167138589
+mex,México,4,Campeche,4003,Carmen,04003,003,carmen-mun-cm,Carmen,9189550759
+mex,México,4,Campeche,4004,Champotón,04004,004,champoton-mun-cm,Champotón,33960002
+mex,México,4,Campeche,4006,Hopelchén,04006,006,hopelchen-mun-cm,Hopelchén,17991102
+mex,México,4,Campeche,4011,Candelaria,04011,011,candelaria-mun-cm,Candelaria,7677420
+mex,México,5,Coahuila de Zaragoza,5002,Acuña,05002,002,acuna-mun-co,Acuña,343905341054
+mex,México,5,Coahuila de Zaragoza,5003,Allende,05003,003,allende-mun-co,Allende,8572991
+mex,México,5,Coahuila de Zaragoza,5004,Arteaga,05004,004,arteaga-mun-co,Arteaga,76854005383
+mex,México,5,Coahuila de Zaragoza,5006,Castaños,05006,006,castanos-mun-co,Castaños,3544921100
+mex,México,5,Coahuila de Zaragoza,5007,Cuatro Ciénegas,05007,007,cuatro-cienegas-mun-co,Cuatro Ciénegas,227896035
+mex,México,5,Coahuila de Zaragoza,5009,Francisco I. Madero,05009,009,francisco-i.-madero-mun-co,Francisco I. Madero,232985451
+mex,México,5,Coahuila de Zaragoza,5010,Frontera,05010,010,frontera-mun-co,Frontera,55359608744
+mex,México,5,Coahuila de Zaragoza,5014,Jiménez,05014,014,jimenez-mun-co,Jiménez,307903
+mex,México,5,Coahuila de Zaragoza,5017,Matamoros,05017,017,matamoros-mun-co,Matamoros,3859139996
+mex,México,5,Coahuila de Zaragoza,5018,Monclova,05018,018,monclova-mun-co,Monclova,50967647559
+mex,México,5,Coahuila de Zaragoza,5019,Morelos,05019,019,morelos-mun-co,Morelos,5773860
+mex,México,5,Coahuila de Zaragoza,5020,Múzquiz,05020,020,muzquiz-mun-co,Múzquiz,1283189715
+mex,México,5,Coahuila de Zaragoza,5022,Nava,05022,022,nava-mun-co,Nava,9241112113
+mex,México,5,Coahuila de Zaragoza,5023,Ocampo,05023,023,ocampo-mun-co,Ocampo,512328
+mex,México,5,Coahuila de Zaragoza,5024,Parras,05024,024,parras-mun-co,Parras,309650835
+mex,México,5,Coahuila de Zaragoza,5025,Piedras Negras,05025,025,piedras-negras-mun-co,Piedras Negras,161672895098
+mex,México,5,Coahuila de Zaragoza,5027,Ramos Arizpe,05027,027,ramos-arizpe-mun-co,Ramos Arizpe,895171778351
+mex,México,5,Coahuila de Zaragoza,5028,Sabinas,05028,028,sabinas-mun-co,Sabinas,5900417107
+mex,México,5,Coahuila de Zaragoza,5030,Saltillo,05030,030,saltillo-mun-co,Saltillo,319345382723
+mex,México,5,Coahuila de Zaragoza,5031,San Buenaventura,05031,031,san-buenaventura-mun-co,San Buenaventura,2386021
+mex,México,5,Coahuila de Zaragoza,5032,San Juan de Sabinas,05032,032,san-juan-de-sabinas-mun-co,San Juan de Sabinas,181595049
+mex,México,5,Coahuila de Zaragoza,5033,San Pedro,05033,033,san-pedro-mun-co,San Pedro,110174543
+mex,México,5,Coahuila de Zaragoza,5034,Sierra Mojada,05034,034,sierra-mojada-mun-co,Sierra Mojada,861459
+mex,México,5,Coahuila de Zaragoza,5035,Torreón,05035,035,torreon-mun-co,Torreón,461595484548
+mex,México,5,Coahuila de Zaragoza,5037,Villa Unión,05037,037,villa-union-mun-co,Villa Unión,1310333
+mex,México,5,Coahuila de Zaragoza,5038,Zaragoza,05038,038,zaragoza-mun-co,Zaragoza,757045526
+mex,México,6,Colima,6001,Armería,06001,001,armeria-mun-cl,Armería,318756208
+mex,México,6,Colima,6002,Colima,06002,002,colima-mun-cl,Colima,924795835
+mex,México,6,Colima,6005,Cuauhtémoc,06005,005,cuauhtemoc-mun-cl,Cuauhtémoc,41270033
+mex,México,6,Colima,6006,Ixtlahuacán,06006,006,ixtlahuacan-mun-cl,Ixtlahuacán,3140958
+mex,México,6,Colima,6007,Manzanillo,06007,007,manzanillo-mun-cl,Manzanillo,26726584414
+mex,México,6,Colima,6009,Tecomán,06009,009,tecoman-mun-cl,Tecomán,11340068258
+mex,México,6,Colima,6010,Villa de Álvarez,06010,010,villa-de-alvarez-mun-cl,Villa de Álvarez,121893695
+mex,México,7,Chiapas,7008,Ángel Albino Corzo,07008,008,angel-albino-corzo-mun-cs,Ángel Albino Corzo,465471083
+mex,México,7,Chiapas,7012,Berriozábal,07012,012,berriozabal-mun-cs,Berriozábal,1041485
+mex,México,7,Chiapas,7019,Comitán de Domínguez,07019,019,comitan-de-dominguez-mun-cs,Comitán de Domínguez,92106
+mex,México,7,Chiapas,7020,La Concordia,07020,020,la-concordia-mun-cs,La Concordia,23640623
+mex,México,7,Chiapas,7027,Chiapa de Corzo,07027,027,chiapa-de-corzo-mun-cs,Chiapa de Corzo,173172
+mex,México,7,Chiapas,7037,Huehuetán,07037,037,huehuetan-mun-cs,Huehuetán,42391236
+mex,México,7,Chiapas,7040,Huixtla,07040,040,huixtla-mun-cs,Huixtla,7886667
+mex,México,7,Chiapas,7054,Mazatán,07054,054,mazatan-mun-cs,Mazatán,406540165
+mex,México,7,Chiapas,7057,Motozintla,07057,057,motozintla-mun-cs,Motozintla,17128482
+mex,México,7,Chiapas,7061,Ocozocoautla de Espinosa,07061,061,ocozocoautla-de-espinosa-mun-cs,Ocozocoautla de Espinosa,10004092
+mex,México,7,Chiapas,7066,Pantelhó,07066,066,pantelho-mun-cs,Pantelhó,21799743
+mex,México,7,Chiapas,7071,Villa Comaltitlán,07071,071,villa-comaltitlan-mun-cs,Villa Comaltitlán,4515795
+mex,México,7,Chiapas,7078,San Cristóbal de las Casas,07078,078,san-cristobal-de-las-casas-mun-cs,San Cristóbal de las Casas,92158518
+mex,México,7,Chiapas,7087,Suchiate,07087,087,suchiate-mun-cs,Suchiate,196856550
+mex,México,7,Chiapas,7089,Tapachula,07089,089,tapachula-mun-cs,Tapachula,18128754629
+mex,México,7,Chiapas,7097,Tonalá,07097,097,tonala-mun-cs,Tonalá,490544
+mex,México,7,Chiapas,7099,La Trinitaria,07099,099,la-trinitaria-mun-cs,La Trinitaria,1283520
+mex,México,7,Chiapas,7101,Tuxtla Gutiérrez,07101,101,tuxtla-gutierrez-mun-cs,Tuxtla Gutiérrez,710834087
+mex,México,7,Chiapas,7102,Tuxtla Chico,07102,102,tuxtla-chico-mun-cs,Tuxtla Chico,14846677
+mex,México,7,Chiapas,7106,Venustiano Carranza,07106,106,venustiano-carranza-mun-cs,Venustiano Carranza,181191
+mex,México,7,Chiapas,7108,Villaflores,07108,108,villaflores-mun-cs,Villaflores,3005757
+mex,México,8,Chihuahua,8001,Ahumada,08001,001,ahumada-mun-ch,Ahumada,176326484
+mex,México,8,Chihuahua,8002,Aldama,08002,002,aldama-mun-ch,Aldama,3779837
+mex,México,8,Chihuahua,8004,Aquiles Serdán,08004,004,aquiles-serdan-mun-ch,Aquiles Serdán,167495079
+mex,México,8,Chihuahua,8005,Ascensión,08005,005,ascension-mun-ch,Ascensión,1985976779
+mex,México,8,Chihuahua,8010,Buenaventura,08010,010,buenaventura-mun-ch,Buenaventura,85268248
+mex,México,8,Chihuahua,8011,Camargo,08011,011,camargo-mun-ch,Camargo,2951103403
+mex,México,8,Chihuahua,8013,Casas Grandes,08013,013,casas-grandes-mun-ch,Casas Grandes,366713648
+mex,México,8,Chihuahua,8017,Cuauhtémoc,08017,017,cuauhtemoc-mun-ch,Cuauhtémoc,67474916376
+mex,México,8,Chihuahua,8019,Chihuahua,08019,019,chihuahua-mun-ch,Chihuahua,1412295124535
+mex,México,8,Chihuahua,8021,Delicias,08021,021,delicias-mun-ch,Delicias,29948830935
+mex,México,8,Chihuahua,8023,Galeana,08023,023,galeana-mun-ch,Galeana,26572353
+mex,México,8,Chihuahua,8025,Gómez Farías,08025,025,gomez-farias-mun-ch,Gómez Farías,8978192
+mex,México,8,Chihuahua,8028,Guadalupe,08028,028,guadalupe-mun-ch,Guadalupe,310607
+mex,México,8,Chihuahua,8031,Guerrero,08031,031,guerrero-mun-ch,Guerrero,8237032
+mex,México,8,Chihuahua,8032,Hidalgo del Parral,08032,032,hidalgo-del-parral-mun-ch,Hidalgo del Parral,2931174445
+mex,México,8,Chihuahua,8034,Ignacio Zaragoza,08034,034,ignacio-zaragoza-mun-ch,Ignacio Zaragoza,3129725
+mex,México,8,Chihuahua,8035,Janos,08035,035,janos-mun-ch,Janos,602947603
+mex,México,8,Chihuahua,8036,Jiménez,08036,036,jimenez-mun-ch,Jiménez,127854389
+mex,México,8,Chihuahua,8037,Juárez,08037,037,juarez-mun-ch,Juárez,8953389147940
+mex,México,8,Chihuahua,8040,Madera,08040,040,madera-mun-ch,Madera,167895234
+mex,México,8,Chihuahua,8045,Meoqui,08045,045,meoqui-mun-ch,Meoqui,445229389
+mex,México,8,Chihuahua,8048,Namiquipa,08048,048,namiquipa-mun-ch,Namiquipa,1271384516
+mex,México,8,Chihuahua,8050,Nuevo Casas Grandes,08050,050,nuevo-casas-grandes-mun-ch,Nuevo Casas Grandes,2068350608
+mex,México,8,Chihuahua,8052,Ojinaga,08052,052,ojinaga-mun-ch,Ojinaga,3669551040
+mex,México,8,Chihuahua,8053,Praxedis G. Guerrero,08053,053,praxedis-g.-guerrero-mun-ch,Praxedis G. Guerrero,6596800
+mex,México,8,Chihuahua,8054,Riva Palacio,08054,054,riva-palacio-mun-ch,Riva Palacio,150582777
+mex,México,8,Chihuahua,8062,Saucillo,08062,062,saucillo-mun-ch,Saucillo,181931838
+mex,México,8,Chihuahua,8064,El Tule,08064,064,el-tule-mun-ch,El Tule,4069725
+mex,México,9,Ciudad de México,9002,Azcapotzalco,09002,002,azcapotzalco-mun-cx,Azcapotzalco,680871480208
+mex,México,9,Ciudad de México,9003,Coyoacán,09003,003,coyoacan-mun-cx,Coyoacán,225681186632
+mex,México,9,Ciudad de México,9004,Cuajimalpa de Morelos,09004,004,cuajimalpa-de-morelos-mun-cx,Cuajimalpa de Morelos,2755718010823
+mex,México,9,Ciudad de México,9005,Gustavo A. Madero,09005,005,gustavo-a.-madero-mun-cx,Gustavo A. Madero,142908283420
+mex,México,9,Ciudad de México,9006,Iztacalco,09006,006,iztacalco-mun-cx,Iztacalco,48802525116
+mex,México,9,Ciudad de México,9007,Iztapalapa,09007,007,iztapalapa-mun-cx,Iztapalapa,257377104591
+mex,México,9,Ciudad de México,9008,La Magdalena Contreras,09008,008,la-magdalena-contreras-mun-cx,La Magdalena Contreras,5489500827
+mex,México,9,Ciudad de México,9009,Milpa Alta,09009,009,milpa-alta-mun-cx,Milpa Alta,6009061
+mex,México,9,Ciudad de México,9010,Álvaro Obregón,09010,010,alvaro-obregon-mun-cx,Álvaro Obregón,3287996669879
+mex,México,9,Ciudad de México,9011,Tláhuac,09011,011,tlahuac-mun-cx,Tláhuac,18732464337
+mex,México,9,Ciudad de México,9012,Tlalpan,09012,012,tlalpan-mun-cx,Tlalpan,127023648780
+mex,México,9,Ciudad de México,9013,Xochimilco,09013,013,xochimilco-mun-cx,Xochimilco,98161016937
+mex,México,9,Ciudad de México,9014,Benito Juárez,09014,014,benito-juarez-mun-cx,Benito Juárez,1033815508405
+mex,México,9,Ciudad de México,9015,Cuauhtémoc,09015,015,cuauhtemoc-mun-cx,Cuauhtémoc,1159026980525
+mex,México,9,Ciudad de México,9016,Miguel Hidalgo,09016,016,miguel-hidalgo-mun-cx,Miguel Hidalgo,10578274584655
+mex,México,9,Ciudad de México,9017,Venustiano Carranza,09017,017,venustiano-carranza-mun-cx,Venustiano Carranza,81117240051
+mex,México,10,Durango,10001,Canatlán,10001,001,canatlan-mun-dg,Canatlán,1284319703
+mex,México,10,Durango,10004,Cuencamé,10004,004,cuencame-mun-dg,Cuencamé,2289984
+mex,México,10,Durango,10005,Durango,10005,005,durango-mun-dg,Durango,120549511064
+mex,México,10,Durango,10007,Gómez Palacio,10007,007,gomez-palacio-mun-dg,Gómez Palacio,151142134916
+mex,México,10,Durango,10008,Guadalupe Victoria,10008,008,guadalupe-victoria-mun-dg,Guadalupe Victoria,190931176
+mex,México,10,Durango,10009,Guanaceví,10009,009,guanacevi-mun-dg,Guanaceví,1243396
+mex,México,10,Durango,10012,Lerdo,10012,012,lerdo-mun-dg,Lerdo,5463271372
+mex,México,10,Durango,10016,Nombre de Dios,10016,016,nombre-de-dios-mun-dg,Nombre de Dios,8684722
+mex,México,10,Durango,10018,El Oro,10018,018,el-oro-mun-dg,El Oro,67641481
+mex,México,10,Durango,10020,Pánuco de Coronado,10020,020,panuco-de-coronado-mun-dg,Pánuco de Coronado,64791814
+mex,México,10,Durango,10032,Santiago Papasquiaro,10032,032,santiago-papasquiaro-mun-dg,Santiago Papasquiaro,13853567
+mex,México,10,Durango,10039,Nuevo Ideal,10039,039,nuevo-ideal-mun-dg,Nuevo Ideal,47305473
+mex,México,11,Guanajuato,11001,Abasolo,11001,001,abasolo-mun-gt,Abasolo,1319347145
+mex,México,11,Guanajuato,11002,Acámbaro,11002,002,acambaro-mun-gt,Acámbaro,624814689
+mex,México,11,Guanajuato,11003,San Miguel de Allende,11003,003,san-miguel-de-allende-mun-gt,San Miguel de Allende,16141133627
+mex,México,11,Guanajuato,11004,Apaseo el Alto,11004,004,apaseo-el-alto-mun-gt,Apaseo el Alto,39698701
+mex,México,11,Guanajuato,11005,Apaseo el Grande,11005,005,apaseo-el-grande-mun-gt,Apaseo el Grande,106231482004
+mex,México,11,Guanajuato,11007,Celaya,11007,007,celaya-mun-gt,Celaya,197238377409
+mex,México,11,Guanajuato,11008,Manuel Doblado,11008,008,manuel-doblado-mun-gt,Manuel Doblado,2463040
+mex,México,11,Guanajuato,11009,Comonfort,11009,009,comonfort-mun-gt,Comonfort,1812363657
+mex,México,11,Guanajuato,11011,Cortazar,11011,011,cortazar-mun-gt,Cortazar,8169802653
+mex,México,11,Guanajuato,11013,Doctor Mora,11013,013,doctor-mora-mun-gt,Doctor Mora,7404
+mex,México,11,Guanajuato,11014,Dolores Hidalgo Cuna de la Independencia Nacional,11014,014,dolores-hidalgo-cuna-de-la-independencia-nacional-mun-gt,Dolores Hidalgo Cuna de la Independencia Nacional,2777839595
+mex,México,11,Guanajuato,11015,Guanajuato,11015,015,guanajuato-mun-gt,Guanajuato,743351899
+mex,México,11,Guanajuato,11017,Irapuato,11017,017,irapuato-mun-gt,Irapuato,223699976827
+mex,México,11,Guanajuato,11018,Jaral del Progreso,11018,018,jaral-del-progreso-mun-gt,Jaral del Progreso,1240408
+mex,México,11,Guanajuato,11020,León,11020,020,leon-mun-gt,León,275031304580
+mex,México,11,Guanajuato,11021,Moroleón,11021,021,moroleon-mun-gt,Moroleón,438986285
+mex,México,11,Guanajuato,11023,Pénjamo,11023,023,penjamo-mun-gt,Pénjamo,1814891162
+mex,México,11,Guanajuato,11025,Purísima del Rincón,11025,025,purisima-del-rincon-mun-gt,Purísima del Rincón,4071684410
+mex,México,11,Guanajuato,11026,Romita,11026,026,romita-mun-gt,Romita,9363467
+mex,México,11,Guanajuato,11027,Salamanca,11027,027,salamanca-mun-gt,Salamanca,108869491082
+mex,México,11,Guanajuato,11028,Salvatierra,11028,028,salvatierra-mun-gt,Salvatierra,44267
+mex,México,11,Guanajuato,11030,San Felipe,11030,030,san-felipe-mun-gt,San Felipe,30516899
+mex,México,11,Guanajuato,11031,San Francisco del Rincón,11031,031,san-francisco-del-rincon-mun-gt,San Francisco del Rincón,13581462603
+mex,México,11,Guanajuato,11032,San José Iturbide,11032,032,san-jose-iturbide-mun-gt,San José Iturbide,54071038416
+mex,México,11,Guanajuato,11033,San Luis de la Paz,11033,033,san-luis-de-la-paz-mun-gt,San Luis de la Paz,4617164710
+mex,México,11,Guanajuato,11035,Santa Cruz de Juventino Rosas,11035,035,santa-cruz-de-juventino-rosas-mun-gt,Santa Cruz de Juventino Rosas,147988335
+mex,México,11,Guanajuato,11036,Santiago Maravatío,11036,036,santiago-maravatio-mun-gt,Santiago Maravatío,2000336
+mex,México,11,Guanajuato,11037,Silao de la Victoria,11037,037,silao-de-la-victoria-mun-gt,Silao de la Victoria,542918653902
+mex,México,11,Guanajuato,11041,Uriangato,11041,041,uriangato-mun-gt,Uriangato,44867131
+mex,México,11,Guanajuato,11042,Valle de Santiago,11042,042,valle-de-santiago-mun-gt,Valle de Santiago,3869956306
+mex,México,11,Guanajuato,11044,Villagrán,11044,044,villagran-mun-gt,Villagrán,4014980757
+mex,México,11,Guanajuato,11046,Yuriria,11046,046,yuriria-mun-gt,Yuriria,1818706
+mex,México,12,Guerrero,12001,Acapulco de Juárez,12001,001,acapulco-de-juarez-mun-gr,Acapulco de Juárez,536063538
+mex,México,12,Guerrero,12029,Chilpancingo de los Bravo,12029,029,chilpancingo-de-los-bravo-mun-gr,Chilpancingo de los Bravo,85114096
+mex,México,12,Guerrero,12035,Iguala de la Independencia,12035,035,iguala-de-la-independencia-mun-gr,Iguala de la Independencia,2662523
+mex,México,12,Guerrero,12038,Zihuatanejo de Azueta,12038,038,zihuatanejo-de-azueta-mun-gr,Zihuatanejo de Azueta,10073216
+mex,México,12,Guerrero,12055,Taxco de Alarcón,12055,055,taxco-de-alarcon-mun-gr,Taxco de Alarcón,1132931806
+mex,México,12,Guerrero,12057,Técpan de Galeana,12057,057,tecpan-de-galeana-mun-gr,Técpan de Galeana,49038481
+mex,México,12,Guerrero,12058,Teloloapan,12058,058,teloloapan-mun-gr,Teloloapan,191125
+mex,México,13,Hidalgo,13002,Acaxochitlán,13002,002,acaxochitlan-mun-hg,Acaxochitlán,778058
+mex,México,13,Hidalgo,13003,Actopan,13003,003,actopan-mun-hg,Actopan,959548
+mex,México,13,Hidalgo,13008,Apan,13008,008,apan-mun-hg,Apan,8982468
+mex,México,13,Hidalgo,13010,Atitalaquia,13010,010,atitalaquia-mun-hg,Atitalaquia,91308618
+mex,México,13,Hidalgo,13013,Atotonilco de Tula,13013,013,atotonilco-de-tula-mun-hg,Atotonilco de Tula,15061127
+mex,México,13,Hidalgo,13016,Cuautepec de Hinojosa,13016,016,cuautepec-de-hinojosa-mun-hg,Cuautepec de Hinojosa,119609329
+mex,México,13,Hidalgo,13021,Emiliano Zapata,13021,021,emiliano-zapata-mun-hg,Emiliano Zapata,14973708
+mex,México,13,Hidalgo,13029,Huichapan,13029,029,huichapan-mun-hg,Huichapan,290863968
+mex,México,13,Hidalgo,13030,Ixmiquilpan,13030,030,ixmiquilpan-mun-hg,Ixmiquilpan,15255178
+mex,México,13,Hidalgo,13038,Mineral del Chico,13038,038,mineral-del-chico-mun-hg,Mineral del Chico,19588
+mex,México,13,Hidalgo,13041,Mixquiahuala de Juárez,13041,041,mixquiahuala-de-juarez-mun-hg,Mixquiahuala de Juárez,193141
+mex,México,13,Hidalgo,13048,Pachuca de Soto,13048,048,pachuca-de-soto-mun-hg,Pachuca de Soto,2239867257
+mex,México,13,Hidalgo,13050,Progreso de Obregón,13050,050,progreso-de-obregon-mun-hg,Progreso de Obregón,2494664
+mex,México,13,Hidalgo,13051,Mineral de la Reforma,13051,051,mineral-de-la-reforma-mun-hg,Mineral de la Reforma,2369641427
+mex,México,13,Hidalgo,13052,San Agustín Tlaxiaca,13052,052,san-agustin-tlaxiaca-mun-hg,San Agustín Tlaxiaca,2547370
+mex,México,13,Hidalgo,13056,Santiago Tulantepec de Lugo Guerrero,13056,056,santiago-tulantepec-de-lugo-guerrero-mun-hg,Santiago Tulantepec de Lugo Guerrero,494958
+mex,México,13,Hidalgo,13057,Singuilucan,13057,057,singuilucan-mun-hg,Singuilucan,8679633
+mex,México,13,Hidalgo,13059,Tecozautla,13059,059,tecozautla-mun-hg,Tecozautla,157345259
+mex,México,13,Hidalgo,13061,Tepeapulco,13061,061,tepeapulco-mun-hg,Tepeapulco,77797068034
+mex,México,13,Hidalgo,13063,Tepeji del Río de Ocampo,13063,063,tepeji-del-rio-de-ocampo-mun-hg,Tepeji del Río de Ocampo,10998450572
+mex,México,13,Hidalgo,13066,Villa de Tezontepec,13066,066,villa-de-tezontepec-mun-hg,Villa de Tezontepec,68603231
+mex,México,13,Hidalgo,13069,Tizayuca,13069,069,tizayuca-mun-hg,Tizayuca,5820327617
+mex,México,13,Hidalgo,13070,Tlahuelilpan,13070,070,tlahuelilpan-mun-hg,Tlahuelilpan,47220
+mex,México,13,Hidalgo,13072,Tlanalapa,13072,072,tlanalapa-mun-hg,Tlanalapa,365424
+mex,México,13,Hidalgo,13075,Tolcayuca,13075,075,tolcayuca-mun-hg,Tolcayuca,2726524
+mex,México,13,Hidalgo,13076,Tula de Allende,13076,076,tula-de-allende-mun-hg,Tula de Allende,68745673
+mex,México,13,Hidalgo,13077,Tulancingo de Bravo,13077,077,tulancingo-de-bravo-mun-hg,Tulancingo de Bravo,479266634
+mex,México,13,Hidalgo,13081,Zacualtipán de Ángeles,13081,081,zacualtipan-de-angeles-mun-hg,Zacualtipán de Ángeles,338747
+mex,México,13,Hidalgo,13082,Zapotlán de Juárez,13082,082,zapotlan-de-juarez-mun-hg,Zapotlán de Juárez,376169079
+mex,México,13,Hidalgo,13083,Zempoala,13083,083,zempoala-mun-hg,Zempoala,9128159
+mex,México,13,Hidalgo,13084,Zimapán,13084,084,zimapan-mun-hg,Zimapán,250867656
+mex,México,14,Jalisco,14001,Acatic,14001,001,acatic-mun-jc,Acatic,29184621
+mex,México,14,Jalisco,14002,Acatlán de Juárez,14002,002,acatlan-de-juarez-mun-jc,Acatlán de Juárez,1073278962
+mex,México,14,Jalisco,14003,Ahualulco de Mercado,14003,003,ahualulco-de-mercado-mun-jc,Ahualulco de Mercado,69321154
+mex,México,14,Jalisco,14005,Amatitán,14005,005,amatitan-mun-jc,Amatitán,2184076216
+mex,México,14,Jalisco,14006,Ameca,14006,006,ameca-mun-jc,Ameca,6870164
+mex,México,14,Jalisco,14007,San Juanito de Escobedo,14007,007,san-juanito-de-escobedo-mun-jc,San Juanito de Escobedo,87156603
+mex,México,14,Jalisco,14008,Arandas,14008,008,arandas-mun-jc,Arandas,5128786438
+mex,México,14,Jalisco,14009,El Arenal,14009,009,el-arenal-mun-jc,El Arenal,1406371752
+mex,México,14,Jalisco,14013,Atotonilco el Alto,14013,013,atotonilco-el-alto-mun-jc,Atotonilco el Alto,28503677545
+mex,México,14,Jalisco,14015,Autlán de Navarro,14015,015,autlan-de-navarro-mun-jc,Autlán de Navarro,272084220
+mex,México,14,Jalisco,14016,Ayotlán,14016,016,ayotlan-mun-jc,Ayotlán,108600218
+mex,México,14,Jalisco,14018,La Barca,14018,018,la-barca-mun-jc,La Barca,170055484
+mex,México,14,Jalisco,14020,Cabo Corrientes,14020,020,cabo-corrientes-mun-jc,Cabo Corrientes,669024
+mex,México,14,Jalisco,14021,Casimiro Castillo,14021,021,casimiro-castillo-mun-jc,Casimiro Castillo,766239014
+mex,México,14,Jalisco,14022,Cihuatlán,14022,022,cihuatlan-mun-jc,Cihuatlán,14212005
+mex,México,14,Jalisco,14023,Zapotlán el Grande,14023,023,zapotlan-el-grande-mun-jc,Zapotlán el Grande,4746267350
+mex,México,14,Jalisco,14024,Cocula,14024,024,cocula-mun-jc,Cocula,37186334
+mex,México,14,Jalisco,14030,Chapala,14030,030,chapala-mun-jc,Chapala,30332384
+mex,México,14,Jalisco,14033,Degollado,14033,033,degollado-mun-jc,Degollado,372952164
+mex,México,14,Jalisco,14035,Encarnación de Díaz,14035,035,encarnacion-de-diaz-mun-jc,Encarnación de Díaz,5007848
+mex,México,14,Jalisco,14036,Etzatlán,14036,036,etzatlan-mun-jc,Etzatlán,42199146
+mex,México,14,Jalisco,14039,Guadalajara,14039,039,guadalajara-mun-jc,Guadalajara,782543908186
+mex,México,14,Jalisco,14042,Huejuquilla el Alto,14042,042,huejuquilla-el-alto-mun-jc,Huejuquilla el Alto,554225
+mex,México,14,Jalisco,14043,La Huerta,14043,043,la-huerta-mun-jc,La Huerta,14841342
+mex,México,14,Jalisco,14044,Ixtlahuacán de los Membrillos,14044,044,ixtlahuacan-de-los-membrillos-mun-jc,Ixtlahuacán de los Membrillos,1809883481
+mex,México,14,Jalisco,14045,Ixtlahuacán del Río,14045,045,ixtlahuacan-del-rio-mun-jc,Ixtlahuacán del Río,7686923
+mex,México,14,Jalisco,14046,Jalostotitlán,14046,046,jalostotitlan-mun-jc,Jalostotitlán,495540
+mex,México,14,Jalisco,14047,Jamay,14047,047,jamay-mun-jc,Jamay,414617
+mex,México,14,Jalisco,14048,Jesús María,14048,048,jesus-maria-mun-jc,Jesús María,4760659
+mex,México,14,Jalisco,14050,Jocotepec,14050,050,jocotepec-mun-jc,Jocotepec,1901898379
+mex,México,14,Jalisco,14051,Juanacatlán,14051,051,juanacatlan-mun-jc,Juanacatlán,32278723
+mex,México,14,Jalisco,14053,Lagos de Moreno,14053,053,lagos-de-moreno-mun-jc,Lagos de Moreno,16777688454
+mex,México,14,Jalisco,14063,Ocotlán,14063,063,ocotlan-mun-jc,Ocotlán,1043021865
+mex,México,14,Jalisco,14066,Poncitlán,14066,066,poncitlan-mun-jc,Poncitlán,105277821
+mex,México,14,Jalisco,14067,Puerto Vallarta,14067,067,puerto-vallarta-mun-jc,Puerto Vallarta,696336983
+mex,México,14,Jalisco,14070,El Salto,14070,070,el-salto-mun-jc,El Salto,860912627571
+mex,México,14,Jalisco,14073,San Juan de los Lagos,14073,073,san-juan-de-los-lagos-mun-jc,San Juan de los Lagos,19712705564
+mex,México,14,Jalisco,14077,San Martín Hidalgo,14077,077,san-martin-hidalgo-mun-jc,San Martín Hidalgo,164376538
+mex,México,14,Jalisco,14078,San Miguel el Alto,14078,078,san-miguel-el-alto-mun-jc,San Miguel el Alto,715301115
+mex,México,14,Jalisco,14079,Gómez Farías,14079,079,gomez-farias-mun-jc,Gómez Farías,38507092
+mex,México,14,Jalisco,14082,Sayula,14082,082,sayula-mun-jc,Sayula,301116957
+mex,México,14,Jalisco,14083,Tala,14083,083,tala-mun-jc,Tala,181017215
+mex,México,14,Jalisco,14084,Talpa de Allende,14084,084,talpa-de-allende-mun-jc,Talpa de Allende,9111
+mex,México,14,Jalisco,14085,Tamazula de Gordiano,14085,085,tamazula-de-gordiano-mun-jc,Tamazula de Gordiano,151369580
+mex,México,14,Jalisco,14093,Tepatitlán de Morelos,14093,093,tepatitlan-de-morelos-mun-jc,Tepatitlán de Morelos,3202246487
+mex,México,14,Jalisco,14094,Tequila,14094,094,tequila-mun-jc,Tequila,24771304683
+mex,México,14,Jalisco,14097,Tlajomulco de Zúñiga,14097,097,tlajomulco-de-zuniga-mun-jc,Tlajomulco de Zúñiga,500665568528
+mex,México,14,Jalisco,14098,San Pedro Tlaquepaque,14098,098,san-pedro-tlaquepaque-mun-jc,San Pedro Tlaquepaque,413399813400
+mex,México,14,Jalisco,14100,Tomatlán,14100,100,tomatlan-mun-jc,Tomatlán,412993404
+mex,México,14,Jalisco,14101,Tonalá,14101,101,tonala-mun-jc,Tonalá,5198936143
+mex,México,14,Jalisco,14105,Tototlán,14105,105,tototlan-mun-jc,Tototlán,6143844
+mex,México,14,Jalisco,14108,Tuxpan,14108,108,tuxpan-mun-jc,Tuxpan,8665434
+mex,México,14,Jalisco,14110,Unión de Tula,14110,110,union-de-tula-mun-jc,Unión de Tula,55545
+mex,México,14,Jalisco,14111,Valle de Guadalupe,14111,111,valle-de-guadalupe-mun-jc,Valle de Guadalupe,9634218
+mex,México,14,Jalisco,14113,San Gabriel,14113,113,san-gabriel-mun-jc,San Gabriel,32718
+mex,México,14,Jalisco,14116,Villa Hidalgo,14116,116,villa-hidalgo-mun-jc,Villa Hidalgo,77999
+mex,México,14,Jalisco,14119,Zacoalco de Torres,14119,119,zacoalco-de-torres-mun-jc,Zacoalco de Torres,84690420
+mex,México,14,Jalisco,14120,Zapopan,14120,120,zapopan-mun-jc,Zapopan,2689488992718
+mex,México,14,Jalisco,14121,Zapotiltic,14121,121,zapotiltic-mun-jc,Zapotiltic,29230706
+mex,México,14,Jalisco,14124,Zapotlanejo,14124,124,zapotlanejo-mun-jc,Zapotlanejo,357105052
+mex,México,14,Jalisco,14125,San Ignacio Cerro Gordo,14125,125,san-ignacio-cerro-gordo-mun-jc,San Ignacio Cerro Gordo,3495113
+mex,México,15,Estado de México,15002,Acolman,15002,002,acolman-mun-em,Acolman,599276227
+mex,México,15,Estado de México,15003,Aculco,15003,003,aculco-mun-em,Aculco,1341890
+mex,México,15,Estado de México,15005,Almoloya de Juárez,15005,005,almoloya-de-juarez-mun-em,Almoloya de Juárez,17624377
+mex,México,15,Estado de México,15008,Amatepec,15008,008,amatepec-mun-em,Amatepec,3017979
+mex,México,15,Estado de México,15009,Amecameca,15009,009,amecameca-mun-em,Amecameca,319187
+mex,México,15,Estado de México,15010,Apaxco,15010,010,apaxco-mun-em,Apaxco,212403651
+mex,México,15,Estado de México,15011,Atenco,15011,011,atenco-mun-em,Atenco,1071125
+mex,México,15,Estado de México,15012,Atizapán,15012,012,atizapan-mun-em,Atizapán,3662956
+mex,México,15,Estado de México,15013,Atizapán de Zaragoza,15013,013,atizapan-de-zaragoza-mun-em,Atizapán de Zaragoza,51553490434
+mex,México,15,Estado de México,15014,Atlacomulco,15014,014,atlacomulco-mun-em,Atlacomulco,10751513821
+mex,México,15,Estado de México,15016,Axapusco,15016,016,axapusco-mun-em,Axapusco,38228538
+mex,México,15,Estado de México,15018,Calimaya,15018,018,calimaya-mun-em,Calimaya,5716576
+mex,México,15,Estado de México,15019,Capulhuac,15019,019,capulhuac-mun-em,Capulhuac,165656842
+mex,México,15,Estado de México,15020,Coacalco de Berriozábal,15020,020,coacalco-de-berriozabal-mun-em,Coacalco de Berriozábal,1500420663
+mex,México,15,Estado de México,15021,Coatepec Harinas,15021,021,coatepec-harinas-mun-em,Coatepec Harinas,213434101
+mex,México,15,Estado de México,15023,Coyotepec,15023,023,coyotepec-mun-em,Coyotepec,148706
+mex,México,15,Estado de México,15024,Cuautitlán,15024,024,cuautitlan-mun-em,Cuautitlán,41190408720
+mex,México,15,Estado de México,15025,Chalco,15025,025,chalco-mun-em,Chalco,466276276
+mex,México,15,Estado de México,15028,Chiautla,15028,028,chiautla-mun-em,Chiautla,7694901
+mex,México,15,Estado de México,15029,Chicoloapan,15029,029,chicoloapan-mun-em,Chicoloapan,43309807
+mex,México,15,Estado de México,15030,Chiconcuac,15030,030,chiconcuac-mun-em,Chiconcuac,26841394
+mex,México,15,Estado de México,15031,Chimalhuacán,15031,031,chimalhuacan-mun-em,Chimalhuacán,23187245
+mex,México,15,Estado de México,15033,Ecatepec de Morelos,15033,033,ecatepec-de-morelos-mun-em,Ecatepec de Morelos,166715017515
+mex,México,15,Estado de México,15035,Huehuetoca,15035,035,huehuetoca-mun-em,Huehuetoca,17371603029
+mex,México,15,Estado de México,15036,Hueypoxtla,15036,036,hueypoxtla-mun-em,Hueypoxtla,2425667
+mex,México,15,Estado de México,15037,Huixquilucan,15037,037,huixquilucan-mun-em,Huixquilucan,141856493030
+mex,México,15,Estado de México,15039,Ixtapaluca,15039,039,ixtapaluca-mun-em,Ixtapaluca,842038202
+mex,México,15,Estado de México,15040,Ixtapan de la Sal,15040,040,ixtapan-de-la-sal-mun-em,Ixtapan de la Sal,413922
+mex,México,15,Estado de México,15042,Ixtlahuaca,15042,042,ixtlahuaca-mun-em,Ixtlahuaca,233123059
+mex,México,15,Estado de México,15045,Jilotepec,15045,045,jilotepec-mun-em,Jilotepec,7062474346
+mex,México,15,Estado de México,15046,Jilotzingo,15046,046,jilotzingo-mun-em,Jilotzingo,115736930
+mex,México,15,Estado de México,15048,Jocotitlán,15048,048,jocotitlan-mun-em,Jocotitlán,3295062675
+mex,México,15,Estado de México,15051,Lerma,15051,051,lerma-mun-em,Lerma,169589457823
+mex,México,15,Estado de México,15053,Melchor Ocampo,15053,053,melchor-ocampo-mun-em,Melchor Ocampo,4192326
+mex,México,15,Estado de México,15054,Metepec,15054,054,metepec-mun-em,Metepec,2947244438
+mex,México,15,Estado de México,15055,Mexicaltzingo,15055,055,mexicaltzingo-mun-em,Mexicaltzingo,172182489
+mex,México,15,Estado de México,15057,Naucalpan de Juárez,15057,057,naucalpan-de-juarez-mun-em,Naucalpan de Juárez,560293141373
+mex,México,15,Estado de México,15058,Nezahualcóyotl,15058,058,nezahualcoyotl-mun-em,Nezahualcóyotl,7606944243
+mex,México,15,Estado de México,15060,Nicolás Romero,15060,060,nicolas-romero-mun-em,Nicolás Romero,208375945
+mex,México,15,Estado de México,15062,Ocoyoacac,15062,062,ocoyoacac-mun-em,Ocoyoacac,11268389062
+mex,México,15,Estado de México,15065,Otumba,15065,065,otumba-mun-em,Otumba,95211956
+mex,México,15,Estado de México,15067,Otzolotepec,15067,067,otzolotepec-mun-em,Otzolotepec,32131343
+mex,México,15,Estado de México,15070,La Paz,15070,070,la-paz-mun-em,La Paz,4964270940
+mex,México,15,Estado de México,15071,Polotitlán,15071,071,polotitlan-mun-em,Polotitlán,260307577
+mex,México,15,Estado de México,15072,Rayón,15072,072,rayon-mun-em,Rayón,4877452
+mex,México,15,Estado de México,15075,San Martín de las Pirámides,15075,075,san-martin-de-las-piramides-mun-em,San Martín de las Pirámides,17317439
+mex,México,15,Estado de México,15076,San Mateo Atenco,15076,076,san-mateo-atenco-mun-em,San Mateo Atenco,663449640
+mex,México,15,Estado de México,15081,Tecámac,15081,081,tecamac-mun-em,Tecámac,2265385388
+mex,México,15,Estado de México,15084,Temascalapa,15084,084,temascalapa-mun-em,Temascalapa,3455812
+mex,México,15,Estado de México,15086,Temascaltepec,15086,086,temascaltepec-mun-em,Temascaltepec,321310
+mex,México,15,Estado de México,15088,Tenancingo,15088,088,tenancingo-mun-em,Tenancingo,348938804
+mex,México,15,Estado de México,15090,Tenango del Valle,15090,090,tenango-del-valle-mun-em,Tenango del Valle,679041992
+mex,México,15,Estado de México,15091,Teoloyucan,15091,091,teoloyucan-mun-em,Teoloyucan,2172825259
+mex,México,15,Estado de México,15092,Teotihuacán,15092,092,teotihuacan-mun-em,Teotihuacán,35138165
+mex,México,15,Estado de México,15093,Tepetlaoxtoc,15093,093,tepetlaoxtoc-mun-em,Tepetlaoxtoc,1446988
+mex,México,15,Estado de México,15095,Tepotzotlán,15095,095,tepotzotlan-mun-em,Tepotzotlán,48324433428
+mex,México,15,Estado de México,15096,Tequixquiac,15096,096,tequixquiac-mun-em,Tequixquiac,516102
+mex,México,15,Estado de México,15099,Texcoco,15099,099,texcoco-mun-em,Texcoco,2406199939
+mex,México,15,Estado de México,15100,Tezoyuca,15100,100,tezoyuca-mun-em,Tezoyuca,39928516
+mex,México,15,Estado de México,15101,Tianguistenco,15101,101,tianguistenco-mun-em,Tianguistenco,12198623455
+mex,México,15,Estado de México,15104,Tlalnepantla de Baz,15104,104,tlalnepantla-de-baz-mun-em,Tlalnepantla de Baz,557059364732
+mex,México,15,Estado de México,15106,Toluca,15106,106,toluca-mun-em,Toluca,378171712782
+mex,México,15,Estado de México,15108,Tultepec,15108,108,tultepec-mun-em,Tultepec,354080027
+mex,México,15,Estado de México,15109,Tultitlán,15109,109,tultitlan-mun-em,Tultitlán,116694362975
+mex,México,15,Estado de México,15110,Valle de Bravo,15110,110,valle-de-bravo-mun-em,Valle de Bravo,1112296
+mex,México,15,Estado de México,15113,Villa Guerrero,15113,113,villa-guerrero-mun-em,Villa Guerrero,3335859875
+mex,México,15,Estado de México,15115,Xonacatlán,15115,115,xonacatlan-mun-em,Xonacatlán,3185645
+mex,México,15,Estado de México,15118,Zinacantepec,15118,118,zinacantepec-mun-em,Zinacantepec,738532457
+mex,México,15,Estado de México,15120,Zumpango,15120,120,zumpango-mun-em,Zumpango,5714488090
+mex,México,15,Estado de México,15121,Cuautitlán Izcalli,15121,121,cuautitlan-izcalli-mun-em,Cuautitlán Izcalli,211494353398
+mex,México,15,Estado de México,15122,Valle de Chalco Solidaridad,15122,122,valle-de-chalco-solidaridad-mun-em,Valle de Chalco Solidaridad,12542844
+mex,México,16,Michoacán de Ocampo,16006,Apatzingán,16006,006,apatzingan-mun-mi,Apatzingán,2410612397
+mex,México,16,Michoacán de Ocampo,16009,Ario,16009,009,ario-mun-mi,Ario,137953715
+mex,México,16,Michoacán de Ocampo,16012,Buenavista,16012,012,buenavista-mun-mi,Buenavista,222360706
+mex,México,16,Michoacán de Ocampo,16014,Coahuayana,16014,014,coahuayana-mun-mi,Coahuayana,126757193
+mex,México,16,Michoacán de Ocampo,16017,Contepec,16017,017,contepec-mun-mi,Contepec,954668
+mex,México,16,Michoacán de Ocampo,16019,Cotija,16019,019,cotija-mun-mi,Cotija,557348
+mex,México,16,Michoacán de Ocampo,16020,Cuitzeo,16020,020,cuitzeo-mun-mi,Cuitzeo,21540
+mex,México,16,Michoacán de Ocampo,16031,Epitacio Huerta,16031,031,epitacio-huerta-mun-mi,Epitacio Huerta,345781
+mex,México,16,Michoacán de Ocampo,16033,Gabriel Zamora,16033,033,gabriel-zamora-mun-mi,Gabriel Zamora,1655748649
+mex,México,16,Michoacán de Ocampo,16034,Hidalgo,16034,034,hidalgo-mun-mi,Hidalgo,22901593
+mex,México,16,Michoacán de Ocampo,16043,Jacona,16043,043,jacona-mun-mi,Jacona,20514101231
+mex,México,16,Michoacán de Ocampo,16045,Jiquilpan,16045,045,jiquilpan-mun-mi,Jiquilpan,204985
+mex,México,16,Michoacán de Ocampo,16050,Maravatío,16050,050,maravatio-mun-mi,Maravatío,2378615
+mex,México,16,Michoacán de Ocampo,16051,Marcos Castellanos,16051,051,marcos-castellanos-mun-mi,Marcos Castellanos,462995587
+mex,México,16,Michoacán de Ocampo,16052,Lázaro Cárdenas,16052,052,lazaro-cardenas-mun-mi,Lázaro Cárdenas,30641362226
+mex,México,16,Michoacán de Ocampo,16053,Morelia,16053,053,morelia-mun-mi,Morelia,28933410361
+mex,México,16,Michoacán de Ocampo,16055,Múgica,16055,055,mugica-mun-mi,Múgica,857780218
+mex,México,16,Michoacán de Ocampo,16058,Nuevo Parangaricutiro,16058,058,nuevo-parangaricutiro-mun-mi,Nuevo Parangaricutiro,64382242
+mex,México,16,Michoacán de Ocampo,16059,Nuevo Urecho,16059,059,nuevo-urecho-mun-mi,Nuevo Urecho,747276751
+mex,México,16,Michoacán de Ocampo,16060,Numarán,16060,060,numaran-mun-mi,Numarán,876202
+mex,México,16,Michoacán de Ocampo,16064,Parácuaro,16064,064,paracuaro-mun-mi,Parácuaro,500688797
+mex,México,16,Michoacán de Ocampo,16065,Paracho,16065,065,paracho-mun-mi,Paracho,1624247
+mex,México,16,Michoacán de Ocampo,16066,Pátzcuaro,16066,066,patzcuaro-mun-mi,Pátzcuaro,8795302
+mex,México,16,Michoacán de Ocampo,16068,Peribán,16068,068,periban-mun-mi,Peribán,16836216747
+mex,México,16,Michoacán de Ocampo,16069,La Piedad,16069,069,la-piedad-mun-mi,La Piedad,819432602
+mex,México,16,Michoacán de Ocampo,16070,Purépero,16070,070,purepero-mun-mi,Purépero,138380026
+mex,México,16,Michoacán de Ocampo,16075,Los Reyes,16075,075,los-reyes-mun-mi,Los Reyes,14022270549
+mex,México,16,Michoacán de Ocampo,16076,Sahuayo,16076,076,sahuayo-mun-mi,Sahuayo,86544521
+mex,México,16,Michoacán de Ocampo,16079,Salvador Escalante,16079,079,salvador-escalante-mun-mi,Salvador Escalante,23769948
+mex,México,16,Michoacán de Ocampo,16082,Tacámbaro,16082,082,tacambaro-mun-mi,Tacámbaro,6834314347
+mex,México,16,Michoacán de Ocampo,16083,Tancítaro,16083,083,tancitaro-mun-mi,Tancítaro,14293408786
+mex,México,16,Michoacán de Ocampo,16085,Tangancícuaro,16085,085,tangancicuaro-mun-mi,Tangancícuaro,818000408
+mex,México,16,Michoacán de Ocampo,16086,Tanhuato,16086,086,tanhuato-mun-mi,Tanhuato,3115722572
+mex,México,16,Michoacán de Ocampo,16087,Taretan,16087,087,taretan-mun-mi,Taretan,211384535
+mex,México,16,Michoacán de Ocampo,16088,Tarímbaro,16088,088,tarimbaro-mun-mi,Tarímbaro,105413882
+mex,México,16,Michoacán de Ocampo,16091,Tingüindín,16091,091,tinguindin-mun-mi,Tingüindín,6204105584
+mex,México,16,Michoacán de Ocampo,16093,Tlalpujahua,16093,093,tlalpujahua-mun-mi,Tlalpujahua,244871
+mex,México,16,Michoacán de Ocampo,16095,Tocumbo,16095,095,tocumbo-mun-mi,Tocumbo,30821142
+mex,México,16,Michoacán de Ocampo,16102,Uruapan,16102,102,uruapan-mun-mi,Uruapan,164579028864
+mex,México,16,Michoacán de Ocampo,16103,Venustiano Carranza,16103,103,venustiano-carranza-mun-mi,Venustiano Carranza,3950170
+mex,México,16,Michoacán de Ocampo,16106,Yurécuaro,16106,106,yurecuaro-mun-mi,Yurécuaro,1074890423
+mex,México,16,Michoacán de Ocampo,16107,Zacapu,16107,107,zacapu-mun-mi,Zacapu,3442071657
+mex,México,16,Michoacán de Ocampo,16108,Zamora,16108,108,zamora-mun-mi,Zamora,20289887212
+mex,México,16,Michoacán de Ocampo,16111,Ziracuaretiro,16111,111,ziracuaretiro-mun-mi,Ziracuaretiro,180532765
+mex,México,16,Michoacán de Ocampo,16112,Zitácuaro,16112,112,zitacuaro-mun-mi,Zitácuaro,40672753
+mex,México,17,Morelos,17003,Axochiapan,17003,003,axochiapan-mun-mo,Axochiapan,1034193
+mex,México,17,Morelos,17004,Ayala,17004,004,ayala-mun-mo,Ayala,23958035101
+mex,México,17,Morelos,17006,Cuautla,17006,006,cuautla-mun-mo,Cuautla,2947742699
+mex,México,17,Morelos,17007,Cuernavaca,17007,007,cuernavaca-mun-mo,Cuernavaca,5310613508
+mex,México,17,Morelos,17008,Emiliano Zapata,17008,008,emiliano-zapata-mun-mo,Emiliano Zapata,613182020
+mex,México,17,Morelos,17009,Huitzilac,17009,009,huitzilac-mun-mo,Huitzilac,1262800
+mex,México,17,Morelos,17011,Jiutepec,17011,011,jiutepec-mun-mo,Jiutepec,62815161075
+mex,México,17,Morelos,17012,Jojutla,17012,012,jojutla-mun-mo,Jojutla,115579359
+mex,México,17,Morelos,17014,Mazatepec,17014,014,mazatepec-mun-mo,Mazatepec,6633916
+mex,México,17,Morelos,17017,Puente de Ixtla,17017,017,puente-de-ixtla-mun-mo,Puente de Ixtla,5668302
+mex,México,17,Morelos,17018,Temixco,17018,018,temixco-mun-mo,Temixco,43002330
+mex,México,17,Morelos,17023,Tlalnepantla,17023,023,tlalnepantla-mun-mo,Tlalnepantla,880215
+mex,México,17,Morelos,17028,Xochitepec,17028,028,xochitepec-mun-mo,Xochitepec,32750167
+mex,México,17,Morelos,17029,Yautepec,17029,029,yautepec-mun-mo,Yautepec,25838233
+mex,México,17,Morelos,17030,Yecapixtla,17030,030,yecapixtla-mun-mo,Yecapixtla,1370325727
+mex,México,17,Morelos,17031,Zacatepec,17031,031,zacatepec-mun-mo,Zacatepec,53097
+mex,México,17,Morelos,17033,Temoac,17033,033,temoac-mun-mo,Temoac,104591051
+mex,México,18,Nayarit,18001,Acaponeta,18001,001,acaponeta-mun-na,Acaponeta,107907
+mex,México,18,Nayarit,18002,Ahuacatlán,18002,002,ahuacatlan-mun-na,Ahuacatlán,973512
+mex,México,18,Nayarit,18004,Compostela,18004,004,compostela-mun-na,Compostela,70416715
+mex,México,18,Nayarit,18008,Xalisco,18008,008,xalisco-mun-na,Xalisco,93044512
+mex,México,18,Nayarit,18010,Rosamorada,18010,010,rosamorada-mun-na,Rosamorada,3796240
+mex,México,18,Nayarit,18012,San Blas,18012,012,san-blas-mun-na,San Blas,401196670
+mex,México,18,Nayarit,18015,Santiago Ixcuintla,18015,015,santiago-ixcuintla-mun-na,Santiago Ixcuintla,2054704878
+mex,México,18,Nayarit,18016,Tecuala,18016,016,tecuala-mun-na,Tecuala,7617000
+mex,México,18,Nayarit,18017,Tepic,18017,017,tepic-mun-na,Tepic,3861872921
+mex,México,18,Nayarit,18020,Bahía de Banderas,18020,020,bahia-de-banderas-mun-na,Bahía de Banderas,453624548
+mex,México,19,Nuevo León,19004,Allende,19004,004,allende-mun-nl,Allende,8268416776
+mex,México,19,Nuevo León,19005,Anáhuac,19005,005,anahuac-mun-nl,Anáhuac,5015263
+mex,México,19,Nuevo León,19006,Apodaca,19006,006,apodaca-mun-nl,Apodaca,2367814329979
+mex,México,19,Nuevo León,19009,Cadereyta Jiménez,19009,009,cadereyta-jimenez-mun-nl,Cadereyta Jiménez,14490807167
+mex,México,19,Nuevo León,19010,El Carmen,19010,010,el-carmen-mun-nl,El Carmen,3188389475
+mex,México,19,Nuevo León,19011,Cerralvo,19011,011,cerralvo-mun-nl,Cerralvo,195772761
+mex,México,19,Nuevo León,19012,Ciénega de Flores,19012,012,cienega-de-flores-mun-nl,Ciénega de Flores,316301866081
+mex,México,19,Nuevo León,19013,China,19013,013,china-mun-nl,China,29375
+mex,México,19,Nuevo León,19016,Doctor González,19016,016,doctor-gonzalez-mun-nl,Doctor González,6129227
+mex,México,19,Nuevo León,19018,García,19018,018,garcia-mun-nl,García,171142896025
+mex,México,19,Nuevo León,19019,San Pedro Garza García,19019,019,san-pedro-garza-garcia-mun-nl,San Pedro Garza García,767622946395
+mex,México,19,Nuevo León,19020,General Bravo,19020,020,general-bravo-mun-nl,General Bravo,61967
+mex,México,19,Nuevo León,19021,General Escobedo,19021,021,general-escobedo-mun-nl,General Escobedo,246688439867
+mex,México,19,Nuevo León,19022,General Terán,19022,022,general-teran-mun-nl,General Terán,52087229
+mex,México,19,Nuevo León,19025,General Zuazua,19025,025,general-zuazua-mun-nl,General Zuazua,22889840
+mex,México,19,Nuevo León,19026,Guadalupe,19026,026,guadalupe-mun-nl,Guadalupe,566129957643
+mex,México,19,Nuevo León,19031,Juárez,19031,031,juarez-mun-nl,Juárez,9611333260
+mex,México,19,Nuevo León,19032,Lampazos de Naranjo,19032,032,lampazos-de-naranjo-mun-nl,Lampazos de Naranjo,9704
+mex,México,19,Nuevo León,19033,Linares,19033,033,linares-mun-nl,Linares,16475104710
+mex,México,19,Nuevo León,19034,Marín,19034,034,marin-mun-nl,Marín,413106162
+mex,México,19,Nuevo León,19038,Montemorelos,19038,038,montemorelos-mun-nl,Montemorelos,3967044086
+mex,México,19,Nuevo León,19039,Monterrey,19039,039,monterrey-mun-nl,Monterrey,906178471043
+mex,México,19,Nuevo León,19041,Pesquería,19041,041,pesqueria-mun-nl,Pesquería,173726941898
+mex,México,19,Nuevo León,19044,Sabinas Hidalgo,19044,044,sabinas-hidalgo-mun-nl,Sabinas Hidalgo,356480412
+mex,México,19,Nuevo León,19045,Salinas Victoria,19045,045,salinas-victoria-mun-nl,Salinas Victoria,31811290620
+mex,México,19,Nuevo León,19046,San Nicolás de los Garza,19046,046,san-nicolas-de-los-garza-mun-nl,San Nicolás de los Garza,663367768700
+mex,México,19,Nuevo León,19048,Santa Catarina,19048,048,santa-catarina-mun-nl,Santa Catarina,547440369505
+mex,México,19,Nuevo León,19049,Santiago,19049,049,santiago-mun-nl,Santiago,1525164055
+mex,México,20,Oaxaca,20025,Chahuites,20025,025,chahuites-mun-oa,Chahuites,1082983150
+mex,México,20,Oaxaca,20030,El Espinal,20030,030,el-espinal-mun-oa,El Espinal,3013427
+mex,México,20,Oaxaca,20043,Juchitán de Zaragoza,20043,043,juchitan-de-zaragoza-mun-oa,Juchitán de Zaragoza,1404173
+mex,México,20,Oaxaca,20044,Loma Bonita,20044,044,loma-bonita-mun-oa,Loma Bonita,4017201
+mex,México,20,Oaxaca,20045,Magdalena Apasco,20045,045,magdalena-apasco-mun-oa,Magdalena Apasco,1213770
+mex,México,20,Oaxaca,20067,Oaxaca de Juárez,20067,067,oaxaca-de-juarez-mun-oa,Oaxaca de Juárez,1316416952
+mex,México,20,Oaxaca,20079,Salina Cruz,20079,079,salina-cruz-mun-oa,Salina Cruz,108797427
+mex,México,20,Oaxaca,20131,San Dionisio Ocotepec,20131,131,san-dionisio-ocotepec-mun-oa,San Dionisio Ocotepec,27995400
+mex,México,20,Oaxaca,20157,San Jacinto Amilpas,20157,157,san-jacinto-amilpas-mun-oa,San Jacinto Amilpas,50172
+mex,México,20,Oaxaca,20184,San Juan Bautista Tuxtepec,20184,184,san-juan-bautista-tuxtepec-mun-oa,San Juan Bautista Tuxtepec,297223511
+mex,México,20,Oaxaca,20235,San Luis Amatlán,20235,235,san-luis-amatlan-mun-oa,San Luis Amatlán,144600
+mex,México,20,Oaxaca,20293,San Pablo Etla,20293,293,san-pablo-etla-mun-oa,San Pablo Etla,355181
+mex,México,20,Oaxaca,20298,San Pablo Villa de Mitla,20298,298,san-pablo-villa-de-mitla-mun-oa,San Pablo Villa de Mitla,1523863
+mex,México,20,Oaxaca,20318,San Pedro Mixtepec,20318,318,san-pedro-mixtepec-mun-oa,San Pedro Mixtepec,146483
+mex,México,20,Oaxaca,20327,San Pedro Tapanatepec,20327,327,san-pedro-tapanatepec-mun-oa,San Pedro Tapanatepec,193253080
+mex,México,20,Oaxaca,20334,Villa de Tututepec,20334,334,villa-de-tututepec-mun-oa,Villa de Tututepec,2727697
+mex,México,20,Oaxaca,20368,Santa Catarina Minas,20368,368,santa-catarina-minas-mun-oa,Santa Catarina Minas,2002130
+mex,México,20,Oaxaca,20375,Santa Cruz Amilpas,20375,375,santa-cruz-amilpas-mun-oa,Santa Cruz Amilpas,8397275
+mex,México,20,Oaxaca,20385,Santa Cruz Xoxocotlán,20385,385,santa-cruz-xoxocotlan-mun-oa,Santa Cruz Xoxocotlán,29391
+mex,México,20,Oaxaca,20390,Santa Lucía del Camino,20390,390,santa-lucia-del-camino-mun-oa,Santa Lucía del Camino,13815639
+mex,México,20,Oaxaca,20399,Santa María Atzompa,20399,399,santa-maria-atzompa-mun-oa,Santa María Atzompa,627369
+mex,México,20,Oaxaca,20413,Santa María Huatulco,20413,413,santa-maria-huatulco-mun-oa,Santa María Huatulco,2664662
+mex,México,20,Oaxaca,20475,Santiago Matatlán,20475,475,santiago-matatlan-mun-oa,Santiago Matatlán,775454744
+mex,México,20,Oaxaca,20546,Teotitlán del Valle,20546,546,teotitlan-del-valle-mun-oa,Teotitlán del Valle,39788794
+mex,México,20,Oaxaca,20551,Tlacolula de Matamoros,20551,551,tlacolula-de-matamoros-mun-oa,Tlacolula de Matamoros,82152003
+mex,México,20,Oaxaca,20553,Tlalixtac de Cabrera,20553,553,tlalixtac-de-cabrera-mun-oa,Tlalixtac de Cabrera,2070762
+mex,México,20,Oaxaca,20565,Villa de Zaachila,20565,565,villa-de-zaachila-mun-oa,Villa de Zaachila,106410
+mex,México,21,Puebla,21001,Acajete,21001,001,acajete-mun-pu,Acajete,8843957
+mex,México,21,Puebla,21004,Acatzingo,21004,004,acatzingo-mun-pu,Acatzingo,2510337017
+mex,México,21,Puebla,21010,Ajalpan,21010,010,ajalpan-mun-pu,Ajalpan,86404462
+mex,México,21,Puebla,21015,Amozoc,21015,015,amozoc-mun-pu,Amozoc,23919694497
+mex,México,21,Puebla,21019,Atlixco,21019,019,atlixco-mun-pu,Atlixco,1107518392
+mex,México,21,Puebla,21034,Coronango,21034,034,coronango-mun-pu,Coronango,5312744847
+mex,México,21,Puebla,21038,Cuapiaxtla de Madero,21038,038,cuapiaxtla-de-madero-mun-pu,Cuapiaxtla de Madero,729561792
+mex,México,21,Puebla,21040,Cuautinchán,21040,040,cuautinchan-mun-pu,Cuautinchán,3835027
+mex,México,21,Puebla,21041,Cuautlancingo,21041,041,cuautlancingo-mun-pu,Cuautlancingo,892289489212
+mex,México,21,Puebla,21043,Cuetzalan del Progreso,21043,043,cuetzalan-del-progreso-mun-pu,Cuetzalan del Progreso,822189
+mex,México,21,Puebla,21045,Chalchicomula de Sesma,21045,045,chalchicomula-de-sesma-mun-pu,Chalchicomula de Sesma,326592
+mex,México,21,Puebla,21057,Honey,21057,057,honey-mun-pu,Honey,63892
+mex,México,21,Puebla,21071,Huauchinango,21071,071,huauchinango-mun-pu,Huauchinango,2138468
+mex,México,21,Puebla,21074,Huejotzingo,21074,074,huejotzingo-mun-pu,Huejotzingo,60331912811
+mex,México,21,Puebla,21085,Izúcar de Matamoros,21085,085,izucar-de-matamoros-mun-pu,Izúcar de Matamoros,27960
+mex,México,21,Puebla,21090,Juan C. Bonilla,21090,090,juan-c.-bonilla-mun-pu,Juan C. Bonilla,8116449
+mex,México,21,Puebla,21094,Libres,21094,094,libres-mun-pu,Libres,274349529
+mex,México,21,Puebla,21104,Nopalucan,21104,104,nopalucan-mun-pu,Nopalucan,15030700
+mex,México,21,Puebla,21106,Ocoyucan,21106,106,ocoyucan-mun-pu,Ocoyucan,383024221
+mex,México,21,Puebla,21108,Oriental,21108,108,oriental-mun-pu,Oriental,3575237
+mex,México,21,Puebla,21110,Palmar de Bravo,21110,110,palmar-de-bravo-mun-pu,Palmar de Bravo,26652431
+mex,México,21,Puebla,21114,Puebla,21114,114,puebla-mun-pu,Puebla,266260353094
+mex,México,21,Puebla,21115,Quecholac,21115,115,quecholac-mun-pu,Quecholac,470821699
+mex,México,21,Puebla,21117,Rafael Lara Grajales,21117,117,rafael-lara-grajales-mun-pu,Rafael Lara Grajales,22697258
+mex,México,21,Puebla,21118,Los Reyes de Juárez,21118,118,los-reyes-de-juarez-mun-pu,Los Reyes de Juárez,1020277068
+mex,México,21,Puebla,21119,San Andrés Cholula,21119,119,san-andres-cholula-mun-pu,San Andrés Cholula,10512102885
+mex,México,21,Puebla,21125,San Gregorio Atzompa,21125,125,san-gregorio-atzompa-mun-pu,San Gregorio Atzompa,5972183876
+mex,México,21,Puebla,21132,San Martín Texmelucan,21132,132,san-martin-texmelucan-mun-pu,San Martín Texmelucan,1627363320
+mex,México,21,Puebla,21136,San Miguel Xoxtla,21136,136,san-miguel-xoxtla-mun-pu,San Miguel Xoxtla,1549322874
+mex,México,21,Puebla,21140,San Pedro Cholula,21140,140,san-pedro-cholula-mun-pu,San Pedro Cholula,10843689085
+mex,México,21,Puebla,21144,San Salvador Huixcolotla,21144,144,san-salvador-huixcolotla-mun-pu,San Salvador Huixcolotla,159781194
+mex,México,21,Puebla,21148,Santa Isabel Cholula,21148,148,santa-isabel-cholula-mun-pu,Santa Isabel Cholula,898519105
+mex,México,21,Puebla,21149,Santiago Miahuatlán,21149,149,santiago-miahuatlan-mun-pu,Santiago Miahuatlán,51329062
+mex,México,21,Puebla,21153,Tecali de Herrera,21153,153,tecali-de-herrera-mun-pu,Tecali de Herrera,28634799
+mex,México,21,Puebla,21154,Tecamachalco,21154,154,tecamachalco-mun-pu,Tecamachalco,4039900
+mex,México,21,Puebla,21156,Tehuacán,21156,156,tehuacan-mun-pu,Tehuacán,35517837040
+mex,México,21,Puebla,21161,Tepanco de López,21161,161,tepanco-de-lopez-mun-pu,Tepanco de López,1596636373
+mex,México,21,Puebla,21164,Tepeaca,21164,164,tepeaca-mun-pu,Tepeaca,44752043
+mex,México,21,Puebla,21169,Tepexi de Rodríguez,21169,169,tepexi-de-rodriguez-mun-pu,Tepexi de Rodríguez,2236107
+mex,México,21,Puebla,21174,Teziutlán,21174,174,teziutlan-mun-pu,Teziutlán,8704806403
+mex,México,21,Puebla,21185,Tlapanalá,21185,185,tlapanala-mun-pu,Tlapanalá,5812108
+mex,México,21,Puebla,21191,Tulcingo,21191,191,tulcingo-mun-pu,Tulcingo,15826453
+mex,México,21,Puebla,21197,Xicotepec,21197,197,xicotepec-mun-pu,Xicotepec,11554580
+mex,México,21,Puebla,21208,Zacatlán,21208,208,zacatlan-mun-pu,Zacatlán,8356009
+mex,México,22,Querétaro,22001,Amealco de Bonfil,22001,001,amealco-de-bonfil-mun-qt,Amealco de Bonfil,15508395
+mex,México,22,Querétaro,22004,Cadereyta de Montes,22004,004,cadereyta-de-montes-mun-qt,Cadereyta de Montes,20510593
+mex,México,22,Querétaro,22005,Colón,22005,005,colon-mun-qt,Colón,201880800197
+mex,México,22,Querétaro,22006,Corregidora,22006,006,corregidora-mun-qt,Corregidora,22932784474
+mex,México,22,Querétaro,22007,Ezequiel Montes,22007,007,ezequiel-montes-mun-qt,Ezequiel Montes,275705075
+mex,México,22,Querétaro,22008,Huimilpan,22008,008,huimilpan-mun-qt,Huimilpan,635244174
+mex,México,22,Querétaro,22011,El Marqués,22011,011,el-marques-mun-qt,El Marqués,576172396534
+mex,México,22,Querétaro,22012,Pedro Escobedo,22012,012,pedro-escobedo-mun-qt,Pedro Escobedo,1624042046
+mex,México,22,Querétaro,22014,Querétaro,22014,014,queretaro-mun-qt,Querétaro,1133048875050
+mex,México,22,Querétaro,22016,San Juan del Río,22016,016,san-juan-del-rio-mun-qt,San Juan del Río,81335017195
+mex,México,22,Querétaro,22017,Tequisquiapan,22017,017,tequisquiapan-mun-qt,Tequisquiapan,173680992
+mex,México,23,Quintana Roo,23001,Cozumel,23001,001,cozumel-mun-qr,Cozumel,5124259729
+mex,México,23,Quintana Roo,23002,Felipe Carrillo Puerto,23002,002,felipe-carrillo-puerto-mun-qr,Felipe Carrillo Puerto,13161037
+mex,México,23,Quintana Roo,23003,Isla Mujeres,23003,003,isla-mujeres-mun-qr,Isla Mujeres,279135972
+mex,México,23,Quintana Roo,23004,Othón P. Blanco,23004,004,othon-p.-blanco-mun-qr,Othón P. Blanco,654356662
+mex,México,23,Quintana Roo,23005,Benito Juárez,23005,005,benito-juarez-mun-qr,Benito Juárez,40790335727
+mex,México,23,Quintana Roo,23008,Solidaridad,23008,008,solidaridad-mun-qr,Solidaridad,2669273072
+mex,México,23,Quintana Roo,23009,Tulum,23009,009,tulum-mun-qr,Tulum,4235826
+mex,México,23,Quintana Roo,23011,Puerto Morelos,23011,011,puerto-morelos-mun-qr,Puerto Morelos,253913472
+mex,México,24,San Luis Potosí,24006,Catorce,24006,006,catorce-mun-sl,Catorce,2097699
+mex,México,24,San Luis Potosí,24007,Cedral,24007,007,cedral-mun-sl,Cedral,453411436
+mex,México,24,San Luis Potosí,24009,Cerro de San Pedro,24009,009,cerro-de-san-pedro-mun-sl,Cerro de San Pedro,4948986
+mex,México,24,San Luis Potosí,24011,Ciudad Fernández,24011,011,ciudad-fernandez-mun-sl,Ciudad Fernández,12418799
+mex,México,24,San Luis Potosí,24013,Ciudad Valles,24013,013,ciudad-valles-mun-sl,Ciudad Valles,499659797
+mex,México,24,San Luis Potosí,24015,Charcas,24015,015,charcas-mun-sl,Charcas,18364347
+mex,México,24,San Luis Potosí,24016,Ebano,24016,016,ebano-mun-sl,Ebano,164517199
+mex,México,24,San Luis Potosí,24020,Matehuala,24020,020,matehuala-mun-sl,Matehuala,3909164777
+mex,México,24,San Luis Potosí,24021,Mexquitic de Carmona,24021,021,mexquitic-de-carmona-mun-sl,Mexquitic de Carmona,1054197093
+mex,México,24,San Luis Potosí,24022,Moctezuma,24022,022,moctezuma-mun-sl,Moctezuma,91064838
+mex,México,24,San Luis Potosí,24024,Rioverde,24024,024,rioverde-mun-sl,Rioverde,192924100
+mex,México,24,San Luis Potosí,24028,San Luis Potosí,24028,028,san-luis-potosi-mun-sl,San Luis Potosí,1051275429965
+mex,México,24,San Luis Potosí,24035,Soledad de Graciano Sánchez,24035,035,soledad-de-graciano-sanchez-mun-sl,Soledad de Graciano Sánchez,3299297425
+mex,México,24,San Luis Potosí,24040,Tamuín,24040,040,tamuin-mun-sl,Tamuín,165274804
+mex,México,24,San Luis Potosí,24044,Vanegas,24044,044,vanegas-mun-sl,Vanegas,1426592
+mex,México,24,San Luis Potosí,24045,Venado,24045,045,venado-mun-sl,Venado,2400
+mex,México,24,San Luis Potosí,24050,Villa de Reyes,24050,050,villa-de-reyes-mun-sl,Villa de Reyes,107229991145
+mex,México,24,San Luis Potosí,24053,Axtla de Terrazas,24053,053,axtla-de-terrazas-mun-sl,Axtla de Terrazas,663078
+mex,México,24,San Luis Potosí,24054,Xilitla,24054,054,xilitla-mun-sl,Xilitla,1458390
+mex,México,24,San Luis Potosí,24056,Villa de Arista,24056,056,villa-de-arista-mun-sl,Villa de Arista,358914314
+mex,México,25,Sinaloa,25001,Ahome,25001,001,ahome-mun-si,Ahome,34378509730
+mex,México,25,Sinaloa,25002,Angostura,25002,002,angostura-mun-si,Angostura,1522021236
+mex,México,25,Sinaloa,25006,Culiacán,25006,006,culiacan-mun-si,Culiacán,277813325701
+mex,México,25,Sinaloa,25007,Choix,25007,007,choix-mun-si,Choix,1052296
+mex,México,25,Sinaloa,25008,Elota,25008,008,elota-mun-si,Elota,2329630213
+mex,México,25,Sinaloa,25009,Escuinapa,25009,009,escuinapa-mun-si,Escuinapa,4869459973
+mex,México,25,Sinaloa,25010,El Fuerte,25010,010,el-fuerte-mun-si,El Fuerte,42795120
+mex,México,25,Sinaloa,25011,Guasave,25011,011,guasave-mun-si,Guasave,14758978716
+mex,México,25,Sinaloa,25012,Mazatlán,25012,012,mazatlan-mun-si,Mazatlán,22470386135
+mex,México,25,Sinaloa,25013,Mocorito,25013,013,mocorito-mun-si,Mocorito,65235885
+mex,México,25,Sinaloa,25014,Rosario,25014,014,rosario-mun-si,Rosario,5604272358
+mex,México,25,Sinaloa,25015,Salvador Alvarado,25015,015,salvador-alvarado-mun-si,Salvador Alvarado,2264548775
+mex,México,25,Sinaloa,25017,Sinaloa,25017,017,sinaloa-mun-si,Sinaloa,605782571
+mex,México,25,Sinaloa,25018,Navolato,25018,018,navolato-mun-si,Navolato,21361580384
+mex,México,26,Sonora,26002,Agua Prieta,26002,002,agua-prieta-mun-so,Agua Prieta,108259987096
+mex,México,26,Sonora,26003,Álamos,26003,003,alamos-mun-so,Álamos,35343644
+mex,México,26,Sonora,26004,Altar,26004,004,altar-mun-so,Altar,81042405
+mex,México,26,Sonora,26006,Arizpe,26006,006,arizpe-mun-so,Arizpe,4182282
+mex,México,26,Sonora,26012,Bácum,26012,012,bacum-mun-so,Bácum,173343585
+mex,México,26,Sonora,26013,Banámichi,26013,013,banamichi-mun-so,Banámichi,70242749
+mex,México,26,Sonora,26017,Caborca,26017,017,caborca-mun-so,Caborca,28472473475
+mex,México,26,Sonora,26018,Cajeme,26018,018,cajeme-mun-so,Cajeme,88780379699
+mex,México,26,Sonora,26019,Cananea,26019,019,cananea-mun-so,Cananea,8375711375
+mex,México,26,Sonora,26020,Carbó,26020,020,carbo-mun-so,Carbó,2624643
+mex,México,26,Sonora,26021,La Colorada,26021,021,la-colorada-mun-so,La Colorada,1673729
+mex,México,26,Sonora,26023,Cumpas,26023,023,cumpas-mun-so,Cumpas,425373
+mex,México,26,Sonora,26025,Empalme,26025,025,empalme-mun-so,Empalme,7735058603
+mex,México,26,Sonora,26026,Etchojoa,26026,026,etchojoa-mun-so,Etchojoa,77602
+mex,México,26,Sonora,26027,Fronteras,26027,027,fronteras-mun-so,Fronteras,2391629
+mex,México,26,Sonora,26029,Guaymas,26029,029,guaymas-mun-so,Guaymas,25743127548
+mex,México,26,Sonora,26030,Hermosillo,26030,030,hermosillo-mun-so,Hermosillo,411573867666
+mex,México,26,Sonora,26033,Huatabampo,26033,033,huatabampo-mun-so,Huatabampo,627411058
+mex,México,26,Sonora,26035,Imuris,26035,035,imuris-mun-so,Imuris,441182968
+mex,México,26,Sonora,26036,Magdalena,26036,036,magdalena-mun-so,Magdalena,2706228610
+mex,México,26,Sonora,26038,Moctezuma,26038,038,moctezuma-mun-so,Moctezuma,137077436
+mex,México,26,Sonora,26041,Nacozari de García,26041,041,nacozari-de-garcia-mun-so,Nacozari de García,4538036958
+mex,México,26,Sonora,26042,Navojoa,26042,042,navojoa-mun-so,Navojoa,29860166287
+mex,México,26,Sonora,26043,Nogales,26043,043,nogales-mun-so,Nogales,761423934907
+mex,México,26,Sonora,26047,Pitiquito,26047,047,pitiquito-mun-so,Pitiquito,435226
+mex,México,26,Sonora,26048,Puerto Peñasco,26048,048,puerto-penasco-mun-so,Puerto Peñasco,930887869
+mex,México,26,Sonora,26050,Rayón,26050,050,rayon-mun-so,Rayón,2928387
+mex,México,26,Sonora,26051,Rosario,26051,051,rosario-mun-so,Rosario,22844757
+mex,México,26,Sonora,26055,San Luis Río Colorado,26055,055,san-luis-rio-colorado-mun-so,San Luis Río Colorado,79820431247
+mex,México,26,Sonora,26056,San Miguel de Horcasitas,26056,056,san-miguel-de-horcasitas-mun-so,San Miguel de Horcasitas,143641098
+mex,México,26,Sonora,26058,Santa Ana,26058,058,santa-ana-mun-so,Santa Ana,1033840816
+mex,México,26,Sonora,26060,Sáric,26060,060,saric-mun-so,Sáric,1522860
+mex,México,26,Sonora,26066,Ures,26066,066,ures-mun-so,Ures,78164742
+mex,México,26,Sonora,26070,General Plutarco Elías Calles,26070,070,general-plutarco-elias-calles-mun-so,General Plutarco Elías Calles,3376330
+mex,México,26,Sonora,26071,Benito Juárez,26071,071,benito-juarez-mun-so,Benito Juárez,10208245
+mex,México,26,Sonora,26072,San Ignacio Río Muerto,26072,072,san-ignacio-rio-muerto-mun-so,San Ignacio Río Muerto,12276103
+mex,México,27,Tabasco,27002,Cárdenas,27002,002,cardenas-mun-tb,Cárdenas,317404611
+mex,México,27,Tabasco,27004,Centro,27004,004,centro-mun-tb,Centro,45310665333
+mex,México,27,Tabasco,27005,Comalcalco,27005,005,comalcalco-mun-tb,Comalcalco,57348093
+mex,México,27,Tabasco,27006,Cunduacán,27006,006,cunduacan-mun-tb,Cunduacán,893087627
+mex,México,27,Tabasco,27007,Emiliano Zapata,27007,007,emiliano-zapata-mun-tb,Emiliano Zapata,89422
+mex,México,27,Tabasco,27008,Huimanguillo,27008,008,huimanguillo-mun-tb,Huimanguillo,1539433198
+mex,México,27,Tabasco,27012,Macuspana,27012,012,macuspana-mun-tb,Macuspana,11330176
+mex,México,27,Tabasco,27013,Nacajuca,27013,013,nacajuca-mun-tb,Nacajuca,36366008
+mex,México,27,Tabasco,27014,Paraíso,27014,014,paraiso-mun-tb,Paraíso,100432558
+mex,México,27,Tabasco,27015,Tacotalpa,27015,015,tacotalpa-mun-tb,Tacotalpa,4709316
+mex,México,27,Tabasco,27016,Teapa,27016,016,teapa-mun-tb,Teapa,590950168
+mex,México,28,Tamaulipas,28001,Abasolo,28001,001,abasolo-mun-tm,Abasolo,185538
+mex,México,28,Tamaulipas,28002,Aldama,28002,002,aldama-mun-tm,Aldama,13681881
+mex,México,28,Tamaulipas,28003,Altamira,28003,003,altamira-mun-tm,Altamira,137356119085
+mex,México,28,Tamaulipas,28007,Camargo,28007,007,camargo-mun-tm,Camargo,32717166
+mex,México,28,Tamaulipas,28009,Ciudad Madero,28009,009,ciudad-madero-mun-tm,Ciudad Madero,1775211004
+mex,México,28,Tamaulipas,28012,González,28012,012,gonzalez-mun-tm,González,7327689138
+mex,México,28,Tamaulipas,28013,Güémez,28013,013,guemez-mun-tm,Güémez,75227439
+mex,México,28,Tamaulipas,28015,Gustavo Díaz Ordaz,28015,015,gustavo-diaz-ordaz-mun-tm,Gustavo Díaz Ordaz,196637175
+mex,México,28,Tamaulipas,28016,Hidalgo,28016,016,hidalgo-mun-tm,Hidalgo,4867276
+mex,México,28,Tamaulipas,28017,Jaumave,28017,017,jaumave-mun-tm,Jaumave,1270326842
+mex,México,28,Tamaulipas,28021,El Mante,28021,021,el-mante-mun-tm,El Mante,289113527
+mex,México,28,Tamaulipas,28022,Matamoros,28022,022,matamoros-mun-tm,Matamoros,924655836413
+mex,México,28,Tamaulipas,28025,Miguel Alemán,28025,025,miguel-aleman-mun-tm,Miguel Alemán,307113472
+mex,México,28,Tamaulipas,28027,Nuevo Laredo,28027,027,nuevo-laredo-mun-tm,Nuevo Laredo,656817411946
+mex,México,28,Tamaulipas,28032,Reynosa,28032,032,reynosa-mun-tm,Reynosa,2959803753390
+mex,México,28,Tamaulipas,28033,Río Bravo,28033,033,rio-bravo-mun-tm,Río Bravo,20574950656
+mex,México,28,Tamaulipas,28035,San Fernando,28035,035,san-fernando-mun-tm,San Fernando,951068825
+mex,México,28,Tamaulipas,28038,Tampico,28038,038,tampico-mun-tm,Tampico,16802338679
+mex,México,28,Tamaulipas,28039,Tula,28039,039,tula-mun-tm,Tula,2981082
+mex,México,28,Tamaulipas,28040,Valle Hermoso,28040,040,valle-hermoso-mun-tm,Valle Hermoso,7712508528
+mex,México,28,Tamaulipas,28041,Victoria,28041,041,victoria-mun-tm,Victoria,4113986290
+mex,México,29,Tlaxcala,29002,Apetatitlán de Antonio Carvajal,29002,002,apetatitlan-de-antonio-carvajal-mun-tl,Apetatitlán de Antonio Carvajal,3137694
+mex,México,29,Tlaxcala,29005,Apizaco,29005,005,apizaco-mun-tl,Apizaco,324716753
+mex,México,29,Tlaxcala,29006,Calpulalpan,29006,006,calpulalpan-mun-tl,Calpulalpan,22271359
+mex,México,29,Tlaxcala,29010,Chiautempan,29010,010,chiautempan-mun-tl,Chiautempan,1382607245
+mex,México,29,Tlaxcala,29013,Huamantla,29013,013,huamantla-mun-tl,Huamantla,3321655427
+mex,México,29,Tlaxcala,29014,Hueyotlipan,29014,014,hueyotlipan-mun-tl,Hueyotlipan,6222955
+mex,México,29,Tlaxcala,29015,Ixtacuixtla de Mariano Matamoros,29015,015,ixtacuixtla-de-mariano-matamoros-mun-tl,Ixtacuixtla de Mariano Matamoros,168074158
+mex,México,29,Tlaxcala,29017,Mazatecochco de José María Morelos,29017,017,mazatecochco-de-jose-maria-morelos-mun-tl,Mazatecochco de José María Morelos,328274
+mex,México,29,Tlaxcala,29018,Contla de Juan Cuamatzi,29018,018,contla-de-juan-cuamatzi-mun-tl,Contla de Juan Cuamatzi,99313853
+mex,México,29,Tlaxcala,29022,Acuamanala de Miguel Hidalgo,29022,022,acuamanala-de-miguel-hidalgo-mun-tl,Acuamanala de Miguel Hidalgo,1164744
+mex,México,29,Tlaxcala,29025,San Pablo del Monte,29025,025,san-pablo-del-monte-mun-tl,San Pablo del Monte,3888321
+mex,México,29,Tlaxcala,29026,Santa Cruz Tlaxcala,29026,026,santa-cruz-tlaxcala-mun-tl,Santa Cruz Tlaxcala,30630
+mex,México,29,Tlaxcala,29028,Teolocholco,29028,028,teolocholco-mun-tl,Teolocholco,1276821
+mex,México,29,Tlaxcala,29029,Tepeyanco,29029,029,tepeyanco-mun-tl,Tepeyanco,10730169
+mex,México,29,Tlaxcala,29031,Tetla de la Solidaridad,29031,031,tetla-de-la-solidaridad-mun-tl,Tetla de la Solidaridad,28496788117
+mex,México,29,Tlaxcala,29033,Tlaxcala,29033,033,tlaxcala-mun-tl,Tlaxcala,190280221
+mex,México,29,Tlaxcala,29034,Tlaxco,29034,034,tlaxco-mun-tl,Tlaxco,311824981
+mex,México,29,Tlaxcala,29039,Xaloztoc,29039,039,xaloztoc-mun-tl,Xaloztoc,89693700
+mex,México,29,Tlaxcala,29041,Papalotla de Xicohténcatl,29041,041,papalotla-de-xicohtencatl-mun-tl,Papalotla de Xicohténcatl,5433105633
+mex,México,29,Tlaxcala,29042,Xicohtzinco,29042,042,xicohtzinco-mun-tl,Xicohtzinco,1710438043
+mex,México,29,Tlaxcala,29043,Yauhquemehcan,29043,043,yauhquemehcan-mun-tl,Yauhquemehcan,14430943
+mex,México,29,Tlaxcala,29048,La Magdalena Tlaltelulco,29048,048,la-magdalena-tlaltelulco-mun-tl,La Magdalena Tlaltelulco,749960
+mex,México,29,Tlaxcala,29060,Santa Isabel Xiloxoxtla,29060,060,santa-isabel-xiloxoxtla-mun-tl,Santa Isabel Xiloxoxtla,291851
+mex,México,30,Veracruz de Ignacio de la Llave,30003,Acayucan,30003,003,acayucan-mun-ve,Acayucan,13417
+mex,México,30,Veracruz de Ignacio de la Llave,30004,Actopan,30004,004,actopan-mun-ve,Actopan,555918655
+mex,México,30,Veracruz de Ignacio de la Llave,30011,Alvarado,30011,011,alvarado-mun-ve,Alvarado,26915887
+mex,México,30,Veracruz de Ignacio de la Llave,30014,Amatlán de los Reyes,30014,014,amatlan-de-los-reyes-mun-ve,Amatlán de los Reyes,447072683
+mex,México,30,Veracruz de Ignacio de la Llave,30016,La Antigua,30016,016,la-antigua-mun-ve,La Antigua,763475
+mex,México,30,Veracruz de Ignacio de la Llave,30023,Atzalan,30023,023,atzalan-mun-ve,Atzalan,16267896
+mex,México,30,Veracruz de Ignacio de la Llave,30026,Banderilla,30026,026,banderilla-mun-ve,Banderilla,37601783
+mex,México,30,Veracruz de Ignacio de la Llave,30028,Boca del Río,30028,028,boca-del-rio-mun-ve,Boca del Río,3738865324
+mex,México,30,Veracruz de Ignacio de la Llave,30032,Catemaco,30032,032,catemaco-mun-ve,Catemaco,181687
+mex,México,30,Veracruz de Ignacio de la Llave,30034,Cerro Azul,30034,034,cerro-azul-mun-ve,Cerro Azul,261905
+mex,México,30,Veracruz de Ignacio de la Llave,30038,Coatepec,30038,038,coatepec-mun-ve,Coatepec,524570656
+mex,México,30,Veracruz de Ignacio de la Llave,30039,Coatzacoalcos,30039,039,coatzacoalcos-mun-ve,Coatzacoalcos,20552607610
+mex,México,30,Veracruz de Ignacio de la Llave,30044,Córdoba,30044,044,cordoba-mun-ve,Córdoba,15622653709
+mex,México,30,Veracruz de Ignacio de la Llave,30045,Cosamaloapan de Carpio,30045,045,cosamaloapan-de-carpio-mun-ve,Cosamaloapan de Carpio,177878
+mex,México,30,Veracruz de Ignacio de la Llave,30047,Coscomatepec,30047,047,coscomatepec-mun-ve,Coscomatepec,67609018
+mex,México,30,Veracruz de Ignacio de la Llave,30048,Cosoleacaque,30048,048,cosoleacaque-mun-ve,Cosoleacaque,10251672071
+mex,México,30,Veracruz de Ignacio de la Llave,30049,Cotaxtla,30049,049,cotaxtla-mun-ve,Cotaxtla,11501283
+mex,México,30,Veracruz de Ignacio de la Llave,30053,Cuitláhuac,30053,053,cuitlahuac-mun-ve,Cuitláhuac,3599421926
+mex,México,30,Veracruz de Ignacio de la Llave,30063,Chontla,30063,063,chontla-mun-ve,Chontla,58157
+mex,México,30,Veracruz de Ignacio de la Llave,30065,Emiliano Zapata,30065,065,emiliano-zapata-mun-ve,Emiliano Zapata,228081285
+mex,México,30,Veracruz de Ignacio de la Llave,30068,Fortín,30068,068,fortin-mun-ve,Fortín,607396450
+mex,México,30,Veracruz de Ignacio de la Llave,30069,Gutiérrez Zamora,30069,069,gutierrez-zamora-mun-ve,Gutiérrez Zamora,204036
+mex,México,30,Veracruz de Ignacio de la Llave,30071,Huatusco,30071,071,huatusco-mun-ve,Huatusco,967822900
+mex,México,30,Veracruz de Ignacio de la Llave,30074,Huiloapan de Cuauhtémoc,30074,074,huiloapan-de-cuauhtemoc-mun-ve,Huiloapan de Cuauhtémoc,41519797
+mex,México,30,Veracruz de Ignacio de la Llave,30077,Isla,30077,077,isla-mun-ve,Isla,1325803105
+mex,México,30,Veracruz de Ignacio de la Llave,30085,Ixtaczoquitlán,30085,085,ixtaczoquitlan-mun-ve,Ixtaczoquitlán,5010687407
+mex,México,30,Veracruz de Ignacio de la Llave,30087,Xalapa,30087,087,xalapa-mun-ve,Xalapa,2282831691
+mex,México,30,Veracruz de Ignacio de la Llave,30094,Juan Rodríguez Clara,30094,094,juan-rodriguez-clara-mun-ve,Juan Rodríguez Clara,1378020
+mex,México,30,Veracruz de Ignacio de la Llave,30102,Martínez de la Torre,30102,102,martinez-de-la-torre-mun-ve,Martínez de la Torre,14645302814
+mex,México,30,Veracruz de Ignacio de la Llave,30105,Medellín de Bravo,30105,105,medellin-de-bravo-mun-ve,Medellín de Bravo,29647752
+mex,México,30,Veracruz de Ignacio de la Llave,30108,Minatitlán,30108,108,minatitlan-mun-ve,Minatitlán,165090865
+mex,México,30,Veracruz de Ignacio de la Llave,30114,Nautla,30114,114,nautla-mun-ve,Nautla,50264
+mex,México,30,Veracruz de Ignacio de la Llave,30118,Orizaba,30118,118,orizaba-mun-ve,Orizaba,1798335966
+mex,México,30,Veracruz de Ignacio de la Llave,30123,Pánuco,30123,123,panuco-mun-ve,Pánuco,204725994
+mex,México,30,Veracruz de Ignacio de la Llave,30124,Papantla,30124,124,papantla-mun-ve,Papantla,692723954
+mex,México,30,Veracruz de Ignacio de la Llave,30128,Perote,30128,128,perote-mun-ve,Perote,90187584
+mex,México,30,Veracruz de Ignacio de la Llave,30131,Poza Rica de Hidalgo,30131,131,poza-rica-de-hidalgo-mun-ve,Poza Rica de Hidalgo,1455333987
+mex,México,30,Veracruz de Ignacio de la Llave,30133,Pueblo Viejo,30133,133,pueblo-viejo-mun-ve,Pueblo Viejo,5619333
+mex,México,30,Veracruz de Ignacio de la Llave,30138,Río Blanco,30138,138,rio-blanco-mun-ve,Río Blanco,998944
+mex,México,30,Veracruz de Ignacio de la Llave,30141,San Andrés Tuxtla,30141,141,san-andres-tuxtla-mun-ve,San Andrés Tuxtla,1157262404
+mex,México,30,Veracruz de Ignacio de la Llave,30174,Tierra Blanca,30174,174,tierra-blanca-mun-ve,Tierra Blanca,119927824
+mex,México,30,Veracruz de Ignacio de la Llave,30175,Tihuatlán,30175,175,tihuatlan-mun-ve,Tihuatlán,58538741
+mex,México,30,Veracruz de Ignacio de la Llave,30189,Tuxpan,30189,189,tuxpan-mun-ve,Tuxpan,389801667
+mex,México,30,Veracruz de Ignacio de la Llave,30191,Ursulo Galván,30191,191,ursulo-galvan-mun-ve,Ursulo Galván,471377
+mex,México,30,Veracruz de Ignacio de la Llave,30193,Veracruz,30193,193,veracruz-mun-ve,Veracruz,175898219967
+mex,México,30,Veracruz de Ignacio de la Llave,30205,El Higo,30205,205,el-higo-mun-ve,El Higo,2054271
+mex,México,30,Veracruz de Ignacio de la Llave,30207,Tres Valles,30207,207,tres-valles-mun-ve,Tres Valles,61335866
+mex,México,30,Veracruz de Ignacio de la Llave,30211,San Rafael,30211,211,san-rafael-mun-ve,San Rafael,6760033
+mex,México,31,Yucatán,31003,Akil,31003,003,akil-mun-yu,Akil,293545
+mex,México,31,Yucatán,31004,Baca,31004,004,baca-mun-yu,Baca,127250
+mex,México,31,Yucatán,31011,Celestún,31011,011,celestun-mun-yu,Celestún,314233025
+mex,México,31,Yucatán,31013,Conkal,31013,013,conkal-mun-yu,Conkal,1037522
+mex,México,31,Yucatán,31038,Hunucmá,31038,038,hunucma-mun-yu,Hunucmá,12328663
+mex,México,31,Yucatán,31041,Kanasín,31041,041,kanasin-mun-yu,Kanasín,1025960765
+mex,México,31,Yucatán,31050,Mérida,31050,050,merida-mun-yu,Mérida,223951411928
+mex,México,31,Yucatán,31052,Motul,31052,052,motul-mun-yu,Motul,1778279
+mex,México,31,Yucatán,31054,Muxupip,31054,054,muxupip-mun-yu,Muxupip,3015267
+mex,México,31,Yucatán,31056,Oxkutzcab,31056,056,oxkutzcab-mun-yu,Oxkutzcab,22470378
+mex,México,31,Yucatán,31059,Progreso,31059,059,progreso-mun-yu,Progreso,8352706168
+mex,México,31,Yucatán,31076,Tecoh,31076,076,tecoh-mun-yu,Tecoh,22741637
+mex,México,31,Yucatán,31089,Ticul,31089,089,ticul-mun-yu,Ticul,25296076
+mex,México,31,Yucatán,31093,Tixkokob,31093,093,tixkokob-mun-yu,Tixkokob,530
+mex,México,31,Yucatán,31101,Umán,31101,101,uman-mun-yu,Umán,10130473545
+mex,México,31,Yucatán,31102,Valladolid,31102,102,valladolid-mun-yu,Valladolid,103834672
+mex,México,32,Zacatecas,32005,Calera,32005,005,calera-mun-za,Calera,11838924964
+mex,México,32,Zacatecas,32010,Fresnillo,32010,010,fresnillo-mun-za,Fresnillo,10999615278
+mex,México,32,Zacatecas,32011,Trinidad García de la Cadena,32011,011,trinidad-garcia-de-la-cadena-mun-za,Trinidad García de la Cadena,57954
+mex,México,32,Zacatecas,32014,General Francisco R. Murguía,32014,014,general-francisco-r.-murguia-mun-za,General Francisco R. Murguía,34726584
+mex,México,32,Zacatecas,32017,Guadalupe,32017,017,guadalupe-mun-za,Guadalupe,11824720715
+mex,México,32,Zacatecas,32020,Jerez,32020,020,jerez-mun-za,Jerez,687595
+mex,México,32,Zacatecas,32024,Loreto,32024,024,loreto-mun-za,Loreto,8858066
+mex,México,32,Zacatecas,32029,Miguel Auza,32029,029,miguel-auza-mun-za,Miguel Auza,7858568
+mex,México,32,Zacatecas,32032,Morelos,32032,032,morelos-mun-za,Morelos,343268547
+mex,México,32,Zacatecas,32038,Pinos,32038,038,pinos-mun-za,Pinos,1831968
+mex,México,32,Zacatecas,32039,Río Grande,32039,039,rio-grande-mun-za,Río Grande,10248
+mex,México,32,Zacatecas,32042,Sombrerete,32042,042,sombrerete-mun-za,Sombrerete,5202708
+mex,México,32,Zacatecas,32047,Teúl de González Ortega,32047,047,teul-de-gonzalez-ortega-mun-za,Teúl de González Ortega,340130
+mex,México,32,Zacatecas,32055,Villanueva,32055,055,villanueva-mun-za,Villanueva,1576554
+mex,México,32,Zacatecas,32056,Zacatecas,32056,056,zacatecas-mun-za,Zacatecas,6484395768
+mex,México,33,No Informado,33000,No Informado,33000,000,,No Informado,1010442507901
