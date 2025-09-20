@@ -29,7 +29,8 @@
 clear
 
 * --- Set project root and global path ---
-cd "path/to/datamexico-municipal-trade"
+*cd "path/to/datamexico-municipal-trade"
+cd "/Users/Israel/Dropbox/Data/DataMexico_MunicipalTrade"
 global path "`c(pwd)'"
 
 * --- Find existing CSV files ---

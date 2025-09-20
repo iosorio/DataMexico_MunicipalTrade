@@ -4,9 +4,8 @@ municipal_trade_download.py
 
 This script provides a simple interface for downloading and converting
 monthly foreign trade data at the municipal level from the DataMéxico
-Tesseract API.  The API endpoint used is
-``/tesseract/data.jsonrecords``, which accepts a variety of query
-parameters to filter the dataset.
+Tesseract API.  The API endpoint used is `/tesseract/data.jsonrecords`,
+which accepts a variety of query parameters to filter the dataset.
 
 Usage examples:
 
@@ -28,6 +27,7 @@ The script requires the ``requests`` and ``pandas`` libraries when
 downloading data from the API.  Reading from a local JSON file does
 not require ``requests`` but still needs ``pandas``.
 
+python municipal_trade_download.py --month 200601 --municipality 1001 --flows 1,2 --limit 1000000000 --output "CSV/mun1001_200601.csv" 
 """
 
 import argparse
@@ -109,7 +109,7 @@ def load_json_file(json_path: str) -> pd.DataFrame:
     """Load a JSON file exported from the DataMéxico API into a DataFrame.
 
     The JSON file is expected to follow the structure returned by the
-    ``data.jsonrecords`` endpoint, with a top‑level ``data`` key
+    ``data.jsonrecords`` endpoint, with a top-level ``data`` key
     containing a list of records and an optional ``source`` key with
     metadata.
 
@@ -170,7 +170,7 @@ def main() -> None:
         "--flows",
         type=str,
         default="1,2",
-        help="Comma‑separated list of trade flows to request: 1=Imports, 2=Exports. Default '1,2'.",
+        help="Comma-separated list of trade flows to request: 1=Imports, 2=Exports. Default '1,2'.",
     )
     parser.add_argument(
         "--limit",

@@ -1,2 +1,5 @@
-batch*.csv
+batch*.do
+ mun*.dta
 mun*.csv
+*.log
+code/~00_Run_Python.do.stswp
