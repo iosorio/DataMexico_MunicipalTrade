@@ -1,0 +1,812 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+201903,2019-03,3,Baja California Sur,4170490,"Sugar Confectionery not Containing Cocoa, Incl. White Chocolate",1,Imports,chn,China,240
+201903,2019-03,3,Baja California Sur,4170490,"Sugar Confectionery not Containing Cocoa, Incl. White Chocolate",1,Imports,usa,United States,1208
+201903,2019-03,3,Baja California Sur,4180690,"Chocolate and other Food Preparations Containing Cocoa, in Containers or Immediate Packings <= 2 Kg (Exc. in Blocks, Slabs or Bars, and Cocoa Powder)",1,Imports,usa,United States,516
+201903,2019-03,3,Baja California Sur,4190120,"Mixes and Doughs of Flour, Groats, Meal, Starch or Malt Extract, not Containing Cocoa or Containing Cocoa <40% by Weight Calculated on a Totally Defatted Basis, Nes and of Mixes and Doughs of Milk, Cream, Buttermilk, Curdled Milk and Cream, Yogurt, Kefir and other Products of Headings 0401 to 0404, not Containing Cocoa or Cocoa Content <5% by Weight Calculated on a Totally Defatted Basis, Nes, for the Preparation of Bakery Wares of Heading 1905",1,Imports,esp,Spain,19
+201903,2019-03,3,Baja California Sur,4190120,"Mixes and Doughs of Flour, Groats, Meal, Starch or Malt Extract, not Containing Cocoa or Containing Cocoa <40% by Weight Calculated on a Totally Defatted Basis, Nes and of Mixes and Doughs of Milk, Cream, Buttermilk, Curdled Milk and Cream, Yogurt, Kefir and other Products of Headings 0401 to 0404, not Containing Cocoa or Cocoa Content <5% by Weight Calculated on a Totally Defatted Basis, Nes, for the Preparation of Bakery Wares of Heading 1905",1,Imports,ita,Italy,825
+201903,2019-03,3,Baja California Sur,4190120,"Mixes and Doughs of Flour, Groats, Meal, Starch or Malt Extract, not Containing Cocoa or Containing Cocoa <40% by Weight Calculated on a Totally Defatted Basis, Nes and of Mixes and Doughs of Milk, Cream, Buttermilk, Curdled Milk and Cream, Yogurt, Kefir and other Products of Headings 0401 to 0404, not Containing Cocoa or Cocoa Content <5% by Weight Calculated on a Totally Defatted Basis, Nes, for the Preparation of Bakery Wares of Heading 1905",1,Imports,usa,United States,26592
+201903,2019-03,3,Baja California Sur,4190219,"Uncooked Pasta, not Stuffed or otherwise Prepared, not Containing Eggs",1,Imports,jpn,Japan,235
+201903,2019-03,3,Baja California Sur,4190219,"Uncooked Pasta, not Stuffed or otherwise Prepared, not Containing Eggs",1,Imports,usa,United States,805
+201903,2019-03,3,Baja California Sur,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,bra,Brazil,295
+201903,2019-03,3,Baja California Sur,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,can,Canada,56
+201903,2019-03,3,Baja California Sur,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,fra,France,1157
+201903,2019-03,3,Baja California Sur,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,ita,Italy,185
+201903,2019-03,3,Baja California Sur,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,jpn,Japan,5849
+201903,2019-03,3,Baja California Sur,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,usa,United States,54489
+201903,2019-03,3,Baja California Sur,4200110,"Cucumbers and Gherkins, Prepared or Preserved by Vinegar or Acetic Acid",1,Imports,usa,United States,3731
+201903,2019-03,3,Baja California Sur,4200570,"Olives, Prepared or Preserved Vinegar or Acetic Acid (Exc. Frozen)",1,Imports,esp,Spain,2173
+201903,2019-03,3,Baja California Sur,4200570,"Olives, Prepared or Preserved Vinegar or Acetic Acid (Exc. Frozen)",1,Imports,usa,United States,655
+201903,2019-03,3,Baja California Sur,4200819,"Nuts and other Seeds, Incl. Combined, Prepared or Preserved (Excl. Prepared or Preserved by Vinegar or Acetic Acid and Preserved with Sugar but not Conserved in Syrup, Jams, Jellies, Marmalades, Purees and Pastes, de Frutos, Obtained by Cooking and Peanuts ""Groundnuts"")",1,Imports,bra,Brazil,509
+201903,2019-03,3,Baja California Sur,4200819,"Nuts and other Seeds, Incl. Combined, Prepared or Preserved (Excl. Prepared or Preserved by Vinegar or Acetic Acid and Preserved with Sugar but not Conserved in Syrup, Jams, Jellies, Marmalades, Purees and Pastes, de Frutos, Obtained by Cooking and Peanuts ""Groundnuts"")",1,Imports,usa,United States,2679
+201903,2019-03,3,Baja California Sur,4200860,"Cherries, Prepared or Preserved, Incl. Containing Added Sugar or other Sweetening Matter or Spirit (Excl. Candied with Sugar but not Conserved in Syrup, Jams, Jellies, Marmalades, Purees and Pastes, de Frutos, Obtained by Cooking)",1,Imports,ita,Italy,87
+201903,2019-03,3,Baja California Sur,4200860,"Cherries, Prepared or Preserved, Incl. Containing Added Sugar or other Sweetening Matter or Spirit (Excl. Candied with Sugar but not Conserved in Syrup, Jams, Jellies, Marmalades, Purees and Pastes, de Frutos, Obtained by Cooking)",1,Imports,usa,United States,2935
+201903,2019-03,3,Baja California Sur,4200899,"Fruits and other Edible Parts of Plants, Prepared or Preserved, not Containing Added Sugar or other Sweetening Matter or Spirit (Excl. Prepared or Preserved in Vinegar, Preserved with Sugar but not put in Syrup, Jams, Jellies, Marmalades, Fruit Purees and Pastes , Obtained by Cooking, and Nuts, Groundnuts and other Seeds, Pineapples, Citrus Fruits, Pears, Apricots, Cherries, Peaches, Strawberries, Blueberries and Palmitos)",1,Imports,chn,China,25
+201903,2019-03,3,Baja California Sur,4200899,"Fruits and other Edible Parts of Plants, Prepared or Preserved, not Containing Added Sugar or other Sweetening Matter or Spirit (Excl. Prepared or Preserved in Vinegar, Preserved with Sugar but not put in Syrup, Jams, Jellies, Marmalades, Fruit Purees and Pastes , Obtained by Cooking, and Nuts, Groundnuts and other Seeds, Pineapples, Citrus Fruits, Pears, Apricots, Cherries, Peaches, Strawberries, Blueberries and Palmitos)",1,Imports,usa,United States,2555
+201903,2019-03,3,Baja California Sur,4210330,Mustard Flour and Prepared Mustard,1,Imports,fra,France,865
+201903,2019-03,3,Baja California Sur,4210330,Mustard Flour and Prepared Mustard,1,Imports,usa,United States,603
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,can,Canada,54
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,chn,China,21
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,esp,Spain,212
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,fra,France,244
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,gbr,United Kingdom,60
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,hkg,Hong Kong,289
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,ita,Italy,188
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,jpn,Japan,2669
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,kor,South Korea,54
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,lbn,Lebanon,384
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,per,Peru,743
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,tha,Thailand,64
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,usa,United States,108411
+201903,2019-03,3,Baja California Sur,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",1,Imports,vnm,Vietnam,27
+201903,2019-03,3,Baja California Sur,4220190,"Water, not Containing Added Sugar or other Sweetening Matter or Flavored; Ice and Snow (Excl. Mineral Water, Aerated Waters, Sea Water, Distilled Water or Conductivity of Similar Purity)",1,Imports,fji,Fiji,58649
+201903,2019-03,3,Baja California Sur,4220190,"Water, not Containing Added Sugar or other Sweetening Matter or Flavored; Ice and Snow (Excl. Mineral Water, Aerated Waters, Sea Water, Distilled Water or Conductivity of Similar Purity)",1,Imports,fra,France,138
+201903,2019-03,3,Baja California Sur,4220190,"Water, not Containing Added Sugar or other Sweetening Matter or Flavored; Ice and Snow (Excl. Mineral Water, Aerated Waters, Sea Water, Distilled Water or Conductivity of Similar Purity)",1,Imports,ita,Italy,166
+201903,2019-03,3,Baja California Sur,4220190,"Water, not Containing Added Sugar or other Sweetening Matter or Flavored; Ice and Snow (Excl. Mineral Water, Aerated Waters, Sea Water, Distilled Water or Conductivity of Similar Purity)",1,Imports,nor,Norway,250
+201903,2019-03,3,Baja California Sur,4220190,"Water, not Containing Added Sugar or other Sweetening Matter or Flavored; Ice and Snow (Excl. Mineral Water, Aerated Waters, Sea Water, Distilled Water or Conductivity of Similar Purity)",1,Imports,usa,United States,8354
+201903,2019-03,3,Baja California Sur,4220421,"Wine of Fresh Grapes, Incl Header.; Grape, in which the Fermentation Prevented the Addition of Alcohol, in Containers of <= 2 L (Exc. Sparkling Wine)",1,Imports,nzl,New Zealand,988
+201903,2019-03,3,Baja California Sur,4220421,"Wine of Fresh Grapes, Incl Header.; Grape, in which the Fermentation Prevented the Addition of Alcohol, in Containers of <= 2 L (Exc. Sparkling Wine)",1,Imports,usa,United States,256536
+201903,2019-03,3,Baja California Sur,4220900,Vinegar and Vinegar Substitutes Obtained from Acetic Acid,1,Imports,ita,Italy,90
+201903,2019-03,3,Baja California Sur,4220900,Vinegar and Vinegar Substitutes Obtained from Acetic Acid,1,Imports,jpn,Japan,172
+201903,2019-03,3,Baja California Sur,4220900,Vinegar and Vinegar Substitutes Obtained from Acetic Acid,1,Imports,usa,United States,1643
+201903,2019-03,3,Baja California Sur,4230990,Preparations of a Kind Used for Feeding the Animals,1,Imports,can,Canada,167580
+201903,2019-03,3,Baja California Sur,4230990,Preparations of a Kind Used for Feeding the Animals,1,Imports,cri,Costa Rica,47740
+201903,2019-03,3,Baja California Sur,4230990,Preparations of a Kind Used for Feeding the Animals,1,Imports,usa,United States,89411
+201903,2019-03,3,Baja California Sur,6320820,Paint and Coatings Based Acrylic or Vinyl Polymers Dispersed or Dissolved in a Nonaqueous Medium; Polymer Solutions Based on Acrylic or Vinyl Volatile Organic Solvents with a Solvent Content> 50% of the Weight of the Solution,1,Imports,gbr,United Kingdom,868
+201903,2019-03,3,Baja California Sur,6320820,Paint and Coatings Based Acrylic or Vinyl Polymers Dispersed or Dissolved in a Nonaqueous Medium; Polymer Solutions Based on Acrylic or Vinyl Volatile Organic Solvents with a Solvent Content> 50% of the Weight of the Solution,1,Imports,usa,United States,3228
+201903,2019-03,3,Baja California Sur,6320890,"Paints and Varnishes Based Natural Polymers Synthetic or Modified, in a Dispersed or Dissolved Non-Aqueous Medium",1,Imports,usa,United States,21931
+201903,2019-03,3,Baja California Sur,6321490,Non-Refractory Putty Used Types Masonry,1,Imports,usa,United States,1280
+201903,2019-03,3,Baja California Sur,6330499,"Makeup for Skin Care, Antisolar Preparations and Tanning Machines (Exc. Medications)",1,Imports,chn,China,876
+201903,2019-03,3,Baja California Sur,6330499,"Makeup for Skin Care, Antisolar Preparations and Tanning Machines (Exc. Medications)",1,Imports,usa,United States,13461
+201903,2019-03,3,Baja California Sur,6340120,"Soap Flakes, Granules, Powder, Paste or in Aqueous Solution",1,Imports,fra,France,78
+201903,2019-03,3,Baja California Sur,6340120,"Soap Flakes, Granules, Powder, Paste or in Aqueous Solution",1,Imports,usa,United States,297
+201903,2019-03,3,Baja California Sur,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,can,Canada,269
+201903,2019-03,3,Baja California Sur,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,usa,United States,10310
+201903,2019-03,3,Baja California Sur,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,nzl,New Zealand,1371
+201903,2019-03,3,Baja California Sur,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,usa,United States,5536
+201903,2019-03,3,Baja California Sur,6340399,Lubricating Preparations,1,Imports,chn,China,50
+201903,2019-03,3,Baja California Sur,6340399,Lubricating Preparations,1,Imports,usa,United States,7584
+201903,2019-03,3,Baja California Sur,6340520,"Polishes and Similar Preparations. Conservation of Wooden Furniture, Floors or other Woodwork, Incl. Paper, Wadding, Felt, Nonwovens, Plastic or Cellular Rubber, Impregnated, Coated or Covered with such Preparations (Excl. Waxes Artificial and Prepared Waxes of Heading 3404)",1,Imports,usa,United States,1301
+201903,2019-03,3,Baja California Sur,6340600,"Spark Plugs, Bulbs and Related",1,Imports,can,Canada,451
+201903,2019-03,3,Baja California Sur,6340600,"Spark Plugs, Bulbs and Related",1,Imports,chn,China,163
+201903,2019-03,3,Baja California Sur,6340600,"Spark Plugs, Bulbs and Related",1,Imports,usa,United States,178
+201903,2019-03,3,Baja California Sur,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,bra,Brazil,11
+201903,2019-03,3,Baja California Sur,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,chn,China,12
+201903,2019-03,3,Baja California Sur,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,irl,Ireland,59
+201903,2019-03,3,Baja California Sur,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,usa,United States,7150
+201903,2019-03,3,Baja California Sur,6381400,"Solvents and Diluents Organic Compounds, N.C.O.P .; Preparations for Paint or Varnish Removers (Exc. Solvents Nail Varnish)",1,Imports,gbr,United Kingdom,104
+201903,2019-03,3,Baja California Sur,6381400,"Solvents and Diluents Organic Compounds, N.C.O.P .; Preparations for Paint or Varnish Removers (Exc. Solvents Nail Varnish)",1,Imports,usa,United States,456
+201903,2019-03,3,Baja California Sur,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,chn,China,18
+201903,2019-03,3,Baja California Sur,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,7031
+201903,2019-03,3,Baja California Sur,7390730,"Epoxy Resins, in Primary Forms",1,Imports,chn,China,337
+201903,2019-03,3,Baja California Sur,7390730,"Epoxy Resins, in Primary Forms",1,Imports,usa,United States,1109
+201903,2019-03,3,Baja California Sur,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,chn,China,1998
+201903,2019-03,3,Baja California Sur,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,twn,Taiwan (Region),5
+201903,2019-03,3,Baja California Sur,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,usa,United States,196
+201903,2019-03,3,Baja California Sur,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,chn,China,2206
+201903,2019-03,3,Baja California Sur,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,twn,Taiwan (Region),4752
+201903,2019-03,3,Baja California Sur,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,4308
+201903,2019-03,3,Baja California Sur,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,chn,China,1850
+201903,2019-03,3,Baja California Sur,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,947
+201903,2019-03,3,Baja California Sur,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,chn,China,37
+201903,2019-03,3,Baja California Sur,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,twn,Taiwan (Region),148
+201903,2019-03,3,Baja California Sur,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,usa,United States,23009
+201903,2019-03,3,Baja California Sur,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,chn,China,601
+201903,2019-03,3,Baja California Sur,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,usa,United States,10141
+201903,2019-03,3,Baja California Sur,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,chn,China,429
+201903,2019-03,3,Baja California Sur,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,usa,United States,27983
+201903,2019-03,3,Baja California Sur,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,1654
+201903,2019-03,3,Baja California Sur,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,kor,South Korea,34
+201903,2019-03,3,Baja California Sur,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,twn,Taiwan (Region),1705
+201903,2019-03,3,Baja California Sur,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,11326
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,chn,China,7693
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,deu,Germany,354
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,fra,France,488
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,ita,Italy,1880
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,tha,Thailand,28
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,tur,Turkey,2887
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,twn,Taiwan (Region),5680
+201903,2019-03,3,Baja California Sur,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,usa,United States,23866
+201903,2019-03,3,Baja California Sur,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,chn,China,353
+201903,2019-03,3,Baja California Sur,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,ind,India,260
+201903,2019-03,3,Baja California Sur,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,tha,Thailand,87
+201903,2019-03,3,Baja California Sur,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,usa,United States,1737
+201903,2019-03,3,Baja California Sur,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,can,Canada,3889
+201903,2019-03,3,Baja California Sur,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,chn,China,9136
+201903,2019-03,3,Baja California Sur,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,twn,Taiwan (Region),72
+201903,2019-03,3,Baja California Sur,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,usa,United States,5275
+201903,2019-03,3,Baja California Sur,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,chn,China,42
+201903,2019-03,3,Baja California Sur,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,emu,European Community,2500
+201903,2019-03,3,Baja California Sur,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,mys,Malaysia,9
+201903,2019-03,3,Baja California Sur,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,can,Canada,856
+201903,2019-03,3,Baja California Sur,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,chn,China,925
+201903,2019-03,3,Baja California Sur,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,ind,India,655
+201903,2019-03,3,Baja California Sur,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,phl,Philippines,291
+201903,2019-03,3,Baja California Sur,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,twn,Taiwan (Region),549
+201903,2019-03,3,Baja California Sur,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,vnm,Vietnam,163
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,che,Switzerland,6
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,5522
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,deu,Germany,339
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,fra,France,55
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,23
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,twn,Taiwan (Region),1219
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,33215
+201903,2019-03,3,Baja California Sur,7392690,Plastic Items and Articles of other Materials,1,Imports,vnm,Vietnam,279
+201903,2019-03,3,Baja California Sur,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,usa,United States,308
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,bra,Brazil,69
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,can,Canada,4
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,922
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,1242
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,17
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,swe,Sweden,2882
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),38
+201903,2019-03,3,Baja California Sur,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,3087
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,1778
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,fra,France,44
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ind,India,9
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,mys,Malaysia,182
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,twn,Taiwan (Region),837
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,2576
+201903,2019-03,3,Baja California Sur,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,vnm,Vietnam,47
+201903,2019-03,3,Baja California Sur,8420212,"Trunks, Suitcases ""Suitcases"", Briefcases, Incl. those of Vanity-Cases, Portfolios ""Handbags"", Satchels and Similar Containers., with Outer Surface of Plastics or of Textile Materials",1,Imports,chn,China,527
+201903,2019-03,3,Baja California Sur,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,chn,China,30840
+201903,2019-03,3,Baja California Sur,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,col,Colombia,27
+201903,2019-03,3,Baja California Sur,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,twn,Taiwan (Region),151
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,chn,China,5731
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,ind,India,474
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,ita,Italy,9
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,jpn,Japan,698
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,phl,Philippines,123
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,tha,Thailand,492
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,tur,Turkey,78
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,twn,Taiwan (Region),23
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,usa,United States,558
+201903,2019-03,3,Baja California Sur,9441900,"Tableware and Kitchenware, of Wood (Excl. Articles Interior Fittings, Ornaments, Cooperage, Wood Parts Tableware Kitchen, Brushes, Brooms, Sieves and Hand Sieves)",1,Imports,vnm,Vietnam,721
+201903,2019-03,3,Baja California Sur,9442190,"Articles of Wood, N.E.C",1,Imports,chn,China,527
+201903,2019-03,3,Baja California Sur,9442190,"Articles of Wood, N.E.C",1,Imports,ind,India,321
+201903,2019-03,3,Baja California Sur,9442190,"Articles of Wood, N.E.C",1,Imports,phl,Philippines,117
+201903,2019-03,3,Baja California Sur,10481830,"Tablecloths and Napkins, Paper Pulp, Paper, Cellulose Wadding or Webs of Cellulose Fibers",1,Imports,chn,China,888
+201903,2019-03,3,Baja California Sur,10481830,"Tablecloths and Napkins, Paper Pulp, Paper, Cellulose Wadding or Webs of Cellulose Fibers",1,Imports,mys,Malaysia,25
+201903,2019-03,3,Baja California Sur,10481830,"Tablecloths and Napkins, Paper Pulp, Paper, Cellulose Wadding or Webs of Cellulose Fibers",1,Imports,twn,Taiwan (Region),61
+201903,2019-03,3,Baja California Sur,10481830,"Tablecloths and Napkins, Paper Pulp, Paper, Cellulose Wadding or Webs of Cellulose Fibers",1,Imports,usa,United States,3767
+201903,2019-03,3,Baja California Sur,10481910,Boxes Corrugated Paperboard,1,Imports,usa,United States,83060
+201903,2019-03,3,Baja California Sur,10481920,"Boxes and Folding Cartons, Paper or Paperboard, not Corrugated",1,Imports,chn,China,590
+201903,2019-03,3,Baja California Sur,10481920,"Boxes and Folding Cartons, Paper or Paperboard, not Corrugated",1,Imports,usa,United States,2769
+201903,2019-03,3,Baja California Sur,10481940,"Bags ""Bags"" and Cornets, Paper, Paperboard, Cellulose Wadding or Webs of Cellulose Fibers (Exc. Bags ""Bags"" with a Base Width> = 40 Cm, and Record Sleeves)",1,Imports,chn,China,1468
+201903,2019-03,3,Baja California Sur,10481940,"Bags ""Bags"" and Cornets, Paper, Paperboard, Cellulose Wadding or Webs of Cellulose Fibers (Exc. Bags ""Bags"" with a Base Width> = 40 Cm, and Record Sleeves)",1,Imports,usa,United States,5618
+201903,2019-03,3,Baja California Sur,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,chn,China,5220
+201903,2019-03,3,Baja California Sur,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,9912
+201903,2019-03,3,Baja California Sur,10482369,"Trays, Dishes and Plates, Cups and Similar Articles., Paper or Paperboard (Excl. of Paper or Paperboard)",1,Imports,chn,China,1336
+201903,2019-03,3,Baja California Sur,10482369,"Trays, Dishes and Plates, Cups and Similar Articles., Paper or Paperboard (Excl. of Paper or Paperboard)",1,Imports,kor,South Korea,210
+201903,2019-03,3,Baja California Sur,10482369,"Trays, Dishes and Plates, Cups and Similar Articles., Paper or Paperboard (Excl. of Paper or Paperboard)",1,Imports,twn,Taiwan (Region),1652
+201903,2019-03,3,Baja California Sur,10482369,"Trays, Dishes and Plates, Cups and Similar Articles., Paper or Paperboard (Excl. of Paper or Paperboard)",1,Imports,usa,United States,2664
+201903,2019-03,3,Baja California Sur,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,nor,Norway,97
+201903,2019-03,3,Baja California Sur,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,usa,United States,77
+201903,2019-03,3,Baja California Sur,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,chn,China,95
+201903,2019-03,3,Baja California Sur,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,deu,Germany,24
+201903,2019-03,3,Baja California Sur,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,twn,Taiwan (Region),212
+201903,2019-03,3,Baja California Sur,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,7602
+201903,2019-03,3,Baja California Sur,10490290,"Newspapers and Periodicals, Print, Incl. Illustrated or Containing Advertising (Exc. the four Times Weekly to be Published at Least)",1,Imports,usa,United States,79171
+201903,2019-03,3,Baja California Sur,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,chn,China,46
+201903,2019-03,3,Baja California Sur,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,usa,United States,13654
+201903,2019-03,3,Baja California Sur,10491199,Printed,1,Imports,can,Canada,3195
+201903,2019-03,3,Baja California Sur,10491199,Printed,1,Imports,chn,China,1523
+201903,2019-03,3,Baja California Sur,10491199,Printed,1,Imports,usa,United States,8991
+201903,2019-03,3,Baja California Sur,11560750,"Cordage, Ropes and Cables, Plaited or Not, Incl. Impregnated, Coated, Covered or Sheathed with Rubber or Plastics, Synthetic Fibers (Excl. of Polyethylene or Polypropylene)",1,Imports,chn,China,2248
+201903,2019-03,3,Baja California Sur,11560750,"Cordage, Ropes and Cables, Plaited or Not, Incl. Impregnated, Coated, Covered or Sheathed with Rubber or Plastics, Synthetic Fibers (Excl. of Polyethylene or Polypropylene)",1,Imports,twn,Taiwan (Region),438
+201903,2019-03,3,Baja California Sur,11560750,"Cordage, Ropes and Cables, Plaited or Not, Incl. Impregnated, Coated, Covered or Sheathed with Rubber or Plastics, Synthetic Fibers (Excl. of Polyethylene or Polypropylene)",1,Imports,usa,United States,201
+201903,2019-03,3,Baja California Sur,11610443,"Knitted Dresses of Synthetic Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,chn,China,628
+201903,2019-03,3,Baja California Sur,11610443,"Knitted Dresses of Synthetic Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,col,Colombia,312
+201903,2019-03,3,Baja California Sur,11610443,"Knitted Dresses of Synthetic Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,usa,United States,245
+201903,2019-03,3,Baja California Sur,11610463,"Trousers, Bib and Brace Overalls, Breeches and Shorts, Knitted Synthetic Fibers, Knitted or Crocheted (Excl. Panties and Swimwear)",1,Imports,chn,China,143
+201903,2019-03,3,Baja California Sur,11610463,"Trousers, Bib and Brace Overalls, Breeches and Shorts, Knitted Synthetic Fibers, Knitted or Crocheted (Excl. Panties and Swimwear)",1,Imports,col,Colombia,1896
+201903,2019-03,3,Baja California Sur,11610463,"Trousers, Bib and Brace Overalls, Breeches and Shorts, Knitted Synthetic Fibers, Knitted or Crocheted (Excl. Panties and Swimwear)",1,Imports,ukr,Ukraine,915
+201903,2019-03,3,Baja California Sur,11610463,"Trousers, Bib and Brace Overalls, Breeches and Shorts, Knitted Synthetic Fibers, Knitted or Crocheted (Excl. Panties and Swimwear)",1,Imports,usa,United States,316
+201903,2019-03,3,Baja California Sur,11610463,"Trousers, Bib and Brace Overalls, Breeches and Shorts, Knitted Synthetic Fibers, Knitted or Crocheted (Excl. Panties and Swimwear)",1,Imports,vnm,Vietnam,1590
+201903,2019-03,3,Baja California Sur,11610510,"Knit Shirts, of Cotton, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,chn,China,1156
+201903,2019-03,3,Baja California Sur,11610510,"Knit Shirts, of Cotton, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,khm,Cambodia,2279
+201903,2019-03,3,Baja California Sur,11610510,"Knit Shirts, of Cotton, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,nic,Nicaragua,610
+201903,2019-03,3,Baja California Sur,11610510,"Knit Shirts, of Cotton, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,per,Peru,6128
+201903,2019-03,3,Baja California Sur,11610510,"Knit Shirts, of Cotton, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,vnm,Vietnam,24
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,bgd,Bangladesh,174
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,chn,China,25795
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,kor,South Korea,11334
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,lka,Sri Lanka,894
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,per,Peru,1172
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,slv,El Salvador,415
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,tha,Thailand,2126
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,twn,Taiwan (Region),7047
+201903,2019-03,3,Baja California Sur,11610520,"Knit Shirts, of Man-Made Fibers, Knitted or Crocheted (Excl. Nightshirts, ""T-Shirts"" and T)",1,Imports,vnm,Vietnam,17629
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,chn,China,325
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,col,Colombia,75
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,hnd,Honduras,263
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,lka,Sri Lanka,161
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,per,Peru,1486
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,usa,United States,1212
+201903,2019-03,3,Baja California Sur,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,vnm,Vietnam,63
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,chn,China,6845
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,col,Colombia,313
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,hti,Haiti,4
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,lka,Sri Lanka,23
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,mar,Morocco,112
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,slv,El Salvador,250
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,tza,Tanzania,4
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,ukr,Ukraine,133
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,usa,United States,430
+201903,2019-03,3,Baja California Sur,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,vnm,Vietnam,3808
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,bgd,Bangladesh,18
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,chn,China,320
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,egy,Egypt,32
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,gtm,Guatemala,4
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,hnd,Honduras,734
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,hti,Haiti,230
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,ind,India,3944
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,jpn,Japan,1027
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,nic,Nicaragua,8668
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,per,Peru,5047
+201903,2019-03,3,Baja California Sur,11610910,"T-Shirts and Shirts, Knitted or Crocheted, of Cotton",1,Imports,usa,United States,23553
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,bgd,Bangladesh,97
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,chn,China,4384
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,egy,Egypt,2088
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,gtm,Guatemala,74
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,hnd,Honduras,6
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,hti,Haiti,4
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,ind,India,165
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,khm,Cambodia,3294
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,nic,Nicaragua,4399
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,per,Peru,610
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,slv,El Salvador,2756
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,usa,United States,2228
+201903,2019-03,3,Baja California Sur,11610990,"T-Shirts and Shirts, Knitted or Crocheted, of Textile Materials",1,Imports,vnm,Vietnam,448
+201903,2019-03,3,Baja California Sur,11611020,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted or Crocheted, of Cotton (Excl. Quilted Vests)",1,Imports,chn,China,357
+201903,2019-03,3,Baja California Sur,11611020,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted or Crocheted, of Cotton (Excl. Quilted Vests)",1,Imports,col,Colombia,91
+201903,2019-03,3,Baja California Sur,11611020,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted or Crocheted, of Cotton (Excl. Quilted Vests)",1,Imports,ind,India,2236
+201903,2019-03,3,Baja California Sur,11611020,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted or Crocheted, of Cotton (Excl. Quilted Vests)",1,Imports,ukr,Ukraine,45
+201903,2019-03,3,Baja California Sur,11611020,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted or Crocheted, of Cotton (Excl. Quilted Vests)",1,Imports,usa,United States,556
+201903,2019-03,3,Baja California Sur,11611020,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted or Crocheted, of Cotton (Excl. Quilted Vests)",1,Imports,vnm,Vietnam,12064
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,chn,China,4618
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,col,Colombia,548
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,hnd,Honduras,408
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,tha,Thailand,304
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,twn,Taiwan (Region),500
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,ukr,Ukraine,86
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,usa,United States,1074
+201903,2019-03,3,Baja California Sur,11611030,"Sweaters ""Sweaters"", ""Pullovers"", Cardigans, Waistcoats and Similar Articles., Knitted Synthetic or Artificial Fibers",1,Imports,vnm,Vietnam,7069
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,chn,China,3432
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,col,Colombia,11089
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,ita,Italy,2008
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,mar,Morocco,2524
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,slv,El Salvador,531
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,ukr,Ukraine,239
+201903,2019-03,3,Baja California Sur,11611241,"Point Bathing Suits of Synthetic Fibers, Knitted or Crocheted",1,Imports,usa,United States,3577
+201903,2019-03,3,Baja California Sur,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,chn,China,906
+201903,2019-03,3,Baja California Sur,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,col,Colombia,2144
+201903,2019-03,3,Baja California Sur,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,ita,Italy,30
+201903,2019-03,3,Baja California Sur,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,ukr,Ukraine,1232
+201903,2019-03,3,Baja California Sur,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,usa,United States,286
+201903,2019-03,3,Baja California Sur,11611780,"Ons ""Accessories"" made up Clothing, Knitted N.E.C. (Exc. Shawls, Scarves, Mufflers, Mantillas, Veils and Similar Articles .; Ties Ties Simil.)",1,Imports,chn,China,368
+201903,2019-03,3,Baja California Sur,11611780,"Ons ""Accessories"" made up Clothing, Knitted N.E.C. (Exc. Shawls, Scarves, Mufflers, Mantillas, Veils and Similar Articles .; Ties Ties Simil.)",1,Imports,ind,India,89
+201903,2019-03,3,Baja California Sur,11620113,"Overcoats, Raincoats, Capes, Cloaks and Similar Articles., of Manmade Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,chn,China,140
+201903,2019-03,3,Baja California Sur,11620113,"Overcoats, Raincoats, Capes, Cloaks and Similar Articles., of Manmade Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,vnm,Vietnam,3450
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,bgd,Bangladesh,212
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,chn,China,7867
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,idn,Indonesia,215
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,phl,Philippines,752
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,tha,Thailand,2059
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,usa,United States,21
+201903,2019-03,3,Baja California Sur,11620343,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Underpants and Swimwear)",1,Imports,vnm,Vietnam,3964
+201903,2019-03,3,Baja California Sur,11620444,"Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Combinations)",1,Imports,chn,China,2572
+201903,2019-03,3,Baja California Sur,11620444,"Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Combinations)",1,Imports,col,Colombia,691
+201903,2019-03,3,Baja California Sur,11620444,"Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Combinations)",1,Imports,ind,India,1953
+201903,2019-03,3,Baja California Sur,11620444,"Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Combinations)",1,Imports,ita,Italy,2134
+201903,2019-03,3,Baja California Sur,11620444,"Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Combinations)",1,Imports,usa,United States,994
+201903,2019-03,3,Baja California Sur,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,chn,China,2819
+201903,2019-03,3,Baja California Sur,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,eth,Ethiopia,733
+201903,2019-03,3,Baja California Sur,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,ind,India,149
+201903,2019-03,3,Baja California Sur,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,usa,United States,959
+201903,2019-03,3,Baja California Sur,11620463,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,chn,China,830
+201903,2019-03,3,Baja California Sur,11620463,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,khm,Cambodia,441
+201903,2019-03,3,Baja California Sur,11620463,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,vnm,Vietnam,139
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,chn,China,3412
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,eth,Ethiopia,960
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,ind,India,1589
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,jor,Jordan,681
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,kor,South Korea,1230
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,tur,Turkey,98
+201903,2019-03,3,Baja California Sur,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,vnm,Vietnam,441
+201903,2019-03,3,Baja California Sur,11620530,"Shirts Man-Made Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,chn,China,2718
+201903,2019-03,3,Baja California Sur,11620530,"Shirts Man-Made Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,hnd,Honduras,285
+201903,2019-03,3,Baja California Sur,11620530,"Shirts Man-Made Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,usa,United States,2500
+201903,2019-03,3,Baja California Sur,11620530,"Shirts Man-Made Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,vnm,Vietnam,2067
+201903,2019-03,3,Baja California Sur,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,chn,China,122
+201903,2019-03,3,Baja California Sur,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,mdg,Madagascar,270
+201903,2019-03,3,Baja California Sur,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,slv,El Salvador,52
+201903,2019-03,3,Baja California Sur,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,usa,United States,149
+201903,2019-03,3,Baja California Sur,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,vnm,Vietnam,1998
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,chn,China,17
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,idn,Indonesia,67
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,ind,India,273
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,ita,Italy,32
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,khm,Cambodia,75
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,mdg,Madagascar,406
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,slv,El Salvador,425
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,usa,United States,106
+201903,2019-03,3,Baja California Sur,11621143,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",1,Imports,vnm,Vietnam,585
+201903,2019-03,3,Baja California Sur,11621710,"Ons ""Accessories"" made up Clothing of all Kinds of Textile, N.E.C. (Excl. Knitted)",1,Imports,bgd,Bangladesh,139
+201903,2019-03,3,Baja California Sur,11621710,"Ons ""Accessories"" made up Clothing of all Kinds of Textile, N.E.C. (Excl. Knitted)",1,Imports,chn,China,327
+201903,2019-03,3,Baja California Sur,11621710,"Ons ""Accessories"" made up Clothing of all Kinds of Textile, N.E.C. (Excl. Knitted)",1,Imports,usa,United States,1876
+201903,2019-03,3,Baja California Sur,11630232,Bedsheets of Man-Made Fibers (Excl. Stamped and Punto),1,Imports,chn,China,7191
+201903,2019-03,3,Baja California Sur,11630790,"Textile Articles, Assembled",1,Imports,bgd,Bangladesh,56
+201903,2019-03,3,Baja California Sur,11630790,"Textile Articles, Assembled",1,Imports,chn,China,1701
+201903,2019-03,3,Baja California Sur,11630790,"Textile Articles, Assembled",1,Imports,ind,India,89
+201903,2019-03,3,Baja California Sur,11630790,"Textile Articles, Assembled",1,Imports,twn,Taiwan (Region),768
+201903,2019-03,3,Baja California Sur,11630790,"Textile Articles, Assembled",1,Imports,usa,United States,378
+201903,2019-03,3,Baja California Sur,11630790,"Textile Articles, Assembled",1,Imports,vnm,Vietnam,56
+201903,2019-03,3,Baja California Sur,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,bgd,Bangladesh,24321
+201903,2019-03,3,Baja California Sur,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,chn,China,28726
+201903,2019-03,3,Baja California Sur,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,ind,India,664
+201903,2019-03,3,Baja California Sur,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,lka,Sri Lanka,1138
+201903,2019-03,3,Baja California Sur,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,usa,United States,5816
+201903,2019-03,3,Baja California Sur,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,vnm,Vietnam,15674
+201903,2019-03,3,Baja California Sur,13680430,Sharpening Stones Polishing Hand,1,Imports,chn,China,25
+201903,2019-03,3,Baja California Sur,13680430,Sharpening Stones Polishing Hand,1,Imports,jpn,Japan,779
+201903,2019-03,3,Baja California Sur,13680430,Sharpening Stones Polishing Hand,1,Imports,usa,United States,1690
+201903,2019-03,3,Baja California Sur,13691110,"Items for Table or Kitchen Porcelain (Exc Ornaments;. Cántaros, Carboys and Vessels Simile Conveyance or Packing;. Mills and Spices Café with Containers of Ceramics and Working Parts of Metal)",1,Imports,chn,China,1789
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,chn,China,6023
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,idn,Indonesia,424
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,ind,India,394
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,phl,Philippines,316
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,prt,Portugal,252
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,tha,Thailand,61
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,usa,United States,748
+201903,2019-03,3,Baja California Sur,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,vnm,Vietnam,539
+201903,2019-03,3,Baja California Sur,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,chn,China,9199
+201903,2019-03,3,Baja California Sur,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,idn,Indonesia,136
+201903,2019-03,3,Baja California Sur,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,usa,United States,101
+201903,2019-03,3,Baja California Sur,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,vnm,Vietnam,1659
+201903,2019-03,3,Baja California Sur,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,chn,China,1645
+201903,2019-03,3,Baja California Sur,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,esp,Spain,72
+201903,2019-03,3,Baja California Sur,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,twn,Taiwan (Region),65
+201903,2019-03,3,Baja California Sur,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,usa,United States,3348
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,chn,China,4150
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,esp,Spain,64
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,ind,India,1654
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,pol,Poland,415
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,rou,Romania,45
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,twn,Taiwan (Region),745
+201903,2019-03,3,Baja California Sur,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,usa,United States,203
+201903,2019-03,3,Baja California Sur,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,chn,China,549
+201903,2019-03,3,Baja California Sur,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,twn,Taiwan (Region),105
+201903,2019-03,3,Baja California Sur,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,usa,United States,1667
+201903,2019-03,3,Baja California Sur,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,7848
+201903,2019-03,3,Baja California Sur,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,964
+201903,2019-03,3,Baja California Sur,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ind,India,183
+201903,2019-03,3,Baja California Sur,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,4
+201903,2019-03,3,Baja California Sur,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),325
+201903,2019-03,3,Baja California Sur,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,1385
+201903,2019-03,3,Baja California Sur,15731816,Nuts of Iron or Steel,1,Imports,chn,China,2462
+201903,2019-03,3,Baja California Sur,15731816,Nuts of Iron or Steel,1,Imports,ita,Italy,59
+201903,2019-03,3,Baja California Sur,15731816,Nuts of Iron or Steel,1,Imports,twn,Taiwan (Region),9
+201903,2019-03,3,Baja California Sur,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,843
+201903,2019-03,3,Baja California Sur,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,chn,China,238
+201903,2019-03,3,Baja California Sur,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,166
+201903,2019-03,3,Baja California Sur,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,chn,China,54
+201903,2019-03,3,Baja California Sur,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,jpn,Japan,29
+201903,2019-03,3,Baja California Sur,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,pol,Poland,1344
+201903,2019-03,3,Baja California Sur,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,107
+201903,2019-03,3,Baja California Sur,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,50
+201903,2019-03,3,Baja California Sur,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,28
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,chn,China,25412
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,fra,France,3431
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,ind,India,2970
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,jpn,Japan,2396
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,tha,Thailand,92
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,twn,Taiwan (Region),365
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,usa,United States,1147
+201903,2019-03,3,Baja California Sur,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,vnm,Vietnam,193
+201903,2019-03,3,Baja California Sur,15732399,"Table, Kitchen or Household Articles and Parts, of Iron other than Cast Iron or Steel Iron your other than Stainless Steel (Exc. Esmaltado, Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels and other Items Nature of a Job Application, Cutlery, Spoons, etc of Heading 8211 to 8215, Ornamental, Household Goods)",1,Imports,chn,China,713
+201903,2019-03,3,Baja California Sur,15732399,"Table, Kitchen or Household Articles and Parts, of Iron other than Cast Iron or Steel Iron your other than Stainless Steel (Exc. Esmaltado, Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels and other Items Nature of a Job Application, Cutlery, Spoons, etc of Heading 8211 to 8215, Ornamental, Household Goods)",1,Imports,ind,India,204
+201903,2019-03,3,Baja California Sur,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chn,China,2307
+201903,2019-03,3,Baja California Sur,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,nld,Netherlands,333
+201903,2019-03,3,Baja California Sur,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,twn,Taiwan (Region),118
+201903,2019-03,3,Baja California Sur,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,usa,United States,145
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,can,Canada,160
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,chn,China,11840
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,68
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,fra,France,763
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,ind,India,194
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),423
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,usa,United States,199314
+201903,2019-03,3,Baja California Sur,15732690,Articles of Iron or Steel,1,Imports,vnm,Vietnam,86
+201903,2019-03,3,Baja California Sur,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,chn,China,3129
+201903,2019-03,3,Baja California Sur,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,gbr,United Kingdom,204
+201903,2019-03,3,Baja California Sur,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,twn,Taiwan (Region),196
+201903,2019-03,3,Baja California Sur,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,usa,United States,607
+201903,2019-03,3,Baja California Sur,15741999,Articles of Copper,1,Imports,chn,China,1516
+201903,2019-03,3,Baja California Sur,15741999,Articles of Copper,1,Imports,usa,United States,1268
+201903,2019-03,3,Baja California Sur,15761699,Aluminium Articles,1,Imports,chn,China,1563
+201903,2019-03,3,Baja California Sur,15761699,Aluminium Articles,1,Imports,ind,India,67
+201903,2019-03,3,Baja California Sur,15761699,Aluminium Articles,1,Imports,ita,Italy,217
+201903,2019-03,3,Baja California Sur,15761699,Aluminium Articles,1,Imports,twn,Taiwan (Region),275
+201903,2019-03,3,Baja California Sur,15761699,Aluminium Articles,1,Imports,usa,United States,549
+201903,2019-03,3,Baja California Sur,15790700,"Zinc Manufactures, N.E.C",1,Imports,chn,China,1210
+201903,2019-03,3,Baja California Sur,15790700,"Zinc Manufactures, N.E.C",1,Imports,usa,United States,678
+201903,2019-03,3,Baja California Sur,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,chn,China,757
+201903,2019-03,3,Baja California Sur,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,twn,Taiwan (Region),198
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,chn,China,4484
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,esp,Spain,157
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,ind,India,138
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,ita,Italy,234
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,jpn,Japan,301
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),150
+201903,2019-03,3,Baja California Sur,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,usa,United States,315
+201903,2019-03,3,Baja California Sur,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,238
+201903,2019-03,3,Baja California Sur,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),147
+201903,2019-03,3,Baja California Sur,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,394
+201903,2019-03,3,Baja California Sur,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,chn,China,23
+201903,2019-03,3,Baja California Sur,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,usa,United States,97
+201903,2019-03,3,Baja California Sur,15821000,"Hand-Operated Mechanical Appliances, of Base Metal, Weighing <= 10 Kg, Used for the Preparation, Conditioning or Serving of Food or Drink",1,Imports,chn,China,100
+201903,2019-03,3,Baja California Sur,15821000,"Hand-Operated Mechanical Appliances, of Base Metal, Weighing <= 10 Kg, Used for the Preparation, Conditioning or Serving of Food or Drink",1,Imports,jpn,Japan,89
+201903,2019-03,3,Baja California Sur,15821000,"Hand-Operated Mechanical Appliances, of Base Metal, Weighing <= 10 Kg, Used for the Preparation, Conditioning or Serving of Food or Drink",1,Imports,twn,Taiwan (Region),170
+201903,2019-03,3,Baja California Sur,15821000,"Hand-Operated Mechanical Appliances, of Base Metal, Weighing <= 10 Kg, Used for the Preparation, Conditioning or Serving of Food or Drink",1,Imports,usa,United States,412
+201903,2019-03,3,Baja California Sur,15821191,Table Knives Fixed Base Metal Sheet (Exc.Cuchillos and Fish Knives Butter),1,Imports,chn,China,651
+201903,2019-03,3,Baja California Sur,15821191,Table Knives Fixed Base Metal Sheet (Exc.Cuchillos and Fish Knives Butter),1,Imports,idn,Indonesia,992
+201903,2019-03,3,Baja California Sur,15821191,Table Knives Fixed Base Metal Sheet (Exc.Cuchillos and Fish Knives Butter),1,Imports,twn,Taiwan (Region),221
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,che,Switzerland,12
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,chn,China,3891
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,idn,Indonesia,1178
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,ind,India,285
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,jpn,Japan,85
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,prt,Portugal,1341
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,tha,Thailand,832
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,usa,United States,37
+201903,2019-03,3,Baja California Sur,15821591,"Spoons, Forks, Ladles, Skimmers, Cake-Servers, Fish-Knives, Butter, Sugar Tongs and Similar Articles., of Base Metal, Plated with Precious Metal (Excl. Games and Poultry Shears or Lobster)",1,Imports,vnm,Vietnam,542
+201903,2019-03,3,Baja California Sur,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,chn,China,1501
+201903,2019-03,3,Baja California Sur,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,ind,India,253
+201903,2019-03,3,Baja California Sur,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,usa,United States,3864
+201903,2019-03,3,Baja California Sur,15830241,Garrisons and Fittings for Buildings,1,Imports,chn,China,12770
+201903,2019-03,3,Baja California Sur,15830241,Garrisons and Fittings for Buildings,1,Imports,deu,Germany,1211
+201903,2019-03,3,Baja California Sur,15830241,Garrisons and Fittings for Buildings,1,Imports,twn,Taiwan (Region),292
+201903,2019-03,3,Baja California Sur,15830241,Garrisons and Fittings for Buildings,1,Imports,usa,United States,2646
+201903,2019-03,3,Baja California Sur,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,chn,China,2200
+201903,2019-03,3,Baja California Sur,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,ind,India,225
+201903,2019-03,3,Baja California Sur,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,chn,China,2804
+201903,2019-03,3,Baja California Sur,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,dnk,Denmark,3191
+201903,2019-03,3,Baja California Sur,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,fra,France,5004
+201903,2019-03,3,Baja California Sur,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,prt,Portugal,1347
+201903,2019-03,3,Baja California Sur,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,tha,Thailand,341
+201903,2019-03,3,Baja California Sur,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,twn,Taiwan (Region),1765
+201903,2019-03,3,Baja California Sur,15830629,"Statuettes and other Ornaments of Non-Base Metal Copper, Unwashed (Exc. Works of Art and Antiques)",1,Imports,chn,China,59594
+201903,2019-03,3,Baja California Sur,15830629,"Statuettes and other Ornaments of Non-Base Metal Copper, Unwashed (Exc. Works of Art and Antiques)",1,Imports,idn,Indonesia,414
+201903,2019-03,3,Baja California Sur,15830629,"Statuettes and other Ornaments of Non-Base Metal Copper, Unwashed (Exc. Works of Art and Antiques)",1,Imports,ind,India,3629
+201903,2019-03,3,Baja California Sur,15830629,"Statuettes and other Ornaments of Non-Base Metal Copper, Unwashed (Exc. Works of Art and Antiques)",1,Imports,phl,Philippines,84
+201903,2019-03,3,Baja California Sur,15830790,"Flexible Metals other than Iron or Steel, Pipes Incl. with Accessories",1,Imports,can,Canada,3490
+201903,2019-03,3,Baja California Sur,15830790,"Flexible Metals other than Iron or Steel, Pipes Incl. with Accessories",1,Imports,usa,United States,515
+201903,2019-03,3,Baja California Sur,15830990,"Stoppers, Lids",1,Imports,chn,China,70
+201903,2019-03,3,Baja California Sur,15830990,"Stoppers, Lids",1,Imports,fra,France,150
+201903,2019-03,3,Baja California Sur,15830990,"Stoppers, Lids",1,Imports,tha,Thailand,270
+201903,2019-03,3,Baja California Sur,16840991,Parts of Piston Engines,1,Imports,bra,Brazil,14
+201903,2019-03,3,Baja California Sur,16840991,Parts of Piston Engines,1,Imports,chn,China,1489
+201903,2019-03,3,Baja California Sur,16840991,Parts of Piston Engines,1,Imports,jpn,Japan,3499
+201903,2019-03,3,Baja California Sur,16840991,Parts of Piston Engines,1,Imports,tur,Turkey,321
+201903,2019-03,3,Baja California Sur,16840991,Parts of Piston Engines,1,Imports,twn,Taiwan (Region),1334
+201903,2019-03,3,Baja California Sur,16840991,Parts of Piston Engines,1,Imports,usa,United States,152
+201903,2019-03,3,Baja California Sur,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,chn,China,2954
+201903,2019-03,3,Baja California Sur,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,jpn,Japan,84
+201903,2019-03,3,Baja California Sur,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,tur,Turkey,118
+201903,2019-03,3,Baja California Sur,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,twn,Taiwan (Region),66
+201903,2019-03,3,Baja California Sur,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,usa,United States,376
+201903,2019-03,3,Baja California Sur,16841320,Handpump (Exc. Pumps Subheadings 8413.11 8413.19 U),1,Imports,chn,China,216
+201903,2019-03,3,Baja California Sur,16841320,Handpump (Exc. Pumps Subheadings 8413.11 8413.19 U),1,Imports,twn,Taiwan (Region),89
+201903,2019-03,3,Baja California Sur,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,chn,China,8157
+201903,2019-03,3,Baja California Sur,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,deu,Germany,619
+201903,2019-03,3,Baja California Sur,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,jpn,Japan,329
+201903,2019-03,3,Baja California Sur,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,tha,Thailand,2160
+201903,2019-03,3,Baja California Sur,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,usa,United States,399
+201903,2019-03,3,Baja California Sur,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,can,Canada,1761
+201903,2019-03,3,Baja California Sur,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,chn,China,1922
+201903,2019-03,3,Baja California Sur,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,twn,Taiwan (Region),174
+201903,2019-03,3,Baja California Sur,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,usa,United States,28633
+201903,2019-03,3,Baja California Sur,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,can,Canada,831
+201903,2019-03,3,Baja California Sur,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,chn,China,2598
+201903,2019-03,3,Baja California Sur,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,hun,Hungary,3404
+201903,2019-03,3,Baja California Sur,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,usa,United States,33461
+201903,2019-03,3,Baja California Sur,16841391,Parts of Pumps for Liquids,1,Imports,chn,China,15
+201903,2019-03,3,Baja California Sur,16841391,Parts of Pumps for Liquids,1,Imports,deu,Germany,23
+201903,2019-03,3,Baja California Sur,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,528
+201903,2019-03,3,Baja California Sur,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,chn,China,139
+201903,2019-03,3,Baja California Sur,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,ita,Italy,2209
+201903,2019-03,3,Baja California Sur,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,tha,Thailand,353
+201903,2019-03,3,Baja California Sur,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,twn,Taiwan (Region),231
+201903,2019-03,3,Baja California Sur,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,chn,China,61
+201903,2019-03,3,Baja California Sur,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,deu,Germany,6630
+201903,2019-03,3,Baja California Sur,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,nor,Norway,1156
+201903,2019-03,3,Baja California Sur,16841821,"Compression Refrigerators, Household",1,Imports,chn,China,2223
+201903,2019-03,3,Baja California Sur,16841821,"Compression Refrigerators, Household",1,Imports,tur,Turkey,6753
+201903,2019-03,3,Baja California Sur,16842121,Apparatus for Filtering or Purifying Water,1,Imports,chn,China,4200
+201903,2019-03,3,Baja California Sur,16842121,Apparatus for Filtering or Purifying Water,1,Imports,twn,Taiwan (Region),867
+201903,2019-03,3,Baja California Sur,16842121,Apparatus for Filtering or Purifying Water,1,Imports,usa,United States,11330
+201903,2019-03,3,Baja California Sur,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,chn,China,921
+201903,2019-03,3,Baja California Sur,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,deu,Germany,194
+201903,2019-03,3,Baja California Sur,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,jpn,Japan,143
+201903,2019-03,3,Baja California Sur,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,twn,Taiwan (Region),962
+201903,2019-03,3,Baja California Sur,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,usa,United States,2210
+201903,2019-03,3,Baja California Sur,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,chn,China,2725
+201903,2019-03,3,Baja California Sur,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,pol,Poland,15
+201903,2019-03,3,Baja California Sur,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,usa,United States,1156
+201903,2019-03,3,Baja California Sur,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,chn,China,7630
+201903,2019-03,3,Baja California Sur,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,jpn,Japan,352
+201903,2019-03,3,Baja California Sur,16847989,Mechanical Machinery,1,Imports,chn,China,180
+201903,2019-03,3,Baja California Sur,16847989,Mechanical Machinery,1,Imports,deu,Germany,15105
+201903,2019-03,3,Baja California Sur,16847989,Mechanical Machinery,1,Imports,hun,Hungary,1795
+201903,2019-03,3,Baja California Sur,16847989,Mechanical Machinery,1,Imports,ind,India,3212
+201903,2019-03,3,Baja California Sur,16847989,Mechanical Machinery,1,Imports,usa,United States,52846
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,can,Canada,11755
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,16775
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,cze,Czech Republic,111
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,2782
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,fra,France,18191
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,nor,Norway,1862
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,pol,Poland,582
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,prt,Portugal,8211
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,twn,Taiwan (Region),796
+201903,2019-03,3,Baja California Sur,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,39816
+201903,2019-03,3,Baja California Sur,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,chn,China,52
+201903,2019-03,3,Baja California Sur,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,usa,United States,1634
+201903,2019-03,3,Baja California Sur,16848210,Ball Bearings,1,Imports,chn,China,2042
+201903,2019-03,3,Baja California Sur,16848210,Ball Bearings,1,Imports,tur,Turkey,437
+201903,2019-03,3,Baja California Sur,16848250,Cylindrical Roller Bearings Rolls,1,Imports,chn,China,2757
+201903,2019-03,3,Baja California Sur,16848250,Cylindrical Roller Bearings Rolls,1,Imports,jpn,Japan,1426
+201903,2019-03,3,Baja California Sur,16848299,Parts of Bearings,1,Imports,chn,China,176
+201903,2019-03,3,Baja California Sur,16848299,Parts of Bearings,1,Imports,usa,United States,73
+201903,2019-03,3,Baja California Sur,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,chn,China,1176
+201903,2019-03,3,Baja California Sur,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,jpn,Japan,438
+201903,2019-03,3,Baja California Sur,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,35442
+201903,2019-03,3,Baja California Sur,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,2512
+201903,2019-03,3,Baja California Sur,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,isr,Israel,5146
+201903,2019-03,3,Baja California Sur,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,mys,Malaysia,170
+201903,2019-03,3,Baja California Sur,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,1760
+201903,2019-03,3,Baja California Sur,16848340,Gearboxes and other Speed Changers,1,Imports,chn,China,561
+201903,2019-03,3,Baja California Sur,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,1952
+201903,2019-03,3,Baja California Sur,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,1061
+201903,2019-03,3,Baja California Sur,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,can,Canada,235
+201903,2019-03,3,Baja California Sur,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,chn,China,880
+201903,2019-03,3,Baja California Sur,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,pol,Poland,15885
+201903,2019-03,3,Baja California Sur,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,usa,United States,336
+201903,2019-03,3,Baja California Sur,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,kor,South Korea,160
+201903,2019-03,3,Baja California Sur,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,10734
+201903,2019-03,3,Baja California Sur,16848410,Together or Assortments,1,Imports,chn,China,398
+201903,2019-03,3,Baja California Sur,16848410,Together or Assortments,1,Imports,ita,Italy,419
+201903,2019-03,3,Baja California Sur,16848410,Together or Assortments,1,Imports,jpn,Japan,70
+201903,2019-03,3,Baja California Sur,16848410,Together or Assortments,1,Imports,twn,Taiwan (Region),129
+201903,2019-03,3,Baja California Sur,16848410,Together or Assortments,1,Imports,usa,United States,910
+201903,2019-03,3,Baja California Sur,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,can,Canada,254
+201903,2019-03,3,Baja California Sur,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,chn,China,296
+201903,2019-03,3,Baja California Sur,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,jpn,Japan,467
+201903,2019-03,3,Baja California Sur,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,340
+201903,2019-03,3,Baja California Sur,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,chn,China,1090
+201903,2019-03,3,Baja California Sur,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,twn,Taiwan (Region),29
+201903,2019-03,3,Baja California Sur,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,102
+201903,2019-03,3,Baja California Sur,16848710,Ship Propellers and Blades,1,Imports,mys,Malaysia,214
+201903,2019-03,3,Baja California Sur,16848710,Ship Propellers and Blades,1,Imports,twn,Taiwan (Region),3794
+201903,2019-03,3,Baja California Sur,16848710,Ship Propellers and Blades,1,Imports,usa,United States,156
+201903,2019-03,3,Baja California Sur,16848790,Parts of Machinery or Apparatus,1,Imports,can,Canada,156
+201903,2019-03,3,Baja California Sur,16848790,Parts of Machinery or Apparatus,1,Imports,chn,China,4327
+201903,2019-03,3,Baja California Sur,16848790,Parts of Machinery or Apparatus,1,Imports,jpn,Japan,7
+201903,2019-03,3,Baja California Sur,16848790,Parts of Machinery or Apparatus,1,Imports,twn,Taiwan (Region),2475
+201903,2019-03,3,Baja California Sur,16848790,Parts of Machinery or Apparatus,1,Imports,usa,United States,398
+201903,2019-03,3,Baja California Sur,16850440,Electrical Static Converters,1,Imports,chn,China,3950
+201903,2019-03,3,Baja California Sur,16850440,Electrical Static Converters,1,Imports,usa,United States,7822
+201903,2019-03,3,Baja California Sur,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,chn,China,532
+201903,2019-03,3,Baja California Sur,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,twn,Taiwan (Region),167
+201903,2019-03,3,Baja California Sur,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,usa,United States,560
+201903,2019-03,3,Baja California Sur,16851610,Electric Water Heaters Instantaneous or Storage Heating Electric Immersion Heaters,1,Imports,chn,China,6961
+201903,2019-03,3,Baja California Sur,16851610,Electric Water Heaters Instantaneous or Storage Heating Electric Immersion Heaters,1,Imports,usa,United States,810
+201903,2019-03,3,Baja California Sur,16851660,"Furnaces; Cookers, Incl. Tables Cooking and Bbq Grill Grills ""Grills""",1,Imports,chn,China,893
+201903,2019-03,3,Baja California Sur,16851660,"Furnaces; Cookers, Incl. Tables Cooking and Bbq Grill Grills ""Grills""",1,Imports,usa,United States,2276
+201903,2019-03,3,Baja California Sur,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,chn,China,27618
+201903,2019-03,3,Baja California Sur,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,mys,Malaysia,240
+201903,2019-03,3,Baja California Sur,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,twn,Taiwan (Region),16662
+201903,2019-03,3,Baja California Sur,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,usa,United States,26952
+201903,2019-03,3,Baja California Sur,16851821,"Loudspeakers with a Speaker ""Speaker"" Mounted in their Enclosures",1,Imports,chn,China,3922
+201903,2019-03,3,Baja California Sur,16851821,"Loudspeakers with a Speaker ""Speaker"" Mounted in their Enclosures",1,Imports,phl,Philippines,3120
+201903,2019-03,3,Baja California Sur,16851821,"Loudspeakers with a Speaker ""Speaker"" Mounted in their Enclosures",1,Imports,usa,United States,9724
+201903,2019-03,3,Baja California Sur,16851822,"Several Speakers with Speakers ""Loudspeakers"" Assembled in one Box",1,Imports,chn,China,3719
+201903,2019-03,3,Baja California Sur,16851822,"Several Speakers with Speakers ""Loudspeakers"" Assembled in one Box",1,Imports,idn,Indonesia,150
+201903,2019-03,3,Baja California Sur,16851822,"Several Speakers with Speakers ""Loudspeakers"" Assembled in one Box",1,Imports,usa,United States,1125
+201903,2019-03,3,Baja California Sur,16852351,"Recording Mechanisms, Solid State",1,Imports,chn,China,443
+201903,2019-03,3,Baja California Sur,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,chn,China,4225
+201903,2019-03,3,Baja California Sur,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,tha,Thailand,2318
+201903,2019-03,3,Baja California Sur,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,usa,United States,373
+201903,2019-03,3,Baja California Sur,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,vnm,Vietnam,2605
+201903,2019-03,3,Baja California Sur,16853610,Fuses and Fuse Breaker,1,Imports,chn,China,142
+201903,2019-03,3,Baja California Sur,16853610,Fuses and Fuse Breaker,1,Imports,twn,Taiwan (Region),100
+201903,2019-03,3,Baja California Sur,16853610,Fuses and Fuse Breaker,1,Imports,usa,United States,147
+201903,2019-03,3,Baja California Sur,16853641,"Relays, for a Voltage <= 60 V",1,Imports,chn,China,402
+201903,2019-03,3,Baja California Sur,16853641,"Relays, for a Voltage <= 60 V",1,Imports,idn,Indonesia,197
+201903,2019-03,3,Baja California Sur,16853641,"Relays, for a Voltage <= 60 V",1,Imports,ltu,Lithuania,176
+201903,2019-03,3,Baja California Sur,16853641,"Relays, for a Voltage <= 60 V",1,Imports,usa,United States,51
+201903,2019-03,3,Baja California Sur,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,2284
+201903,2019-03,3,Baja California Sur,16853650,Switches for a Voltage <= 1.000 V,1,Imports,gbr,United Kingdom,515
+201903,2019-03,3,Baja California Sur,16853650,Switches for a Voltage <= 1.000 V,1,Imports,nzl,New Zealand,115
+201903,2019-03,3,Baja California Sur,16853650,Switches for a Voltage <= 1.000 V,1,Imports,twn,Taiwan (Region),697
+201903,2019-03,3,Baja California Sur,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,3533
+201903,2019-03,3,Baja California Sur,16853669,"Plugs and Sockets, for a Voltage not Exceeding 1000 V",1,Imports,chn,China,637
+201903,2019-03,3,Baja California Sur,16853669,"Plugs and Sockets, for a Voltage not Exceeding 1000 V",1,Imports,usa,United States,47
+201903,2019-03,3,Baja California Sur,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,406
+201903,2019-03,3,Baja California Sur,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,deu,Germany,19
+201903,2019-03,3,Baja California Sur,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,twn,Taiwan (Region),128
+201903,2019-03,3,Baja California Sur,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,2785
+201903,2019-03,3,Baja California Sur,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,aus,Australia,1243
+201903,2019-03,3,Baja California Sur,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,87139
+201903,2019-03,3,Baja California Sur,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,hkg,Hong Kong,86
+201903,2019-03,3,Baja California Sur,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,45426
+201903,2019-03,3,Baja California Sur,16853922,"Lamps and Filament Lamps of a Power <= 200 W, for a Voltage> 100 V (Excl. Tubes Halogen Lamps and Tungsten ""Tungsten"" and Ultraviolet or Infrared)",1,Imports,chn,China,216
+201903,2019-03,3,Baja California Sur,16853922,"Lamps and Filament Lamps of a Power <= 200 W, for a Voltage> 100 V (Excl. Tubes Halogen Lamps and Tungsten ""Tungsten"" and Ultraviolet or Infrared)",1,Imports,phl,Philippines,8
+201903,2019-03,3,Baja California Sur,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,15659
+201903,2019-03,3,Baja California Sur,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,kor,South Korea,1147
+201903,2019-03,3,Baja California Sur,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,twn,Taiwan (Region),17265
+201903,2019-03,3,Baja California Sur,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,5479
+201903,2019-03,3,Baja California Sur,16854430,Wiring Sets Used in Transportation,1,Imports,chn,China,192
+201903,2019-03,3,Baja California Sur,16854430,Wiring Sets Used in Transportation,1,Imports,usa,United States,4722
+201903,2019-03,3,Baja California Sur,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,3079
+201903,2019-03,3,Baja California Sur,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,15
+201903,2019-03,3,Baja California Sur,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,chn,China,13112
+201903,2019-03,3,Baja California Sur,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,twn,Taiwan (Region),611
+201903,2019-03,3,Baja California Sur,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,usa,United States,12253
+201903,2019-03,3,Baja California Sur,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,chn,China,40807
+201903,2019-03,3,Baja California Sur,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,deu,Germany,1753
+201903,2019-03,3,Baja California Sur,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,twn,Taiwan (Region),540
+201903,2019-03,3,Baja California Sur,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,usa,United States,1296
+201903,2019-03,3,Baja California Sur,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,chn,China,19878
+201903,2019-03,3,Baja California Sur,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,usa,United States,287
+201903,2019-03,3,Baja California Sur,17870870,Road Wheels and Parts and Accessories Thereof,1,Imports,chn,China,1948
+201903,2019-03,3,Baja California Sur,17870870,Road Wheels and Parts and Accessories Thereof,1,Imports,usa,United States,87
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,arg,Argentina,235
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,chn,China,4562
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,deu,Germany,425
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,ind,India,331
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,jpn,Japan,182
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,kor,South Korea,18
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,rou,Romania,71
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,tha,Thailand,13
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,tur,Turkey,192
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,twn,Taiwan (Region),2988
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,usa,United States,12080
+201903,2019-03,3,Baja California Sur,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,zaf,South Africa,79
+201903,2019-03,3,Baja California Sur,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,chn,China,29956
+201903,2019-03,3,Baja California Sur,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,ita,Italy,41
+201903,2019-03,3,Baja California Sur,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,twn,Taiwan (Region),70
+201903,2019-03,3,Baja California Sur,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,usa,United States,698
+201903,2019-03,3,Baja California Sur,17870894,"Steering Wheels, Steering Columns and Steering Boxes",1,Imports,chn,China,5510
+201903,2019-03,3,Baja California Sur,17870894,"Steering Wheels, Steering Columns and Steering Boxes",1,Imports,ind,India,51
+201903,2019-03,3,Baja California Sur,17870894,"Steering Wheels, Steering Columns and Steering Boxes",1,Imports,ita,Italy,416
+201903,2019-03,3,Baja California Sur,17870894,"Steering Wheels, Steering Columns and Steering Boxes",1,Imports,jpn,Japan,93
+201903,2019-03,3,Baja California Sur,17870894,"Steering Wheels, Steering Columns and Steering Boxes",1,Imports,usa,United States,1288
+201903,2019-03,3,Baja California Sur,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,chn,China,4777
+201903,2019-03,3,Baja California Sur,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,ind,India,407
+201903,2019-03,3,Baja California Sur,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,isr,Israel,250
+201903,2019-03,3,Baja California Sur,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,tha,Thailand,3288
+201903,2019-03,3,Baja California Sur,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,twn,Taiwan (Region),421
+201903,2019-03,3,Baja California Sur,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,usa,United States,627
+201903,2019-03,3,Baja California Sur,17871680,Hand Vehicles and other Vehicles not Mechanically Propelled (Excl. Trailers for any Vehicle),1,Imports,chn,China,500
+201903,2019-03,3,Baja California Sur,17871680,Hand Vehicles and other Vehicles not Mechanically Propelled (Excl. Trailers for any Vehicle),1,Imports,twn,Taiwan (Region),132
+201903,2019-03,3,Baja California Sur,17871680,Hand Vehicles and other Vehicles not Mechanically Propelled (Excl. Trailers for any Vehicle),1,Imports,usa,United States,815
+201903,2019-03,3,Baja California Sur,18900410,"Glasses ""Glasses"" Sol",1,Imports,chn,China,7200
+201903,2019-03,3,Baja California Sur,18900410,"Glasses ""Glasses"" Sol",1,Imports,ita,Italy,355
+201903,2019-03,3,Baja California Sur,18900410,"Glasses ""Glasses"" Sol",1,Imports,twn,Taiwan (Region),111
+201903,2019-03,3,Baja California Sur,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,chn,China,3445
+201903,2019-03,3,Baja California Sur,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,ita,Italy,10902
+201903,2019-03,3,Baja California Sur,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,twn,Taiwan (Region),155
+201903,2019-03,3,Baja California Sur,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,1166
+201903,2019-03,3,Baja California Sur,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,20
+201903,2019-03,3,Baja California Sur,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,ind,India,84
+201903,2019-03,3,Baja California Sur,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,pol,Poland,13
+201903,2019-03,3,Baja California Sur,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,1157
+201903,2019-03,3,Baja California Sur,18903033,"Instruments and Apparatus Voltage Measurements O Review Current, Resistance or Power Electrico, without Recording Device (Excl. Multimeters, Oscilloscopes and Oscillographs)",1,Imports,mys,Malaysia,75
+201903,2019-03,3,Baja California Sur,18903033,"Instruments and Apparatus Voltage Measurements O Review Current, Resistance or Power Electrico, without Recording Device (Excl. Multimeters, Oscilloscopes and Oscillographs)",1,Imports,pri,Puerto Rico,787
+201903,2019-03,3,Baja California Sur,18903033,"Instruments and Apparatus Voltage Measurements O Review Current, Resistance or Power Electrico, without Recording Device (Excl. Multimeters, Oscilloscopes and Oscillographs)",1,Imports,twn,Taiwan (Region),46
+201903,2019-03,3,Baja California Sur,18903033,"Instruments and Apparatus Voltage Measurements O Review Current, Resistance or Power Electrico, without Recording Device (Excl. Multimeters, Oscilloscopes and Oscillographs)",1,Imports,usa,United States,1019
+201903,2019-03,3,Baja California Sur,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,651
+201903,2019-03,3,Baja California Sur,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,twn,Taiwan (Region),47
+201903,2019-03,3,Baja California Sur,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,2792
+201903,2019-03,3,Baja California Sur,20940130,"Adjustable Swivel Seat Height (Exc. as Seats Rotary Medical, Surgical or Dental, Veterinary, or Barber)",1,Imports,chn,China,1639
+201903,2019-03,3,Baja California Sur,20940130,"Adjustable Swivel Seat Height (Exc. as Seats Rotary Medical, Surgical or Dental, Veterinary, or Barber)",1,Imports,usa,United States,4950
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,chn,China,58695
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,idn,Indonesia,15377
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,ind,India,1384
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,ita,Italy,4249
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,mys,Malaysia,1056
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,phl,Philippines,8452
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,usa,United States,104069
+201903,2019-03,3,Baja California Sur,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,vnm,Vietnam,8172
+201903,2019-03,3,Baja California Sur,20940169,"Seats with Wooden Frames, not Filled",1,Imports,chn,China,1832
+201903,2019-03,3,Baja California Sur,20940169,"Seats with Wooden Frames, not Filled",1,Imports,idn,Indonesia,56199
+201903,2019-03,3,Baja California Sur,20940169,"Seats with Wooden Frames, not Filled",1,Imports,vnm,Vietnam,1140
+201903,2019-03,3,Baja California Sur,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,bra,Brazil,13732
+201903,2019-03,3,Baja California Sur,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,chn,China,3980
+201903,2019-03,3,Baja California Sur,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,ind,India,1191
+201903,2019-03,3,Baja California Sur,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,usa,United States,7551
+201903,2019-03,3,Baja California Sur,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,chn,China,20694
+201903,2019-03,3,Baja California Sur,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,idn,Indonesia,15003
+201903,2019-03,3,Baja California Sur,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,phl,Philippines,2279
+201903,2019-03,3,Baja California Sur,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,twn,Taiwan (Region),283
+201903,2019-03,3,Baja California Sur,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,usa,United States,41270
+201903,2019-03,3,Baja California Sur,20940180,"Seats, N.E.C",1,Imports,chn,China,649
+201903,2019-03,3,Baja California Sur,20940180,"Seats, N.E.C",1,Imports,ind,India,391
+201903,2019-03,3,Baja California Sur,20940180,"Seats, N.E.C",1,Imports,usa,United States,9788
+201903,2019-03,3,Baja California Sur,20940320,Muebles de Metal,1,Imports,chn,China,25581
+201903,2019-03,3,Baja California Sur,20940320,Muebles de Metal,1,Imports,idn,Indonesia,2716
+201903,2019-03,3,Baja California Sur,20940320,Muebles de Metal,1,Imports,ind,India,4424
+201903,2019-03,3,Baja California Sur,20940320,Muebles de Metal,1,Imports,twn,Taiwan (Region),2977
+201903,2019-03,3,Baja California Sur,20940320,Muebles de Metal,1,Imports,usa,United States,8270
+201903,2019-03,3,Baja California Sur,20940320,Muebles de Metal,1,Imports,vnm,Vietnam,1439
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,chn,China,11772
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,idn,Indonesia,6210
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,ind,India,1334
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,khm,Cambodia,381
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,mys,Malaysia,1704
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,phl,Philippines,4219
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,usa,United States,54208
+201903,2019-03,3,Baja California Sur,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,vnm,Vietnam,18220
+201903,2019-03,3,Baja California Sur,20940360,Wooden Furniture,1,Imports,chn,China,43281
+201903,2019-03,3,Baja California Sur,20940360,Wooden Furniture,1,Imports,idn,Indonesia,5950
+201903,2019-03,3,Baja California Sur,20940360,Wooden Furniture,1,Imports,ind,India,2386
+201903,2019-03,3,Baja California Sur,20940360,Wooden Furniture,1,Imports,usa,United States,67904
+201903,2019-03,3,Baja California Sur,20940360,Wooden Furniture,1,Imports,vnm,Vietnam,6067
+201903,2019-03,3,Baja California Sur,20940370,"Plastic Furniture (Excl. Seats and Medical, Surgical, Dental or Veterinary)",1,Imports,chn,China,1230
+201903,2019-03,3,Baja California Sur,20940370,"Plastic Furniture (Excl. Seats and Medical, Surgical, Dental or Veterinary)",1,Imports,phl,Philippines,985
+201903,2019-03,3,Baja California Sur,20940370,"Plastic Furniture (Excl. Seats and Medical, Surgical, Dental or Veterinary)",1,Imports,usa,United States,3379
+201903,2019-03,3,Baja California Sur,20940370,"Plastic Furniture (Excl. Seats and Medical, Surgical, Dental or Veterinary)",1,Imports,vnm,Vietnam,21
+201903,2019-03,3,Baja California Sur,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,chn,China,3615
+201903,2019-03,3,Baja California Sur,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,idn,Indonesia,1106
+201903,2019-03,3,Baja California Sur,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,ind,India,11
+201903,2019-03,3,Baja California Sur,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,usa,United States,2278
+201903,2019-03,3,Baja California Sur,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,vnm,Vietnam,2573
+201903,2019-03,3,Baja California Sur,20940490,"Articles of Bedding and Similar., with Springs ""Springs"" or Stuffed or Internally Fitted with any Material or of Cellular Rubber or Plastics (Excl. Mattress Supports Bags ""Bags"" Sleeping, Waterbeds, Mattresses, Pillows and Tires Cushions, Blankets and Covers)",1,Imports,chn,China,16551
+201903,2019-03,3,Baja California Sur,20940490,"Articles of Bedding and Similar., with Springs ""Springs"" or Stuffed or Internally Fitted with any Material or of Cellular Rubber or Plastics (Excl. Mattress Supports Bags ""Bags"" Sleeping, Waterbeds, Mattresses, Pillows and Tires Cushions, Blankets and Covers)",1,Imports,ind,India,3018
+201903,2019-03,3,Baja California Sur,20940490,"Articles of Bedding and Similar., with Springs ""Springs"" or Stuffed or Internally Fitted with any Material or of Cellular Rubber or Plastics (Excl. Mattress Supports Bags ""Bags"" Sleeping, Waterbeds, Mattresses, Pillows and Tires Cushions, Blankets and Covers)",1,Imports,tur,Turkey,551
+201903,2019-03,3,Baja California Sur,20940490,"Articles of Bedding and Similar., with Springs ""Springs"" or Stuffed or Internally Fitted with any Material or of Cellular Rubber or Plastics (Excl. Mattress Supports Bags ""Bags"" Sleeping, Waterbeds, Mattresses, Pillows and Tires Cushions, Blankets and Covers)",1,Imports,usa,United States,18642
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,chn,China,49797
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,deu,Germany,378
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,esp,Spain,16749
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,idn,Indonesia,260
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,ind,India,1009
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,ita,Italy,38717
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,phl,Philippines,8459
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,tur,Turkey,1829
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,twn,Taiwan (Region),382
+201903,2019-03,3,Baja California Sur,20940510,Lamps and other Electric Lighting,1,Imports,usa,United States,7504
+201903,2019-03,3,Baja California Sur,20940520,"Electric Lamps Header Table, Desk, or Standing",1,Imports,chn,China,11149
+201903,2019-03,3,Baja California Sur,20940520,"Electric Lamps Header Table, Desk, or Standing",1,Imports,idn,Indonesia,160
+201903,2019-03,3,Baja California Sur,20940520,"Electric Lamps Header Table, Desk, or Standing",1,Imports,phl,Philippines,417
+201903,2019-03,3,Baja California Sur,20940520,"Electric Lamps Header Table, Desk, or Standing",1,Imports,usa,United States,127
+201903,2019-03,3,Baja California Sur,20940520,"Electric Lamps Header Table, Desk, or Standing",1,Imports,vnm,Vietnam,2038
+201903,2019-03,3,Baja California Sur,20940540,"Electrical Lighting, N.E.C",1,Imports,chn,China,421
+201903,2019-03,3,Baja California Sur,20940540,"Electrical Lighting, N.E.C",1,Imports,esp,Spain,11588
+201903,2019-03,3,Baja California Sur,20940540,"Electrical Lighting, N.E.C",1,Imports,ita,Italy,1355
+201903,2019-03,3,Baja California Sur,20940540,"Electrical Lighting, N.E.C",1,Imports,kor,South Korea,54921
+201903,2019-03,3,Baja California Sur,20940540,"Electrical Lighting, N.E.C",1,Imports,usa,United States,6099
+201903,2019-03,3,Baja California Sur,20940550,"Electric Lighting Fixtures No, N.E.C",1,Imports,chn,China,5735
+201903,2019-03,3,Baja California Sur,20940550,"Electric Lighting Fixtures No, N.E.C",1,Imports,ind,India,9407
+201903,2019-03,3,Baja California Sur,20940550,"Electric Lighting Fixtures No, N.E.C",1,Imports,pol,Poland,109
+201903,2019-03,3,Baja California Sur,20940550,"Electric Lighting Fixtures No, N.E.C",1,Imports,vnm,Vietnam,665
+201903,2019-03,3,Baja California Sur,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,chn,China,1141
+201903,2019-03,3,Baja California Sur,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,nor,Norway,1528
+201903,2019-03,3,Baja California Sur,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,phl,Philippines,16
+201903,2019-03,3,Baja California Sur,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,usa,United States,1122
+201903,2019-03,3,Baja California Sur,20960329,"Shaving Brushes, Hair Brushes, Eyelashes, Nails and other Brushes for Personal Grooming (Exc. Toothbrushes)",1,Imports,chn,China,96
+201903,2019-03,3,Baja California Sur,20960329,"Shaving Brushes, Hair Brushes, Eyelashes, Nails and other Brushes for Personal Grooming (Exc. Toothbrushes)",1,Imports,usa,United States,13
+201903,2019-03,3,Baja California Sur,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,can,Canada,403
+201903,2019-03,3,Baja California Sur,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,chn,China,1933
+201903,2019-03,3,Baja California Sur,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,phl,Philippines,9
+201903,2019-03,3,Baja California Sur,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,twn,Taiwan (Region),27
+201903,2019-03,3,Baja California Sur,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,usa,United States,991
+201903,2019-03,3,Baja California Sur,20961700,Isothermal Flasks and other Containers Mounted Vacuum Insulation and Parts Thereof (Excl Anpollas Vidreo),1,Imports,chn,China,472
+201903,2019-03,3,Baja California Sur,20961700,Isothermal Flasks and other Containers Mounted Vacuum Insulation and Parts Thereof (Excl Anpollas Vidreo),1,Imports,usa,United States,306
+201903,2019-03,3,Baja California Sur,1030289,"Fish, Fresh or Chilled, Nep",2,Exports,can,Canada,6046
+201903,2019-03,3,Baja California Sur,1030289,"Fish, Fresh or Chilled, Nep",2,Exports,usa,United States,76386
+201903,2019-03,3,Baja California Sur,1030629,"Crustaceans, even Smoked, Fit for Human Consumption, whether in Shell, Live, Fresh, Chilled, Dried, Salted or in Brine, Incl. Crustaceans in Shell, Cooked in Water or Boiling Water (Except Lobster and Lobster Sea Rock Lobsters Crabs, Norway Lobsters, Shrimps and Prawns), Flours, Meals and Pellets of Crustaceans, even Smoked, Fit for Human Consumption",2,Exports,chn,China,89926
+201903,2019-03,3,Baja California Sur,1030629,"Crustaceans, even Smoked, Fit for Human Consumption, whether in Shell, Live, Fresh, Chilled, Dried, Salted or in Brine, Incl. Crustaceans in Shell, Cooked in Water or Boiling Water (Except Lobster and Lobster Sea Rock Lobsters Crabs, Norway Lobsters, Shrimps and Prawns), Flours, Meals and Pellets of Crustaceans, even Smoked, Fit for Human Consumption",2,Exports,hkg,Hong Kong,6317
+201903,2019-03,3,Baja California Sur,2070200,Tomatoes Fresh or Chilled,2,Exports,usa,United States,1486009
+201903,2019-03,3,Baja California Sur,2070420,"Coles ""Sprouts"" Brussels, Fresh or Chilled",2,Exports,usa,United States,339740
+201903,2019-03,3,Baja California Sur,2070960,"Fruits of the Genus Capsicum or of the Genus Pimenta, Fresh or Chilled",2,Exports,usa,United States,380623

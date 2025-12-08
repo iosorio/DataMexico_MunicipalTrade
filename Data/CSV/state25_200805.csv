@@ -1,0 +1,656 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+200805,2008-05,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,isr,Israel,4012
+200805,2008-05,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,nld,Netherlands,428038
+200805,2008-05,25,Sinaloa,4210690,"Food Preparations, N.E.C",1,Imports,isl,Iceland,6375
+200805,2008-05,25,Sinaloa,4210690,"Food Preparations, N.E.C",1,Imports,usa,United States,116081
+200805,2008-05,25,Sinaloa,4220290,"Non-Alcoholic Beverages (Excl. Water, Fruit Juice or Fruit and Vegetable Juices and Milk)",1,Imports,can,Canada,573590
+200805,2008-05,25,Sinaloa,4220290,"Non-Alcoholic Beverages (Excl. Water, Fruit Juice or Fruit and Vegetable Juices and Milk)",1,Imports,usa,United States,127293
+200805,2008-05,25,Sinaloa,4230990,Preparations of a Kind Used for Feeding the Animals,1,Imports,usa,United States,94610
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,gbr,United Kingdom,14593
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,usa,United States,139
+200805,2008-05,25,Sinaloa,6310290,"Mineral or Chemical Nitrogenados (Exc Urea;. Ammonium Sulfate, Ammonium Nitrate and Na; Double Salts and Mixtures of Ammonium Sulfate or Nitrate Ca Ammonium Nitrate, Mixtures of Ammonium Nitrate with Calcium Carbonate or other Inorganic Non-Fertilising, Urea with Ammonium Nitrate in Aqueous or Ammoniacal Solution; Calcium Cyanamide;. Fertilizers Forms Tablets O Simil or Packings of a Gross Weight of <= 10 Kg)",1,Imports,chn,China,134123
+200805,2008-05,25,Sinaloa,6310290,"Mineral or Chemical Nitrogenados (Exc Urea;. Ammonium Sulfate, Ammonium Nitrate and Na; Double Salts and Mixtures of Ammonium Sulfate or Nitrate Ca Ammonium Nitrate, Mixtures of Ammonium Nitrate with Calcium Carbonate or other Inorganic Non-Fertilising, Urea with Ammonium Nitrate in Aqueous or Ammoniacal Solution; Calcium Cyanamide;. Fertilizers Forms Tablets O Simil or Packings of a Gross Weight of <= 10 Kg)",1,Imports,gbr,United Kingdom,16028
+200805,2008-05,25,Sinaloa,6310290,"Mineral or Chemical Nitrogenados (Exc Urea;. Ammonium Sulfate, Ammonium Nitrate and Na; Double Salts and Mixtures of Ammonium Sulfate or Nitrate Ca Ammonium Nitrate, Mixtures of Ammonium Nitrate with Calcium Carbonate or other Inorganic Non-Fertilising, Urea with Ammonium Nitrate in Aqueous or Ammoniacal Solution; Calcium Cyanamide;. Fertilizers Forms Tablets O Simil or Packings of a Gross Weight of <= 10 Kg)",1,Imports,usa,United States,4972
+200805,2008-05,25,Sinaloa,6321511,"Printing Inks, Black, Incl. Concentrated or Solid",1,Imports,gbr,United Kingdom,500
+200805,2008-05,25,Sinaloa,6321511,"Printing Inks, Black, Incl. Concentrated or Solid",1,Imports,usa,United States,846
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,bel,Belgium,338
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,che,Switzerland,2198
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,deu,Germany,322
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,esp,Spain,68259
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,fra,France,40460
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,gbr,United Kingdom,62778
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,ita,Italy,3697
+200805,2008-05,25,Sinaloa,6330300,Perfumes and Toilet Waters (Exc. Lotions Aftershave and Deodorants Body),1,Imports,usa,United States,397522
+200805,2008-05,25,Sinaloa,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,kor,South Korea,130
+200805,2008-05,25,Sinaloa,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,usa,United States,8857
+200805,2008-05,25,Sinaloa,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,usa,United States,10538
+200805,2008-05,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,can,Canada,37452
+200805,2008-05,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,esp,Spain,27532
+200805,2008-05,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,nld,Netherlands,10
+200805,2008-05,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,65605
+200805,2008-05,25,Sinaloa,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,can,Canada,251
+200805,2008-05,25,Sinaloa,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,usa,United States,6146
+200805,2008-05,25,Sinaloa,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,can,Canada,1109
+200805,2008-05,25,Sinaloa,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,usa,United States,514
+200805,2008-05,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,esp,Spain,507
+200805,2008-05,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,44030
+200805,2008-05,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,twn,Taiwan (Region),1424
+200805,2008-05,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,783
+200805,2008-05,25,Sinaloa,7392020,"Plastics of Polymers of Propylene, Plates, Sheets, Film, Foil and Strip (Not Self-Adhesive), Non-Cellular and not Reinforced, Laminated, Supported or Similarly Combined with other Materials",1,Imports,grc,Greece,172554
+200805,2008-05,25,Sinaloa,7392020,"Plastics of Polymers of Propylene, Plates, Sheets, Film, Foil and Strip (Not Self-Adhesive), Non-Cellular and not Reinforced, Laminated, Supported or Similarly Combined with other Materials",1,Imports,usa,United States,7313
+200805,2008-05,25,Sinaloa,7392099,"Plates, Sheets, Sheets and Strips, of Non-Cellular Plastic (Exc. Self-Adhesive, as well as Coatings for Floors, Walls or Ceilings)",1,Imports,usa,United States,812
+200805,2008-05,25,Sinaloa,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,chn,China,31160
+200805,2008-05,25,Sinaloa,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,usa,United States,33277
+200805,2008-05,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,can,Canada,411
+200805,2008-05,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,chl,Chile,77209
+200805,2008-05,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,chn,China,227
+200805,2008-05,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,ita,Italy,42177
+200805,2008-05,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,usa,United States,273453
+200805,2008-05,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,can,Canada,58985
+200805,2008-05,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,chn,China,199396
+200805,2008-05,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,isr,Israel,53290
+200805,2008-05,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,usa,United States,43845
+200805,2008-05,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,chn,China,66017
+200805,2008-05,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,isr,Israel,1823
+200805,2008-05,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,twn,Taiwan (Region),408
+200805,2008-05,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,usa,United States,28519
+200805,2008-05,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,vnm,Vietnam,292
+200805,2008-05,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,chn,China,1383
+200805,2008-05,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,esp,Spain,10105
+200805,2008-05,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,usa,United States,105189
+200805,2008-05,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,626
+200805,2008-05,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,86781
+200805,2008-05,25,Sinaloa,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,chn,China,1360
+200805,2008-05,25,Sinaloa,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,idn,Indonesia,236
+200805,2008-05,25,Sinaloa,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,tur,Turkey,49
+200805,2008-05,25,Sinaloa,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,usa,United States,32481
+200805,2008-05,25,Sinaloa,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,chn,China,26138
+200805,2008-05,25,Sinaloa,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,tha,Thailand,43
+200805,2008-05,25,Sinaloa,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,twn,Taiwan (Region),259
+200805,2008-05,25,Sinaloa,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,usa,United States,187
+200805,2008-05,25,Sinaloa,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,chn,China,3398
+200805,2008-05,25,Sinaloa,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,usa,United States,1599
+200805,2008-05,25,Sinaloa,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,chn,China,2583
+200805,2008-05,25,Sinaloa,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,chn,China,9337
+200805,2008-05,25,Sinaloa,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,phl,Philippines,418
+200805,2008-05,25,Sinaloa,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,usa,United States,16268
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,19480
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,esp,Spain,4830
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,gbr,United Kingdom,11
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,idn,Indonesia,70
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,ita,Italy,218
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,jpn,Japan,467
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,744
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,nld,Netherlands,21906
+200805,2008-05,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,146017
+200805,2008-05,25,Sinaloa,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,jpn,Japan,35
+200805,2008-05,25,Sinaloa,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,usa,United States,1031
+200805,2008-05,25,Sinaloa,7401161,"Tires ""Pneumatic Tires"" of Rubber, with High Reliefs Shaped as Wedges, Angles or Similar, of a Kind Used in Vehicles, Agricultural Machinery or Forestry",1,Imports,chn,China,61120
+200805,2008-05,25,Sinaloa,7401161,"Tires ""Pneumatic Tires"" of Rubber, with High Reliefs Shaped as Wedges, Angles or Similar, of a Kind Used in Vehicles, Agricultural Machinery or Forestry",1,Imports,idn,Indonesia,286
+200805,2008-05,25,Sinaloa,7401161,"Tires ""Pneumatic Tires"" of Rubber, with High Reliefs Shaped as Wedges, Angles or Similar, of a Kind Used in Vehicles, Agricultural Machinery or Forestry",1,Imports,ita,Italy,104
+200805,2008-05,25,Sinaloa,7401161,"Tires ""Pneumatic Tires"" of Rubber, with High Reliefs Shaped as Wedges, Angles or Similar, of a Kind Used in Vehicles, Agricultural Machinery or Forestry",1,Imports,pol,Poland,714
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,bra,Brazil,289
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,299
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,224
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,esp,Spain,3305
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fra,France,11
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,gbr,United Kingdom,58
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,nld,Netherlands,15
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),3719
+200805,2008-05,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,7048
+200805,2008-05,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,1117
+200805,2008-05,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,jpn,Japan,31
+200805,2008-05,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,tha,Thailand,74
+200805,2008-05,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,tur,Turkey,141
+200805,2008-05,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,twn,Taiwan (Region),65
+200805,2008-05,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,9575
+200805,2008-05,25,Sinaloa,8420212,"Trunks, Suitcases ""Suitcases"", Briefcases, Incl. those of Vanity-Cases, Portfolios ""Handbags"", Satchels and Similar Containers., with Outer Surface of Plastics or of Textile Materials",1,Imports,chn,China,170097
+200805,2008-05,25,Sinaloa,8420212,"Trunks, Suitcases ""Suitcases"", Briefcases, Incl. those of Vanity-Cases, Portfolios ""Handbags"", Satchels and Similar Containers., with Outer Surface of Plastics or of Textile Materials",1,Imports,twn,Taiwan (Region),304
+200805,2008-05,25,Sinaloa,8420232,"Wallets, Purses, Key-Pouches, Cigarette Cases, Bags and other Articles for Snuff Pocket or Handbag ""Portfolios"" with the Outer Surface of Plastic Sheeting or of Textile Materials",1,Imports,chn,China,10782
+200805,2008-05,25,Sinaloa,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,che,Switzerland,27
+200805,2008-05,25,Sinaloa,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,chn,China,8769
+200805,2008-05,25,Sinaloa,9442190,"Articles of Wood, N.E.C",1,Imports,chn,China,3869
+200805,2008-05,25,Sinaloa,10481910,Boxes Corrugated Paperboard,1,Imports,usa,United States,1476559
+200805,2008-05,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,can,Canada,94
+200805,2008-05,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,chn,China,176
+200805,2008-05,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,23550
+200805,2008-05,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,usa,United States,10782
+200805,2008-05,25,Sinaloa,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,7122
+200805,2008-05,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,chn,China,72
+200805,2008-05,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,grc,Greece,22
+200805,2008-05,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,ita,Italy,227
+200805,2008-05,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,usa,United States,73
+200805,2008-05,25,Sinaloa,11591190,Textile Products and Articles for Technical Uses,1,Imports,chn,China,138
+200805,2008-05,25,Sinaloa,11591190,Textile Products and Articles for Technical Uses,1,Imports,usa,United States,1463
+200805,2008-05,25,Sinaloa,11610443,"Knitted Dresses of Synthetic Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,bra,Brazil,1783
+200805,2008-05,25,Sinaloa,11610443,"Knitted Dresses of Synthetic Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,usa,United States,3952
+200805,2008-05,25,Sinaloa,11610444,"Knitted Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,ind,India,14470
+200805,2008-05,25,Sinaloa,11610444,"Knitted Dresses of Artificial Fibers, Knitted or Crocheted (Excl. Combinations)",1,Imports,usa,United States,9239
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,bgd,Bangladesh,399
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,bra,Brazil,1214
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,hkg,Hong Kong,513
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,ind,India,75225
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,khm,Cambodia,9481
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,phl,Philippines,13382
+200805,2008-05,25,Sinaloa,11610610,"Shirts, Blouses, Knitted or Crocheted, of Cotton, Knitted or Crocheted (Exc. ""T-Shirts"" and T)",1,Imports,usa,United States,3921
+200805,2008-05,25,Sinaloa,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,ind,India,462
+200805,2008-05,25,Sinaloa,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,phl,Philippines,1026
+200805,2008-05,25,Sinaloa,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,usa,United States,94814
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,bgd,Bangladesh,1649
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,bra,Brazil,18574
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,ind,India,25363
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,khm,Cambodia,5547
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,kor,South Korea,21153
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,tha,Thailand,138
+200805,2008-05,25,Sinaloa,11611420,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Cotton",1,Imports,usa,United States,27585
+200805,2008-05,25,Sinaloa,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,bra,Brazil,826
+200805,2008-05,25,Sinaloa,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,hkg,Hong Kong,702
+200805,2008-05,25,Sinaloa,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,ind,India,11258
+200805,2008-05,25,Sinaloa,11611430,"Special Clothing, for Specific Uses ""Eg, Professional, Sports, Etc."" N.E.C., Knitted or Crocheted, of Man-Made Fibers",1,Imports,usa,United States,93732
+200805,2008-05,25,Sinaloa,11620443,"Dresses of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Combinations)",1,Imports,usa,United States,10764
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,bgd,Bangladesh,818
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,bra,Brazil,1849
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,hkg,Hong Kong,219
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,khm,Cambodia,4252
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,mac,Macau,424
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,phl,Philippines,866
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,usa,United States,730
+200805,2008-05,25,Sinaloa,11620452,"Skirts and Divided Skirts of Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Petticoats)",1,Imports,vnm,Vietnam,2152
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,bgd,Bangladesh,2492
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,bra,Brazil,2973
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,col,Colombia,4942
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,ecu,Ecuador,33
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,hkg,Hong Kong,12404
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,khm,Cambodia,34334
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,lka,Sri Lanka,1142
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,mac,Macau,24564
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,phl,Philippines,4549
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,tha,Thailand,150
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,tkm,Turkmenistan,4566
+200805,2008-05,25,Sinaloa,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,usa,United States,48166
+200805,2008-05,25,Sinaloa,11620463,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",1,Imports,usa,United States,1045
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,hnd,Honduras,28412
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,idn,Indonesia,101247
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,ind,India,13985
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,khm,Cambodia,48317
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,tha,Thailand,1270
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,usa,United States,200
+200805,2008-05,25,Sinaloa,11620520,"Cotton Shirts, Knitted or Crocheted (Excl. Knitted or Crocheted, Nightshirts, Singlets and other Vests)",1,Imports,vnm,Vietnam,44200
+200805,2008-05,25,Sinaloa,11620630,"Shirts, Blouses, of Cotton, Knitted or Crocheted (Excl. Knitted and T)",1,Imports,usa,United States,35472
+200805,2008-05,25,Sinaloa,11620640,"Shirts, Blouses, of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted and T)",1,Imports,usa,United States,8417
+200805,2008-05,25,Sinaloa,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,can,Canada,2792
+200805,2008-05,25,Sinaloa,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,chn,China,12385
+200805,2008-05,25,Sinaloa,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,usa,United States,2361
+200805,2008-05,25,Sinaloa,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,vnm,Vietnam,306
+200805,2008-05,25,Sinaloa,13701337,"Cups, Jugs and other Containers Glass to Drink (Exc. Vitroceramic)",1,Imports,chn,China,661
+200805,2008-05,25,Sinaloa,13701337,"Cups, Jugs and other Containers Glass to Drink (Exc. Vitroceramic)",1,Imports,idn,Indonesia,54
+200805,2008-05,25,Sinaloa,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,chn,China,193
+200805,2008-05,25,Sinaloa,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,idn,Indonesia,147
+200805,2008-05,25,Sinaloa,13701349,"Glassware for Table or Kitchen (Exc. with a Linear Expansion Coefficient <= 5 X 10-6 per Kelvin, between 0 ° C and 300 ° C, Glass Ceramic or Articles of Lead Crystal, Objects the Heading 7018, Drinking Glasses, Preserving Jars, Vacuum Flasks and other Vacuum Insulation Reservoirs Isothermal)",1,Imports,usa,United States,7553
+200805,2008-05,25,Sinaloa,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,chn,China,4108
+200805,2008-05,25,Sinaloa,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,twn,Taiwan (Region),140
+200805,2008-05,25,Sinaloa,14711719,Jewelery of Base Metal Enameling O no Precious Metal (Excl.Como Twins and Pins Simil.),1,Imports,chn,China,21382
+200805,2008-05,25,Sinaloa,14711719,Jewelery of Base Metal Enameling O no Precious Metal (Excl.Como Twins and Pins Simil.),1,Imports,kor,South Korea,147
+200805,2008-05,25,Sinaloa,14711719,Jewelery of Base Metal Enameling O no Precious Metal (Excl.Como Twins and Pins Simil.),1,Imports,usa,United States,85
+200805,2008-05,25,Sinaloa,14711790,"Jewelery (Exc. of Metal, Incl. Silver, Gold or Platinum)",1,Imports,chn,China,16332
+200805,2008-05,25,Sinaloa,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,isr,Israel,3504
+200805,2008-05,25,Sinaloa,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,twn,Taiwan (Region),6
+200805,2008-05,25,Sinaloa,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,usa,United States,2615
+200805,2008-05,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,can,Canada,17710
+200805,2008-05,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,chn,China,22909
+200805,2008-05,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,ind,India,1433
+200805,2008-05,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,phl,Philippines,1160
+200805,2008-05,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,usa,United States,15150
+200805,2008-05,25,Sinaloa,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,gbr,United Kingdom,97
+200805,2008-05,25,Sinaloa,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,1806
+200805,2008-05,25,Sinaloa,15731511,Roller Chain of Iron or Steel,1,Imports,chn,China,1
+200805,2008-05,25,Sinaloa,15731511,Roller Chain of Iron or Steel,1,Imports,fra,France,2022
+200805,2008-05,25,Sinaloa,15731511,Roller Chain of Iron or Steel,1,Imports,twn,Taiwan (Region),1075
+200805,2008-05,25,Sinaloa,15731511,Roller Chain of Iron or Steel,1,Imports,usa,United States,633
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,995
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,39
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,113
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,gbr,United Kingdom,44
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,22
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,jpn,Japan,116
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,mys,Malaysia,58
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),1507
+200805,2008-05,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,17096
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,deu,Germany,294
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,fra,France,73
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,idn,Indonesia,126
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,jpn,Japan,49
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,mys,Malaysia,8
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,twn,Taiwan (Region),14
+200805,2008-05,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,2819
+200805,2008-05,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,esp,Spain,4
+200805,2008-05,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,gbr,United Kingdom,734
+200805,2008-05,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,usa,United States,22
+200805,2008-05,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,can,Canada,12
+200805,2008-05,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,jpn,Japan,50
+200805,2008-05,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,1252
+200805,2008-05,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,chn,China,48
+200805,2008-05,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,esp,Spain,140
+200805,2008-05,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,jpn,Japan,24
+200805,2008-05,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,tur,Turkey,100
+200805,2008-05,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,7159
+200805,2008-05,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,21
+200805,2008-05,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,deu,Germany,74
+200805,2008-05,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,esp,Spain,548
+200805,2008-05,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,ita,Italy,1
+200805,2008-05,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,4482
+200805,2008-05,25,Sinaloa,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,chn,China,80729
+200805,2008-05,25,Sinaloa,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,ind,India,7526
+200805,2008-05,25,Sinaloa,15732394,"Table, Kitchen or Household Articles and Parts, Iron Salvo Cast Iron and Steel except Stainless Steel, Glazed (Excl. Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews her and others Articles of the Nature of a Practical Work, Cutlery, Spoons, Ladles, Forks etc Heading 8211 to 8215, Ornamental Articles, Sanitary Ware, Tableware)",1,Imports,chn,China,10536
+200805,2008-05,25,Sinaloa,15732394,"Table, Kitchen or Household Articles and Parts, Iron Salvo Cast Iron and Steel except Stainless Steel, Glazed (Excl. Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews her and others Articles of the Nature of a Practical Work, Cutlery, Spoons, Ladles, Forks etc Heading 8211 to 8215, Ornamental Articles, Sanitary Ware, Tableware)",1,Imports,idn,Indonesia,3475
+200805,2008-05,25,Sinaloa,15732394,"Table, Kitchen or Household Articles and Parts, Iron Salvo Cast Iron and Steel except Stainless Steel, Glazed (Excl. Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews her and others Articles of the Nature of a Practical Work, Cutlery, Spoons, Ladles, Forks etc Heading 8211 to 8215, Ornamental Articles, Sanitary Ware, Tableware)",1,Imports,twn,Taiwan (Region),1763
+200805,2008-05,25,Sinaloa,15732399,"Table, Kitchen or Household Articles and Parts, of Iron other than Cast Iron or Steel Iron your other than Stainless Steel (Exc. Esmaltado, Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels and other Items Nature of a Job Application, Cutlery, Spoons, etc of Heading 8211 to 8215, Ornamental, Household Goods)",1,Imports,chn,China,3161
+200805,2008-05,25,Sinaloa,15732399,"Table, Kitchen or Household Articles and Parts, of Iron other than Cast Iron or Steel Iron your other than Stainless Steel (Exc. Esmaltado, Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels and other Items Nature of a Job Application, Cutlery, Spoons, etc of Heading 8211 to 8215, Ornamental, Household Goods)",1,Imports,ind,India,57
+200805,2008-05,25,Sinaloa,15732410,"Sinks ""Wash Basins For"" Sinks, Stainless Steel",1,Imports,chn,China,101
+200805,2008-05,25,Sinaloa,15732410,"Sinks ""Wash Basins For"" Sinks, Stainless Steel",1,Imports,usa,United States,6302
+200805,2008-05,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chn,China,72
+200805,2008-05,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,usa,United States,8916
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,can,Canada,1218
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,chn,China,22121
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,jpn,Japan,217
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,kor,South Korea,4213
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,tha,Thailand,346
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),126
+200805,2008-05,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,usa,United States,108037
+200805,2008-05,25,Sinaloa,15761699,Aluminium Articles,1,Imports,can,Canada,6698
+200805,2008-05,25,Sinaloa,15761699,Aluminium Articles,1,Imports,chn,China,45
+200805,2008-05,25,Sinaloa,15761699,Aluminium Articles,1,Imports,esp,Spain,859
+200805,2008-05,25,Sinaloa,15761699,Aluminium Articles,1,Imports,usa,United States,20334
+200805,2008-05,25,Sinaloa,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,chn,China,2463
+200805,2008-05,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,560
+200805,2008-05,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,ind,India,1254
+200805,2008-05,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),722
+200805,2008-05,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,7646
+200805,2008-05,25,Sinaloa,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,can,Canada,425
+200805,2008-05,25,Sinaloa,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,esp,Spain,318
+200805,2008-05,25,Sinaloa,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,usa,United States,1042
+200805,2008-05,25,Sinaloa,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,vnm,Vietnam,451
+200805,2008-05,25,Sinaloa,15830241,Garrisons and Fittings for Buildings,1,Imports,esp,Spain,83099
+200805,2008-05,25,Sinaloa,15830241,Garrisons and Fittings for Buildings,1,Imports,usa,United States,7085
+200805,2008-05,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,can,Canada,525
+200805,2008-05,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,chn,China,12474
+200805,2008-05,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,cri,Costa Rica,390150
+200805,2008-05,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,esp,Spain,74336
+200805,2008-05,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,gbr,United Kingdom,49
+200805,2008-05,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,usa,United States,1517
+200805,2008-05,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,chn,China,9971
+200805,2008-05,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,jpn,Japan,184
+200805,2008-05,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,twn,Taiwan (Region),3340
+200805,2008-05,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,usa,United States,84303
+200805,2008-05,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,jpn,Japan,595
+200805,2008-05,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,usa,United States,18838
+200805,2008-05,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,twn,Taiwan (Region),8939
+200805,2008-05,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,usa,United States,63064
+200805,2008-05,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,bra,Brazil,2382
+200805,2008-05,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,usa,United States,10707
+200805,2008-05,25,Sinaloa,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,usa,United States,6585
+200805,2008-05,25,Sinaloa,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,chn,China,396
+200805,2008-05,25,Sinaloa,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,usa,United States,1569
+200805,2008-05,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,dnk,Denmark,211
+200805,2008-05,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,gbr,United Kingdom,137
+200805,2008-05,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,irl,Ireland,91
+200805,2008-05,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,nld,Netherlands,126
+200805,2008-05,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,1114
+200805,2008-05,25,Sinaloa,16841410,Bomb of Void,1,Imports,usa,United States,2607
+200805,2008-05,25,Sinaloa,16841451,"Table Fans, Floor, Wall, Ceiling, Roof, Roof or Window, Electric Motor of an Output <= 125 W",1,Imports,chn,China,415039
+200805,2008-05,25,Sinaloa,16841451,"Table Fans, Floor, Wall, Ceiling, Roof, Roof or Window, Electric Motor of an Output <= 125 W",1,Imports,usa,United States,284311
+200805,2008-05,25,Sinaloa,16841480,"Pumps and Compressors; for Air, Vacuum or Gas",1,Imports,usa,United States,15188
+200805,2008-05,25,Sinaloa,16842121,Apparatus for Filtering or Purifying Water,1,Imports,can,Canada,1087
+200805,2008-05,25,Sinaloa,16842121,Apparatus for Filtering or Purifying Water,1,Imports,mys,Malaysia,3676
+200805,2008-05,25,Sinaloa,16842121,Apparatus for Filtering or Purifying Water,1,Imports,nor,Norway,8979
+200805,2008-05,25,Sinaloa,16842121,Apparatus for Filtering or Purifying Water,1,Imports,usa,United States,11178
+200805,2008-05,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,gbr,United Kingdom,895
+200805,2008-05,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,idn,Indonesia,39
+200805,2008-05,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,isr,Israel,318
+200805,2008-05,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,jpn,Japan,538
+200805,2008-05,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,usa,United States,955
+200805,2008-05,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,gbr,United Kingdom,671
+200805,2008-05,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,9872
+200805,2008-05,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,gbr,United Kingdom,842
+200805,2008-05,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,jpn,Japan,1299
+200805,2008-05,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,phl,Philippines,201
+200805,2008-05,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,twn,Taiwan (Region),843
+200805,2008-05,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,usa,United States,2038
+200805,2008-05,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,chn,China,439
+200805,2008-05,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,gbr,United Kingdom,150
+200805,2008-05,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,19799
+200805,2008-05,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,chn,China,2796
+200805,2008-05,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,deu,Germany,1589
+200805,2008-05,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,ita,Italy,2723
+200805,2008-05,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,twn,Taiwan (Region),2774
+200805,2008-05,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,usa,United States,24114
+200805,2008-05,25,Sinaloa,16842310,"Instruments and Apparatus Weighing People, Incl Baby Scales.; Household Scales",1,Imports,chn,China,5654
+200805,2008-05,25,Sinaloa,16842381,"Instruments and Apparatus Weigh Capacity <= 30 Kg (Excl. Balances of a Sensitivity Weight <= 5 Cg, Instruments and Devices Weighing People, Scales, Domestic, Scales for Continuous Weighing of Goods on Conveyors, Scales Heavy Constant Scales and Dosing Ensacadoras O)",1,Imports,chn,China,450
+200805,2008-05,25,Sinaloa,16842381,"Instruments and Apparatus Weigh Capacity <= 30 Kg (Excl. Balances of a Sensitivity Weight <= 5 Cg, Instruments and Devices Weighing People, Scales, Domestic, Scales for Continuous Weighing of Goods on Conveyors, Scales Heavy Constant Scales and Dosing Ensacadoras O)",1,Imports,pol,Poland,444
+200805,2008-05,25,Sinaloa,16842381,"Instruments and Apparatus Weigh Capacity <= 30 Kg (Excl. Balances of a Sensitivity Weight <= 5 Cg, Instruments and Devices Weighing People, Scales, Domestic, Scales for Continuous Weighing of Goods on Conveyors, Scales Heavy Constant Scales and Dosing Ensacadoras O)",1,Imports,twn,Taiwan (Region),2650
+200805,2008-05,25,Sinaloa,16842381,"Instruments and Apparatus Weigh Capacity <= 30 Kg (Excl. Balances of a Sensitivity Weight <= 5 Cg, Instruments and Devices Weighing People, Scales, Domestic, Scales for Continuous Weighing of Goods on Conveyors, Scales Heavy Constant Scales and Dosing Ensacadoras O)",1,Imports,usa,United States,854
+200805,2008-05,25,Sinaloa,16842420,"Devices Simil Guns and Pistols. (Exc. Machinery and Electrical Appliance for Hot Metals or Sintered Metal Carbides of Heading 8515, as well as Machines and Equipment Sandblasting, Steam Jet Blasting Machines Simil.)",1,Imports,chn,China,356
+200805,2008-05,25,Sinaloa,16842420,"Devices Simil Guns and Pistols. (Exc. Machinery and Electrical Appliance for Hot Metals or Sintered Metal Carbides of Heading 8515, as well as Machines and Equipment Sandblasting, Steam Jet Blasting Machines Simil.)",1,Imports,usa,United States,13191
+200805,2008-05,25,Sinaloa,16842481,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders, Agricultural or Horticultural",1,Imports,usa,United States,150030
+200805,2008-05,25,Sinaloa,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,deu,Germany,1038
+200805,2008-05,25,Sinaloa,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,esp,Spain,609
+200805,2008-05,25,Sinaloa,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,usa,United States,2392
+200805,2008-05,25,Sinaloa,16842951,"Loaders and Loaders front Loading, Self-Propelled",1,Imports,chn,China,175366
+200805,2008-05,25,Sinaloa,16842951,"Loaders and Loaders front Loading, Self-Propelled",1,Imports,usa,United States,79289
+200805,2008-05,25,Sinaloa,16843141,"Buckets, Clamshell Bucket, Shovels and Grips, for Machines or Apparatus of Headings 8426, 8429 u 8430",1,Imports,chn,China,2888
+200805,2008-05,25,Sinaloa,16843141,"Buckets, Clamshell Bucket, Shovels and Grips, for Machines or Apparatus of Headings 8426, 8429 u 8430",1,Imports,fra,France,2948
+200805,2008-05,25,Sinaloa,16843141,"Buckets, Clamshell Bucket, Shovels and Grips, for Machines or Apparatus of Headings 8426, 8429 u 8430",1,Imports,kor,South Korea,310
+200805,2008-05,25,Sinaloa,16843141,"Buckets, Clamshell Bucket, Shovels and Grips, for Machines or Apparatus of Headings 8426, 8429 u 8430",1,Imports,usa,United States,13528
+200805,2008-05,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,fra,France,5195
+200805,2008-05,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,ita,Italy,620
+200805,2008-05,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,nld,Netherlands,856
+200805,2008-05,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,usa,United States,1226
+200805,2008-05,25,Sinaloa,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,esp,Spain,4947
+200805,2008-05,25,Sinaloa,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,fra,France,48
+200805,2008-05,25,Sinaloa,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,usa,United States,17014
+200805,2008-05,25,Sinaloa,16843680,"Machinery for Agriculture, Horticulture, Forestry or Bee, N.E.C",1,Imports,can,Canada,49096
+200805,2008-05,25,Sinaloa,16843680,"Machinery for Agriculture, Horticulture, Forestry or Bee, N.E.C",1,Imports,usa,United States,360621
+200805,2008-05,25,Sinaloa,16844332,"Single-Function Printing, Copying or Facsimile Machines, Capable of Connecting to a Data Processing Machine or to a Network",1,Imports,deu,Germany,5441
+200805,2008-05,25,Sinaloa,16844332,"Single-Function Printing, Copying or Facsimile Machines, Capable of Connecting to a Data Processing Machine or to a Network",1,Imports,emu,European Community,8898
+200805,2008-05,25,Sinaloa,16844332,"Single-Function Printing, Copying or Facsimile Machines, Capable of Connecting to a Data Processing Machine or to a Network",1,Imports,mys,Malaysia,1216
+200805,2008-05,25,Sinaloa,16844332,"Single-Function Printing, Copying or Facsimile Machines, Capable of Connecting to a Data Processing Machine or to a Network",1,Imports,tha,Thailand,1176
+200805,2008-05,25,Sinaloa,16844332,"Single-Function Printing, Copying or Facsimile Machines, Capable of Connecting to a Data Processing Machine or to a Network",1,Imports,twn,Taiwan (Region),777
+200805,2008-05,25,Sinaloa,16844332,"Single-Function Printing, Copying or Facsimile Machines, Capable of Connecting to a Data Processing Machine or to a Network",1,Imports,usa,United States,2805
+200805,2008-05,25,Sinaloa,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,jpn,Japan,12041
+200805,2008-05,25,Sinaloa,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,kor,South Korea,45
+200805,2008-05,25,Sinaloa,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,sgp,Singapore,1297
+200805,2008-05,25,Sinaloa,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,esp,Spain,2206
+200805,2008-05,25,Sinaloa,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,usa,United States,15828
+200805,2008-05,25,Sinaloa,16847010,"Electronic Calculators Capable of Operating without Source Electricity Exterior and Pocket ""Dimensions <= 170 Mm X 100 Mm X 45 Mm"" Recording, Reproducing and Displaying Data, Calculating Functions",1,Imports,chn,China,7344
+200805,2008-05,25,Sinaloa,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,chn,China,1818
+200805,2008-05,25,Sinaloa,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,tha,Thailand,697
+200805,2008-05,25,Sinaloa,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,twn,Taiwan (Region),2348
+200805,2008-05,25,Sinaloa,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,usa,United States,1149
+200805,2008-05,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,gbr,United Kingdom,15801
+200805,2008-05,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,jpn,Japan,16800
+200805,2008-05,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,twn,Taiwan (Region),899
+200805,2008-05,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,usa,United States,308421
+200805,2008-05,25,Sinaloa,16848110,Pressure Reducing Valves,1,Imports,chn,China,409
+200805,2008-05,25,Sinaloa,16848110,Pressure Reducing Valves,1,Imports,usa,United States,2217
+200805,2008-05,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,gbr,United Kingdom,1554
+200805,2008-05,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,mys,Malaysia,49
+200805,2008-05,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,usa,United States,15022
+200805,2008-05,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,esp,Spain,21998
+200805,2008-05,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,fra,France,669
+200805,2008-05,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,ita,Italy,81
+200805,2008-05,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,usa,United States,449
+200805,2008-05,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,usa,United States,5874
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,aus,Australia,128
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,can,Canada,2282
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,che,Switzerland,1170
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,1216
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,1503
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,esp,Spain,12984
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,fra,France,5706
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,isr,Israel,1856
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ita,Italy,2635
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,swe,Sweden,1351
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,twn,Taiwan (Region),34
+200805,2008-05,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,158272
+200805,2008-05,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,chn,China,1339
+200805,2008-05,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,deu,Germany,1645
+200805,2008-05,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,nld,Netherlands,226
+200805,2008-05,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,tha,Thailand,7705
+200805,2008-05,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,usa,United States,9974
+200805,2008-05,25,Sinaloa,16848210,Ball Bearings,1,Imports,chn,China,561
+200805,2008-05,25,Sinaloa,16848210,Ball Bearings,1,Imports,deu,Germany,434
+200805,2008-05,25,Sinaloa,16848210,Ball Bearings,1,Imports,jpn,Japan,201
+200805,2008-05,25,Sinaloa,16848210,Ball Bearings,1,Imports,tha,Thailand,560
+200805,2008-05,25,Sinaloa,16848210,Ball Bearings,1,Imports,usa,United States,3042
+200805,2008-05,25,Sinaloa,16848240,Needle Roller Bearings,1,Imports,ita,Italy,2133
+200805,2008-05,25,Sinaloa,16848240,Needle Roller Bearings,1,Imports,jpn,Japan,53
+200805,2008-05,25,Sinaloa,16848240,Needle Roller Bearings,1,Imports,usa,United States,498
+200805,2008-05,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,chn,China,26
+200805,2008-05,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,jpn,Japan,175
+200805,2008-05,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,usa,United States,313
+200805,2008-05,25,Sinaloa,16848299,Parts of Bearings,1,Imports,gbr,United Kingdom,115
+200805,2008-05,25,Sinaloa,16848299,Parts of Bearings,1,Imports,usa,United States,412
+200805,2008-05,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,esp,Spain,118
+200805,2008-05,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,gbr,United Kingdom,359
+200805,2008-05,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,30836
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,28
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,deu,Germany,399
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,esp,Spain,5672
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ind,India,745
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ita,Italy,1779
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,jpn,Japan,5
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,twn,Taiwan (Region),16
+200805,2008-05,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,18631
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,can,Canada,1200
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,deu,Germany,2441
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,esp,Spain,28056
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,449
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,jpn,Japan,333
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,tur,Turkey,171
+200805,2008-05,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,17877
+200805,2008-05,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,esp,Spain,296
+200805,2008-05,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,usa,United States,9742
+200805,2008-05,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,chn,China,707
+200805,2008-05,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,esp,Spain,6678
+200805,2008-05,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,ita,Italy,2700
+200805,2008-05,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,27122
+200805,2008-05,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,fra,France,328
+200805,2008-05,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ita,Italy,87
+200805,2008-05,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,jpn,Japan,47
+200805,2008-05,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,usa,United States,1283
+200805,2008-05,25,Sinaloa,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,jpn,Japan,8
+200805,2008-05,25,Sinaloa,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,swe,Sweden,931
+200805,2008-05,25,Sinaloa,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,1901
+200805,2008-05,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,can,Canada,334
+200805,2008-05,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,esp,Spain,354
+200805,2008-05,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,jpn,Japan,306
+200805,2008-05,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,twn,Taiwan (Region),36
+200805,2008-05,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,7878
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,aus,Australia,24
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,esp,Spain,117
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,gbr,United Kingdom,82
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,ita,Italy,96
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,jpn,Japan,558
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,sgp,Singapore,814
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,twn,Taiwan (Region),12189
+200805,2008-05,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,usa,United States,5634
+200805,2008-05,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,chn,China,1891
+200805,2008-05,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,jpn,Japan,283
+200805,2008-05,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,usa,United States,421
+200805,2008-05,25,Sinaloa,16851180,"Appliances and Electrical Ignition or Starting Incl. Cut-Outs, Engine Ignition or Compression (Exc. Generators, Starter Motors, Distributors, Ignition Coils, Magnets, Magnetic Flywheels and Spark Plugs)",1,Imports,chn,China,2
+200805,2008-05,25,Sinaloa,16851180,"Appliances and Electrical Ignition or Starting Incl. Cut-Outs, Engine Ignition or Compression (Exc. Generators, Starter Motors, Distributors, Ignition Coils, Magnets, Magnetic Flywheels and Spark Plugs)",1,Imports,kor,South Korea,59
+200805,2008-05,25,Sinaloa,16851180,"Appliances and Electrical Ignition or Starting Incl. Cut-Outs, Engine Ignition or Compression (Exc. Generators, Starter Motors, Distributors, Ignition Coils, Magnets, Magnetic Flywheels and Spark Plugs)",1,Imports,usa,United States,144
+200805,2008-05,25,Sinaloa,16851290,"Parts of Signalling Equipment; Electrical, Windscreen Wipers, Defrosters and Demisters",1,Imports,gbr,United Kingdom,23
+200805,2008-05,25,Sinaloa,16851290,"Parts of Signalling Equipment; Electrical, Windscreen Wipers, Defrosters and Demisters",1,Imports,usa,United States,136
+200805,2008-05,25,Sinaloa,16851310,Portable Electric Lamps Designed to Function by their own Source of Energy,1,Imports,chn,China,310
+200805,2008-05,25,Sinaloa,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,chn,China,417
+200805,2008-05,25,Sinaloa,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,usa,United States,911
+200805,2008-05,25,Sinaloa,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,can,Canada,1524
+200805,2008-05,25,Sinaloa,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,chn,China,772
+200805,2008-05,25,Sinaloa,16852580,"Television Cameras, Digital Cameras and Video",1,Imports,usa,United States,28012
+200805,2008-05,25,Sinaloa,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,can,Canada,228
+200805,2008-05,25,Sinaloa,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,chn,China,4978
+200805,2008-05,25,Sinaloa,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,usa,United States,116
+200805,2008-05,25,Sinaloa,16853110,Electrical Warning Devices Protection against Theft or fire and Simil Devices,1,Imports,chn,China,888
+200805,2008-05,25,Sinaloa,16853110,Electrical Warning Devices Protection against Theft or fire and Simil Devices,1,Imports,kor,South Korea,622
+200805,2008-05,25,Sinaloa,16853110,Electrical Warning Devices Protection against Theft or fire and Simil Devices,1,Imports,usa,United States,1510
+200805,2008-05,25,Sinaloa,16853641,"Relays, for a Voltage <= 60 V",1,Imports,chn,China,261
+200805,2008-05,25,Sinaloa,16853641,"Relays, for a Voltage <= 60 V",1,Imports,deu,Germany,103
+200805,2008-05,25,Sinaloa,16853641,"Relays, for a Voltage <= 60 V",1,Imports,usa,United States,2116
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,chn,China,190
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,cze,Czech Republic,39
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,idn,Indonesia,31
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,ita,Italy,84
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,jpn,Japan,644
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,mys,Malaysia,281
+200805,2008-05,25,Sinaloa,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,usa,United States,444
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,che,Switzerland,508
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,641
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,deu,Germany,898
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,esp,Spain,525
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,fra,France,358
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,gbr,United Kingdom,313
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,jpn,Japan,951
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,swz,Eswatini,41
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,twn,Taiwan (Region),190
+200805,2008-05,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,10031
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,1
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,fra,France,404
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,hun,Hungary,119
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,idn,Indonesia,181
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ita,Italy,604
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,nld,Netherlands,2482
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,swz,Eswatini,273
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,twn,Taiwan (Region),249
+200805,2008-05,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,5175
+200805,2008-05,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,3817
+200805,2008-05,25,Sinaloa,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,21918
+200805,2008-05,25,Sinaloa,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,idn,Indonesia,2110
+200805,2008-05,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,2313
+200805,2008-05,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,jpn,Japan,168
+200805,2008-05,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,nld,Netherlands,722
+200805,2008-05,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,tha,Thailand,30
+200805,2008-05,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,twn,Taiwan (Region),12
+200805,2008-05,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,2148
+200805,2008-05,25,Sinaloa,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,chn,China,807
+200805,2008-05,25,Sinaloa,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,esp,Spain,12654
+200805,2008-05,25,Sinaloa,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,usa,United States,294
+200805,2008-05,25,Sinaloa,17870810,"Bumpers ""Bumpers, Fenders"" and Parts Thereof, for Tractors, Motor Vehicles for the Transport Of> = 10 Persons",1,Imports,twn,Taiwan (Region),71
+200805,2008-05,25,Sinaloa,17870810,"Bumpers ""Bumpers, Fenders"" and Parts Thereof, for Tractors, Motor Vehicles for the Transport Of> = 10 Persons",1,Imports,usa,United States,1013
+200805,2008-05,25,Sinaloa,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,can,Canada,48
+200805,2008-05,25,Sinaloa,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,chn,China,1
+200805,2008-05,25,Sinaloa,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,usa,United States,5487
+200805,2008-05,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,chn,China,494
+200805,2008-05,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,ita,Italy,59
+200805,2008-05,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,twn,Taiwan (Region),1372
+200805,2008-05,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,usa,United States,7918
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,bra,Brazil,529
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,chn,China,2309
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,gbr,United Kingdom,552
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,ita,Italy,2481
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,jpn,Japan,234
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,twn,Taiwan (Region),3394
+200805,2008-05,25,Sinaloa,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,usa,United States,9381
+200805,2008-05,25,Sinaloa,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,twn,Taiwan (Region),212
+200805,2008-05,25,Sinaloa,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,usa,United States,2673
+200805,2008-05,25,Sinaloa,17870891,Radiators of Automobile Vehicles for Transportation Of> = 10 People,1,Imports,twn,Taiwan (Region),817
+200805,2008-05,25,Sinaloa,17870891,Radiators of Automobile Vehicles for Transportation Of> = 10 People,1,Imports,usa,United States,657
+200805,2008-05,25,Sinaloa,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,chn,China,140
+200805,2008-05,25,Sinaloa,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,deu,Germany,185
+200805,2008-05,25,Sinaloa,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,ita,Italy,92
+200805,2008-05,25,Sinaloa,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,twn,Taiwan (Region),687
+200805,2008-05,25,Sinaloa,17870893,"Clutches and Parts Thereof, for Tractors and Motor Vehicles, for Transport of >= 10 Persons",1,Imports,usa,United States,895
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,chn,China,3619
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,gbr,United Kingdom,407
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,ind,India,862
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,ita,Italy,770
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,kor,South Korea,43
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,tha,Thailand,754
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,twn,Taiwan (Region),5383
+200805,2008-05,25,Sinaloa,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,usa,United States,2570
+200805,2008-05,25,Sinaloa,17880390,"Parts of Aircraft and Spacecraft, and Launch Vehicles and Suborbital Vehicles, N.E.C",1,Imports,usa,United States,5846
+200805,2008-05,25,Sinaloa,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,bra,Brazil,717
+200805,2008-05,25,Sinaloa,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,can,Canada,43
+200805,2008-05,25,Sinaloa,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,1710
+200805,2008-05,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,che,Switzerland,64
+200805,2008-05,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,1275
+200805,2008-05,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,3016
+200805,2008-05,25,Sinaloa,18903210,Thermostats Regulating or Control,1,Imports,jpn,Japan,340
+200805,2008-05,25,Sinaloa,18903210,Thermostats Regulating or Control,1,Imports,usa,United States,374
+200805,2008-05,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,382
+200805,2008-05,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,esp,Spain,1679
+200805,2008-05,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,ita,Italy,517
+200805,2008-05,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,jpn,Japan,5010
+200805,2008-05,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,8424
+200805,2008-05,25,Sinaloa,18910211,"Wristwatches, Electric, Incl. with Built-In Timer with Mechanical Display only (Excl. of Precious Metal or Clad with Precious Metal ""Plaqué"")",1,Imports,chn,China,7820
+200805,2008-05,25,Sinaloa,18910211,"Wristwatches, Electric, Incl. with Built-In Timer with Mechanical Display only (Excl. of Precious Metal or Clad with Precious Metal ""Plaqué"")",1,Imports,jpn,Japan,45011
+200805,2008-05,25,Sinaloa,18910211,"Wristwatches, Electric, Incl. with Built-In Timer with Mechanical Display only (Excl. of Precious Metal or Clad with Precious Metal ""Plaqué"")",1,Imports,tha,Thailand,2094
+200805,2008-05,25,Sinaloa,18910521,"Clocks, Electric",1,Imports,chn,China,8887
+200805,2008-05,25,Sinaloa,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,chn,China,64719
+200805,2008-05,25,Sinaloa,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,usa,United States,6427
+200805,2008-05,25,Sinaloa,20940161,"Seats with Wooden Frames, with Relleno",1,Imports,vnm,Vietnam,91
+200805,2008-05,25,Sinaloa,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,chn,China,77843
+200805,2008-05,25,Sinaloa,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,usa,United States,2470
+200805,2008-05,25,Sinaloa,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,chn,China,14586
+200805,2008-05,25,Sinaloa,20940180,"Seats, N.E.C",1,Imports,chn,China,68434
+200805,2008-05,25,Sinaloa,20940180,"Seats, N.E.C",1,Imports,twn,Taiwan (Region),20927
+200805,2008-05,25,Sinaloa,20940320,Muebles de Metal,1,Imports,chn,China,281582
+200805,2008-05,25,Sinaloa,20940320,Muebles de Metal,1,Imports,twn,Taiwan (Region),2780
+200805,2008-05,25,Sinaloa,20940320,Muebles de Metal,1,Imports,usa,United States,42664
+200805,2008-05,25,Sinaloa,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,can,Canada,18792
+200805,2008-05,25,Sinaloa,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,chn,China,4779
+200805,2008-05,25,Sinaloa,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,usa,United States,33287
+200805,2008-05,25,Sinaloa,20940350,Wooden Furniture of a Kind Used in Bedrooms,1,Imports,vnm,Vietnam,2355
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,bra,Brazil,38421
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,can,Canada,1130
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,chn,China,45375
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,mys,Malaysia,282240
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,twn,Taiwan (Region),18166
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,usa,United States,4386
+200805,2008-05,25,Sinaloa,20940360,Wooden Furniture,1,Imports,vnm,Vietnam,427
+200805,2008-05,25,Sinaloa,20940370,"Plastic Furniture (Excl. Seats and Medical, Surgical, Dental or Veterinary)",1,Imports,chn,China,57316
+200805,2008-05,25,Sinaloa,20940370,"Plastic Furniture (Excl. Seats and Medical, Surgical, Dental or Veterinary)",1,Imports,usa,United States,21601
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,can,Canada,84
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,chn,China,1514
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,esp,Spain,3399
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,mys,Malaysia,72
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,twn,Taiwan (Region),271
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,usa,United States,165552
+200805,2008-05,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,vnm,Vietnam,144
+200805,2008-05,25,Sinaloa,20940600,"Prefabricated Buildings, Incl. Incomplete or Non-Assembled",1,Imports,esp,Spain,2922827
+200805,2008-05,25,Sinaloa,20940600,"Prefabricated Buildings, Incl. Incomplete or Non-Assembled",1,Imports,nld,Netherlands,214838
+200805,2008-05,25,Sinaloa,20940600,"Prefabricated Buildings, Incl. Incomplete or Non-Assembled",1,Imports,usa,United States,403005
+200805,2008-05,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,can,Canada,26
+200805,2008-05,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,chn,China,98741
+200805,2008-05,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,esp,Spain,61758
+200805,2008-05,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,twn,Taiwan (Region),31246
+200805,2008-05,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,usa,United States,185193
+200805,2008-05,25,Sinaloa,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,chn,China,540
+200805,2008-05,25,Sinaloa,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,cri,Costa Rica,190
+200805,2008-05,25,Sinaloa,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,jpn,Japan,105
+200805,2008-05,25,Sinaloa,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,kor,South Korea,109
+200805,2008-05,25,Sinaloa,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,slv,El Salvador,622
+200805,2008-05,25,Sinaloa,20950720,"Fishhooks, Incl. Assembled in Sedal ""Tanza""",1,Imports,usa,United States,1164
+200805,2008-05,25,Sinaloa,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,usa,United States,15972
+200805,2008-05,25,Sinaloa,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,can,Canada,74
+200805,2008-05,25,Sinaloa,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,usa,United States,419
+200805,2008-05,25,Sinaloa,20960400,Sieves and Hand Riddles (Excl. Colanders),1,Imports,chn,China,837
+200805,2008-05,25,Sinaloa,20960400,Sieves and Hand Riddles (Excl. Colanders),1,Imports,usa,United States,555
+200805,2008-05,25,Sinaloa,20961100,"Daters, Stamps, Numerators, Stamping and Similar Articles, Incl Devices for Printing Labels, Hand..; Compositors and Daters, Hand",1,Imports,chn,China,522
+200805,2008-05,25,Sinaloa,20961100,"Daters, Stamps, Numerators, Stamping and Similar Articles, Incl Devices for Printing Labels, Hand..; Compositors and Daters, Hand",1,Imports,usa,United States,228
+200805,2008-05,25,Sinaloa,20961700,Isothermal Flasks and other Containers Mounted Vacuum Insulation and Parts Thereof (Excl Anpollas Vidreo),1,Imports,chn,China,474
+200805,2008-05,25,Sinaloa,2070200,Tomatoes Fresh or Chilled,2,Exports,usa,United States,35335275
+200805,2008-05,25,Sinaloa,2070700,"Cucumbers and Gherkins, Fresh or Chilled",2,Exports,usa,United States,4209009
+200805,2008-05,25,Sinaloa,2070930,"Eggplants, Fresh or Chilled",2,Exports,usa,United States,2540268
+200805,2008-05,25,Sinaloa,2070960,"Fruits of the Genus Capsicum or of the Genus Pimenta, Fresh or Chilled",2,Exports,usa,United States,15262736
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,are,United Arab Emirates,134089
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,col,Colombia,246739
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,dza,Algeria,225638
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,esp,Spain,742423
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,isr,Israel,89500
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,ita,Italy,44696
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,kwt,Kuwait,202929
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,prt,Portugal,68098
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,sgp,Singapore,670443
+200805,2008-05,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,tun,Tunisia,113496
+200805,2008-05,25,Sinaloa,2080450,"Guava, Mangoes and Mangosteens, Fresh or Dried",2,Exports,can,Canada,20280
+200805,2008-05,25,Sinaloa,2080450,"Guava, Mangoes and Mangosteens, Fresh or Dried",2,Exports,jpn,Japan,86180
+200805,2008-05,25,Sinaloa,2080450,"Guava, Mangoes and Mangosteens, Fresh or Dried",2,Exports,usa,United States,855595
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,atg,Antigua and Barbuda,149816
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,bhs,Bahamas,41359
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,blz,Belize,54277
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,chl,Chile,48978
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,col,Colombia,2563849
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,deu,Germany,419083
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,dnk,Denmark,93601
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,idn,Indonesia,77287
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,ita,Italy,495000
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,lbr,Liberia,95000
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,mlt,Malta,51860
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,nic,Nicaragua,53818
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,pan,Panama,811827
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,phl,Philippines,19815
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,sgp,Singapore,297000
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,ury,Uruguay,56510
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,usa,United States,746234
+200805,2008-05,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",2,Exports,ven,Venezuela,251087

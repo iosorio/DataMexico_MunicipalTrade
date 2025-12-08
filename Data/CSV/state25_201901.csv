@@ -1,0 +1,817 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+201901,2019-01,25,Sinaloa,1020714,"Cuts and Edible Offal, Gallo O Gallina, Domesticus, Frozen",1,Imports,usa,United States,268846
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,aus,Australia,86035
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,chl,Chile,966928
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,chn,China,158891
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,dnk,Denmark,464071
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,esp,Spain,336809
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,fra,France,48808
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,gtm,Guatemala,62415
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,ind,India,45213
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,isr,Israel,185823
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,ita,Italy,12
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,nld,Netherlands,1182535
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,per,Peru,468011
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,tha,Thailand,805680
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,usa,United States,196636
+201901,2019-01,25,Sinaloa,2120991,Vegetable Seeds for Sowing,1,Imports,vnm,Vietnam,362046
+201901,2019-01,25,Sinaloa,4230990,Preparations of a Kind Used for Feeding the Animals,1,Imports,fra,France,4425
+201901,2019-01,25,Sinaloa,4230990,Preparations of a Kind Used for Feeding the Animals,1,Imports,usa,United States,209699
+201901,2019-01,25,Sinaloa,5270300,"Turba, Including Peat Litter, Incl. Chipboards",1,Imports,can,Canada,132772
+201901,2019-01,25,Sinaloa,5270300,"Turba, Including Peat Litter, Incl. Chipboards",1,Imports,est,Estonia,84480
+201901,2019-01,25,Sinaloa,5270300,"Turba, Including Peat Litter, Incl. Chipboards",1,Imports,lva,Latvia,108847
+201901,2019-01,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,can,Canada,72959
+201901,2019-01,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,esp,Spain,63
+201901,2019-01,25,Sinaloa,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,usa,United States,118713
+201901,2019-01,25,Sinaloa,6310590,"Mineral or Chemical Fertilizers, Containing the two Elements Fertilizers Nitrogen and Potassium or Containing a Single Element Fertilizer Principal",1,Imports,chn,China,1174500
+201901,2019-01,25,Sinaloa,6310590,"Mineral or Chemical Fertilizers, Containing the two Elements Fertilizers Nitrogen and Potassium or Containing a Single Element Fertilizer Principal",1,Imports,esp,Spain,35360
+201901,2019-01,25,Sinaloa,6310590,"Mineral or Chemical Fertilizers, Containing the two Elements Fertilizers Nitrogen and Potassium or Containing a Single Element Fertilizer Principal",1,Imports,usa,United States,93607
+201901,2019-01,25,Sinaloa,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,chn,China,142662
+201901,2019-01,25,Sinaloa,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,usa,United States,38218
+201901,2019-01,25,Sinaloa,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,can,Canada,4341
+201901,2019-01,25,Sinaloa,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,twn,Taiwan (Region),2643
+201901,2019-01,25,Sinaloa,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,usa,United States,25824
+201901,2019-01,25,Sinaloa,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,chn,China,93
+201901,2019-01,25,Sinaloa,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,usa,United States,62135
+201901,2019-01,25,Sinaloa,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,usa,United States,21931
+201901,2019-01,25,Sinaloa,6380891,Insecticides,1,Imports,esp,Spain,407923
+201901,2019-01,25,Sinaloa,6380891,Insecticides,1,Imports,usa,United States,67253
+201901,2019-01,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,aus,Australia,195099
+201901,2019-01,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,can,Canada,38463
+201901,2019-01,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,deu,Germany,35550
+201901,2019-01,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,esp,Spain,1229687
+201901,2019-01,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,tur,Turkey,27613
+201901,2019-01,25,Sinaloa,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,267223
+201901,2019-01,25,Sinaloa,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,ita,Italy,10326
+201901,2019-01,25,Sinaloa,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,usa,United States,3394
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,chn,China,894
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,esp,Spain,4
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,fra,France,1871
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,gbr,United Kingdom,40
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,isr,Israel,8632
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,ita,Italy,4653
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,jpn,Japan,49
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,twn,Taiwan (Region),155
+201901,2019-01,25,Sinaloa,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,78187
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,chn,China,52120
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,esp,Spain,28
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,ita,Italy,1728
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,twn,Taiwan (Region),1100
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,ury,Uruguay,275
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,57007
+201901,2019-01,25,Sinaloa,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,can,Canada,12870
+201901,2019-01,25,Sinaloa,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,chn,China,68373
+201901,2019-01,25,Sinaloa,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,usa,United States,239926
+201901,2019-01,25,Sinaloa,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,can,Canada,8928
+201901,2019-01,25,Sinaloa,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,esp,Spain,45322
+201901,2019-01,25,Sinaloa,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,fra,France,271514
+201901,2019-01,25,Sinaloa,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,grc,Greece,484755
+201901,2019-01,25,Sinaloa,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,isr,Israel,152760
+201901,2019-01,25,Sinaloa,7392020,"Plastics of Polymers of Propylene, Plates, Sheets, Film, Foil and Strip (Not Self-Adhesive), Non-Cellular and not Reinforced, Laminated, Supported or Similarly Combined with other Materials",1,Imports,esp,Spain,9002
+201901,2019-01,25,Sinaloa,7392020,"Plastics of Polymers of Propylene, Plates, Sheets, Film, Foil and Strip (Not Self-Adhesive), Non-Cellular and not Reinforced, Laminated, Supported or Similarly Combined with other Materials",1,Imports,tha,Thailand,1100
+201901,2019-01,25,Sinaloa,7392020,"Plastics of Polymers of Propylene, Plates, Sheets, Film, Foil and Strip (Not Self-Adhesive), Non-Cellular and not Reinforced, Laminated, Supported or Similarly Combined with other Materials",1,Imports,usa,United States,8890
+201901,2019-01,25,Sinaloa,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,chn,China,71480
+201901,2019-01,25,Sinaloa,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,isr,Israel,24358
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,aus,Australia,112
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,can,Canada,38473
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,chn,China,352
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,esp,Spain,48
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,usa,United States,1719762
+201901,2019-01,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,chn,China,57161
+201901,2019-01,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,isr,Israel,133752
+201901,2019-01,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,usa,United States,80006
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,bra,Brazil,12
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,can,Canada,4608
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,chn,China,223434
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,gtm,Guatemala,32471
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,usa,United States,278335
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,vnm,Vietnam,127404
+201901,2019-01,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,chn,China,3139
+201901,2019-01,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,esp,Spain,169
+201901,2019-01,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,mys,Malaysia,6338
+201901,2019-01,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,ury,Uruguay,169
+201901,2019-01,25,Sinaloa,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,usa,United States,21495
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,can,Canada,3469
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,421
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,deu,Germany,11
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,esp,Spain,489
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,fra,France,17
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,gbr,United Kingdom,62
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,kor,South Korea,4
+201901,2019-01,25,Sinaloa,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,4605
+201901,2019-01,25,Sinaloa,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,usa,United States,53247
+201901,2019-01,25,Sinaloa,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,chn,China,25114
+201901,2019-01,25,Sinaloa,7392410,Tableware and other Articles for Table or Kitchen Plastic,1,Imports,usa,United States,4346
+201901,2019-01,25,Sinaloa,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,chn,China,33985
+201901,2019-01,25,Sinaloa,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,usa,United States,158
+201901,2019-01,25,Sinaloa,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,chn,China,362120
+201901,2019-01,25,Sinaloa,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,dom,Dominican Republic,2142
+201901,2019-01,25,Sinaloa,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,esp,Spain,100
+201901,2019-01,25,Sinaloa,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,gtm,Guatemala,807
+201901,2019-01,25,Sinaloa,7392620,"Articles of Apparel and Clothing Accessories Produced by the Stitching or Sticking together of Plastic Sheeting, Incl. Gloves, Mittens and Mitts (Exc. Products of 9619)",1,Imports,tha,Thailand,38
+201901,2019-01,25,Sinaloa,7392640,"Statuettes and other Ornaments, Plastic",1,Imports,chn,China,155245
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,aut,Austria,33
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,bra,Brazil,192
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,can,Canada,1349
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,968785
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,col,Colombia,65
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,deu,Germany,20
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,esp,Spain,1
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,fra,France,7622
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,gbr,United Kingdom,334
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,isr,Israel,3
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,ita,Italy,349
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,jpn,Japan,17204
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,8
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,mmr,Burma,55510
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,nld,Netherlands,196
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,nzl,New Zealand,2475
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,pol,Poland,197
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,tur,Turkey,5479
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,twn,Taiwan (Region),7435
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,150289
+201901,2019-01,25,Sinaloa,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,ind,India,151
+201901,2019-01,25,Sinaloa,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,usa,United States,1884
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,can,Canada,8352
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,1374
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,3527
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,esp,Spain,1224
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,gbr,United Kingdom,218
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,2655
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,kor,South Korea,13
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,mlt,Malta,6
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,nld,Netherlands,26
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,tha,Thailand,1605
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),2892
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,16306
+201901,2019-01,25,Sinaloa,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,vnm,Vietnam,33
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,11877
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,deu,Germany,4
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,gbr,United Kingdom,250
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,hkg,Hong Kong,9
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ita,Italy,14
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,jpn,Japan,21692
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,tha,Thailand,3029
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,twn,Taiwan (Region),47
+201901,2019-01,25,Sinaloa,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,25877
+201901,2019-01,25,Sinaloa,8420212,"Trunks, Suitcases ""Suitcases"", Briefcases, Incl. those of Vanity-Cases, Portfolios ""Handbags"", Satchels and Similar Containers., with Outer Surface of Plastics or of Textile Materials",1,Imports,chn,China,2779101
+201901,2019-01,25,Sinaloa,8420212,"Trunks, Suitcases ""Suitcases"", Briefcases, Incl. those of Vanity-Cases, Portfolios ""Handbags"", Satchels and Similar Containers., with Outer Surface of Plastics or of Textile Materials",1,Imports,usa,United States,5
+201901,2019-01,25,Sinaloa,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,chn,China,793682
+201901,2019-01,25,Sinaloa,10481910,Boxes Corrugated Paperboard,1,Imports,esp,Spain,60
+201901,2019-01,25,Sinaloa,10481910,Boxes Corrugated Paperboard,1,Imports,usa,United States,1251318
+201901,2019-01,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,can,Canada,529
+201901,2019-01,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,esp,Spain,88
+201901,2019-01,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,hkg,Hong Kong,990
+201901,2019-01,25,Sinaloa,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,2305
+201901,2019-01,25,Sinaloa,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,usa,United States,6420
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,chn,China,2
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,col,Colombia,12
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,deu,Germany,176
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,esp,Spain,22
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,gbr,United Kingdom,330
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,ind,India,7
+201901,2019-01,25,Sinaloa,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,usa,United States,33399
+201901,2019-01,25,Sinaloa,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,fra,France,18
+201901,2019-01,25,Sinaloa,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,36907
+201901,2019-01,25,Sinaloa,10490890,Decalcomanias (Exc. Vitrifiable),1,Imports,hnd,Honduras,1214
+201901,2019-01,25,Sinaloa,10490890,Decalcomanias (Exc. Vitrifiable),1,Imports,usa,United States,44
+201901,2019-01,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,bra,Brazil,10
+201901,2019-01,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,chn,China,115
+201901,2019-01,25,Sinaloa,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,esp,Spain,210
+201901,2019-01,25,Sinaloa,10491199,Printed,1,Imports,chn,China,233943
+201901,2019-01,25,Sinaloa,10491199,Printed,1,Imports,usa,United States,11751
+201901,2019-01,25,Sinaloa,11560811,"Knotted Netting, made up Fishing, of Artificial Textile Materials (Exc. those Used for Angling)",1,Imports,esp,Spain,143145
+201901,2019-01,25,Sinaloa,11560811,"Knotted Netting, made up Fishing, of Artificial Textile Materials (Exc. those Used for Angling)",1,Imports,per,Peru,456250
+201901,2019-01,25,Sinaloa,11560811,"Knotted Netting, made up Fishing, of Artificial Textile Materials (Exc. those Used for Angling)",1,Imports,tha,Thailand,100302
+201901,2019-01,25,Sinaloa,11560811,"Knotted Netting, made up Fishing, of Artificial Textile Materials (Exc. those Used for Angling)",1,Imports,twn,Taiwan (Region),72468
+201901,2019-01,25,Sinaloa,11560811,"Knotted Netting, made up Fishing, of Artificial Textile Materials (Exc. those Used for Angling)",1,Imports,vnm,Vietnam,133360
+201901,2019-01,25,Sinaloa,11630260,"Toilet Linen and Kitchen Linen, of Terry Fabrics, Toweling, of Cotton (Excl. Dishcloths, Dusters and Similar Articles. Cleaning Waxing, Lighten, Dusting, Etc.)",1,Imports,chn,China,61968
+201901,2019-01,25,Sinaloa,11630260,"Toilet Linen and Kitchen Linen, of Terry Fabrics, Toweling, of Cotton (Excl. Dishcloths, Dusters and Similar Articles. Cleaning Waxing, Lighten, Dusting, Etc.)",1,Imports,col,Colombia,85718
+201901,2019-01,25,Sinaloa,11630260,"Toilet Linen and Kitchen Linen, of Terry Fabrics, Toweling, of Cotton (Excl. Dishcloths, Dusters and Similar Articles. Cleaning Waxing, Lighten, Dusting, Etc.)",1,Imports,usa,United States,124
+201901,2019-01,25,Sinaloa,11630790,"Textile Articles, Assembled",1,Imports,chn,China,37194
+201901,2019-01,25,Sinaloa,11630790,"Textile Articles, Assembled",1,Imports,usa,United States,22581
+201901,2019-01,25,Sinaloa,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,bgd,Bangladesh,6550
+201901,2019-01,25,Sinaloa,12650500,"Hats and other Headgear, Knitted or Crocheted, Felt or other Textile Fabric, in the Piece (But not in Strips), even Plastering; Hairnets of any Material, whether Plastering (Excl. Hooves, and Toys & Hats Carnival)",1,Imports,chn,China,46196
+201901,2019-01,25,Sinaloa,12670210,"Flowers, Foliage and Fruit Artificial Parts Thereof; made of Artificial Flowers, Foliage or Fruit Artificial by Binding, Glueing, Fitting into Similar Articles or other Procedures., Plastic",1,Imports,chn,China,148253
+201901,2019-01,25,Sinaloa,12670290,"Flowers, Foliage and Fruit Artificial Parts Thereof; made of Artificial Flowers, Foliage or Fruit Artificial by Binding, Glueing, Fitting into Similar Articles or other Procedures. (Exc. Plastic)",1,Imports,chn,China,119576
+201901,2019-01,25,Sinaloa,13691200,"Kitchenware, other Household Articles, Sanitary Ware Differently Ceramic Porcelain (Exc Baths, Bidets, Sinks and Appliances Fixed Simil .; Statuettes and other Ornaments;.. Cántaros, Carboys and Vessels Simile Conveyance or Packing , Coffee Grinders and Spices with Ceramic Vessels and Working Parts of Metal)",1,Imports,chn,China,182846
+201901,2019-01,25,Sinaloa,13691200,"Kitchenware, other Household Articles, Sanitary Ware Differently Ceramic Porcelain (Exc Baths, Bidets, Sinks and Appliances Fixed Simil .; Statuettes and other Ornaments;.. Cántaros, Carboys and Vessels Simile Conveyance or Packing , Coffee Grinders and Spices with Ceramic Vessels and Working Parts of Metal)",1,Imports,tha,Thailand,47749
+201901,2019-01,25,Sinaloa,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,chn,China,343867
+201901,2019-01,25,Sinaloa,13691390,"Statuettes and other Ornamental Ceramic Porcelain Distinta, N.E.C",1,Imports,hkg,Hong Kong,1162
+201901,2019-01,25,Sinaloa,13700992,"Glass Mirrors, Framed (Excl. Mirrors Mirrors for Vehicles, Mirrors Optical Glass and Mirrors Optically Processed more than 100 Years)",1,Imports,chn,China,485290
+201901,2019-01,25,Sinaloa,13701399,"Articles of Glass, Toilet, Office, Indoor Decoration or Similar Purposes. (Exc. of Lead Crystal, Glassware for Table or Kitchen Purposes, Articles of Heading 7018, Mirrors, Artistic Stained Glass, Lighting Fixtures and Parts and Perfume Atomizers)",1,Imports,chn,China,78519
+201901,2019-01,25,Sinaloa,15730719,"Pipe Fittings, of Iron or Steel, Cast (Excl. Non-Malleable Cast)",1,Imports,usa,United States,2565
+201901,2019-01,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,col,Colombia,3021
+201901,2019-01,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,fra,France,64
+201901,2019-01,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,twn,Taiwan (Region),251
+201901,2019-01,25,Sinaloa,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,usa,United States,2494
+201901,2019-01,25,Sinaloa,15730830,"Doors, Windows and their Frames and Thresholds, of Iron or Steel",1,Imports,chn,China,55885
+201901,2019-01,25,Sinaloa,15730830,"Doors, Windows and their Frames and Thresholds, of Iron or Steel",1,Imports,usa,United States,1951
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,bra,Brazil,46
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,can,Canada,131
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,22374
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,11
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,483
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,fra,France,98
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,gbr,United Kingdom,74
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,irl,Ireland,46
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,isr,Israel,2
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,86
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,jpn,Japan,5495
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,kor,South Korea,36
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,nld,Netherlands,26
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),2564
+201901,2019-01,25,Sinaloa,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,12885
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,can,Canada,224
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,chn,China,4238
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,esp,Spain,692
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,gbr,United Kingdom,159
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,ita,Italy,112
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,twn,Taiwan (Region),56
+201901,2019-01,25,Sinaloa,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,4152
+201901,2019-01,25,Sinaloa,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,fra,France,25
+201901,2019-01,25,Sinaloa,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,150
+201901,2019-01,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,chn,China,1
+201901,2019-01,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,deu,Germany,31
+201901,2019-01,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,gbr,United Kingdom,25
+201901,2019-01,25,Sinaloa,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,usa,United States,149
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,bra,Brazil,85
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,can,Canada,2829
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,chn,China,567
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,deu,Germany,20
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,esp,Spain,48
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,gbr,United Kingdom,2
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,ind,India,16
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,ita,Italy,15
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,jpn,Japan,54
+201901,2019-01,25,Sinaloa,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,3249
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,bra,Brazil,2
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,can,Canada,1345
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,chn,China,11064
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,esp,Spain,15
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,jpn,Japan,1236
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,kor,South Korea,2
+201901,2019-01,25,Sinaloa,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,2011
+201901,2019-01,25,Sinaloa,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,tha,Thailand,4
+201901,2019-01,25,Sinaloa,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,1606
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,bra,Brazil,1
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,can,Canada,999
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,64
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,gbr,United Kingdom,9
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,jpn,Japan,2495
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,kor,South Korea,4
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,tha,Thailand,99
+201901,2019-01,25,Sinaloa,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,7041
+201901,2019-01,25,Sinaloa,15732393,"Table, Kitchen or other Household Articles and Parts, Stainless Steel (Except Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels, Corkscrews and other Articles of the Nature of a Practical Work, the Articles of Cutlery, Spoons, Forks, etc of Heading 8211 to 8215, Ornamental Items, Household Goods)",1,Imports,chn,China,97619
+201901,2019-01,25,Sinaloa,15732399,"Table, Kitchen or Household Articles and Parts, of Iron other than Cast Iron or Steel Iron your other than Stainless Steel (Exc. Esmaltado, Cans, Boxes and Similar Containers of Heading 7310, Waste Baskets, Shovels and other Items Nature of a Job Application, Cutlery, Spoons, etc of Heading 8211 to 8215, Ornamental, Household Goods)",1,Imports,chn,China,17380
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,bra,Brazil,17
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chn,China,3854
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,deu,Germany,31
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,gbr,United Kingdom,14
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,ind,India,20
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,jpn,Japan,67
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,kor,South Korea,1
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,tur,Turkey,574
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,twn,Taiwan (Region),888
+201901,2019-01,25,Sinaloa,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,usa,United States,17132
+201901,2019-01,25,Sinaloa,15732620,"Articles of Iron or Steel, Nes",1,Imports,col,Colombia,69
+201901,2019-01,25,Sinaloa,15732620,"Articles of Iron or Steel, Nes",1,Imports,usa,United States,20051
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,bra,Brazil,16
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,can,Canada,6116
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,chn,China,158425
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,col,Colombia,162
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,153
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,esp,Spain,92
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,isr,Israel,375
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,jpn,Japan,8847
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,nld,Netherlands,1743
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,pol,Poland,2525
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,tur,Turkey,29
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),13373
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,ury,Uruguay,24
+201901,2019-01,25,Sinaloa,15732690,Articles of Iron or Steel,1,Imports,usa,United States,209116
+201901,2019-01,25,Sinaloa,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,chn,China,421
+201901,2019-01,25,Sinaloa,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,ita,Italy,1966
+201901,2019-01,25,Sinaloa,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,twn,Taiwan (Region),69
+201901,2019-01,25,Sinaloa,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,usa,United States,1197
+201901,2019-01,25,Sinaloa,15741999,Articles of Copper,1,Imports,aut,Austria,94
+201901,2019-01,25,Sinaloa,15741999,Articles of Copper,1,Imports,chn,China,10
+201901,2019-01,25,Sinaloa,15741999,Articles of Copper,1,Imports,gbr,United Kingdom,1869
+201901,2019-01,25,Sinaloa,15741999,Articles of Copper,1,Imports,usa,United States,409
+201901,2019-01,25,Sinaloa,15760820,Aluminum Alloy Pipes (Exc. Hollow Profiles),1,Imports,deu,Germany,6
+201901,2019-01,25,Sinaloa,15760820,Aluminum Alloy Pipes (Exc. Hollow Profiles),1,Imports,fra,France,1246
+201901,2019-01,25,Sinaloa,15760820,Aluminum Alloy Pipes (Exc. Hollow Profiles),1,Imports,usa,United States,80
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,gbr,United Kingdom,1346
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,ita,Italy,73
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,kor,South Korea,165
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,nld,Netherlands,487
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,pol,Poland,466
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,pri,Puerto Rico,6850
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,tha,Thailand,3048
+201901,2019-01,25,Sinaloa,15761699,Aluminium Articles,1,Imports,usa,United States,7873
+201901,2019-01,25,Sinaloa,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,chn,China,113
+201901,2019-01,25,Sinaloa,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,twn,Taiwan (Region),475
+201901,2019-01,25,Sinaloa,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,usa,United States,24
+201901,2019-01,25,Sinaloa,15820540,Screwdrivers Hand,1,Imports,chn,China,38420
+201901,2019-01,25,Sinaloa,15820540,Screwdrivers Hand,1,Imports,usa,United States,116
+201901,2019-01,25,Sinaloa,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,chn,China,9943
+201901,2019-01,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,che,Switzerland,2313
+201901,2019-01,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,1342
+201901,2019-01,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,isr,Israel,555
+201901,2019-01,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,jpn,Japan,760
+201901,2019-01,25,Sinaloa,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,3864
+201901,2019-01,25,Sinaloa,15821110,Different Sets of Knives of Heading 8211; Games the Knives of Heading 8211 Number on the other Articles,1,Imports,chn,China,50393
+201901,2019-01,25,Sinaloa,15830170,"Keys are Presented Separately, for Padlocks, Locks, Clasps and Frames with Clasps Locks, of Base Metal",1,Imports,chn,China,364
+201901,2019-01,25,Sinaloa,15830170,"Keys are Presented Separately, for Padlocks, Locks, Clasps and Frames with Clasps Locks, of Base Metal",1,Imports,usa,United States,9
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,can,Canada,6189
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,chn,China,1755
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,cri,Costa Rica,139205
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,gbr,United Kingdom,79
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,ita,Italy,289
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,kor,South Korea,5
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,pol,Poland,98
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,prt,Portugal,262
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,rus,Russia,136
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",1,Imports,usa,United States,28219
+201901,2019-01,25,Sinaloa,16840910,"Parts Suitable for Use Solely or Principally with Piston Engines ""Piston"" Aviation, N.E.C",1,Imports,usa,United States,11035
+201901,2019-01,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,chn,China,44643
+201901,2019-01,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,ind,India,117
+201901,2019-01,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,jpn,Japan,55817
+201901,2019-01,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,tha,Thailand,18591
+201901,2019-01,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,twn,Taiwan (Region),260
+201901,2019-01,25,Sinaloa,16840991,Parts of Piston Engines,1,Imports,usa,United States,61095
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,chn,China,11713
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,esp,Spain,2229
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,gbr,United Kingdom,1600
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,ind,India,35
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,ita,Italy,360
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,jpn,Japan,4529
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,tur,Turkey,171
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,twn,Taiwan (Region),112
+201901,2019-01,25,Sinaloa,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,usa,United States,137127
+201901,2019-01,25,Sinaloa,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,can,Canada,3478
+201901,2019-01,25,Sinaloa,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,esp,Spain,55000
+201901,2019-01,25,Sinaloa,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,usa,United States,1325
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,chn,China,2369
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,deu,Germany,106
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,ind,India,120
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,ita,Italy,147
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,tha,Thailand,41
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,tur,Turkey,108
+201901,2019-01,25,Sinaloa,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,usa,United States,10938
+201901,2019-01,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,can,Canada,8153
+201901,2019-01,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,chn,China,10035
+201901,2019-01,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,deu,Germany,13831
+201901,2019-01,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,ita,Italy,1149
+201901,2019-01,25,Sinaloa,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,usa,United States,4534
+201901,2019-01,25,Sinaloa,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,jpn,Japan,46171
+201901,2019-01,25,Sinaloa,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,usa,United States,45460
+201901,2019-01,25,Sinaloa,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,ita,Italy,374
+201901,2019-01,25,Sinaloa,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,usa,United States,1912
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,can,Canada,7867
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,chn,China,358
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,deu,Germany,400
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,gbr,United Kingdom,8733
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,ita,Italy,1089
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,jpn,Japan,6336
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,tha,Thailand,21
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,tur,Turkey,34
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,twn,Taiwan (Region),70
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,50053
+201901,2019-01,25,Sinaloa,16841391,Parts of Pumps for Liquids,1,Imports,vnm,Vietnam,228
+201901,2019-01,25,Sinaloa,16841420,"Air Pumps, Hand or Foot",1,Imports,chn,China,33632
+201901,2019-01,25,Sinaloa,16841420,"Air Pumps, Hand or Foot",1,Imports,twn,Taiwan (Region),432
+201901,2019-01,25,Sinaloa,16841420,"Air Pumps, Hand or Foot",1,Imports,usa,United States,2330
+201901,2019-01,25,Sinaloa,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,chn,China,434978
+201901,2019-01,25,Sinaloa,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,deu,Germany,1561
+201901,2019-01,25,Sinaloa,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,ita,Italy,32851
+201901,2019-01,25,Sinaloa,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,usa,United States,1914
+201901,2019-01,25,Sinaloa,16841480,"Pumps and Compressors; for Air, Vacuum or Gas",1,Imports,chn,China,66693
+201901,2019-01,25,Sinaloa,16841480,"Pumps and Compressors; for Air, Vacuum or Gas",1,Imports,idn,Indonesia,2318
+201901,2019-01,25,Sinaloa,16841480,"Pumps and Compressors; for Air, Vacuum or Gas",1,Imports,twn,Taiwan (Region),1477
+201901,2019-01,25,Sinaloa,16841480,"Pumps and Compressors; for Air, Vacuum or Gas",1,Imports,usa,United States,63961
+201901,2019-01,25,Sinaloa,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,chn,China,4638
+201901,2019-01,25,Sinaloa,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,gbr,United Kingdom,232
+201901,2019-01,25,Sinaloa,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,ita,Italy,747
+201901,2019-01,25,Sinaloa,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,pol,Poland,123
+201901,2019-01,25,Sinaloa,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,usa,United States,5574
+201901,2019-01,25,Sinaloa,16842121,Apparatus for Filtering or Purifying Water,1,Imports,esp,Spain,570
+201901,2019-01,25,Sinaloa,16842121,Apparatus for Filtering or Purifying Water,1,Imports,usa,United States,1157
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,chn,China,259
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,cze,Czech Republic,122
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,deu,Germany,339
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,gbr,United Kingdom,54
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,idn,Indonesia,73
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,jpn,Japan,14887
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,kor,South Korea,356
+201901,2019-01,25,Sinaloa,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,usa,United States,4449
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,chn,China,243
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,deu,Germany,147
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,ind,India,314
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,ita,Italy,1104
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,tur,Turkey,263
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,twn,Taiwan (Region),388
+201901,2019-01,25,Sinaloa,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,15714
+201901,2019-01,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,chn,China,871
+201901,2019-01,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,deu,Germany,349
+201901,2019-01,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,ita,Italy,14014
+201901,2019-01,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,tur,Turkey,404
+201901,2019-01,25,Sinaloa,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,usa,United States,3837
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,chn,China,1324
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,deu,Germany,293
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,esp,Spain,4
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,idn,Indonesia,565
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,ita,Italy,361
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,tha,Thailand,51
+201901,2019-01,25,Sinaloa,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,14252
+201901,2019-01,25,Sinaloa,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,chn,China,6222
+201901,2019-01,25,Sinaloa,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,deu,Germany,190
+201901,2019-01,25,Sinaloa,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,idn,Indonesia,435
+201901,2019-01,25,Sinaloa,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,kor,South Korea,12
+201901,2019-01,25,Sinaloa,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,twn,Taiwan (Region),33
+201901,2019-01,25,Sinaloa,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,usa,United States,2140
+201901,2019-01,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,che,Switzerland,1267
+201901,2019-01,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,gbr,United Kingdom,34088
+201901,2019-01,25,Sinaloa,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,usa,United States,20290
+201901,2019-01,25,Sinaloa,16842481,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders, Agricultural or Horticultural",1,Imports,esp,Spain,41774
+201901,2019-01,25,Sinaloa,16842481,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders, Agricultural or Horticultural",1,Imports,usa,United States,140743
+201901,2019-01,25,Sinaloa,16842489,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders",1,Imports,che,Switzerland,300030
+201901,2019-01,25,Sinaloa,16842489,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders",1,Imports,chn,China,465
+201901,2019-01,25,Sinaloa,16842489,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders",1,Imports,usa,United States,5881
+201901,2019-01,25,Sinaloa,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,usa,United States,4601
+201901,2019-01,25,Sinaloa,16842720,"Electric Motor without Self-Propelled Trucks, with Lifting Incorporated",1,Imports,fra,France,70598
+201901,2019-01,25,Sinaloa,16842720,"Electric Motor without Self-Propelled Trucks, with Lifting Incorporated",1,Imports,usa,United States,34234
+201901,2019-01,25,Sinaloa,16843110,"Hoists Parts; Winches, Capstans and Jacks, N.E.C",1,Imports,chn,China,426
+201901,2019-01,25,Sinaloa,16843110,"Hoists Parts; Winches, Capstans and Jacks, N.E.C",1,Imports,usa,United States,1601
+201901,2019-01,25,Sinaloa,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,chn,China,6441
+201901,2019-01,25,Sinaloa,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,deu,Germany,126
+201901,2019-01,25,Sinaloa,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,jpn,Japan,65
+201901,2019-01,25,Sinaloa,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,usa,United States,420
+201901,2019-01,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,bra,Brazil,9086
+201901,2019-01,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,fra,France,688
+201901,2019-01,25,Sinaloa,16843290,"Parts of Machines, Appliances or Appliances and Agricultural, Horticultural or Forestry Machinery for Soil Cultivation Preparation; Roller Parts Lawn or Sports Grounds, N.E.C",1,Imports,usa,United States,38313
+201901,2019-01,25,Sinaloa,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,chn,China,45
+201901,2019-01,25,Sinaloa,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,ita,Italy,45593
+201901,2019-01,25,Sinaloa,16843390,"Parts of Machines, Appliances and Fixtures Harvesting or Threshing; Lawn Mowers Parts and Mowers; Parts of Machines for Cleaning, Sorting or Grading Agricultural Products, N.E.C",1,Imports,usa,United States,62788
+201901,2019-01,25,Sinaloa,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,deu,Germany,8071
+201901,2019-01,25,Sinaloa,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,irl,Ireland,11006
+201901,2019-01,25,Sinaloa,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,jpn,Japan,1608
+201901,2019-01,25,Sinaloa,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,usa,United States,1251
+201901,2019-01,25,Sinaloa,16847330,Parts and Accessories for Data Processing Machines,1,Imports,chn,China,56117
+201901,2019-01,25,Sinaloa,16847330,Parts and Accessories for Data Processing Machines,1,Imports,usa,United States,753
+201901,2019-01,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,chn,China,6035
+201901,2019-01,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,esp,Spain,29000
+201901,2019-01,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,tur,Turkey,2020
+201901,2019-01,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,twn,Taiwan (Region),276548
+201901,2019-01,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,ury,Uruguay,2259
+201901,2019-01,25,Sinaloa,16847989,Mechanical Machinery,1,Imports,usa,United States,1714
+201901,2019-01,25,Sinaloa,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,esp,Spain,2460
+201901,2019-01,25,Sinaloa,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,twn,Taiwan (Region),106
+201901,2019-01,25,Sinaloa,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,ury,Uruguay,143
+201901,2019-01,25,Sinaloa,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,usa,United States,23590
+201901,2019-01,25,Sinaloa,16848110,Pressure Reducing Valves,1,Imports,usa,United States,1403
+201901,2019-01,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,can,Canada,3244
+201901,2019-01,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,chn,China,1130
+201901,2019-01,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,dnk,Denmark,917
+201901,2019-01,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,nld,Netherlands,503
+201901,2019-01,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,twn,Taiwan (Region),86
+201901,2019-01,25,Sinaloa,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,usa,United States,9109
+201901,2019-01,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,chn,China,3094
+201901,2019-01,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,esp,Spain,3951
+201901,2019-01,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,ita,Italy,133
+201901,2019-01,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,twn,Taiwan (Region),242
+201901,2019-01,25,Sinaloa,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,usa,United States,21829
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,bra,Brazil,362
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,can,Canada,6995
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,chn,China,2609
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,phl,Philippines,144
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,pol,Poland,519
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,swe,Sweden,2264
+201901,2019-01,25,Sinaloa,16848140,Safety or Relief Valves,1,Imports,usa,United States,34620
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,can,Canada,11715
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,118489
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,1478
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,esp,Spain,38102
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,gbr,United Kingdom,2459
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ind,India,3607
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ita,Italy,2979
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,jpn,Japan,18945
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,tha,Thailand,641
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,twn,Taiwan (Region),41469
+201901,2019-01,25,Sinaloa,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,218252
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,can,Canada,1274
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,che,Switzerland,332
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,chn,China,663
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,gbr,United Kingdom,92
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,ita,Italy,3666
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,jpn,Japan,8435
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,twn,Taiwan (Region),11378
+201901,2019-01,25,Sinaloa,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,usa,United States,22162
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,arg,Argentina,564
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,aut,Austria,3312
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,can,Canada,9249
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,chn,China,2771
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,deu,Germany,2115
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,jpn,Japan,1664
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,nld,Netherlands,126
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,twn,Taiwan (Region),2740
+201901,2019-01,25,Sinaloa,16848210,Ball Bearings,1,Imports,usa,United States,2470
+201901,2019-01,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,chn,China,413
+201901,2019-01,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,deu,Germany,4709
+201901,2019-01,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,ind,India,32
+201901,2019-01,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,ita,Italy,1177
+201901,2019-01,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,svk,Slovakia,66
+201901,2019-01,25,Sinaloa,16848250,Cylindrical Roller Bearings Rolls,1,Imports,usa,United States,1025
+201901,2019-01,25,Sinaloa,16848280,"Bearings, Incl. Combined (Exc. Ball Bearings, Taper Roller Bearings, Incl. Cones Assemblies and Tapered Roller, Roller Barrel-Shaped, Needle and Crb)",1,Imports,chn,China,8050
+201901,2019-01,25,Sinaloa,16848280,"Bearings, Incl. Combined (Exc. Ball Bearings, Taper Roller Bearings, Incl. Cones Assemblies and Tapered Roller, Roller Barrel-Shaped, Needle and Crb)",1,Imports,jpn,Japan,201
+201901,2019-01,25,Sinaloa,16848280,"Bearings, Incl. Combined (Exc. Ball Bearings, Taper Roller Bearings, Incl. Cones Assemblies and Tapered Roller, Roller Barrel-Shaped, Needle and Crb)",1,Imports,usa,United States,6433
+201901,2019-01,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,chn,China,127
+201901,2019-01,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,gbr,United Kingdom,382
+201901,2019-01,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,jpn,Japan,1386
+201901,2019-01,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,28334
+201901,2019-01,25,Sinaloa,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,vnm,Vietnam,30
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,bra,Brazil,116
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,can,Canada,190
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,1936
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,esp,Spain,711
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,kor,South Korea,14
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,twn,Taiwan (Region),434
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,uga,Uganda,4176
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,36524
+201901,2019-01,25,Sinaloa,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,vnm,Vietnam,7
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,bra,Brazil,1970
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,can,Canada,4542
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,chn,China,7980
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,deu,Germany,1937
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,gbr,United Kingdom,46
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,ind,India,233
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,21182
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,kor,South Korea,40
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,twn,Taiwan (Region),368
+201901,2019-01,25,Sinaloa,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,74657
+201901,2019-01,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,can,Canada,2530
+201901,2019-01,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,chn,China,148
+201901,2019-01,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,esp,Spain,46000
+201901,2019-01,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,jpn,Japan,350
+201901,2019-01,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,nld,Netherlands,133
+201901,2019-01,25,Sinaloa,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,usa,United States,1046
+201901,2019-01,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,bra,Brazil,438
+201901,2019-01,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,deu,Germany,774
+201901,2019-01,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,ita,Italy,1531
+201901,2019-01,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,pol,Poland,1949
+201901,2019-01,25,Sinaloa,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,4306
+201901,2019-01,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,bra,Brazil,137
+201901,2019-01,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,chn,China,802
+201901,2019-01,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,gbr,United Kingdom,281
+201901,2019-01,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ind,India,137
+201901,2019-01,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ita,Italy,718
+201901,2019-01,25,Sinaloa,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,usa,United States,6709
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,can,Canada,7823
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,chn,China,4053
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,deu,Germany,1551
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,esp,Spain,3263
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,gbr,United Kingdom,408
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,ind,India,32
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,ita,Italy,567
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,jpn,Japan,2368
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,tur,Turkey,1367
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,twn,Taiwan (Region),125
+201901,2019-01,25,Sinaloa,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,23923
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,chn,China,687
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,esp,Spain,446
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,gbr,United Kingdom,12
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,ind,India,15
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,ita,Italy,61
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,jpn,Japan,16
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,twn,Taiwan (Region),538
+201901,2019-01,25,Sinaloa,16848790,Parts of Machinery or Apparatus,1,Imports,usa,United States,12669
+201901,2019-01,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,chn,China,81462
+201901,2019-01,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,nld,Netherlands,1283
+201901,2019-01,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,tha,Thailand,1160
+201901,2019-01,25,Sinaloa,16850440,Electrical Static Converters,1,Imports,usa,United States,5522
+201901,2019-01,25,Sinaloa,16850590,"Electromagnets (Exc Used in Medicine.); Chucks, Mandrels and Simil Electromagnetic or Permanent Magnet Holding Devices.; Parts Thereof, N.E.C",1,Imports,chn,China,527
+201901,2019-01,25,Sinaloa,16850590,"Electromagnets (Exc Used in Medicine.); Chucks, Mandrels and Simil Electromagnetic or Permanent Magnet Holding Devices.; Parts Thereof, N.E.C",1,Imports,jpn,Japan,92
+201901,2019-01,25,Sinaloa,16850590,"Electromagnets (Exc Used in Medicine.); Chucks, Mandrels and Simil Electromagnetic or Permanent Magnet Holding Devices.; Parts Thereof, N.E.C",1,Imports,usa,United States,21561
+201901,2019-01,25,Sinaloa,16851110,"Spark Plugs, for Internal Combustion Engines",1,Imports,usa,United States,3571
+201901,2019-01,25,Sinaloa,16851150,"Generators, Combustion Engines (Exc. the Dynamos and Motors)",1,Imports,chn,China,271
+201901,2019-01,25,Sinaloa,16851150,"Generators, Combustion Engines (Exc. the Dynamos and Motors)",1,Imports,usa,United States,477
+201901,2019-01,25,Sinaloa,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,chn,China,630
+201901,2019-01,25,Sinaloa,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,usa,United States,1714
+201901,2019-01,25,Sinaloa,16851310,Portable Electric Lamps Designed to Function by their own Source of Energy,1,Imports,chn,China,6437
+201901,2019-01,25,Sinaloa,16851580,"Machines and Apparatus for Soldering, u Laser other Light or Photon Beam, Ultrasonic, Electron Beam, Magnetic Pulse or Plasma; Electrical Machines and Apparatus for Hot Metal or Sintered Metal Carbides or Cermets",1,Imports,can,Canada,207
+201901,2019-01,25,Sinaloa,16851580,"Machines and Apparatus for Soldering, u Laser other Light or Photon Beam, Ultrasonic, Electron Beam, Magnetic Pulse or Plasma; Electrical Machines and Apparatus for Hot Metal or Sintered Metal Carbides or Cermets",1,Imports,usa,United States,3782
+201901,2019-01,25,Sinaloa,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,ita,Italy,1029
+201901,2019-01,25,Sinaloa,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,usa,United States,407
+201901,2019-01,25,Sinaloa,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,can,Canada,4250
+201901,2019-01,25,Sinaloa,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,chn,China,384
+201901,2019-01,25,Sinaloa,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,deu,Germany,534
+201901,2019-01,25,Sinaloa,16851890,"Parts of Microphones, Speakers, Electroacoustic Headphones, Incl. of Electrical Equipment for Sound Amplification",1,Imports,chn,China,120
+201901,2019-01,25,Sinaloa,16851890,"Parts of Microphones, Speakers, Electroacoustic Headphones, Incl. of Electrical Equipment for Sound Amplification",1,Imports,usa,United States,336
+201901,2019-01,25,Sinaloa,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,can,Canada,331
+201901,2019-01,25,Sinaloa,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,chn,China,73124
+201901,2019-01,25,Sinaloa,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,usa,United States,192
+201901,2019-01,25,Sinaloa,16853641,"Relays, for a Voltage <= 60 V",1,Imports,chn,China,548
+201901,2019-01,25,Sinaloa,16853641,"Relays, for a Voltage <= 60 V",1,Imports,usa,United States,1972
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,che,Switzerland,854
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,2067
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,cze,Czech Republic,845
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,deu,Germany,210
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,esp,Spain,451
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,kor,South Korea,12366
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,tur,Turkey,342
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,twn,Taiwan (Region),39
+201901,2019-01,25,Sinaloa,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,9684
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,73141
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,deu,Germany,341
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,esp,Spain,195
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,fin,Finland,120
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,gbr,United Kingdom,60
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,twn,Taiwan (Region),65
+201901,2019-01,25,Sinaloa,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,286049
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,can,Canada,1337
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,15950
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,deu,Germany,9932
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,fra,France,408
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,hun,Hungary,554
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,ita,Italy,1225
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,jpn,Japan,313
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,svn,Slovenia,1443
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,tun,Tunisia,361
+201901,2019-01,25,Sinaloa,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,29295
+201901,2019-01,25,Sinaloa,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,deu,Germany,157
+201901,2019-01,25,Sinaloa,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,fra,France,394
+201901,2019-01,25,Sinaloa,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,usa,United States,8348
+201901,2019-01,25,Sinaloa,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,306340
+201901,2019-01,25,Sinaloa,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,gbr,United Kingdom,1101
+201901,2019-01,25,Sinaloa,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,3308
+201901,2019-01,25,Sinaloa,16854430,Wiring Sets Used in Transportation,1,Imports,usa,United States,4947
+201901,2019-01,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,110434
+201901,2019-01,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,jpn,Japan,73
+201901,2019-01,25,Sinaloa,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,2743
+201901,2019-01,25,Sinaloa,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,chn,China,263
+201901,2019-01,25,Sinaloa,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,jpn,Japan,2767
+201901,2019-01,25,Sinaloa,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,kor,South Korea,416
+201901,2019-01,25,Sinaloa,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,pol,Poland,228
+201901,2019-01,25,Sinaloa,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,usa,United States,8574
+201901,2019-01,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,can,Canada,165
+201901,2019-01,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,chn,China,1102
+201901,2019-01,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,twn,Taiwan (Region),13
+201901,2019-01,25,Sinaloa,17870830,"Brakes, Servo-Brakes and Parts Thereof",1,Imports,usa,United States,451
+201901,2019-01,25,Sinaloa,17871680,Hand Vehicles and other Vehicles not Mechanically Propelled (Excl. Trailers for any Vehicle),1,Imports,chn,China,13241
+201901,2019-01,25,Sinaloa,17871680,Hand Vehicles and other Vehicles not Mechanically Propelled (Excl. Trailers for any Vehicle),1,Imports,usa,United States,2317
+201901,2019-01,25,Sinaloa,17871690,"Parts of Trailers and other Vehicles not Mechanically Propelled, N.E.C",1,Imports,usa,United States,41324
+201901,2019-01,25,Sinaloa,17880330,Parts of Airplanes or Helicopters,1,Imports,usa,United States,48870
+201901,2019-01,25,Sinaloa,18900410,"Glasses ""Glasses"" Sol",1,Imports,chn,China,68034
+201901,2019-01,25,Sinaloa,18900410,"Glasses ""Glasses"" Sol",1,Imports,twn,Taiwan (Region),3128
+201901,2019-01,25,Sinaloa,18902580,"Hydrometers -Hydrometers and Instruments Flotantes Simil., Barometers, Hygrometers and Psychrometers, Incl. Combined with each other or with Thermometers",1,Imports,aus,Australia,4295
+201901,2019-01,25,Sinaloa,18902580,"Hydrometers -Hydrometers and Instruments Flotantes Simil., Barometers, Hygrometers and Psychrometers, Incl. Combined with each other or with Thermometers",1,Imports,ita,Italy,1433
+201901,2019-01,25,Sinaloa,18902580,"Hydrometers -Hydrometers and Instruments Flotantes Simil., Barometers, Hygrometers and Psychrometers, Incl. Combined with each other or with Thermometers",1,Imports,twn,Taiwan (Region),263
+201901,2019-01,25,Sinaloa,18902580,"Hydrometers -Hydrometers and Instruments Flotantes Simil., Barometers, Hygrometers and Psychrometers, Incl. Combined with each other or with Thermometers",1,Imports,usa,United States,8032
+201901,2019-01,25,Sinaloa,18902590,"Parts and Accessories Hydrometers -Hydrometers and Instruments Flotantes Simil., Thermometers, Pyrometers, Barometers, Hygrometers and Psychrometers, N.E.C",1,Imports,aus,Australia,2453
+201901,2019-01,25,Sinaloa,18902590,"Parts and Accessories Hydrometers -Hydrometers and Instruments Flotantes Simil., Thermometers, Pyrometers, Barometers, Hygrometers and Psychrometers, N.E.C",1,Imports,usa,United States,6783
+201901,2019-01,25,Sinaloa,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,chn,China,81
+201901,2019-01,25,Sinaloa,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,441
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,bra,Brazil,6101
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,che,Switzerland,163
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,4024
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,esp,Spain,2651
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,ita,Italy,102
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,jpn,Japan,931
+201901,2019-01,25,Sinaloa,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,6733
+201901,2019-01,25,Sinaloa,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,chn,China,3349
+201901,2019-01,25,Sinaloa,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,deu,Germany,871
+201901,2019-01,25,Sinaloa,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,gbr,United Kingdom,556
+201901,2019-01,25,Sinaloa,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,hun,Hungary,222
+201901,2019-01,25,Sinaloa,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,usa,United States,3644
+201901,2019-01,25,Sinaloa,18903210,Thermostats Regulating or Control,1,Imports,chn,China,479
+201901,2019-01,25,Sinaloa,18903210,Thermostats Regulating or Control,1,Imports,usa,United States,312
+201901,2019-01,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,990
+201901,2019-01,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,esp,Spain,1744
+201901,2019-01,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,jpn,Japan,2561
+201901,2019-01,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,twn,Taiwan (Region),129
+201901,2019-01,25,Sinaloa,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,1201
+201901,2019-01,25,Sinaloa,18910521,"Clocks, Electric",1,Imports,chn,China,42819
+201901,2019-01,25,Sinaloa,20940171,"Seats with Metal Frames, with Relleno (Excl. of a Kind Used for Aircraft or Motor Vehicles, Seats Swiveling Height Adjustable; Furniture Medical, Surgical or Dental)",1,Imports,chn,China,526573
+201901,2019-01,25,Sinaloa,20940180,"Seats, N.E.C",1,Imports,chn,China,598365
+201901,2019-01,25,Sinaloa,20940180,"Seats, N.E.C",1,Imports,ita,Italy,91891
+201901,2019-01,25,Sinaloa,20940180,"Seats, N.E.C",1,Imports,rou,Romania,31330
+201901,2019-01,25,Sinaloa,20940180,"Seats, N.E.C",1,Imports,usa,United States,8935
+201901,2019-01,25,Sinaloa,20940320,Muebles de Metal,1,Imports,chn,China,2365249
+201901,2019-01,25,Sinaloa,20940320,Muebles de Metal,1,Imports,idn,Indonesia,60627
+201901,2019-01,25,Sinaloa,20940320,Muebles de Metal,1,Imports,nld,Netherlands,94972
+201901,2019-01,25,Sinaloa,20940320,Muebles de Metal,1,Imports,usa,United States,3499
+201901,2019-01,25,Sinaloa,20940360,Wooden Furniture,1,Imports,chn,China,172745
+201901,2019-01,25,Sinaloa,20940360,Wooden Furniture,1,Imports,mys,Malaysia,43649
+201901,2019-01,25,Sinaloa,20940389,"Furniture of other Materials, Including Cane, Osier or Similar Materials (Excl. of Bamboo, ""Rattan"" Metal, Wood and Plastic, Furniture Seats and Medical, Surgical, Dental and Veterinary)",1,Imports,chn,China,1412497
+201901,2019-01,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,chn,China,1493
+201901,2019-01,25,Sinaloa,20940390,"Parts of Furniture, other than Seats, N.E.C",1,Imports,usa,United States,9552
+201901,2019-01,25,Sinaloa,20940490,"Articles of Bedding and Similar., with Springs ""Springs"" or Stuffed or Internally Fitted with any Material or of Cellular Rubber or Plastics (Excl. Mattress Supports Bags ""Bags"" Sleeping, Waterbeds, Mattresses, Pillows and Tires Cushions, Blankets and Covers)",1,Imports,chn,China,862837
+201901,2019-01,25,Sinaloa,20940490,"Articles of Bedding and Similar., with Springs ""Springs"" or Stuffed or Internally Fitted with any Material or of Cellular Rubber or Plastics (Excl. Mattress Supports Bags ""Bags"" Sleeping, Waterbeds, Mattresses, Pillows and Tires Cushions, Blankets and Covers)",1,Imports,usa,United States,543
+201901,2019-01,25,Sinaloa,20940510,Lamps and other Electric Lighting,1,Imports,chn,China,24903
+201901,2019-01,25,Sinaloa,20940510,Lamps and other Electric Lighting,1,Imports,deu,Germany,6772
+201901,2019-01,25,Sinaloa,20940510,Lamps and other Electric Lighting,1,Imports,phl,Philippines,446
+201901,2019-01,25,Sinaloa,20940510,Lamps and other Electric Lighting,1,Imports,usa,United States,4927
+201901,2019-01,25,Sinaloa,20940540,"Electrical Lighting, N.E.C",1,Imports,chn,China,3348
+201901,2019-01,25,Sinaloa,20940540,"Electrical Lighting, N.E.C",1,Imports,usa,United States,4065
+201901,2019-01,25,Sinaloa,20940550,"Electric Lighting Fixtures No, N.E.C",1,Imports,chn,China,219897
+201901,2019-01,25,Sinaloa,20940600,"Prefabricated Buildings, Incl. Incomplete or Non-Assembled",1,Imports,esp,Spain,91225
+201901,2019-01,25,Sinaloa,20940600,"Prefabricated Buildings, Incl. Incomplete or Non-Assembled",1,Imports,nld,Netherlands,20789
+201901,2019-01,25,Sinaloa,20940600,"Prefabricated Buildings, Incl. Incomplete or Non-Assembled",1,Imports,usa,United States,1406021
+201901,2019-01,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,chn,China,8414109
+201901,2019-01,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,esp,Spain,153627
+201901,2019-01,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,fra,France,57656
+201901,2019-01,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,ind,India,2644
+201901,2019-01,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,tur,Turkey,20227
+201901,2019-01,25,Sinaloa,20950300,"Tricycles, Scooters, Pedal Cars and Similar Wheeled Toys",1,Imports,twn,Taiwan (Region),136777
+201901,2019-01,25,Sinaloa,20960329,"Shaving Brushes, Hair Brushes, Eyelashes, Nails and other Brushes for Personal Grooming (Exc. Toothbrushes)",1,Imports,chn,China,4933
+201901,2019-01,25,Sinaloa,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,chn,China,226
+201901,2019-01,25,Sinaloa,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,usa,United States,189
+201901,2019-01,25,Sinaloa,20960400,Sieves and Hand Riddles (Excl. Colanders),1,Imports,usa,United States,1160
+201901,2019-01,25,Sinaloa,20961100,"Daters, Stamps, Numerators, Stamping and Similar Articles, Incl Devices for Printing Labels, Hand..; Compositors and Daters, Hand",1,Imports,ita,Italy,402
+201901,2019-01,25,Sinaloa,20961100,"Daters, Stamps, Numerators, Stamping and Similar Articles, Incl Devices for Printing Labels, Hand..; Compositors and Daters, Hand",1,Imports,usa,United States,331
+201901,2019-01,25,Sinaloa,20961700,Isothermal Flasks and other Containers Mounted Vacuum Insulation and Parts Thereof (Excl Anpollas Vidreo),1,Imports,chn,China,10123
+201901,2019-01,25,Sinaloa,20961700,Isothermal Flasks and other Containers Mounted Vacuum Insulation and Parts Thereof (Excl Anpollas Vidreo),1,Imports,usa,United States,58810
+201901,2019-01,25,Sinaloa,1020120,"Cortes ""Chunks"" Bovines, Bone, Fresh or Chilled",2,Exports,can,Canada,109524
+201901,2019-01,25,Sinaloa,1020120,"Cortes ""Chunks"" Bovines, Bone, Fresh or Chilled",2,Exports,usa,United States,18369918
+201901,2019-01,25,Sinaloa,1020130,"Boneless Meat of Bovine Animals, Fresh or Chilled",2,Exports,can,Canada,1123911
+201901,2019-01,25,Sinaloa,1020130,"Boneless Meat of Bovine Animals, Fresh or Chilled",2,Exports,jpn,Japan,491291
+201901,2019-01,25,Sinaloa,1020130,"Boneless Meat of Bovine Animals, Fresh or Chilled",2,Exports,usa,United States,34231236
+201901,2019-01,25,Sinaloa,1020610,"Offal Edible Bovine, Fresh or Chilled",2,Exports,usa,United States,213220
+201901,2019-01,25,Sinaloa,1030617,"Frozen, Shrimps and Prawns, Excluding Cold-Water Varieties, in Shell or Not, Smoked, Cooked or not before or during Smoking",2,Exports,chn,China,531343
+201901,2019-01,25,Sinaloa,1030617,"Frozen, Shrimps and Prawns, Excluding Cold-Water Varieties, in Shell or Not, Smoked, Cooked or not before or during Smoking",2,Exports,gbr,United Kingdom,270591
+201901,2019-01,25,Sinaloa,1030617,"Frozen, Shrimps and Prawns, Excluding Cold-Water Varieties, in Shell or Not, Smoked, Cooked or not before or during Smoking",2,Exports,jpn,Japan,909039
+201901,2019-01,25,Sinaloa,1030617,"Frozen, Shrimps and Prawns, Excluding Cold-Water Varieties, in Shell or Not, Smoked, Cooked or not before or during Smoking",2,Exports,usa,United States,12782487
+201901,2019-01,25,Sinaloa,1030617,"Frozen, Shrimps and Prawns, Excluding Cold-Water Varieties, in Shell or Not, Smoked, Cooked or not before or during Smoking",2,Exports,vnm,Vietnam,686318
+201901,2019-01,25,Sinaloa,2060420,"Foliage, Branches and other Parts of Plants, without Flowers or Flower Buds and Grasses, Mosses and Lichens, the Products of a Kind Used for Bouquets or Ornamental Purposes, Fresh",2,Exports,can,Canada,8237
+201901,2019-01,25,Sinaloa,2060420,"Foliage, Branches and other Parts of Plants, without Flowers or Flower Buds and Grasses, Mosses and Lichens, the Products of a Kind Used for Bouquets or Ornamental Purposes, Fresh",2,Exports,usa,United States,49937
+201901,2019-01,25,Sinaloa,2070200,Tomatoes Fresh or Chilled,2,Exports,usa,United States,140443976
+201901,2019-01,25,Sinaloa,2070310,"Onions and Shallots, Fresh or Chilled",2,Exports,can,Canada,62995
+201901,2019-01,25,Sinaloa,2070310,"Onions and Shallots, Fresh or Chilled",2,Exports,usa,United States,625211
+201901,2019-01,25,Sinaloa,2070410,"Coles and Broccoli ""Broccoli"", Fresh or Chilled",2,Exports,can,Canada,295447
+201901,2019-01,25,Sinaloa,2070410,"Coles and Broccoli ""Broccoli"", Fresh or Chilled",2,Exports,usa,United States,1264284
+201901,2019-01,25,Sinaloa,2070490,"Coles, Incl. Cabbages and Cauliflowers, Kale, Kohlrabi and Edible Products Simil. Gender ""Brassica"", Fresh or Chilled (Excl. Cauliflowers, Broccoli ""Broccoli"" and Coles ""Sprouts"" in Brussels)",2,Exports,can,Canada,309973
+201901,2019-01,25,Sinaloa,2070490,"Coles, Incl. Cabbages and Cauliflowers, Kale, Kohlrabi and Edible Products Simil. Gender ""Brassica"", Fresh or Chilled (Excl. Cauliflowers, Broccoli ""Broccoli"" and Coles ""Sprouts"" in Brussels)",2,Exports,usa,United States,838649
+201901,2019-01,25,Sinaloa,2070519,"Lettuce ""Lactuca Sativa"", Fresh or Chilled (Exc. Lettuces)",2,Exports,can,Canada,3342
+201901,2019-01,25,Sinaloa,2070519,"Lettuce ""Lactuca Sativa"", Fresh or Chilled (Exc. Lettuces)",2,Exports,usa,United States,22732
+201901,2019-01,25,Sinaloa,2070690,"Beetroot, Salsify, Celeriac, Radishes and Root, Fresh or Chilled (Exc. Carrots and Turnips)",2,Exports,can,Canada,26405
+201901,2019-01,25,Sinaloa,2070690,"Beetroot, Salsify, Celeriac, Radishes and Root, Fresh or Chilled (Exc. Carrots and Turnips)",2,Exports,usa,United States,60586
+201901,2019-01,25,Sinaloa,2070700,"Cucumbers and Gherkins, Fresh or Chilled",2,Exports,can,Canada,20861
+201901,2019-01,25,Sinaloa,2070700,"Cucumbers and Gherkins, Fresh or Chilled",2,Exports,gbr,United Kingdom,28068
+201901,2019-01,25,Sinaloa,2070700,"Cucumbers and Gherkins, Fresh or Chilled",2,Exports,nld,Netherlands,499
+201901,2019-01,25,Sinaloa,2070700,"Cucumbers and Gherkins, Fresh or Chilled",2,Exports,usa,United States,41424296
+201901,2019-01,25,Sinaloa,2070810,"Peas ""Peas, Peas"" ""Pisum Sativum"", although they Shelled, Fresh or Chilled",2,Exports,can,Canada,59599
+201901,2019-01,25,Sinaloa,2070810,"Peas ""Peas, Peas"" ""Pisum Sativum"", although they Shelled, Fresh or Chilled",2,Exports,usa,United States,412124
+201901,2019-01,25,Sinaloa,2070820,"Jewish ""Beans, Beans, Beans, Beans"" ""Vigna Spp."" ""Phaseolus Spp."", Fresh or Chilled",2,Exports,can,Canada,118220
+201901,2019-01,25,Sinaloa,2070820,"Jewish ""Beans, Beans, Beans, Beans"" ""Vigna Spp."" ""Phaseolus Spp."", Fresh or Chilled",2,Exports,usa,United States,3198787
+201901,2019-01,25,Sinaloa,2070890,"Leguminous Vegetables Incl. ""Wild"", Unshelled, Fresh or Chilled (Exc. Peas ""Peas, Peas"" ""Pisum Sativum"" and Beans ""Beans, Beans, Beans, Beans"" ""Vigna Spp."", ""Phaseolus . "")",2,Exports,can,Canada,35060
+201901,2019-01,25,Sinaloa,2070890,"Leguminous Vegetables Incl. ""Wild"", Unshelled, Fresh or Chilled (Exc. Peas ""Peas, Peas"" ""Pisum Sativum"" and Beans ""Beans, Beans, Beans, Beans"" ""Vigna Spp."", ""Phaseolus . "")",2,Exports,usa,United States,1072937
+201901,2019-01,25,Sinaloa,2070930,"Eggplants, Fresh or Chilled",2,Exports,can,Canada,59450
+201901,2019-01,25,Sinaloa,2070930,"Eggplants, Fresh or Chilled",2,Exports,gbr,United Kingdom,8219
+201901,2019-01,25,Sinaloa,2070930,"Eggplants, Fresh or Chilled",2,Exports,nld,Netherlands,326
+201901,2019-01,25,Sinaloa,2070930,"Eggplants, Fresh or Chilled",2,Exports,usa,United States,6353834
+201901,2019-01,25,Sinaloa,2070940,"Celery, Fresh or Chilled (Exc. Celeriac)",2,Exports,can,Canada,18659
+201901,2019-01,25,Sinaloa,2070940,"Celery, Fresh or Chilled (Exc. Celeriac)",2,Exports,usa,United States,67635
+201901,2019-01,25,Sinaloa,2070960,"Fruits of the Genus Capsicum or of the Genus Pimenta, Fresh or Chilled",2,Exports,can,Canada,633069
+201901,2019-01,25,Sinaloa,2070960,"Fruits of the Genus Capsicum or of the Genus Pimenta, Fresh or Chilled",2,Exports,usa,United States,88337476
+201901,2019-01,25,Sinaloa,2070970,"Spinach, Incl. New Zealand and Armuelles, Fresh or Chilled",2,Exports,can,Canada,23846
+201901,2019-01,25,Sinaloa,2070970,"Spinach, Incl. New Zealand and Armuelles, Fresh or Chilled",2,Exports,usa,United States,1165942
+201901,2019-01,25,Sinaloa,2070993,"Fresh or Chilled Pumpkins, Squash and Gourds ""Cucurbita Spp.""",2,Exports,can,Canada,61326
+201901,2019-01,25,Sinaloa,2070993,"Fresh or Chilled Pumpkins, Squash and Gourds ""Cucurbita Spp.""",2,Exports,gbr,United Kingdom,255
+201901,2019-01,25,Sinaloa,2070993,"Fresh or Chilled Pumpkins, Squash and Gourds ""Cucurbita Spp.""",2,Exports,ita,Italy,63839
+201901,2019-01,25,Sinaloa,2070993,"Fresh or Chilled Pumpkins, Squash and Gourds ""Cucurbita Spp.""",2,Exports,jpn,Japan,223260
+201901,2019-01,25,Sinaloa,2070993,"Fresh or Chilled Pumpkins, Squash and Gourds ""Cucurbita Spp.""",2,Exports,nld,Netherlands,306
+201901,2019-01,25,Sinaloa,2070993,"Fresh or Chilled Pumpkins, Squash and Gourds ""Cucurbita Spp.""",2,Exports,usa,United States,8261537
+201901,2019-01,25,Sinaloa,2070999,Vegetables Fresh or Chilled Nes,2,Exports,can,Canada,671852
+201901,2019-01,25,Sinaloa,2070999,Vegetables Fresh or Chilled Nes,2,Exports,usa,United States,3571207
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,are,United Arab Emirates,44551
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,chl,Chile,22276
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,col,Colombia,371904
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,dza,Algeria,464880
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,fra,France,22276
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,guy,Guyana,89102
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,irq,Iraq,137527
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,isr,Israel,46488
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,ita,Italy,42614
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,kwt,Kuwait,22276
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,per,Peru,87165
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,sgp,Singapore,106535
+201901,2019-01,25,Sinaloa,2071320,"Dried Chick Peas Shelled, whether or not Shelled or Unshelled Matches",2,Exports,tur,Turkey,239220
+201901,2019-01,25,Sinaloa,2071333,"Jewish ""Beans, Beans, Beans, Beans"" Common ""Phaseolus Vulgaris"", Seca and Shelled, whether or not Skinned or Split",2,Exports,can,Canada,70
+201901,2019-01,25,Sinaloa,2071333,"Jewish ""Beans, Beans, Beans, Beans"" Common ""Phaseolus Vulgaris"", Seca and Shelled, whether or not Skinned or Split",2,Exports,usa,United States,177650
+201901,2019-01,25,Sinaloa,2080711,"Watermelons, Fresh",2,Exports,usa,United States,312471
+201901,2019-01,25,Sinaloa,2080719,"Melons, Fresh (Exc. Sandías)",2,Exports,can,Canada,3311
+201901,2019-01,25,Sinaloa,2080719,"Melons, Fresh (Exc. Sandías)",2,Exports,usa,United States,6876
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",2,Exports,cub,Cuba,11225
+201901,2019-01,25,Sinaloa,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",2,Exports,usa,United States,2417
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,can,Canada,153977
+201901,2019-01,25,Sinaloa,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,usa,United States,162939
+201901,2019-01,25,Sinaloa,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",2,Exports,usa,United States,2826
+201901,2019-01,25,Sinaloa,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",2,Exports,usa,United States,9344
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,2,Exports,cub,Cuba,6414
+201901,2019-01,25,Sinaloa,7392690,Plastic Items and Articles of other Materials,2,Exports,usa,United States,41
+201901,2019-01,25,Sinaloa,9441520,"Pallets, Box Pallets and other Load of Wood; Pallet Collars of Wood (Excl. Containers Specially Designed and Equipped for one or more Modes of Transport)",2,Exports,usa,United States,21463
+201901,2019-01,25,Sinaloa,10481910,Boxes Corrugated Paperboard,2,Exports,can,Canada,4322
+201901,2019-01,25,Sinaloa,10481910,Boxes Corrugated Paperboard,2,Exports,usa,United States,251961
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",2,Exports,cri,Costa Rica,456
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",2,Exports,pan,Panama,9433
+201901,2019-01,25,Sinaloa,15830990,"Stoppers, Lids",2,Exports,usa,United States,68592

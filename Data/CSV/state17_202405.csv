@@ -1,0 +1,588 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+202405,2024-05,17,Morelos,6290719,"Monopenol (Exc. Penol ""Hidoxibenzano"" and Sales, Octipenol, Nonipenol",1,Imports,chn,China,623
+202405,2024-05,17,Morelos,6290719,"Monopenol (Exc. Penol ""Hidoxibenzano"" and Sales, Octipenol, Nonipenol",1,Imports,ind,India,53550
+202405,2024-05,17,Morelos,6290719,"Monopenol (Exc. Penol ""Hidoxibenzano"" and Sales, Octipenol, Nonipenol",1,Imports,jpn,Japan,11340
+202405,2024-05,17,Morelos,6290719,"Monopenol (Exc. Penol ""Hidoxibenzano"" and Sales, Octipenol, Nonipenol",1,Imports,usa,United States,61
+202405,2024-05,17,Morelos,6291899,"Carboxylic Acid with Additional Oxygen Function and his Anidridos, Halides, Peroxides and Peroxácidos; their Halogenated Sulforatos, Nitrates or Nitrosatos Derivatives (Exc. only with Alcohol, Phenol and 2,4,5-T (Iso) (2,4,5 Triclorofenoxacetico Acid) and its Salts and Ethers)",1,Imports,bra,Brazil,3
+202405,2024-05,17,Morelos,6291899,"Carboxylic Acid with Additional Oxygen Function and his Anidridos, Halides, Peroxides and Peroxácidos; their Halogenated Sulforatos, Nitrates or Nitrosatos Derivatives (Exc. only with Alcohol, Phenol and 2,4,5-T (Iso) (2,4,5 Triclorofenoxacetico Acid) and its Salts and Ethers)",1,Imports,chn,China,5265
+202405,2024-05,17,Morelos,6291899,"Carboxylic Acid with Additional Oxygen Function and his Anidridos, Halides, Peroxides and Peroxácidos; their Halogenated Sulforatos, Nitrates or Nitrosatos Derivatives (Exc. only with Alcohol, Phenol and 2,4,5-T (Iso) (2,4,5 Triclorofenoxacetico Acid) and its Salts and Ethers)",1,Imports,esp,Spain,10
+202405,2024-05,17,Morelos,6291899,"Carboxylic Acid with Additional Oxygen Function and his Anidridos, Halides, Peroxides and Peroxácidos; their Halogenated Sulforatos, Nitrates or Nitrosatos Derivatives (Exc. only with Alcohol, Phenol and 2,4,5-T (Iso) (2,4,5 Triclorofenoxacetico Acid) and its Salts and Ethers)",1,Imports,ind,India,1597482
+202405,2024-05,17,Morelos,6293299,"Heterocyclic Compounds with Oxygen Hetero-Atom (S). (Excl. Compounds Containing Furan Cycle, whether or not Hydrogenados, in Structure and Lactones, Isosafrole, 1- [1,3-Benzodioxol-5-Yl] Propan-2-One, Piperonal, Safrole, Tetrahydrocannabinols ""All Isomers ""And Inorganic or Organic Compounds of Mercury)",1,Imports,bra,Brazil,1
+202405,2024-05,17,Morelos,6293299,"Heterocyclic Compounds with Oxygen Hetero-Atom (S). (Excl. Compounds Containing Furan Cycle, whether or not Hydrogenados, in Structure and Lactones, Isosafrole, 1- [1,3-Benzodioxol-5-Yl] Propan-2-One, Piperonal, Safrole, Tetrahydrocannabinols ""All Isomers ""And Inorganic or Organic Compounds of Mercury)",1,Imports,che,Switzerland,826948
+202405,2024-05,17,Morelos,6293299,"Heterocyclic Compounds with Oxygen Hetero-Atom (S). (Excl. Compounds Containing Furan Cycle, whether or not Hydrogenados, in Structure and Lactones, Isosafrole, 1- [1,3-Benzodioxol-5-Yl] Propan-2-One, Piperonal, Safrole, Tetrahydrocannabinols ""All Isomers ""And Inorganic or Organic Compounds of Mercury)",1,Imports,chn,China,125548
+202405,2024-05,17,Morelos,6293299,"Heterocyclic Compounds with Oxygen Hetero-Atom (S). (Excl. Compounds Containing Furan Cycle, whether or not Hydrogenados, in Structure and Lactones, Isosafrole, 1- [1,3-Benzodioxol-5-Yl] Propan-2-One, Piperonal, Safrole, Tetrahydrocannabinols ""All Isomers ""And Inorganic or Organic Compounds of Mercury)",1,Imports,esp,Spain,9652
+202405,2024-05,17,Morelos,6293299,"Heterocyclic Compounds with Oxygen Hetero-Atom (S). (Excl. Compounds Containing Furan Cycle, whether or not Hydrogenados, in Structure and Lactones, Isosafrole, 1- [1,3-Benzodioxol-5-Yl] Propan-2-One, Piperonal, Safrole, Tetrahydrocannabinols ""All Isomers ""And Inorganic or Organic Compounds of Mercury)",1,Imports,ind,India,78182
+202405,2024-05,17,Morelos,6293299,"Heterocyclic Compounds with Oxygen Hetero-Atom (S). (Excl. Compounds Containing Furan Cycle, whether or not Hydrogenados, in Structure and Lactones, Isosafrole, 1- [1,3-Benzodioxol-5-Yl] Propan-2-One, Piperonal, Safrole, Tetrahydrocannabinols ""All Isomers ""And Inorganic or Organic Compounds of Mercury)",1,Imports,usa,United States,10950
+202405,2024-05,17,Morelos,6293339,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyridine, Incl Hydrogenated Unfused (Exc Pyridine, Piperidine, Alfentanil ""Dci"" Anileridine ""Dci"";.. Bezitramide ""Dci"" Bromazepam ""Dci"" Ketobemidone ""Inn"", Difenoxin ""Inn"", Diphenoxylate ""Inn"", Dipipanone ""Inn"" Fentanyl ""Inn"" Methylphenidate ""Inn"", Pentazocine ""Inn"", Pethidine ""Inn"", Intermediary Pethidine ""Inn"" Phencyclidine "" Dci """" Pcp ""Phenoperidine"" Dci ""Pipradrol"" Dci ""Piritramide"" Dci ""Propiram"" Inn ""And Trimeperidine"" Inn "", and Salts Thereof)",1,Imports,chn,China,3000
+202405,2024-05,17,Morelos,6293339,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyridine, Incl Hydrogenated Unfused (Exc Pyridine, Piperidine, Alfentanil ""Dci"" Anileridine ""Dci"";.. Bezitramide ""Dci"" Bromazepam ""Dci"" Ketobemidone ""Inn"", Difenoxin ""Inn"", Diphenoxylate ""Inn"", Dipipanone ""Inn"" Fentanyl ""Inn"" Methylphenidate ""Inn"", Pentazocine ""Inn"", Pethidine ""Inn"", Intermediary Pethidine ""Inn"" Phencyclidine "" Dci """" Pcp ""Phenoperidine"" Dci ""Pipradrol"" Dci ""Piritramide"" Dci ""Propiram"" Inn ""And Trimeperidine"" Inn "", and Salts Thereof)",1,Imports,esp,Spain,70
+202405,2024-05,17,Morelos,6293339,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyridine, Incl Hydrogenated Unfused (Exc Pyridine, Piperidine, Alfentanil ""Dci"" Anileridine ""Dci"";.. Bezitramide ""Dci"" Bromazepam ""Dci"" Ketobemidone ""Inn"", Difenoxin ""Inn"", Diphenoxylate ""Inn"", Dipipanone ""Inn"" Fentanyl ""Inn"" Methylphenidate ""Inn"", Pentazocine ""Inn"", Pethidine ""Inn"", Intermediary Pethidine ""Inn"" Phencyclidine "" Dci """" Pcp ""Phenoperidine"" Dci ""Pipradrol"" Dci ""Piritramide"" Dci ""Propiram"" Inn ""And Trimeperidine"" Inn "", and Salts Thereof)",1,Imports,ind,India,112820
+202405,2024-05,17,Morelos,6293349,"Heterocyclic Compounds Heteroatom / S Nitrogen Exclusively, Containing in the Structure of Quinoline or Isoquinoline, Incl. Hydrogenated, not further Fused (Exc. Levorphanol ""Dci"" and its Salts)",1,Imports,chn,China,942
+202405,2024-05,17,Morelos,6293349,"Heterocyclic Compounds Heteroatom / S Nitrogen Exclusively, Containing in the Structure of Quinoline or Isoquinoline, Incl. Hydrogenated, not further Fused (Exc. Levorphanol ""Dci"" and its Salts)",1,Imports,ind,India,8253
+202405,2024-05,17,Morelos,6293379,"Lactams (Exc. 6-Hexanelactam ""Epsilon Caprolactam"" Clobazam ""Inn"" and Methyprylon ""Inn"", and Inorganic or Organic Compounds of Mercury)",1,Imports,esp,Spain,20
+202405,2024-05,17,Morelos,6293379,"Lactams (Exc. 6-Hexanelactam ""Epsilon Caprolactam"" Clobazam ""Inn"" and Methyprylon ""Inn"", and Inorganic or Organic Compounds of Mercury)",1,Imports,fra,France,2
+202405,2024-05,17,Morelos,6293379,"Lactams (Exc. 6-Hexanelactam ""Epsilon Caprolactam"" Clobazam ""Inn"" and Methyprylon ""Inn"", and Inorganic or Organic Compounds of Mercury)",1,Imports,ind,India,15
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,bra,Brazil,3
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,chn,China,45170
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,esp,Spain,10
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,gbr,United Kingdom,2373
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,ind,India,467772
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,jpn,Japan,36579
+202405,2024-05,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,usa,United States,2403
+202405,2024-05,17,Morelos,6293499,"Nucleic Acids and their Salts, whether or not Chemically Defined; Heterocyclic Compounds (Exc. Oxygen or with Nitrogen Hetero Atom [S] Only, Compounds Containing in the Structure Cycle Thiazole Unfused or Benzothiazole O Phenothiazine, not further Fused and Aminorex ""Inn"", Brotizolam ""Inn"", Clotiazepam "" Inn ""Cloxazolam"" Inn ""Dextromoramide"" Inn ""Haloxazolam"" Inn ""Ketazolam"" Inn ""Mesocarb"" Inn ""Oxazolam"" Inn "", Pemoline"" Inn "", Phendimetrazine"" Inn ""Phenmetrazine"" Inn ""Sufentanil"" Inn ""And its Salts and Compounds, Inorganic or Organic Mercury Sean Chemically Defined, and Products of 3002 10)",1,Imports,chn,China,12776
+202405,2024-05,17,Morelos,6293499,"Nucleic Acids and their Salts, whether or not Chemically Defined; Heterocyclic Compounds (Exc. Oxygen or with Nitrogen Hetero Atom [S] Only, Compounds Containing in the Structure Cycle Thiazole Unfused or Benzothiazole O Phenothiazine, not further Fused and Aminorex ""Inn"", Brotizolam ""Inn"", Clotiazepam "" Inn ""Cloxazolam"" Inn ""Dextromoramide"" Inn ""Haloxazolam"" Inn ""Ketazolam"" Inn ""Mesocarb"" Inn ""Oxazolam"" Inn "", Pemoline"" Inn "", Phendimetrazine"" Inn ""Phenmetrazine"" Inn ""Sufentanil"" Inn ""And its Salts and Compounds, Inorganic or Organic Mercury Sean Chemically Defined, and Products of 3002 10)",1,Imports,ind,India,92031
+202405,2024-05,17,Morelos,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,chn,China,1848
+202405,2024-05,17,Morelos,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,usa,United States,1089
+202405,2024-05,17,Morelos,6340290,"Surface-Active Preparations for Washing, Incl the Auxiliary Washing Preparations and Cleaning Preparations (Exc Upgraded for Retail, as well as Agents Organic Surface;.. Soap and Organic Surface-Active Preparations Bars, Cakes or Pieces or Molded Pieces or Shapes; Products and Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,bel,Belgium,2854
+202405,2024-05,17,Morelos,6340290,"Surface-Active Preparations for Washing, Incl the Auxiliary Washing Preparations and Cleaning Preparations (Exc Upgraded for Retail, as well as Agents Organic Surface;.. Soap and Organic Surface-Active Preparations Bars, Cakes or Pieces or Molded Pieces or Shapes; Products and Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,deu,Germany,306
+202405,2024-05,17,Morelos,6340290,"Surface-Active Preparations for Washing, Incl the Auxiliary Washing Preparations and Cleaning Preparations (Exc Upgraded for Retail, as well as Agents Organic Surface;.. Soap and Organic Surface-Active Preparations Bars, Cakes or Pieces or Molded Pieces or Shapes; Products and Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,fra,France,1824
+202405,2024-05,17,Morelos,6340290,"Surface-Active Preparations for Washing, Incl the Auxiliary Washing Preparations and Cleaning Preparations (Exc Upgraded for Retail, as well as Agents Organic Surface;.. Soap and Organic Surface-Active Preparations Bars, Cakes or Pieces or Molded Pieces or Shapes; Products and Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,ita,Italy,5431
+202405,2024-05,17,Morelos,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,deu,Germany,561
+202405,2024-05,17,Morelos,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,gbr,United Kingdom,76546
+202405,2024-05,17,Morelos,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,jpn,Japan,64
+202405,2024-05,17,Morelos,6340399,Lubricating Preparations,1,Imports,deu,Germany,6284
+202405,2024-05,17,Morelos,6340399,Lubricating Preparations,1,Imports,esp,Spain,22172
+202405,2024-05,17,Morelos,6340399,Lubricating Preparations,1,Imports,ita,Italy,2428
+202405,2024-05,17,Morelos,6340399,Lubricating Preparations,1,Imports,usa,United States,13344
+202405,2024-05,17,Morelos,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,chn,China,180006
+202405,2024-05,17,Morelos,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,deu,Germany,114526
+202405,2024-05,17,Morelos,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,fra,France,109
+202405,2024-05,17,Morelos,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,irl,Ireland,65
+202405,2024-05,17,Morelos,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,jpn,Japan,53
+202405,2024-05,17,Morelos,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,usa,United States,45459
+202405,2024-05,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,can,Canada,15
+202405,2024-05,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,che,Switzerland,21288
+202405,2024-05,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,chn,China,588
+202405,2024-05,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,usa,United States,73720
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,bel,Belgium,33362
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,bra,Brazil,1
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,che,Switzerland,8991
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,deu,Germany,67125
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,esp,Spain,35428
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,fra,France,11900
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,gbr,United Kingdom,280960
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,ind,India,190
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,ita,Italy,4686
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,jpn,Japan,6851
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,nld,Netherlands,784
+202405,2024-05,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,306184
+202405,2024-05,17,Morelos,7390110,"Density Polyethylene <0.94, in Primary Forms",1,Imports,usa,United States,191329
+202405,2024-05,17,Morelos,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,chn,China,545
+202405,2024-05,17,Morelos,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,deu,Germany,117
+202405,2024-05,17,Morelos,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,ita,Italy,128
+202405,2024-05,17,Morelos,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,jpn,Japan,1995
+202405,2024-05,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,chn,China,288
+202405,2024-05,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,fra,France,51
+202405,2024-05,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,ita,Italy,347
+202405,2024-05,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,89053
+202405,2024-05,17,Morelos,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,bra,Brazil,310
+202405,2024-05,17,Morelos,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,chn,China,13526
+202405,2024-05,17,Morelos,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,gbr,United Kingdom,215
+202405,2024-05,17,Morelos,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,3406
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,bel,Belgium,11597
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,1280
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,deu,Germany,452
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,fra,France,1824
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,jpn,Japan,173
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,nld,Netherlands,118
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,svk,Slovakia,4237
+202405,2024-05,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,70245
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,che,Switzerland,215
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,469391
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,deu,Germany,180127
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,dnk,Denmark,608
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,esp,Spain,981
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,fin,Finland,2845
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,fra,France,18120
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,gbr,United Kingdom,2196
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,hkg,Hong Kong,3882
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,ita,Italy,38934
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,jpn,Japan,49992
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,287
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,nld,Netherlands,16406
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,pol,Poland,27032
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,sgp,Singapore,3068
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,svk,Slovakia,82002
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,swe,Sweden,227
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,tur,Turkey,78
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,twn,Taiwan (Region),84
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,1088725
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,chn,China,4977
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,deu,Germany,18242
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,fra,France,1673
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,ita,Italy,1256
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,jpn,Japan,1506
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,swz,Eswatini,532
+202405,2024-05,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,usa,United States,1212
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,can,Canada,1170
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,2185
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,cze,Czech Republic,3127
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,86653
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,dnk,Denmark,2114
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fra,France,64
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,gbr,United Kingdom,12637
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ind,India,213
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,irl,Ireland,1104
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ita,Italy,12877
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,4105
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,lka,Sri Lanka,64
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,nld,Netherlands,1288
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,pol,Poland,144
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,svn,Slovenia,2572
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,swe,Sweden,3298
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,tur,Turkey,418
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,2583
+202405,2024-05,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,vnm,Vietnam,279
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,deu,Germany,382993
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,fra,France,42
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ind,India,80
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ita,Italy,1247
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,jpn,Japan,1618
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,sgp,Singapore,20433
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,tur,Turkey,476
+202405,2024-05,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,499844
+202405,2024-05,17,Morelos,9441114,"Medium Density Fiberboard ""Mdf"" Wood and Measurement> 9Mm",1,Imports,chn,China,130373
+202405,2024-05,17,Morelos,9441114,"Medium Density Fiberboard ""Mdf"" Wood and Measurement> 9Mm",1,Imports,tur,Turkey,120740
+202405,2024-05,17,Morelos,10481141,"Paper and Paperboard, Self-Adhesive, Colored or Surface-Decorated or Printed, in Coils ""Rolls"" or Sheets of Square or Rectangular, of any Size (Excl. Articles of Heading 4810)",1,Imports,arg,Argentina,2451
+202405,2024-05,17,Morelos,10481141,"Paper and Paperboard, Self-Adhesive, Colored or Surface-Decorated or Printed, in Coils ""Rolls"" or Sheets of Square or Rectangular, of any Size (Excl. Articles of Heading 4810)",1,Imports,gbr,United Kingdom,996
+202405,2024-05,17,Morelos,10481141,"Paper and Paperboard, Self-Adhesive, Colored or Surface-Decorated or Printed, in Coils ""Rolls"" or Sheets of Square or Rectangular, of any Size (Excl. Articles of Heading 4810)",1,Imports,usa,United States,1540
+202405,2024-05,17,Morelos,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,ind,India,30
+202405,2024-05,17,Morelos,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,jpn,Japan,1080
+202405,2024-05,17,Morelos,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,2402
+202405,2024-05,17,Morelos,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,bra,Brazil,2218
+202405,2024-05,17,Morelos,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,41328
+202405,2024-05,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,cze,Czech Republic,1
+202405,2024-05,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,ita,Italy,24
+202405,2024-05,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,usa,United States,74384
+202405,2024-05,17,Morelos,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,che,Switzerland,18
+202405,2024-05,17,Morelos,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,fra,France,26
+202405,2024-05,17,Morelos,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,usa,United States,69
+202405,2024-05,17,Morelos,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,bra,Brazil,21369
+202405,2024-05,17,Morelos,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,chn,China,24710
+202405,2024-05,17,Morelos,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,esp,Spain,5688
+202405,2024-05,17,Morelos,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,nld,Netherlands,3147
+202405,2024-05,17,Morelos,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,usa,United States,9620
+202405,2024-05,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,bra,Brazil,210
+202405,2024-05,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,can,Canada,41237
+202405,2024-05,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,fra,France,1656
+202405,2024-05,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,usa,United States,868494
+202405,2024-05,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,can,Canada,36
+202405,2024-05,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,gbr,United Kingdom,176
+202405,2024-05,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,ita,Italy,574
+202405,2024-05,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,nld,Netherlands,3516
+202405,2024-05,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,usa,United States,192242
+202405,2024-05,17,Morelos,13681299,"Asbestos ""Asbestos"" Fibers; Mixtures Based on Asbestos or Asbestos-Based and Carbonate Mixtures Asbestos Articles, E.G. Yarns, Fibers, Strings (Exc. Asbestos Fibers Amiando Compressed Paper Clothing and Accessories, Shoes, Hats and Articles of Asbestos-Cement)",1,Imports,bra,Brazil,57
+202405,2024-05,17,Morelos,13681299,"Asbestos ""Asbestos"" Fibers; Mixtures Based on Asbestos or Asbestos-Based and Carbonate Mixtures Asbestos Articles, E.G. Yarns, Fibers, Strings (Exc. Asbestos Fibers Amiando Compressed Paper Clothing and Accessories, Shoes, Hats and Articles of Asbestos-Cement)",1,Imports,deu,Germany,630
+202405,2024-05,17,Morelos,13681299,"Asbestos ""Asbestos"" Fibers; Mixtures Based on Asbestos or Asbestos-Based and Carbonate Mixtures Asbestos Articles, E.G. Yarns, Fibers, Strings (Exc. Asbestos Fibers Amiando Compressed Paper Clothing and Accessories, Shoes, Hats and Articles of Asbestos-Cement)",1,Imports,jpn,Japan,2174
+202405,2024-05,17,Morelos,13681299,"Asbestos ""Asbestos"" Fibers; Mixtures Based on Asbestos or Asbestos-Based and Carbonate Mixtures Asbestos Articles, E.G. Yarns, Fibers, Strings (Exc. Asbestos Fibers Amiando Compressed Paper Clothing and Accessories, Shoes, Hats and Articles of Asbestos-Cement)",1,Imports,usa,United States,38
+202405,2024-05,17,Morelos,13701990,"Glass Fibers,",1,Imports,chn,China,6600
+202405,2024-05,17,Morelos,13701990,"Glass Fibers,",1,Imports,col,Colombia,17910
+202405,2024-05,17,Morelos,13701990,"Glass Fibers,",1,Imports,deu,Germany,2822
+202405,2024-05,17,Morelos,13701990,"Glass Fibers,",1,Imports,esp,Spain,24628
+202405,2024-05,17,Morelos,13701990,"Glass Fibers,",1,Imports,twn,Taiwan (Region),14088
+202405,2024-05,17,Morelos,13701990,"Glass Fibers,",1,Imports,usa,United States,8344
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,arg,Argentina,353
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,bra,Brazil,23
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,586
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,5814
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,536
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,fra,France,139
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,gbr,United Kingdom,3678
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ind,India,82
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,600
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,jpn,Japan,23853
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,kor,South Korea,89
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,nld,Netherlands,726
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,pol,Poland,73
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,prt,Portugal,2570
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,tur,Turkey,59
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),66
+202405,2024-05,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,39008
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,can,Canada,4405
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,che,Switzerland,172
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,chn,China,40
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,deu,Germany,78
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,fra,France,7
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,jpn,Japan,3995
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,nld,Netherlands,397
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,rou,Romania,65
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,tur,Turkey,47
+202405,2024-05,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,134
+202405,2024-05,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,deu,Germany,613
+202405,2024-05,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,ita,Italy,2567
+202405,2024-05,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,jpn,Japan,325
+202405,2024-05,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,tur,Turkey,49
+202405,2024-05,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,usa,United States,11
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,che,Switzerland,48
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,deu,Germany,965
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,fra,France,33
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,ita,Italy,227
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,jpn,Japan,521
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,tur,Turkey,365
+202405,2024-05,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,64
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,deu,Germany,6
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,fra,France,35
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,ita,Italy,78
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,jpn,Japan,1907
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,nld,Netherlands,257
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,tur,Turkey,750
+202405,2024-05,17,Morelos,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,80
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,chn,China,468
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,deu,Germany,1276
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,fra,France,1502
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,ita,Italy,213
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,jpn,Japan,2625
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,tur,Turkey,42
+202405,2024-05,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,14381
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,che,Switzerland,866
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,3674
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,deu,Germany,4525
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,fra,France,669
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,ita,Italy,1032
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,jpn,Japan,7953
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,nld,Netherlands,116
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,tur,Turkey,111
+202405,2024-05,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,220
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,bel,Belgium,15771
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,chn,China,123456
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,4655
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,fra,France,132
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,ita,Italy,3308
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,jpn,Japan,4687
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,pol,Poland,60724
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,prt,Portugal,510
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,qat,Qatar,1102
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,tur,Turkey,14
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),109
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,usa,United States,92098
+202405,2024-05,17,Morelos,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,nld,Netherlands,514
+202405,2024-05,17,Morelos,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,usa,United States,983
+202405,2024-05,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,che,Switzerland,3754
+202405,2024-05,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,1028
+202405,2024-05,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,aut,Austria,1198
+202405,2024-05,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,deu,Germany,642
+202405,2024-05,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,ita,Italy,1268
+202405,2024-05,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,kor,South Korea,4493
+202405,2024-05,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,nld,Netherlands,1929
+202405,2024-05,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,usa,United States,33260
+202405,2024-05,17,Morelos,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,fra,France,546
+202405,2024-05,17,Morelos,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,usa,United States,1863
+202405,2024-05,17,Morelos,15830990,"Stoppers, Lids",1,Imports,ind,India,76409
+202405,2024-05,17,Morelos,15830990,"Stoppers, Lids",1,Imports,jpn,Japan,3614
+202405,2024-05,17,Morelos,15830990,"Stoppers, Lids",1,Imports,nld,Netherlands,16243
+202405,2024-05,17,Morelos,15830990,"Stoppers, Lids",1,Imports,usa,United States,52252
+202405,2024-05,17,Morelos,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,jpn,Japan,696
+202405,2024-05,17,Morelos,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,usa,United States,4761
+202405,2024-05,17,Morelos,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,chn,China,102450
+202405,2024-05,17,Morelos,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,deu,Germany,1803
+202405,2024-05,17,Morelos,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,ita,Italy,17205
+202405,2024-05,17,Morelos,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,tur,Turkey,4327
+202405,2024-05,17,Morelos,16841391,Parts of Pumps for Liquids,1,Imports,chn,China,564
+202405,2024-05,17,Morelos,16841391,Parts of Pumps for Liquids,1,Imports,ita,Italy,281
+202405,2024-05,17,Morelos,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,2646
+202405,2024-05,17,Morelos,16841430,Compressors of a Kind Used in Refrigerating Equipment,1,Imports,jpn,Japan,8595
+202405,2024-05,17,Morelos,16841430,Compressors of a Kind Used in Refrigerating Equipment,1,Imports,rou,Romania,654
+202405,2024-05,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,chn,China,759
+202405,2024-05,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,deu,Germany,517
+202405,2024-05,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,jpn,Japan,269697
+202405,2024-05,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,nld,Netherlands,490
+202405,2024-05,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,tur,Turkey,11691
+202405,2024-05,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,usa,United States,2168
+202405,2024-05,17,Morelos,16841950,Heat Exchangers,1,Imports,deu,Germany,2249364
+202405,2024-05,17,Morelos,16841950,Heat Exchangers,1,Imports,usa,United States,44026
+202405,2024-05,17,Morelos,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,bra,Brazil,10065
+202405,2024-05,17,Morelos,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,chn,China,4893
+202405,2024-05,17,Morelos,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,fra,France,419
+202405,2024-05,17,Morelos,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,ita,Italy,506
+202405,2024-05,17,Morelos,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,tur,Turkey,36729
+202405,2024-05,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,deu,Germany,737626
+202405,2024-05,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,fra,France,195984
+202405,2024-05,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,ita,Italy,568
+202405,2024-05,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,jpn,Japan,11628
+202405,2024-05,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,1009
+202405,2024-05,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,chn,China,530
+202405,2024-05,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,fra,France,595
+202405,2024-05,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,ind,India,359
+202405,2024-05,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,ita,Italy,852
+202405,2024-05,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,jpn,Japan,25789
+202405,2024-05,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,4527
+202405,2024-05,17,Morelos,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,chn,China,13260
+202405,2024-05,17,Morelos,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,deu,Germany,2257
+202405,2024-05,17,Morelos,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,ita,Italy,6618
+202405,2024-05,17,Morelos,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,jpn,Japan,368
+202405,2024-05,17,Morelos,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,tur,Turkey,4061
+202405,2024-05,17,Morelos,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,usa,United States,1399
+202405,2024-05,17,Morelos,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,can,Canada,771
+202405,2024-05,17,Morelos,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,deu,Germany,13137
+202405,2024-05,17,Morelos,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,ita,Italy,57630
+202405,2024-05,17,Morelos,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,nld,Netherlands,5146
+202405,2024-05,17,Morelos,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,pol,Poland,4696
+202405,2024-05,17,Morelos,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,usa,United States,926
+202405,2024-05,17,Morelos,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,deu,Germany,535
+202405,2024-05,17,Morelos,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,kor,South Korea,4610
+202405,2024-05,17,Morelos,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,usa,United States,10770
+202405,2024-05,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,chn,China,18206
+202405,2024-05,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,deu,Germany,20773
+202405,2024-05,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,ind,India,5050
+202405,2024-05,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,jpn,Japan,5947
+202405,2024-05,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,usa,United States,31189
+202405,2024-05,17,Morelos,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,deu,Germany,3008
+202405,2024-05,17,Morelos,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,esp,Spain,218
+202405,2024-05,17,Morelos,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,jpn,Japan,3197
+202405,2024-05,17,Morelos,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,usa,United States,65958
+202405,2024-05,17,Morelos,16847989,Mechanical Machinery,1,Imports,chn,China,13350
+202405,2024-05,17,Morelos,16847989,Mechanical Machinery,1,Imports,esp,Spain,12640
+202405,2024-05,17,Morelos,16847989,Mechanical Machinery,1,Imports,usa,United States,60403
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,bel,Belgium,4075
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,can,Canada,2087
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,chn,China,197
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,deu,Germany,2052
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,ind,India,13773
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,ita,Italy,35400
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,mys,Malaysia,646
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,pol,Poland,3704
+202405,2024-05,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,usa,United States,2618
+202405,2024-05,17,Morelos,16848110,Pressure Reducing Valves,1,Imports,deu,Germany,789
+202405,2024-05,17,Morelos,16848110,Pressure Reducing Valves,1,Imports,usa,United States,251
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,chn,China,1721
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,deu,Germany,8116
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,fra,France,177
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,hun,Hungary,397
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,ita,Italy,4179
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,jpn,Japan,36536
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,tur,Turkey,2620
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,twn,Taiwan (Region),2493
+202405,2024-05,17,Morelos,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,usa,United States,1178
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,27530
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,18117
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,dnk,Denmark,6347
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,hun,Hungary,107
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ind,India,206
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ita,Italy,7581
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,jpn,Japan,368
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,nld,Netherlands,455
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,rou,Romania,1434
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,swe,Sweden,79
+202405,2024-05,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,8170
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,aut,Austria,5310
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,che,Switzerland,1271
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,chn,China,141
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,cze,Czech Republic,650
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,deu,Germany,71559
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,gbr,United Kingdom,322
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,ita,Italy,12554
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,jpn,Japan,25254
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,nld,Netherlands,1178
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,pol,Poland,10896
+202405,2024-05,17,Morelos,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,tur,Turkey,172
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,aut,Austria,2280
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,chn,China,43772
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,cze,Czech Republic,138
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,deu,Germany,21649
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,esp,Spain,156
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,fra,France,4767
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,ind,India,649
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,ita,Italy,9153
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,jpn,Japan,28446
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,nld,Netherlands,357
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,tur,Turkey,481
+202405,2024-05,17,Morelos,16848210,Ball Bearings,1,Imports,usa,United States,2582
+202405,2024-05,17,Morelos,16848250,Cylindrical Roller Bearings Rolls,1,Imports,deu,Germany,1357
+202405,2024-05,17,Morelos,16848250,Cylindrical Roller Bearings Rolls,1,Imports,jpn,Japan,22313
+202405,2024-05,17,Morelos,16848250,Cylindrical Roller Bearings Rolls,1,Imports,tur,Turkey,24
+202405,2024-05,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,che,Switzerland,1256
+202405,2024-05,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,chn,China,358
+202405,2024-05,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,deu,Germany,3411
+202405,2024-05,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,jpn,Japan,9848
+202405,2024-05,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,tur,Turkey,4747
+202405,2024-05,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,2835
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,278
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,cze,Czech Republic,757
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,deu,Germany,16358
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,esp,Spain,17
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,fra,France,124
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ind,India,2158
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ita,Italy,3386
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,jpn,Japan,158454
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,nld,Netherlands,1358
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,pol,Poland,57
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,tur,Turkey,137
+202405,2024-05,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,14208
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,che,Switzerland,1242
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,cze,Czech Republic,1117
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,deu,Germany,2777
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,6211
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,swe,Sweden,90
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,tur,Turkey,586
+202405,2024-05,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,992
+202405,2024-05,17,Morelos,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,deu,Germany,15577
+202405,2024-05,17,Morelos,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,fra,France,69
+202405,2024-05,17,Morelos,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,ita,Italy,577
+202405,2024-05,17,Morelos,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,nld,Netherlands,6483
+202405,2024-05,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,deu,Germany,1384
+202405,2024-05,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,esp,Spain,4945
+202405,2024-05,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,fra,France,1210
+202405,2024-05,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,ita,Italy,1635
+202405,2024-05,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,jpn,Japan,2912
+202405,2024-05,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,2702
+202405,2024-05,17,Morelos,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,deu,Germany,1285
+202405,2024-05,17,Morelos,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ita,Italy,382
+202405,2024-05,17,Morelos,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,tur,Turkey,3634
+202405,2024-05,17,Morelos,16848410,Together or Assortments,1,Imports,deu,Germany,313
+202405,2024-05,17,Morelos,16848410,Together or Assortments,1,Imports,jpn,Japan,17393
+202405,2024-05,17,Morelos,16848410,Together or Assortments,1,Imports,vnm,Vietnam,108
+202405,2024-05,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,deu,Germany,10723
+202405,2024-05,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,ita,Italy,2355
+202405,2024-05,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,jpn,Japan,40140
+202405,2024-05,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,94
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,che,Switzerland,140
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,chn,China,5509
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,deu,Germany,21644
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,dnk,Denmark,796
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,fra,France,1839
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,ita,Italy,3066
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,kor,South Korea,987
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,tur,Turkey,6380
+202405,2024-05,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,491
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,chn,China,165
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,deu,Germany,16747
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,fra,France,5
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,hun,Hungary,55
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,jpn,Japan,2555
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,pol,Poland,68
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,tur,Turkey,1245
+202405,2024-05,17,Morelos,16848790,Parts of Machinery or Apparatus,1,Imports,twn,Taiwan (Region),385
+202405,2024-05,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,che,Switzerland,3052
+202405,2024-05,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,chn,China,145
+202405,2024-05,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,ita,Italy,1719
+202405,2024-05,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,nld,Netherlands,629
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,chn,China,9317
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,cze,Czech Republic,745
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,deu,Germany,14087
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,fra,France,12260
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,ita,Italy,469
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,jpn,Japan,4998
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,nld,Netherlands,3282
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,pol,Poland,3807
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,svk,Slovakia,719
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,tha,Thailand,1008
+202405,2024-05,17,Morelos,16850440,Electrical Static Converters,1,Imports,usa,United States,1023
+202405,2024-05,17,Morelos,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,bra,Brazil,2232
+202405,2024-05,17,Morelos,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,chn,China,141
+202405,2024-05,17,Morelos,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,deu,Germany,2368
+202405,2024-05,17,Morelos,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,ita,Italy,339
+202405,2024-05,17,Morelos,16852351,"Recording Mechanisms, Solid State",1,Imports,chn,China,1274
+202405,2024-05,17,Morelos,16852351,"Recording Mechanisms, Solid State",1,Imports,deu,Germany,360
+202405,2024-05,17,Morelos,16852351,"Recording Mechanisms, Solid State",1,Imports,usa,United States,35
+202405,2024-05,17,Morelos,16853340,Variable Resistors,1,Imports,che,Switzerland,927
+202405,2024-05,17,Morelos,16853340,Variable Resistors,1,Imports,chn,China,95131
+202405,2024-05,17,Morelos,16853340,Variable Resistors,1,Imports,fra,France,73
+202405,2024-05,17,Morelos,16853340,Variable Resistors,1,Imports,gbr,United Kingdom,751
+202405,2024-05,17,Morelos,16853340,Variable Resistors,1,Imports,jpn,Japan,25396
+202405,2024-05,17,Morelos,16853340,Variable Resistors,1,Imports,usa,United States,123
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,can,Canada,427
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,3964
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,cze,Czech Republic,53796
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,deu,Germany,53348
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,dnk,Denmark,2059
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,dom,Dominican Republic,266
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,fra,France,2044
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,gbr,United Kingdom,423
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,hun,Hungary,251
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,idn,Indonesia,727
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,ita,Italy,527
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,jpn,Japan,904
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,pol,Poland,44
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,twn,Taiwan (Region),1585
+202405,2024-05,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,21676
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,4176
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,deu,Germany,376
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,esp,Spain,60
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,fra,France,440
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,gbr,United Kingdom,304
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ita,Italy,189
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,jpn,Japan,2037
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ltu,Lithuania,94
+202405,2024-05,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,6062
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,aut,Austria,9031
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,can,Canada,3343
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,1433
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,cze,Czech Republic,180
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,deu,Germany,102140
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,fra,France,7502
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,idn,Indonesia,809
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,ita,Italy,3125
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,jpn,Japan,20477
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,mys,Malaysia,620
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,nld,Netherlands,1922
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,twn,Taiwan (Region),7562
+202405,2024-05,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,23260
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,che,Switzerland,5715
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,chn,China,43153
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,deu,Germany,11
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,fra,France,362
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,jpn,Japan,3309
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,nld,Netherlands,39948
+202405,2024-05,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,usa,United States,11201
+202405,2024-05,17,Morelos,16854190,"Parts of Diodes, Transistors and Devices Semiconductor Material Simil., Parts Photosensitive Semiconductor Devices, Parts Light Emitting Diodes, Parts Mounted Piezoelectric Crystals, N.E.C",1,Imports,deu,Germany,25
+202405,2024-05,17,Morelos,16854190,"Parts of Diodes, Transistors and Devices Semiconductor Material Simil., Parts Photosensitive Semiconductor Devices, Parts Light Emitting Diodes, Parts Mounted Piezoelectric Crystals, N.E.C",1,Imports,idn,Indonesia,5255
+202405,2024-05,17,Morelos,16854190,"Parts of Diodes, Transistors and Devices Semiconductor Material Simil., Parts Photosensitive Semiconductor Devices, Parts Light Emitting Diodes, Parts Mounted Piezoelectric Crystals, N.E.C",1,Imports,usa,United States,576
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,aut,Austria,110
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,bgr,Bulgaria,18
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,bra,Brazil,104
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,6853
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,fra,France,2553
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,hun,Hungary,23
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,ita,Italy,783
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,jpn,Japan,4208
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,nld,Netherlands,821
+202405,2024-05,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,4935
+202405,2024-05,17,Morelos,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,chn,China,1037
+202405,2024-05,17,Morelos,17870850,Drive Axles with Differential for Motor Vehicles,1,Imports,prt,Portugal,1851
+202405,2024-05,17,Morelos,17871690,"Parts of Trailers and other Vehicles not Mechanically Propelled, N.E.C",1,Imports,chn,China,4424
+202405,2024-05,17,Morelos,17871690,"Parts of Trailers and other Vehicles not Mechanically Propelled, N.E.C",1,Imports,nld,Netherlands,479
+202405,2024-05,17,Morelos,17871690,"Parts of Trailers and other Vehicles not Mechanically Propelled, N.E.C",1,Imports,usa,United States,459778
+202405,2024-05,17,Morelos,18902580,"Hydrometers -Hydrometers and Instruments Flotantes Simil., Barometers, Hygrometers and Psychrometers, Incl. Combined with each other or with Thermometers",1,Imports,ita,Italy,160
+202405,2024-05,17,Morelos,18902580,"Hydrometers -Hydrometers and Instruments Flotantes Simil., Barometers, Hygrometers and Psychrometers, Incl. Combined with each other or with Thermometers",1,Imports,usa,United States,27613
+202405,2024-05,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,chn,China,12355
+202405,2024-05,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,fra,France,248
+202405,2024-05,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,ita,Italy,67
+202405,2024-05,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,jpn,Japan,1305
+202405,2024-05,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,12082
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,7739
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,deu,Germany,7761
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,fra,France,346
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,gbr,United Kingdom,168
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,ind,India,109
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,ita,Italy,3972
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,pol,Poland,40
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,twn,Taiwan (Region),633
+202405,2024-05,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,365
+202405,2024-05,17,Morelos,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,chn,China,795
+202405,2024-05,17,Morelos,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,deu,Germany,636
+202405,2024-05,17,Morelos,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,usa,United States,282
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,can,Canada,6239
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,chn,China,7040
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,deu,Germany,2363
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,fra,France,1878
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,ita,Italy,8147
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,jpn,Japan,1752
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,swe,Sweden,304
+202405,2024-05,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,usa,United States,1209
+202405,2024-05,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,bra,Brazil,1042
+202405,2024-05,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,chn,China,246
+202405,2024-05,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,mys,Malaysia,3270
+202405,2024-05,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,usa,United States,970
+202405,2024-05,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,2733
+202405,2024-05,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,dnk,Denmark,10541
+202405,2024-05,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,fra,France,2302
+202405,2024-05,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,jpn,Japan,26
+202405,2024-05,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,pol,Poland,25151
+202405,2024-05,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,10164
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,bra,Brazil,118
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,can,Canada,38824
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,chl,Chile,5760
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,chn,China,6702
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,deu,Germany,9284
+202405,2024-05,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,usa,United States,1155018
+202405,2024-05,17,Morelos,10481910,Boxes Corrugated Paperboard,2,Exports,usa,United States,11413
+202405,2024-05,17,Morelos,15732690,Articles of Iron or Steel,2,Exports,usa,United States,15261

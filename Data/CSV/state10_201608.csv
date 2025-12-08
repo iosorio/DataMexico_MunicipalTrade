@@ -1,0 +1,1204 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+201608,2016-08,10,Durango,1020329,"Porcine Meat, Frozen",1,Imports,can,Canada,61917
+201608,2016-08,10,Durango,1020329,"Porcine Meat, Frozen",1,Imports,usa,United States,99008
+201608,2016-08,10,Durango,1020713,"Cuts and Edible Offal, Gallo O Gallina, Domesticus, Fresh or Chilled",1,Imports,usa,United States,1333766
+201608,2016-08,10,Durango,1020714,"Cuts and Edible Offal, Gallo O Gallina, Domesticus, Frozen",1,Imports,usa,United States,314336
+201608,2016-08,10,Durango,1040210,"Milk and Cream ""Cream"", in Powder, Granules or other Solid Forms, with a Fat Content of <= 1.5% by Weight",1,Imports,can,Canada,480266
+201608,2016-08,10,Durango,1040210,"Milk and Cream ""Cream"", in Powder, Granules or other Solid Forms, with a Fat Content of <= 1.5% by Weight",1,Imports,usa,United States,7350604
+201608,2016-08,10,Durango,2100590,"Corn, other than Seed",1,Imports,usa,United States,22831853
+201608,2016-08,10,Durango,4190590,"Baked Goods, Wares, not Containing Cocoa",1,Imports,usa,United States,353184
+201608,2016-08,10,Durango,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,bel,Belgium,7256
+201608,2016-08,10,Durango,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,ita,Italy,226
+201608,2016-08,10,Durango,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,jpn,Japan,1101
+201608,2016-08,10,Durango,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,kor,South Korea,1029
+201608,2016-08,10,Durango,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,usa,United States,50570
+201608,2016-08,10,Durango,6320990,"Paints and Varnishes Based on Synthetic or Natural Polymers Modified, Dispersed or Dissolved in a Aqueous (Exc. Based Polymers Acrylic or Vinyl)",1,Imports,usa,United States,26491
+201608,2016-08,10,Durango,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,aut,Austria,346
+201608,2016-08,10,Durango,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,usa,United States,7368
+201608,2016-08,10,Durango,6340399,Lubricating Preparations,1,Imports,deu,Germany,79
+201608,2016-08,10,Durango,6340399,Lubricating Preparations,1,Imports,kor,South Korea,1797
+201608,2016-08,10,Durango,6340399,Lubricating Preparations,1,Imports,usa,United States,19161
+201608,2016-08,10,Durango,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,che,Switzerland,17947
+201608,2016-08,10,Durango,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,chn,China,100
+201608,2016-08,10,Durango,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,usa,United States,2504
+201608,2016-08,10,Durango,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,esp,Spain,96594
+201608,2016-08,10,Durango,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,228943
+201608,2016-08,10,Durango,7390422,"Poly ""Vinyl Chloride"", in Primary Forms, Mixed with other Substances, Plastificado",1,Imports,idn,Indonesia,182
+201608,2016-08,10,Durango,7390422,"Poly ""Vinyl Chloride"", in Primary Forms, Mixed with other Substances, Plastificado",1,Imports,kor,South Korea,1434
+201608,2016-08,10,Durango,7390422,"Poly ""Vinyl Chloride"", in Primary Forms, Mixed with other Substances, Plastificado",1,Imports,prt,Portugal,31971
+201608,2016-08,10,Durango,7390422,"Poly ""Vinyl Chloride"", in Primary Forms, Mixed with other Substances, Plastificado",1,Imports,usa,United States,423091
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,chn,China,1584
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,deu,Germany,16825
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,fra,France,247
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,gbr,United Kingdom,38
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,jpn,Japan,222
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,kor,South Korea,19014
+201608,2016-08,10,Durango,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,usa,United States,36388
+201608,2016-08,10,Durango,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,deu,Germany,55
+201608,2016-08,10,Durango,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,isr,Israel,5706
+201608,2016-08,10,Durango,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,jpn,Japan,260
+201608,2016-08,10,Durango,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,70501
+201608,2016-08,10,Durango,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,chn,China,5780
+201608,2016-08,10,Durango,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,deu,Germany,37685
+201608,2016-08,10,Durango,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,esp,Spain,53
+201608,2016-08,10,Durango,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,kor,South Korea,28169
+201608,2016-08,10,Durango,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,twn,Taiwan (Region),126
+201608,2016-08,10,Durango,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,31636
+201608,2016-08,10,Durango,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,cze,Czech Republic,3080
+201608,2016-08,10,Durango,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,deu,Germany,4765
+201608,2016-08,10,Durango,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,jpn,Japan,2881
+201608,2016-08,10,Durango,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,kor,South Korea,23576
+201608,2016-08,10,Durango,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,usa,United States,14714
+201608,2016-08,10,Durango,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,zaf,South Africa,5040
+201608,2016-08,10,Durango,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,gbr,United Kingdom,251
+201608,2016-08,10,Durango,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,usa,United States,110869
+201608,2016-08,10,Durango,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,che,Switzerland,1607
+201608,2016-08,10,Durango,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,usa,United States,146704
+201608,2016-08,10,Durango,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,usa,United States,851283
+201608,2016-08,10,Durango,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",1,Imports,usa,United States,4557
+201608,2016-08,10,Durango,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,aut,Austria,122
+201608,2016-08,10,Durango,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,chn,China,157
+201608,2016-08,10,Durango,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,jpn,Japan,153
+201608,2016-08,10,Durango,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,mus,Mauritius,37
+201608,2016-08,10,Durango,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,usa,United States,42948
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",1,Imports,fra,France,444
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",1,Imports,hnd,Honduras,1440
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",1,Imports,kor,South Korea,62571
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",1,Imports,prt,Portugal,4672
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",1,Imports,usa,United States,45450
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,1689
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,jpn,Japan,40
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,nld,Netherlands,24
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,125841
+201608,2016-08,10,Durango,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,usa,United States,134294
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,aus,Australia,1241
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,aut,Austria,25293
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,bel,Belgium,1082
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,can,Canada,26203
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,che,Switzerland,1558
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,74100
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,cri,Costa Rica,205
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,cze,Czech Republic,18335
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,deu,Germany,104818
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,dnk,Denmark,1781
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,esp,Spain,13036
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,est,Estonia,6424
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,fra,France,13662
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,gbr,United Kingdom,11763
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,hun,Hungary,17847
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,ind,India,44000
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,ita,Italy,18580
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,jpn,Japan,46688
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,726790
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,nld,Netherlands,18
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,per,Peru,534
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,phl,Philippines,295
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,prt,Portugal,401
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,rou,Romania,749
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,sgp,Singapore,80551
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,swe,Sweden,9
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,tha,Thailand,187
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,tur,Turkey,595
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,twn,Taiwan (Region),226
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,ukr,Ukraine,3286
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,1046571
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,1,Imports,zaf,South Africa,18706
+201608,2016-08,10,Durango,7400912,"Tubes of Vulcanized Rubber, not Reinforced or otherwise Combined with other Materials, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,chn,China,19197
+201608,2016-08,10,Durango,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,deu,Germany,499
+201608,2016-08,10,Durango,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,fra,France,129
+201608,2016-08,10,Durango,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,pol,Poland,21
+201608,2016-08,10,Durango,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,usa,United States,444
+201608,2016-08,10,Durango,7400932,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,can,Canada,868
+201608,2016-08,10,Durango,7400932,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,ind,India,640
+201608,2016-08,10,Durango,7400932,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,usa,United States,813
+201608,2016-08,10,Durango,7401012,"Conveyor Belts, of Vulcanized Rubber, Reinforced only with Textile",1,Imports,deu,Germany,887
+201608,2016-08,10,Durango,7401012,"Conveyor Belts, of Vulcanized Rubber, Reinforced only with Textile",1,Imports,esp,Spain,97
+201608,2016-08,10,Durango,7401012,"Conveyor Belts, of Vulcanized Rubber, Reinforced only with Textile",1,Imports,usa,United States,8584
+201608,2016-08,10,Durango,7401031,"Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 180 Cm, of Vulcanized Rubber",1,Imports,chn,China,593
+201608,2016-08,10,Durango,7401031,"Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 180 Cm, of Vulcanized Rubber",1,Imports,jpn,Japan,540
+201608,2016-08,10,Durango,7401031,"Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 180 Cm, of Vulcanized Rubber",1,Imports,usa,United States,3761
+201608,2016-08,10,Durango,7401035,"Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 150 Cm, of Vulcanized Rubber",1,Imports,chn,China,834
+201608,2016-08,10,Durango,7401035,"Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 150 Cm, of Vulcanized Rubber",1,Imports,deu,Germany,276
+201608,2016-08,10,Durango,7401035,"Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 150 Cm, of Vulcanized Rubber",1,Imports,ind,India,408
+201608,2016-08,10,Durango,7401035,"Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 150 Cm, of Vulcanized Rubber",1,Imports,usa,United States,292
+201608,2016-08,10,Durango,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,deu,Germany,674
+201608,2016-08,10,Durango,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,gbr,United Kingdom,2379
+201608,2016-08,10,Durango,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,irl,Ireland,400
+201608,2016-08,10,Durango,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,ita,Italy,248
+201608,2016-08,10,Durango,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,jpn,Japan,450
+201608,2016-08,10,Durango,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,usa,United States,2030
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,aut,Austria,611
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,can,Canada,1392
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,che,Switzerland,544
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,1942
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,cze,Czech Republic,266
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,3227
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,dnk,Denmark,1352
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,esp,Spain,87
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fra,France,338
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,gbr,United Kingdom,365
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ind,India,15
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ita,Italy,82
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,1600
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,kor,South Korea,79
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,nld,Netherlands,1037
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,nor,Norway,62
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,per,Peru,1569
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,tha,Thailand,491
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,tur,Turkey,75
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),449
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,306668
+201608,2016-08,10,Durango,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,vnm,Vietnam,33
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,aut,Austria,8974
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,can,Canada,11508
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,109927
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,deu,Germany,9162
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,fra,France,2786
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,gbr,United Kingdom,2001
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,hun,Hungary,975
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,idn,Indonesia,8
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ita,Italy,7533
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,jpn,Japan,10174
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,kor,South Korea,109118
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,nld,Netherlands,245
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,prt,Portugal,5627
+201608,2016-08,10,Durango,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,38584
+201608,2016-08,10,Durango,8420500,Fur Products,1,Imports,can,Canada,3120
+201608,2016-08,10,Durango,8420500,Fur Products,1,Imports,gtm,Guatemala,1
+201608,2016-08,10,Durango,8420500,Fur Products,1,Imports,ind,India,232
+201608,2016-08,10,Durango,9440710,"Coniferous Wood, Sawn or Chipped Lengthwise, Sliced ​​Or Peeled",1,Imports,bra,Brazil,54775
+201608,2016-08,10,Durango,9440710,"Coniferous Wood, Sawn or Chipped Lengthwise, Sliced ​​Or Peeled",1,Imports,chl,Chile,2104168
+201608,2016-08,10,Durango,9440710,"Coniferous Wood, Sawn or Chipped Lengthwise, Sliced ​​Or Peeled",1,Imports,usa,United States,1397124
+201608,2016-08,10,Durango,9440890,"Sheets for Veneering, Incl. those Obtained by Slicing Laminated Wood, for Plywood or for other Woods Similar Stratified and other Wood Sawn Lengthwise, Sliced ​​Or Peeled, whether or not Planed, Sanded, Spliced ​​Or End-Jointed, of a Thickness < = 6 Mm (Excluding Tropical Wood Specified in Subheading Note 2 to this Chapter and Coniferous Wood)",1,Imports,can,Canada,140120
+201608,2016-08,10,Durango,9440890,"Sheets for Veneering, Incl. those Obtained by Slicing Laminated Wood, for Plywood or for other Woods Similar Stratified and other Wood Sawn Lengthwise, Sliced ​​Or Peeled, whether or not Planed, Sanded, Spliced ​​Or End-Jointed, of a Thickness < = 6 Mm (Excluding Tropical Wood Specified in Subheading Note 2 to this Chapter and Coniferous Wood)",1,Imports,chl,Chile,48429
+201608,2016-08,10,Durango,9440890,"Sheets for Veneering, Incl. those Obtained by Slicing Laminated Wood, for Plywood or for other Woods Similar Stratified and other Wood Sawn Lengthwise, Sliced ​​Or Peeled, whether or not Planed, Sanded, Spliced ​​Or End-Jointed, of a Thickness < = 6 Mm (Excluding Tropical Wood Specified in Subheading Note 2 to this Chapter and Coniferous Wood)",1,Imports,rou,Romania,102336
+201608,2016-08,10,Durango,9440890,"Sheets for Veneering, Incl. those Obtained by Slicing Laminated Wood, for Plywood or for other Woods Similar Stratified and other Wood Sawn Lengthwise, Sliced ​​Or Peeled, whether or not Planed, Sanded, Spliced ​​Or End-Jointed, of a Thickness < = 6 Mm (Excluding Tropical Wood Specified in Subheading Note 2 to this Chapter and Coniferous Wood)",1,Imports,usa,United States,32634
+201608,2016-08,10,Durango,10481910,Boxes Corrugated Paperboard,1,Imports,chn,China,870
+201608,2016-08,10,Durango,10481910,Boxes Corrugated Paperboard,1,Imports,usa,United States,646991
+201608,2016-08,10,Durango,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,can,Canada,142
+201608,2016-08,10,Durango,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,chn,China,10901
+201608,2016-08,10,Durango,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,gtm,Guatemala,400
+201608,2016-08,10,Durango,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,hkg,Hong Kong,373
+201608,2016-08,10,Durango,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,slv,El Salvador,3304
+201608,2016-08,10,Durango,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,35547
+201608,2016-08,10,Durango,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,can,Canada,18
+201608,2016-08,10,Durango,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,deu,Germany,498
+201608,2016-08,10,Durango,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,ita,Italy,1027
+201608,2016-08,10,Durango,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,jpn,Japan,1420
+201608,2016-08,10,Durango,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,usa,United States,32472
+201608,2016-08,10,Durango,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,cze,Czech Republic,27
+201608,2016-08,10,Durango,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,ita,Italy,13
+201608,2016-08,10,Durango,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,usa,United States,20023
+201608,2016-08,10,Durango,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,per,Peru,244
+201608,2016-08,10,Durango,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,3343
+201608,2016-08,10,Durango,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,deu,Germany,909
+201608,2016-08,10,Durango,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,isr,Israel,2
+201608,2016-08,10,Durango,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,usa,United States,6
+201608,2016-08,10,Durango,11551321,"Woven Fabrics of Synthetic Staple Fibers, High in Psf, but <85% by Weight, Mixed Mainly or Solely with Cotton and Weighing <= 170 G / M², Plain Weave",1,Imports,chn,China,7005
+201608,2016-08,10,Durango,11551321,"Woven Fabrics of Synthetic Staple Fibers, High in Psf, but <85% by Weight, Mixed Mainly or Solely with Cotton and Weighing <= 170 G / M², Plain Weave",1,Imports,usa,United States,15300
+201608,2016-08,10,Durango,11580710,"Labels, Badges and Similar Articles., of Textile Materials, in the Piece, in Strips, Cut Tissues without Bordar",1,Imports,can,Canada,174
+201608,2016-08,10,Durango,11580710,"Labels, Badges and Similar Articles., of Textile Materials, in the Piece, in Strips, Cut Tissues without Bordar",1,Imports,chn,China,376
+201608,2016-08,10,Durango,11580710,"Labels, Badges and Similar Articles., of Textile Materials, in the Piece, in Strips, Cut Tissues without Bordar",1,Imports,gtm,Guatemala,800
+201608,2016-08,10,Durango,11580710,"Labels, Badges and Similar Articles., of Textile Materials, in the Piece, in Strips, Cut Tissues without Bordar",1,Imports,usa,United States,16391
+201608,2016-08,10,Durango,11591190,Textile Products and Articles for Technical Uses,1,Imports,can,Canada,652
+201608,2016-08,10,Durango,11591190,Textile Products and Articles for Technical Uses,1,Imports,deu,Germany,11777
+201608,2016-08,10,Durango,11591190,Textile Products and Articles for Technical Uses,1,Imports,ita,Italy,2369
+201608,2016-08,10,Durango,11591190,Textile Products and Articles for Technical Uses,1,Imports,jpn,Japan,213
+201608,2016-08,10,Durango,11591190,Textile Products and Articles for Technical Uses,1,Imports,twn,Taiwan (Region),11
+201608,2016-08,10,Durango,11591190,Textile Products and Articles for Technical Uses,1,Imports,usa,United States,23590
+201608,2016-08,10,Durango,11620342,"Long and Short Pants, Cotton, for Men or Children (Exc. Knitted and Swim Pants)",1,Imports,usa,United States,4409
+201608,2016-08,10,Durango,11630790,"Textile Articles, Assembled",1,Imports,can,Canada,1914
+201608,2016-08,10,Durango,11630790,"Textile Articles, Assembled",1,Imports,chn,China,38
+201608,2016-08,10,Durango,11630790,"Textile Articles, Assembled",1,Imports,esp,Spain,201778
+201608,2016-08,10,Durango,11630790,"Textile Articles, Assembled",1,Imports,isr,Israel,253
+201608,2016-08,10,Durango,11630790,"Textile Articles, Assembled",1,Imports,usa,United States,4104
+201608,2016-08,10,Durango,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,chn,China,146
+201608,2016-08,10,Durango,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,ita,Italy,3911
+201608,2016-08,10,Durango,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,jpn,Japan,121
+201608,2016-08,10,Durango,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,usa,United States,7586
+201608,2016-08,10,Durango,13681510,Articles of Graphite or other Carbon (Exc. for Electrical Purposes),1,Imports,deu,Germany,296
+201608,2016-08,10,Durango,13681510,Articles of Graphite or other Carbon (Exc. for Electrical Purposes),1,Imports,jpn,Japan,450
+201608,2016-08,10,Durango,13681510,Articles of Graphite or other Carbon (Exc. for Electrical Purposes),1,Imports,usa,United States,35875
+201608,2016-08,10,Durango,15730661,"Pipes and Hollow Profiles, Welded, of Square or Rectangular Section",1,Imports,esp,Spain,3490
+201608,2016-08,10,Durango,15730661,"Pipes and Hollow Profiles, Welded, of Square or Rectangular Section",1,Imports,ita,Italy,1666
+201608,2016-08,10,Durango,15730661,"Pipes and Hollow Profiles, Welded, of Square or Rectangular Section",1,Imports,usa,United States,142999
+201608,2016-08,10,Durango,15730719,"Pipe Fittings, of Iron or Steel, Cast (Excl. Non-Malleable Cast)",1,Imports,deu,Germany,24
+201608,2016-08,10,Durango,15730719,"Pipe Fittings, of Iron or Steel, Cast (Excl. Non-Malleable Cast)",1,Imports,usa,United States,852
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,chn,China,824
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,deu,Germany,1640
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,esp,Spain,12507
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,ind,India,26
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,ita,Italy,429
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,kor,South Korea,392
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,twn,Taiwan (Region),4149
+201608,2016-08,10,Durango,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,usa,United States,539
+201608,2016-08,10,Durango,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,deu,Germany,9
+201608,2016-08,10,Durango,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,gbr,United Kingdom,497
+201608,2016-08,10,Durango,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,ita,Italy,295
+201608,2016-08,10,Durango,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,twn,Taiwan (Region),813
+201608,2016-08,10,Durango,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,324
+201608,2016-08,10,Durango,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,can,Canada,1678
+201608,2016-08,10,Durango,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,deu,Germany,471
+201608,2016-08,10,Durango,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,jpn,Japan,149
+201608,2016-08,10,Durango,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,ita,Italy,20
+201608,2016-08,10,Durango,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,jpn,Japan,67
+201608,2016-08,10,Durango,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,usa,United States,2424
+201608,2016-08,10,Durango,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,chn,China,772
+201608,2016-08,10,Durango,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,gbr,United Kingdom,137
+201608,2016-08,10,Durango,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,ita,Italy,177
+201608,2016-08,10,Durango,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,twn,Taiwan (Region),7
+201608,2016-08,10,Durango,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,47
+201608,2016-08,10,Durango,15731210,"Cables, of Iron or Steel (Excl. Insulated Electricity, and Barbed Wire and Twisted Fencing Wire)",1,Imports,ita,Italy,6549
+201608,2016-08,10,Durango,15731210,"Cables, of Iron or Steel (Excl. Insulated Electricity, and Barbed Wire and Twisted Fencing Wire)",1,Imports,kor,South Korea,166
+201608,2016-08,10,Durango,15731210,"Cables, of Iron or Steel (Excl. Insulated Electricity, and Barbed Wire and Twisted Fencing Wire)",1,Imports,usa,United States,2049
+201608,2016-08,10,Durango,15731511,Roller Chain of Iron or Steel,1,Imports,chn,China,2019
+201608,2016-08,10,Durango,15731511,Roller Chain of Iron or Steel,1,Imports,deu,Germany,1731
+201608,2016-08,10,Durango,15731511,Roller Chain of Iron or Steel,1,Imports,esp,Spain,6536
+201608,2016-08,10,Durango,15731511,Roller Chain of Iron or Steel,1,Imports,fra,France,130
+201608,2016-08,10,Durango,15731511,Roller Chain of Iron or Steel,1,Imports,usa,United States,6089
+201608,2016-08,10,Durango,15731519,Parts of Articulated Link Chain of Iron or Steel,1,Imports,chn,China,635
+201608,2016-08,10,Durango,15731519,Parts of Articulated Link Chain of Iron or Steel,1,Imports,jpn,Japan,46
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,bra,Brazil,0
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,can,Canada,829
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,4490
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,cze,Czech Republic,119
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,3131
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,155
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,fra,France,2
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,gbr,United Kingdom,387
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ind,India,286
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,1186
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,jpn,Japan,55610
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,kor,South Korea,2317
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,nld,Netherlands,672
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,rou,Romania,770
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,swe,Sweden,41
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,tur,Turkey,48
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),3566
+201608,2016-08,10,Durango,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,191328
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,bra,Brazil,41
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,can,Canada,33
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,chn,China,900
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,cze,Czech Republic,14
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,deu,Germany,287
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,fra,France,0
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,gbr,United Kingdom,1697
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,ita,Italy,142
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,jpn,Japan,9152
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,kor,South Korea,1369
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,nld,Netherlands,324
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,tha,Thailand,239
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,twn,Taiwan (Region),4561
+201608,2016-08,10,Durango,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,77857
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,can,Canada,62
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,chn,China,161
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,deu,Germany,3
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,gbr,United Kingdom,1350
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,ita,Italy,328
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,jpn,Japan,62
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,twn,Taiwan (Region),660
+201608,2016-08,10,Durango,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,69
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,can,Canada,306
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,deu,Germany,274
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,fra,France,23
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,jpn,Japan,44
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,nld,Netherlands,23
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,tha,Thailand,2
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,twn,Taiwan (Region),121
+201608,2016-08,10,Durango,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,usa,United States,7496
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,can,Canada,45
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,chn,China,1684
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,cze,Czech Republic,56
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,deu,Germany,43584
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,fra,France,42
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,gbr,United Kingdom,90
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,ind,India,559
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,jpn,Japan,137
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,nld,Netherlands,645
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,twn,Taiwan (Region),708
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,4136
+201608,2016-08,10,Durango,15731823,"Rivets of Iron or Steel (Excl. Tubular or Bifurcated Rivets Riven, for all Purposes)",1,Imports,chn,China,1590
+201608,2016-08,10,Durango,15731823,"Rivets of Iron or Steel (Excl. Tubular or Bifurcated Rivets Riven, for all Purposes)",1,Imports,usa,United States,246
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,chn,China,310
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,cze,Czech Republic,55
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,deu,Germany,263
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,fra,France,119
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,gbr,United Kingdom,198
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,jpn,Japan,71
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,kor,South Korea,128
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,nld,Netherlands,8
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,twn,Taiwan (Region),0
+201608,2016-08,10,Durango,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,5952
+201608,2016-08,10,Durango,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,chn,China,118
+201608,2016-08,10,Durango,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,deu,Germany,4620
+201608,2016-08,10,Durango,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,ita,Italy,8
+201608,2016-08,10,Durango,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,jpn,Japan,1150
+201608,2016-08,10,Durango,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,19088
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,can,Canada,352
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,che,Switzerland,38
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,165
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,cze,Czech Republic,15
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,deu,Germany,938
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,emu,European Community,17
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,ita,Italy,3002
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,jpn,Japan,768
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,nld,Netherlands,50
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,twn,Taiwan (Region),45
+201608,2016-08,10,Durango,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,9281
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chn,China,1728
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,cze,Czech Republic,21
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,deu,Germany,125636
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,esp,Spain,354
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,gbr,United Kingdom,509
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,jpn,Japan,866
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,nld,Netherlands,177
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,per,Peru,198
+201608,2016-08,10,Durango,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,usa,United States,70479
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,can,Canada,68821
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,chn,China,109215
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,cze,Czech Republic,407
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,3300
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,esp,Spain,8550
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,fra,France,38
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,gbr,United Kingdom,575
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,ind,India,100
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,ita,Italy,101
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,jpn,Japan,25340
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,kor,South Korea,22718
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,nld,Netherlands,39
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,nor,Norway,125
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),37601
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,1,Imports,usa,United States,104491
+201608,2016-08,10,Durango,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,chn,China,815
+201608,2016-08,10,Durango,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,deu,Germany,7
+201608,2016-08,10,Durango,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,dnk,Denmark,513
+201608,2016-08,10,Durango,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,jpn,Japan,1272
+201608,2016-08,10,Durango,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,usa,United States,3913
+201608,2016-08,10,Durango,15760612,Sheets and Strip of Aluminum Alloys,1,Imports,chn,China,40404
+201608,2016-08,10,Durango,15760612,Sheets and Strip of Aluminum Alloys,1,Imports,kor,South Korea,7051
+201608,2016-08,10,Durango,15760612,Sheets and Strip of Aluminum Alloys,1,Imports,usa,United States,200007
+201608,2016-08,10,Durango,15760900,"Splices ""Fittings"", Elbows, Sleeves and other Accessories Pipes, Aluminum",1,Imports,dnk,Denmark,187
+201608,2016-08,10,Durango,15760900,"Splices ""Fittings"", Elbows, Sleeves and other Accessories Pipes, Aluminum",1,Imports,usa,United States,13313
+201608,2016-08,10,Durango,15761610,"Nails, Tacks, Staples, Screws, Bolts, Nuts, Screw Hooks, Rivets, Cotters, Cotter Pins, Washers and Similar Articles., of Aluminum (Excl. Staples in Strips, Screw Caps and Bung as Screwed)",1,Imports,gbr,United Kingdom,427
+201608,2016-08,10,Durango,15761610,"Nails, Tacks, Staples, Screws, Bolts, Nuts, Screw Hooks, Rivets, Cotters, Cotter Pins, Washers and Similar Articles., of Aluminum (Excl. Staples in Strips, Screw Caps and Bung as Screwed)",1,Imports,usa,United States,3354
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,bra,Brazil,1796
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,chn,China,276
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,deu,Germany,92155
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,fra,France,1189
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,hun,Hungary,10
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,ita,Italy,771
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,jpn,Japan,2184
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,twn,Taiwan (Region),1694
+201608,2016-08,10,Durango,15761699,Aluminium Articles,1,Imports,usa,United States,126636
+201608,2016-08,10,Durango,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,pak,Pakistan,414
+201608,2016-08,10,Durango,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,twn,Taiwan (Region),83
+201608,2016-08,10,Durango,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,usa,United States,2142
+201608,2016-08,10,Durango,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,chn,China,623
+201608,2016-08,10,Durango,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,deu,Germany,117
+201608,2016-08,10,Durango,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,swe,Sweden,89
+201608,2016-08,10,Durango,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,twn,Taiwan (Region),164
+201608,2016-08,10,Durango,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,usa,United States,803
+201608,2016-08,10,Durango,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,jpn,Japan,528
+201608,2016-08,10,Durango,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,swe,Sweden,3
+201608,2016-08,10,Durango,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,usa,United States,7389
+201608,2016-08,10,Durango,15820540,Screwdrivers Hand,1,Imports,deu,Germany,132
+201608,2016-08,10,Durango,15820540,Screwdrivers Hand,1,Imports,jpn,Japan,226
+201608,2016-08,10,Durango,15820540,Screwdrivers Hand,1,Imports,swe,Sweden,15
+201608,2016-08,10,Durango,15820540,Screwdrivers Hand,1,Imports,twn,Taiwan (Region),380
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,3965
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,deu,Germany,1667
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,gbr,United Kingdom,58
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,jpn,Japan,21021
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,swe,Sweden,10
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),472
+201608,2016-08,10,Durango,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,6266
+201608,2016-08,10,Durango,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,can,Canada,87821
+201608,2016-08,10,Durango,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,fin,Finland,27637
+201608,2016-08,10,Durango,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,kor,South Korea,21850
+201608,2016-08,10,Durango,15820730,"Mortise Useful, Stamping or Punching, Interchangeable",1,Imports,chn,China,10
+201608,2016-08,10,Durango,15820730,"Mortise Useful, Stamping or Punching, Interchangeable",1,Imports,ita,Italy,85
+201608,2016-08,10,Durango,15820730,"Mortise Useful, Stamping or Punching, Interchangeable",1,Imports,jpn,Japan,2225
+201608,2016-08,10,Durango,15820730,"Mortise Useful, Stamping or Punching, Interchangeable",1,Imports,kor,South Korea,1018
+201608,2016-08,10,Durango,15820730,"Mortise Useful, Stamping or Punching, Interchangeable",1,Imports,usa,United States,4486
+201608,2016-08,10,Durango,15820750,"Drilling Tools, Interchangeable (Exc. Drilling or as well as Roscar ""Incl. Tapping"")",1,Imports,bra,Brazil,83
+201608,2016-08,10,Durango,15820750,"Drilling Tools, Interchangeable (Exc. Drilling or as well as Roscar ""Incl. Tapping"")",1,Imports,deu,Germany,31
+201608,2016-08,10,Durango,15820750,"Drilling Tools, Interchangeable (Exc. Drilling or as well as Roscar ""Incl. Tapping"")",1,Imports,kor,South Korea,831
+201608,2016-08,10,Durango,15820750,"Drilling Tools, Interchangeable (Exc. Drilling or as well as Roscar ""Incl. Tapping"")",1,Imports,usa,United States,2032
+201608,2016-08,10,Durango,15820760,"Tools for Boring or Broaching, Interchangeable",1,Imports,can,Canada,19253
+201608,2016-08,10,Durango,15820760,"Tools for Boring or Broaching, Interchangeable",1,Imports,ind,India,490
+201608,2016-08,10,Durango,15820760,"Tools for Boring or Broaching, Interchangeable",1,Imports,kor,South Korea,2960
+201608,2016-08,10,Durango,15820760,"Tools for Boring or Broaching, Interchangeable",1,Imports,usa,United States,1187
+201608,2016-08,10,Durango,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,deu,Germany,16101
+201608,2016-08,10,Durango,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,gbr,United Kingdom,145
+201608,2016-08,10,Durango,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,isl,Iceland,24
+201608,2016-08,10,Durango,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,jpn,Japan,116
+201608,2016-08,10,Durango,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,kor,South Korea,2403
+201608,2016-08,10,Durango,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,usa,United States,3208
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,can,Canada,1451
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,che,Switzerland,4157
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,chn,China,156
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,cze,Czech Republic,181
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,deu,Germany,23675
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,fra,France,20053
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,gbr,United Kingdom,5105
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,ita,Italy,8990
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,jpn,Japan,12303
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,kor,South Korea,618
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,sgp,Singapore,201
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,twn,Taiwan (Region),434
+201608,2016-08,10,Durango,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,usa,United States,26514
+201608,2016-08,10,Durango,15821300,"Scissors and Blades, of Base Metal (Exc to Use Hedge Shears, Pruning Shears and Tools Simil with both Hands;.. Pruning Shears for Use with one Hand; Herradores Special Scissors Cutting Helmets)",1,Imports,chn,China,1456
+201608,2016-08,10,Durango,15821300,"Scissors and Blades, of Base Metal (Exc to Use Hedge Shears, Pruning Shears and Tools Simil with both Hands;.. Pruning Shears for Use with one Hand; Herradores Special Scissors Cutting Helmets)",1,Imports,twn,Taiwan (Region),139
+201608,2016-08,10,Durango,15821300,"Scissors and Blades, of Base Metal (Exc to Use Hedge Shears, Pruning Shears and Tools Simil with both Hands;.. Pruning Shears for Use with one Hand; Herradores Special Scissors Cutting Helmets)",1,Imports,usa,United States,19344
+201608,2016-08,10,Durango,15830120,"Locks of a Kind Used in Motor Vehicles, of Base Metal",1,Imports,pol,Poland,120
+201608,2016-08,10,Durango,15830120,"Locks of a Kind Used in Motor Vehicles, of Base Metal",1,Imports,usa,United States,100
+201608,2016-08,10,Durango,15830170,"Keys are Presented Separately, for Padlocks, Locks, Clasps and Frames with Clasps Locks, of Base Metal",1,Imports,chn,China,1840
+201608,2016-08,10,Durango,15830170,"Keys are Presented Separately, for Padlocks, Locks, Clasps and Frames with Clasps Locks, of Base Metal",1,Imports,deu,Germany,31
+201608,2016-08,10,Durango,15830170,"Keys are Presented Separately, for Padlocks, Locks, Clasps and Frames with Clasps Locks, of Base Metal",1,Imports,tha,Thailand,17
+201608,2016-08,10,Durango,15830170,"Keys are Presented Separately, for Padlocks, Locks, Clasps and Frames with Clasps Locks, of Base Metal",1,Imports,tur,Turkey,12
+201608,2016-08,10,Durango,15830230,"Fittings and Similar Articles., of Metal, for Motor Vehicles (Exc. Latches and Hinges)",1,Imports,chn,China,224
+201608,2016-08,10,Durango,15830230,"Fittings and Similar Articles., of Metal, for Motor Vehicles (Exc. Latches and Hinges)",1,Imports,usa,United States,25932
+201608,2016-08,10,Durango,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,chn,China,1071
+201608,2016-08,10,Durango,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,tha,Thailand,3536
+201608,2016-08,10,Durango,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,usa,United States,1105
+201608,2016-08,10,Durango,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,chn,China,4275
+201608,2016-08,10,Durango,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,usa,United States,1133
+201608,2016-08,10,Durango,15830990,"Stoppers, Lids",1,Imports,chn,China,680
+201608,2016-08,10,Durango,15830990,"Stoppers, Lids",1,Imports,gbr,United Kingdom,107
+201608,2016-08,10,Durango,15830990,"Stoppers, Lids",1,Imports,ita,Italy,5
+201608,2016-08,10,Durango,15830990,"Stoppers, Lids",1,Imports,jpn,Japan,1139
+201608,2016-08,10,Durango,15830990,"Stoppers, Lids",1,Imports,usa,United States,19517
+201608,2016-08,10,Durango,15831120,"Wire ""Stuffing"" for Arc Welding, of Base Metal",1,Imports,deu,Germany,372
+201608,2016-08,10,Durango,15831120,"Wire ""Stuffing"" for Arc Welding, of Base Metal",1,Imports,jpn,Japan,6593
+201608,2016-08,10,Durango,15831120,"Wire ""Stuffing"" for Arc Welding, of Base Metal",1,Imports,usa,United States,10045
+201608,2016-08,10,Durango,16840991,Parts of Piston Engines,1,Imports,deu,Germany,130509
+201608,2016-08,10,Durango,16840991,Parts of Piston Engines,1,Imports,gbr,United Kingdom,40
+201608,2016-08,10,Durango,16840991,Parts of Piston Engines,1,Imports,ita,Italy,40
+201608,2016-08,10,Durango,16840991,Parts of Piston Engines,1,Imports,svk,Slovakia,81114
+201608,2016-08,10,Durango,16840991,Parts of Piston Engines,1,Imports,usa,United States,1224427
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,can,Canada,260
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,chn,China,137
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,deu,Germany,1496
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,dnk,Denmark,238
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,esp,Spain,1148
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,gbr,United Kingdom,1148
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,ind,India,15
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,ita,Italy,142
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,jpn,Japan,4296
+201608,2016-08,10,Durango,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,usa,United States,903818
+201608,2016-08,10,Durango,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,deu,Germany,1191
+201608,2016-08,10,Durango,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,dnk,Denmark,1160
+201608,2016-08,10,Durango,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,nld,Netherlands,303
+201608,2016-08,10,Durango,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,usa,United States,10475
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,deu,Germany,992
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,dnk,Denmark,159
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,fra,France,2257
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,hun,Hungary,479
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,ita,Italy,611
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,jpn,Japan,2312
+201608,2016-08,10,Durango,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,usa,United States,11186
+201608,2016-08,10,Durango,16841290,"Engine Parts and Motors, N.E.C",1,Imports,can,Canada,27152
+201608,2016-08,10,Durango,16841290,"Engine Parts and Motors, N.E.C",1,Imports,prt,Portugal,128
+201608,2016-08,10,Durango,16841290,"Engine Parts and Motors, N.E.C",1,Imports,usa,United States,1645
+201608,2016-08,10,Durango,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,deu,Germany,2292
+201608,2016-08,10,Durango,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,ind,India,1891
+201608,2016-08,10,Durango,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,ita,Italy,650
+201608,2016-08,10,Durango,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,usa,United States,6391
+201608,2016-08,10,Durango,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,deu,Germany,1418
+201608,2016-08,10,Durango,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,ita,Italy,14567
+201608,2016-08,10,Durango,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,usa,United States,605
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,aut,Austria,176
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,can,Canada,7725
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,chn,China,19
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,deu,Germany,13123
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,ita,Italy,13632
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,jpn,Japan,27232
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,svn,Slovenia,3289
+201608,2016-08,10,Durango,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,usa,United States,8645
+201608,2016-08,10,Durango,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,esp,Spain,8933
+201608,2016-08,10,Durango,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,usa,United States,20369
+201608,2016-08,10,Durango,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,ita,Italy,4195
+201608,2016-08,10,Durango,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,jpn,Japan,433
+201608,2016-08,10,Durango,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,usa,United States,14048
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,bra,Brazil,1619
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,can,Canada,2345
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,chn,China,17739
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,deu,Germany,4479
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,gbr,United Kingdom,3228
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,ind,India,4536
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,ita,Italy,9138
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,twn,Taiwan (Region),1155
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,4574
+201608,2016-08,10,Durango,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,can,Canada,3147
+201608,2016-08,10,Durango,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,chn,China,1423
+201608,2016-08,10,Durango,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,deu,Germany,1809
+201608,2016-08,10,Durango,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,hun,Hungary,83
+201608,2016-08,10,Durango,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,jpn,Japan,1899
+201608,2016-08,10,Durango,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,usa,United States,8198
+201608,2016-08,10,Durango,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,chn,China,1579
+201608,2016-08,10,Durango,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,deu,Germany,136
+201608,2016-08,10,Durango,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,irl,Ireland,84
+201608,2016-08,10,Durango,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,jpn,Japan,311
+201608,2016-08,10,Durango,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,twn,Taiwan (Region),668
+201608,2016-08,10,Durango,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,usa,United States,48511
+201608,2016-08,10,Durango,16841950,Heat Exchangers,1,Imports,ita,Italy,700
+201608,2016-08,10,Durango,16841950,Heat Exchangers,1,Imports,nld,Netherlands,803
+201608,2016-08,10,Durango,16841950,Heat Exchangers,1,Imports,usa,United States,210812
+201608,2016-08,10,Durango,16842121,Apparatus for Filtering or Purifying Water,1,Imports,can,Canada,978
+201608,2016-08,10,Durango,16842121,Apparatus for Filtering or Purifying Water,1,Imports,chn,China,161
+201608,2016-08,10,Durango,16842121,Apparatus for Filtering or Purifying Water,1,Imports,jpn,Japan,200
+201608,2016-08,10,Durango,16842121,Apparatus for Filtering or Purifying Water,1,Imports,kor,South Korea,145
+201608,2016-08,10,Durango,16842121,Apparatus for Filtering or Purifying Water,1,Imports,usa,United States,1485
+201608,2016-08,10,Durango,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,chn,China,605
+201608,2016-08,10,Durango,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,fra,France,28
+201608,2016-08,10,Durango,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,ind,India,89
+201608,2016-08,10,Durango,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,ita,Italy,177
+201608,2016-08,10,Durango,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,usa,United States,7154
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,bra,Brazil,24
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,can,Canada,2165
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,chn,China,4245
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,cze,Czech Republic,1280
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,deu,Germany,5363
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,gbr,United Kingdom,2550
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,idn,Indonesia,19
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,ind,India,135
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,ita,Italy,2426
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,jpn,Japan,1740
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,phl,Philippines,168
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,svk,Slovakia,218
+201608,2016-08,10,Durango,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,31228
+201608,2016-08,10,Durango,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,deu,Germany,2432
+201608,2016-08,10,Durango,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,gbr,United Kingdom,457
+201608,2016-08,10,Durango,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,usa,United States,6429
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,can,Canada,2165
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,chn,China,317
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,deu,Germany,4525
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,gbr,United Kingdom,82
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,idn,Indonesia,102
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,ita,Italy,1397
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,jpn,Japan,25670
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,ltu,Lithuania,162
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,tur,Turkey,3673
+201608,2016-08,10,Durango,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,15303
+201608,2016-08,10,Durango,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,deu,Germany,63
+201608,2016-08,10,Durango,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,gbr,United Kingdom,133
+201608,2016-08,10,Durango,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,jpn,Japan,167
+201608,2016-08,10,Durango,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,usa,United States,68241
+201608,2016-08,10,Durango,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,deu,Germany,3777
+201608,2016-08,10,Durango,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,esp,Spain,2818
+201608,2016-08,10,Durango,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,fra,France,7068
+201608,2016-08,10,Durango,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,gbr,United Kingdom,5142
+201608,2016-08,10,Durango,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,ita,Italy,301
+201608,2016-08,10,Durango,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,usa,United States,23722
+201608,2016-08,10,Durango,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,dnk,Denmark,384
+201608,2016-08,10,Durango,16842490,"Parts of fire Extinguishers, Equipment Spray Guns and Simil",1,Imports,usa,United States,1978
+201608,2016-08,10,Durango,16843139,Parts of Machines,1,Imports,can,Canada,325404
+201608,2016-08,10,Durango,16843139,Parts of Machines,1,Imports,usa,United States,105432
+201608,2016-08,10,Durango,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,jpn,Japan,287
+201608,2016-08,10,Durango,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,usa,United States,10237
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,aus,Australia,192
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,bra,Brazil,306
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,can,Canada,65428
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,chn,China,1828
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,deu,Germany,7004
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,gbr,United Kingdom,512
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,idn,Indonesia,346
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,jpn,Japan,1315
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,nld,Netherlands,5171
+201608,2016-08,10,Durango,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,usa,United States,11399
+201608,2016-08,10,Durango,16843680,"Machinery for Agriculture, Horticulture, Forestry or Bee, N.E.C",1,Imports,can,Canada,8238
+201608,2016-08,10,Durango,16843680,"Machinery for Agriculture, Horticulture, Forestry or Bee, N.E.C",1,Imports,nld,Netherlands,157855
+201608,2016-08,10,Durango,16843680,"Machinery for Agriculture, Horticulture, Forestry or Bee, N.E.C",1,Imports,usa,United States,62248
+201608,2016-08,10,Durango,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,chn,China,263
+201608,2016-08,10,Durango,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,deu,Germany,1545
+201608,2016-08,10,Durango,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,twn,Taiwan (Region),352
+201608,2016-08,10,Durango,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,usa,United States,19782
+201608,2016-08,10,Durango,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,chn,China,503
+201608,2016-08,10,Durango,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,usa,United States,651
+201608,2016-08,10,Durango,16846630,"Dividing Heads and other Special Attachments for Machine Tools, N.E.C",1,Imports,chn,China,387
+201608,2016-08,10,Durango,16846630,"Dividing Heads and other Special Attachments for Machine Tools, N.E.C",1,Imports,jpn,Japan,3154
+201608,2016-08,10,Durango,16846630,"Dividing Heads and other Special Attachments for Machine Tools, N.E.C",1,Imports,prt,Portugal,534
+201608,2016-08,10,Durango,16846692,"Parts and Accessories of Machine Tools for Working Wood, Cork, Rubber, Plastic or Rigid Materials Duras Simil., N.E.C",1,Imports,bra,Brazil,382
+201608,2016-08,10,Durango,16846692,"Parts and Accessories of Machine Tools for Working Wood, Cork, Rubber, Plastic or Rigid Materials Duras Simil., N.E.C",1,Imports,deu,Germany,330
+201608,2016-08,10,Durango,16846692,"Parts and Accessories of Machine Tools for Working Wood, Cork, Rubber, Plastic or Rigid Materials Duras Simil., N.E.C",1,Imports,usa,United States,4894
+201608,2016-08,10,Durango,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,deu,Germany,20965
+201608,2016-08,10,Durango,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,kor,South Korea,14266
+201608,2016-08,10,Durango,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,usa,United States,22764
+201608,2016-08,10,Durango,16847130,Machines for Processing Data,1,Imports,chn,China,8753
+201608,2016-08,10,Durango,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,deu,Germany,1267
+201608,2016-08,10,Durango,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,usa,United States,8938
+201608,2016-08,10,Durango,16847330,Parts and Accessories for Data Processing Machines,1,Imports,che,Switzerland,1914
+201608,2016-08,10,Durango,16847330,Parts and Accessories for Data Processing Machines,1,Imports,deu,Germany,2449
+201608,2016-08,10,Durango,16847330,Parts and Accessories for Data Processing Machines,1,Imports,kor,South Korea,1546
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",1,Imports,bra,Brazil,162401
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",1,Imports,deu,Germany,57972
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",1,Imports,ind,India,14905
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",1,Imports,nzl,New Zealand,5061
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",1,Imports,swe,Sweden,22786
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",1,Imports,usa,United States,18478
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,chn,China,14443
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,deu,Germany,19836
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,fra,France,2635
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,ita,Italy,9475
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,jpn,Japan,3781
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,kor,South Korea,18821
+201608,2016-08,10,Durango,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,usa,United States,54784
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,can,Canada,9170
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,chn,China,209945
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,deu,Germany,2463
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,ita,Italy,3324
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,jpn,Japan,921
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,twn,Taiwan (Region),874
+201608,2016-08,10,Durango,16847989,Mechanical Machinery,1,Imports,usa,United States,62386
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,can,Canada,7170
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,che,Switzerland,16217
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,chn,China,12581
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,deu,Germany,19429
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,ita,Italy,106
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,jpn,Japan,14366
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,kor,South Korea,5314
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,nld,Netherlands,5140
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,tur,Turkey,5866
+201608,2016-08,10,Durango,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,usa,United States,31721
+201608,2016-08,10,Durango,16848110,Pressure Reducing Valves,1,Imports,chn,China,564
+201608,2016-08,10,Durango,16848110,Pressure Reducing Valves,1,Imports,deu,Germany,2080
+201608,2016-08,10,Durango,16848110,Pressure Reducing Valves,1,Imports,hun,Hungary,135
+201608,2016-08,10,Durango,16848110,Pressure Reducing Valves,1,Imports,pol,Poland,101
+201608,2016-08,10,Durango,16848110,Pressure Reducing Valves,1,Imports,usa,United States,3607
+201608,2016-08,10,Durango,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,bel,Belgium,550
+201608,2016-08,10,Durango,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,can,Canada,346
+201608,2016-08,10,Durango,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,deu,Germany,6537
+201608,2016-08,10,Durango,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,jpn,Japan,3301
+201608,2016-08,10,Durango,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,kor,South Korea,241
+201608,2016-08,10,Durango,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,usa,United States,4838
+201608,2016-08,10,Durango,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,chn,China,216
+201608,2016-08,10,Durango,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,deu,Germany,3879
+201608,2016-08,10,Durango,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,gbr,United Kingdom,262
+201608,2016-08,10,Durango,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,jpn,Japan,133
+201608,2016-08,10,Durango,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,twn,Taiwan (Region),4505
+201608,2016-08,10,Durango,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,usa,United States,2362
+201608,2016-08,10,Durango,16848140,Safety or Relief Valves,1,Imports,deu,Germany,68
+201608,2016-08,10,Durango,16848140,Safety or Relief Valves,1,Imports,fra,France,42705
+201608,2016-08,10,Durango,16848140,Safety or Relief Valves,1,Imports,ita,Italy,3179
+201608,2016-08,10,Durango,16848140,Safety or Relief Valves,1,Imports,jpn,Japan,3760
+201608,2016-08,10,Durango,16848140,Safety or Relief Valves,1,Imports,usa,United States,8180
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,can,Canada,21456
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,313
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,cze,Czech Republic,609
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,14698
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,dnk,Denmark,1045
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,gbr,United Kingdom,57
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,idn,Indonesia,241
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ind,India,343
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ita,Italy,1210
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,jpn,Japan,18402
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,nld,Netherlands,1877
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,pol,Poland,24277
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,prt,Portugal,1294
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,twn,Taiwan (Region),4022
+201608,2016-08,10,Durango,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,403785
+201608,2016-08,10,Durango,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,deu,Germany,1931
+201608,2016-08,10,Durango,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,fin,Finland,65
+201608,2016-08,10,Durango,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,ita,Italy,260
+201608,2016-08,10,Durango,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,jpn,Japan,1511
+201608,2016-08,10,Durango,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,nld,Netherlands,3177
+201608,2016-08,10,Durango,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,usa,United States,5208
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,chn,China,3760
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,deu,Germany,2357
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,ita,Italy,343
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,jpn,Japan,3241
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,mys,Malaysia,71
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,pol,Poland,48
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,prt,Portugal,1123
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,rou,Romania,744
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,svk,Slovakia,67
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,svn,Slovenia,178
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,tur,Turkey,120
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,twn,Taiwan (Region),25
+201608,2016-08,10,Durango,16848210,Ball Bearings,1,Imports,usa,United States,2096
+201608,2016-08,10,Durango,16848220,Tapered Roller Bearings,1,Imports,jpn,Japan,23
+201608,2016-08,10,Durango,16848220,Tapered Roller Bearings,1,Imports,usa,United States,398
+201608,2016-08,10,Durango,16848240,Needle Roller Bearings,1,Imports,deu,Germany,98
+201608,2016-08,10,Durango,16848240,Needle Roller Bearings,1,Imports,jpn,Japan,1144
+201608,2016-08,10,Durango,16848240,Needle Roller Bearings,1,Imports,usa,United States,1882
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,chn,China,334
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,cze,Czech Republic,446
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,deu,Germany,2436
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,emu,European Community,138
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,fra,France,74
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,gbr,United Kingdom,118
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,jpn,Japan,849
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,rou,Romania,892
+201608,2016-08,10,Durango,16848250,Cylindrical Roller Bearings Rolls,1,Imports,usa,United States,206
+201608,2016-08,10,Durango,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,chn,China,2223
+201608,2016-08,10,Durango,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,idn,Indonesia,2010
+201608,2016-08,10,Durango,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,twn,Taiwan (Region),1871
+201608,2016-08,10,Durango,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,usa,United States,1474
+201608,2016-08,10,Durango,16848299,Parts of Bearings,1,Imports,deu,Germany,2864
+201608,2016-08,10,Durango,16848299,Parts of Bearings,1,Imports,ind,India,252
+201608,2016-08,10,Durango,16848299,Parts of Bearings,1,Imports,ita,Italy,816
+201608,2016-08,10,Durango,16848299,Parts of Bearings,1,Imports,usa,United States,2044
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,bra,Brazil,98
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,chn,China,491
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,deu,Germany,5806
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,ind,India,114
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,ita,Italy,4254
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,jpn,Japan,262
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,nld,Netherlands,140
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,twn,Taiwan (Region),36
+201608,2016-08,10,Durango,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,66630
+201608,2016-08,10,Durango,16848320,"Bearing Housings Bearing Fitted With, for Machines",1,Imports,chn,China,383
+201608,2016-08,10,Durango,16848320,"Bearing Housings Bearing Fitted With, for Machines",1,Imports,usa,United States,4002
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,can,Canada,35373
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,16242
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,cze,Czech Republic,651
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,deu,Germany,7085
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,emu,European Community,53
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,fra,France,1135
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,gbr,United Kingdom,816
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ita,Italy,194
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,jpn,Japan,2182
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,nld,Netherlands,2156
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,nor,Norway,45
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,pol,Poland,517
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,twn,Taiwan (Region),5810
+201608,2016-08,10,Durango,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,28333
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,che,Switzerland,654
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,chn,China,42802
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,deu,Germany,71743
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,emu,European Community,100
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,fra,France,4758
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,gbr,United Kingdom,3209
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,ind,India,657
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,4655
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,jpn,Japan,32981
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,twn,Taiwan (Region),5
+201608,2016-08,10,Durango,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,78469
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,che,Switzerland,936
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,cze,Czech Republic,3911
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,deu,Germany,10417
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,emu,European Community,1014
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,gbr,United Kingdom,46
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,jpn,Japan,78
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,kor,South Korea,216
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,twn,Taiwan (Region),42
+201608,2016-08,10,Durango,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,usa,United States,5431
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,bra,Brazil,63
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,chn,China,664
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,deu,Germany,7813
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,dnk,Denmark,2379
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,fra,France,1807
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,gbr,United Kingdom,553
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,ind,India,10
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,twn,Taiwan (Region),69
+201608,2016-08,10,Durango,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,14349
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,aut,Austria,425
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,can,Canada,2202
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,chn,China,794
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,deu,Germany,3886
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,irl,Ireland,794
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,kor,South Korea,898
+201608,2016-08,10,Durango,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,usa,United States,14185
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,aut,Austria,76
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,chn,China,45
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,deu,Germany,179
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,gbr,United Kingdom,4
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,jpn,Japan,417
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,per,Peru,13018
+201608,2016-08,10,Durango,16848410,Together or Assortments,1,Imports,usa,United States,3899
+201608,2016-08,10,Durango,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,chn,China,949
+201608,2016-08,10,Durango,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,idn,Indonesia,32
+201608,2016-08,10,Durango,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,jpn,Japan,185
+201608,2016-08,10,Durango,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,8618
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,bel,Belgium,1956
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,cze,Czech Republic,125
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,deu,Germany,2596
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,dnk,Denmark,22
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,fra,France,3961
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,ita,Italy,277
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,nld,Netherlands,2305
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,per,Peru,12606
+201608,2016-08,10,Durango,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,1627
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,chn,China,2271
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,cze,Czech Republic,76
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,deu,Germany,320
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,esp,Spain,153
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,ita,Italy,348
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,jpn,Japan,1385
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,nld,Netherlands,713
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,per,Peru,8824
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,tur,Turkey,45
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,twn,Taiwan (Region),33
+201608,2016-08,10,Durango,16848790,Parts of Machinery or Apparatus,1,Imports,usa,United States,3540
+201608,2016-08,10,Durango,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,deu,Germany,4241
+201608,2016-08,10,Durango,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,jpn,Japan,1280
+201608,2016-08,10,Durango,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,usa,United States,939
+201608,2016-08,10,Durango,16850131,Electric Motors and Generators,1,Imports,chn,China,14
+201608,2016-08,10,Durango,16850131,Electric Motors and Generators,1,Imports,pol,Poland,92
+201608,2016-08,10,Durango,16850131,Electric Motors and Generators,1,Imports,usa,United States,773
+201608,2016-08,10,Durango,16850152,"Ac Motors, Multi-Phase",1,Imports,deu,Germany,14312
+201608,2016-08,10,Durango,16850152,"Ac Motors, Multi-Phase",1,Imports,fra,France,2323
+201608,2016-08,10,Durango,16850152,"Ac Motors, Multi-Phase",1,Imports,hun,Hungary,526
+201608,2016-08,10,Durango,16850152,"Ac Motors, Multi-Phase",1,Imports,ita,Italy,410
+201608,2016-08,10,Durango,16850152,"Ac Motors, Multi-Phase",1,Imports,jpn,Japan,2249
+201608,2016-08,10,Durango,16850431,Dry Transformers Power <= 1 Kva,1,Imports,cze,Czech Republic,278
+201608,2016-08,10,Durango,16850431,Dry Transformers Power <= 1 Kva,1,Imports,deu,Germany,169
+201608,2016-08,10,Durango,16850431,Dry Transformers Power <= 1 Kva,1,Imports,esp,Spain,386
+201608,2016-08,10,Durango,16850431,Dry Transformers Power <= 1 Kva,1,Imports,usa,United States,86
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,chn,China,3710
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,cze,Czech Republic,584
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,deu,Germany,10980
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,jpn,Japan,3882
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,phl,Philippines,5038
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,tha,Thailand,345
+201608,2016-08,10,Durango,16850440,Electrical Static Converters,1,Imports,usa,United States,2954
+201608,2016-08,10,Durango,16850520,"Couplings, Clutches, Brakes, Electromagnetic",1,Imports,chn,China,1697
+201608,2016-08,10,Durango,16850520,"Couplings, Clutches, Brakes, Electromagnetic",1,Imports,jpn,Japan,2644
+201608,2016-08,10,Durango,16850520,"Couplings, Clutches, Brakes, Electromagnetic",1,Imports,svk,Slovakia,991
+201608,2016-08,10,Durango,16850520,"Couplings, Clutches, Brakes, Electromagnetic",1,Imports,usa,United States,3541
+201608,2016-08,10,Durango,16851150,"Generators, Combustion Engines (Exc. the Dynamos and Motors)",1,Imports,svn,Slovenia,734
+201608,2016-08,10,Durango,16851150,"Generators, Combustion Engines (Exc. the Dynamos and Motors)",1,Imports,usa,United States,3136
+201608,2016-08,10,Durango,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,chn,China,3003
+201608,2016-08,10,Durango,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,deu,Germany,1425
+201608,2016-08,10,Durango,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,jpn,Japan,612
+201608,2016-08,10,Durango,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,kor,South Korea,1915
+201608,2016-08,10,Durango,16851220,"Lighting or Visual Signalling Equipment, Used in Motor Vehicles",1,Imports,usa,United States,186
+201608,2016-08,10,Durango,16851590,Machine Parts and Appliance for Welding or for Hot Metal or Sintered Metal Carbides or Cermets,1,Imports,chn,China,131
+201608,2016-08,10,Durango,16851590,Machine Parts and Appliance for Welding or for Hot Metal or Sintered Metal Carbides or Cermets,1,Imports,deu,Germany,14069
+201608,2016-08,10,Durango,16851590,Machine Parts and Appliance for Welding or for Hot Metal or Sintered Metal Carbides or Cermets,1,Imports,jpn,Japan,2019
+201608,2016-08,10,Durango,16851590,Machine Parts and Appliance for Welding or for Hot Metal or Sintered Metal Carbides or Cermets,1,Imports,kor,South Korea,4057
+201608,2016-08,10,Durango,16851590,Machine Parts and Appliance for Welding or for Hot Metal or Sintered Metal Carbides or Cermets,1,Imports,usa,United States,6132
+201608,2016-08,10,Durango,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,bra,Brazil,260
+201608,2016-08,10,Durango,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,can,Canada,10131
+201608,2016-08,10,Durango,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,deu,Germany,973
+201608,2016-08,10,Durango,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,fra,France,3482
+201608,2016-08,10,Durango,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,jpn,Japan,2109
+201608,2016-08,10,Durango,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,usa,United States,19433
+201608,2016-08,10,Durango,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,bel,Belgium,1005
+201608,2016-08,10,Durango,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,chn,China,13367
+201608,2016-08,10,Durango,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,tha,Thailand,4361
+201608,2016-08,10,Durango,16852351,"Recording Mechanisms, Solid State",1,Imports,twn,Taiwan (Region),89
+201608,2016-08,10,Durango,16852351,"Recording Mechanisms, Solid State",1,Imports,usa,United States,485
+201608,2016-08,10,Durango,16853329,Fixed Power Resistors> 20 W (Excl. Heating Resistors),1,Imports,chn,China,19528
+201608,2016-08,10,Durango,16853329,Fixed Power Resistors> 20 W (Excl. Heating Resistors),1,Imports,jpn,Japan,21440
+201608,2016-08,10,Durango,16853329,Fixed Power Resistors> 20 W (Excl. Heating Resistors),1,Imports,usa,United States,528
+201608,2016-08,10,Durango,16853340,Variable Resistors,1,Imports,idn,Indonesia,27304
+201608,2016-08,10,Durango,16853340,Variable Resistors,1,Imports,jpn,Japan,41282
+201608,2016-08,10,Durango,16853340,Variable Resistors,1,Imports,usa,United States,3910
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,chn,China,4371
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,deu,Germany,108
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,dom,Dominican Republic,173310
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,ita,Italy,11358
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,jpn,Japan,638008
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,kor,South Korea,137485
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,phl,Philippines,10370
+201608,2016-08,10,Durango,16853610,Fuses and Fuse Breaker,1,Imports,usa,United States,229972
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,can,Canada,14563
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,chn,China,607779
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,cze,Czech Republic,44
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,deu,Germany,5162
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,dnk,Denmark,275
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,esp,Spain,449
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,fra,France,926
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,idn,Indonesia,44
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,jpn,Japan,87399
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,kor,South Korea,259172
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,mys,Malaysia,16464
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,pol,Poland,3815
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,prt,Portugal,45049
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,rou,Romania,137
+201608,2016-08,10,Durango,16853641,"Relays, for a Voltage <= 60 V",1,Imports,usa,United States,67047
+201608,2016-08,10,Durango,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,chn,China,113405
+201608,2016-08,10,Durango,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,deu,Germany,13377
+201608,2016-08,10,Durango,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,jpn,Japan,160097
+201608,2016-08,10,Durango,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,kor,South Korea,162
+201608,2016-08,10,Durango,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,mys,Malaysia,631
+201608,2016-08,10,Durango,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,usa,United States,1052
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,aut,Austria,3185
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,can,Canada,1129
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,che,Switzerland,5943
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,5820
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,cze,Czech Republic,230
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,deu,Germany,17263
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,dom,Dominican Republic,29700
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,fra,France,2069
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,gbr,United Kingdom,1102
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,hun,Hungary,152
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,idn,Indonesia,41
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,ind,India,118
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,ita,Italy,97
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,jpn,Japan,26224
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,nld,Netherlands,184
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,pol,Poland,204
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,prt,Portugal,81
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,rou,Romania,887
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,twn,Taiwan (Region),212
+201608,2016-08,10,Durango,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,39976
+201608,2016-08,10,Durango,16853669,"Plugs and Sockets, for a Voltage not Exceeding 1000 V",1,Imports,deu,Germany,833
+201608,2016-08,10,Durango,16853669,"Plugs and Sockets, for a Voltage not Exceeding 1000 V",1,Imports,usa,United States,4046
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,bel,Belgium,3
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,bra,Brazil,14164
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,che,Switzerland,127821
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,80444
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,cze,Czech Republic,108880
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,deu,Germany,351717
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,esp,Spain,254977
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,fra,France,70417
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,hun,Hungary,1894
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ind,India,249
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ita,Italy,50056
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,jpn,Japan,647493
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,kor,South Korea,1830183
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,nld,Netherlands,348
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,phl,Philippines,16080
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,pol,Poland,389
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,rou,Romania,256170
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,tha,Thailand,19842
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,2279568
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,yug,Yugoslavia,1804
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,zaf,South Africa,490
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,aut,Austria,8776
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,can,Canada,5722
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,1973
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,cze,Czech Republic,351
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,deu,Germany,14911
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,isr,Israel,788
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,ita,Italy,3348
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,kor,South Korea,13018
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,swe,Sweden,580
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,tha,Thailand,438
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,twn,Taiwan (Region),3704
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,33141
+201608,2016-08,10,Durango,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,zaf,South Africa,447
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,aut,Austria,137365
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,bel,Belgium,389
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,bra,Brazil,2438
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,can,Canada,1134
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,che,Switzerland,27175
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,chn,China,169418
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,cze,Czech Republic,39965
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,deu,Germany,217846
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,esp,Spain,19821
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,fra,France,5124
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,hun,Hungary,103068
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,ind,India,547
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,ita,Italy,24721
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,jpn,Japan,321748
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,kor,South Korea,1138026
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,mar,Morocco,57252
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,phl,Philippines,58
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,pri,Puerto Rico,174
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,rou,Romania,6824
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,tha,Thailand,5313
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,usa,United States,1239626
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,zaf,South Africa,937
+201608,2016-08,10,Durango,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,che,Switzerland,548
+201608,2016-08,10,Durango,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,400
+201608,2016-08,10,Durango,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,deu,Germany,10134
+201608,2016-08,10,Durango,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,ita,Italy,373
+201608,2016-08,10,Durango,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,jpn,Japan,748
+201608,2016-08,10,Durango,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,3802
+201608,2016-08,10,Durango,16854430,Wiring Sets Used in Transportation,1,Imports,chn,China,4305
+201608,2016-08,10,Durango,16854430,Wiring Sets Used in Transportation,1,Imports,usa,United States,157601
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,bra,Brazil,234
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,che,Switzerland,198
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,1177
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,cze,Czech Republic,73251
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,deu,Germany,185
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,fra,France,2526
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,gbr,United Kingdom,18014
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,hun,Hungary,82757
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,idn,Indonesia,7690
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,ita,Italy,1527
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,jpn,Japan,2382
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,mar,Morocco,19145
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,rou,Romania,39
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,tun,Tunisia,40383
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,tur,Turkey,418
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,147693
+201608,2016-08,10,Durango,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,zaf,South Africa,278
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,aut,Austria,61503
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,can,Canada,6238
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,chn,China,805188
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,deu,Germany,35589
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,esp,Spain,54925
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,fra,France,20781
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,gbr,United Kingdom,1923
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,hun,Hungary,44617
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,ita,Italy,22
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,jpn,Japan,25321
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,kor,South Korea,3844432
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,pol,Poland,4251
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,prt,Portugal,231639
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,ukr,Ukraine,513
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,usa,United States,529929
+201608,2016-08,10,Durango,16854470,Optical Fiber Cables made up of Individually Sheathed Fibers,1,Imports,chn,China,408
+201608,2016-08,10,Durango,16854470,Optical Fiber Cables made up of Individually Sheathed Fibers,1,Imports,esp,Spain,98272
+201608,2016-08,10,Durango,16854470,Optical Fiber Cables made up of Individually Sheathed Fibers,1,Imports,rou,Romania,71776
+201608,2016-08,10,Durango,16854470,Optical Fiber Cables made up of Individually Sheathed Fibers,1,Imports,usa,United States,154662
+201608,2016-08,10,Durango,16854690,Electrical Insulators (Excl. of Glass and Ceramics and Insulating Fittings),1,Imports,jpn,Japan,59
+201608,2016-08,10,Durango,16854690,Electrical Insulators (Excl. of Glass and Ceramics and Insulating Fittings),1,Imports,svk,Slovakia,5641
+201608,2016-08,10,Durango,16854690,Electrical Insulators (Excl. of Glass and Ceramics and Insulating Fittings),1,Imports,usa,United States,575
+201608,2016-08,10,Durango,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,can,Canada,469
+201608,2016-08,10,Durango,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,chn,China,47
+201608,2016-08,10,Durango,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,ita,Italy,3685
+201608,2016-08,10,Durango,17870190,"Tractors ""Automotive"" (Excl. Tractors of Heading 8709, as well as Cultivators, Road Tractors for Semi-Trailers and Tractors Tracked)",1,Imports,gbr,United Kingdom,355507
+201608,2016-08,10,Durango,17870190,"Tractors ""Automotive"" (Excl. Tractors of Heading 8709, as well as Cultivators, Road Tractors for Semi-Trailers and Tractors Tracked)",1,Imports,ita,Italy,236081
+201608,2016-08,10,Durango,17870190,"Tractors ""Automotive"" (Excl. Tractors of Heading 8709, as well as Cultivators, Road Tractors for Semi-Trailers and Tractors Tracked)",1,Imports,kor,South Korea,85007
+201608,2016-08,10,Durango,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,can,Canada,18352
+201608,2016-08,10,Durango,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,gbr,United Kingdom,9
+201608,2016-08,10,Durango,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,ita,Italy,51
+201608,2016-08,10,Durango,17870829,Parts and Accessories of Vehicles Bodies,1,Imports,usa,United States,2811
+201608,2016-08,10,Durango,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,chn,China,1686
+201608,2016-08,10,Durango,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,deu,Germany,10
+201608,2016-08,10,Durango,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,ind,India,4042
+201608,2016-08,10,Durango,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,ita,Italy,120
+201608,2016-08,10,Durango,17870891,Radiators of Automobile Vehicles for Transportation Of> = 10 People,1,Imports,chn,China,13067
+201608,2016-08,10,Durango,17870891,Radiators of Automobile Vehicles for Transportation Of> = 10 People,1,Imports,usa,United States,596
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,aut,Austria,414
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,can,Canada,336252
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,chn,China,1885
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,deu,Germany,1661
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,dnk,Denmark,2
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,fra,France,103
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,gbr,United Kingdom,544
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,ind,India,814
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,ita,Italy,5447
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,jpn,Japan,1679
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,nld,Netherlands,488
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,svn,Slovenia,8
+201608,2016-08,10,Durango,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,usa,United States,139
+201608,2016-08,10,Durango,17871690,"Parts of Trailers and other Vehicles not Mechanically Propelled, N.E.C",1,Imports,chn,China,1058
+201608,2016-08,10,Durango,17871690,"Parts of Trailers and other Vehicles not Mechanically Propelled, N.E.C",1,Imports,usa,United States,38571
+201608,2016-08,10,Durango,18902480,Machinery for Testing the Mechanical Properties of Materials (Excl. Metals),1,Imports,chn,China,180
+201608,2016-08,10,Durango,18902480,Machinery for Testing the Mechanical Properties of Materials (Excl. Metals),1,Imports,usa,United States,5595
+201608,2016-08,10,Durango,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,chn,China,274
+201608,2016-08,10,Durango,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,deu,Germany,3360
+201608,2016-08,10,Durango,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,ita,Italy,81
+201608,2016-08,10,Durango,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,4865
+201608,2016-08,10,Durango,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,che,Switzerland,5760
+201608,2016-08,10,Durango,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,572
+201608,2016-08,10,Durango,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,hun,Hungary,31
+201608,2016-08,10,Durango,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,jpn,Japan,1095
+201608,2016-08,10,Durango,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,2522
+201608,2016-08,10,Durango,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,chn,China,1038
+201608,2016-08,10,Durango,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,ita,Italy,1817
+201608,2016-08,10,Durango,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,pol,Poland,30
+201608,2016-08,10,Durango,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,usa,United States,4314
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,can,Canada,2460
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,deu,Germany,18261
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,gbr,United Kingdom,2794
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,hkg,Hong Kong,17
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,ita,Italy,6267
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,jpn,Japan,3699
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,kor,South Korea,3463
+201608,2016-08,10,Durango,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,usa,United States,6000
+201608,2016-08,10,Durango,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,deu,Germany,5900
+201608,2016-08,10,Durango,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,jpn,Japan,3130
+201608,2016-08,10,Durango,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,usa,United States,4696
+201608,2016-08,10,Durango,18903210,Thermostats Regulating or Control,1,Imports,chn,China,17885
+201608,2016-08,10,Durango,18903210,Thermostats Regulating or Control,1,Imports,deu,Germany,107
+201608,2016-08,10,Durango,18903210,Thermostats Regulating or Control,1,Imports,fra,France,70
+201608,2016-08,10,Durango,18903210,Thermostats Regulating or Control,1,Imports,ita,Italy,2663
+201608,2016-08,10,Durango,18903210,Thermostats Regulating or Control,1,Imports,usa,United States,140
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,283
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,deu,Germany,3208
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,emu,European Community,377
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,ind,India,266
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,ita,Italy,12052
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,nld,Netherlands,301
+201608,2016-08,10,Durango,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,8549
+201608,2016-08,10,Durango,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,cze,Czech Republic,328
+201608,2016-08,10,Durango,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,deu,Germany,720
+201608,2016-08,10,Durango,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,fra,France,271
+201608,2016-08,10,Durango,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,jpn,Japan,2032
+201608,2016-08,10,Durango,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,nld,Netherlands,274
+201608,2016-08,10,Durango,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,usa,United States,2428
+201608,2016-08,10,Durango,20940540,"Electrical Lighting, N.E.C",1,Imports,chn,China,123925
+201608,2016-08,10,Durango,20940540,"Electrical Lighting, N.E.C",1,Imports,usa,United States,6303
+201608,2016-08,10,Durango,20960610,Poppers and Parts,1,Imports,usa,United States,3189
+201608,2016-08,10,Durango,20960621,"Plastic Buttons, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,prt,Portugal,637
+201608,2016-08,10,Durango,20960621,"Plastic Buttons, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,usa,United States,2941
+201608,2016-08,10,Durango,20960622,"Buttons of Base Metal, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,chn,China,6519
+201608,2016-08,10,Durango,20960622,"Buttons of Base Metal, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,gtm,Guatemala,2
+201608,2016-08,10,Durango,20960622,"Buttons of Base Metal, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,usa,United States,1562
+201608,2016-08,10,Durango,20960711,"Zippers ""Closures Lightning"" with Scoops of Base Metal",1,Imports,usa,United States,6899
+201608,2016-08,10,Durango,20961210,"Typewriter Ribbons and Tapes Simil., Inked or otherwise Processed for Printing, Incl. on Spools or in Cartridges",1,Imports,kor,South Korea,323
+201608,2016-08,10,Durango,20961210,"Typewriter Ribbons and Tapes Simil., Inked or otherwise Processed for Printing, Incl. on Spools or in Cartridges",1,Imports,usa,United States,5661
+201608,2016-08,10,Durango,2070200,Tomatoes Fresh or Chilled,2,Exports,usa,United States,4584338
+201608,2016-08,10,Durango,2070960,"Fruits of the Genus Capsicum or of the Genus Pimenta, Fresh or Chilled",2,Exports,usa,United States,237747
+201608,2016-08,10,Durango,5251741,"Granules, Chippings and Powder Marble, Incl. Heat Treated",2,Exports,usa,United States,226682
+201608,2016-08,10,Durango,7391590,"Waste, Waste and Scrap of Plastics (Exc. of Ethylene Polymers, Styrene Polymers and Polymers of Vinyl Chloride)",2,Exports,usa,United States,11337
+201608,2016-08,10,Durango,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,usa,United States,124747
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",2,Exports,fra,France,180
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",2,Exports,hnd,Honduras,3904
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",2,Exports,nic,Nicaragua,139320
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",2,Exports,rou,Romania,2
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",2,Exports,slv,El Salvador,20406
+201608,2016-08,10,Durango,7392340,"Spools, Canillas and Stands Simil., Plastic",2,Exports,usa,United States,7655
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,cri,Costa Rica,12622
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,pan,Panama,12442
+201608,2016-08,10,Durango,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,usa,United States,5791
+201608,2016-08,10,Durango,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",2,Exports,fra,France,19
+201608,2016-08,10,Durango,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",2,Exports,usa,United States,2034
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,2,Exports,bra,Brazil,564
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,2,Exports,hnd,Honduras,3118
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,2,Exports,pry,Paraguay,307
+201608,2016-08,10,Durango,7392690,Plastic Items and Articles of other Materials,2,Exports,usa,United States,75933
+201608,2016-08,10,Durango,9440710,"Coniferous Wood, Sawn or Chipped Lengthwise, Sliced ​​Or Peeled",2,Exports,lux,Luxembourg,857
+201608,2016-08,10,Durango,9440710,"Coniferous Wood, Sawn or Chipped Lengthwise, Sliced ​​Or Peeled",2,Exports,usa,United States,30810
+201608,2016-08,10,Durango,9440910,"Coniferous Wood, Incl. Strips and Friezes Parquet Unassembled, Continuously Shaped Grooved, Rebated, Chamfered, in V, Rounded or the Like, or Faces, Edges or Ends, Incl . Planed, Sanded or End-Jointed",2,Exports,can,Canada,143676
+201608,2016-08,10,Durango,9440910,"Coniferous Wood, Incl. Strips and Friezes Parquet Unassembled, Continuously Shaped Grooved, Rebated, Chamfered, in V, Rounded or the Like, or Faces, Edges or Ends, Incl . Planed, Sanded or End-Jointed",2,Exports,usa,United States,6841374
+201608,2016-08,10,Durango,10481910,Boxes Corrugated Paperboard,2,Exports,jpn,Japan,13
+201608,2016-08,10,Durango,10481910,Boxes Corrugated Paperboard,2,Exports,rou,Romania,18
+201608,2016-08,10,Durango,10481910,Boxes Corrugated Paperboard,2,Exports,usa,United States,3494
+201608,2016-08,10,Durango,11620342,"Long and Short Pants, Cotton, for Men or Children (Exc. Knitted and Swim Pants)",2,Exports,nld,Netherlands,282200
+201608,2016-08,10,Durango,11620342,"Long and Short Pants, Cotton, for Men or Children (Exc. Knitted and Swim Pants)",2,Exports,usa,United States,8194369
+201608,2016-08,10,Durango,11620462,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"" Cotton, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",2,Exports,usa,United States,459195
+201608,2016-08,10,Durango,13680221,". Marble, Travertine, Alabaster and Articles Thereof, Simply Cut or Sawn, with Flat or even Surface (Exc the Articles of Stone all or part of the Surface has been Planed, Sanded Polished or Brushed, Tiles, Cubes, Dice and Similar Articles Subheading 6802 10;. Setts, Curbstones and Flagstones)",2,Exports,usa,United States,88974
+201608,2016-08,10,Durango,13680291,"Marble, Travertine and Alabaster, in any Form (Exc Tiles, Cubes and Similar Articles of Subheading 6802.10;.. Jewelery, Clocks, Lighting Fixtures and Parts Thereof Buttons, Original Works of Statuary, Setts, Curbstones and Flagstones)",2,Exports,cri,Costa Rica,21250
+201608,2016-08,10,Durango,13680291,"Marble, Travertine and Alabaster, in any Form (Exc Tiles, Cubes and Similar Articles of Subheading 6802.10;.. Jewelery, Clocks, Lighting Fixtures and Parts Thereof Buttons, Original Works of Statuary, Setts, Curbstones and Flagstones)",2,Exports,usa,United States,1451894
+201608,2016-08,10,Durango,14710691,"Silver, Incl. Silver Plated with Gold or Platinum, Unwrought (Excl. Powders)",2,Exports,usa,United States,20762865
+201608,2016-08,10,Durango,15730723,"Pipe Fittings Butt Welding, Stainless Steel (Exc. Moldeados)",2,Exports,nic,Nicaragua,8894
+201608,2016-08,10,Durango,15730723,"Pipe Fittings Butt Welding, Stainless Steel (Exc. Moldeados)",2,Exports,usa,United States,494
+201608,2016-08,10,Durango,15730890,"Structures and Parts of Structures, of Iron or Steel (Excl Bridges, Towers and Lattice Masts, Doors)",2,Exports,gbr,United Kingdom,26287
+201608,2016-08,10,Durango,15730890,"Structures and Parts of Structures, of Iron or Steel (Excl Bridges, Towers and Lattice Masts, Doors)",2,Exports,nic,Nicaragua,290
+201608,2016-08,10,Durango,15730890,"Structures and Parts of Structures, of Iron or Steel (Excl Bridges, Towers and Lattice Masts, Doors)",2,Exports,usa,United States,27940
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",2,Exports,gtm,Guatemala,1
+201608,2016-08,10,Durango,15731822,"Washers, of Iron or Steel",2,Exports,usa,United States,3453
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,2,Exports,nic,Nicaragua,2529
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,2,Exports,pan,Panama,4440
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,2,Exports,phl,Philippines,900
+201608,2016-08,10,Durango,15732690,Articles of Iron or Steel,2,Exports,usa,United States,166357
+201608,2016-08,10,Durango,15740400,Waste and Scrap of Copper,2,Exports,usa,United States,2137850
+201608,2016-08,10,Durango,16841391,Parts of Pumps for Liquids,2,Exports,usa,United States,281841
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",2,Exports,nic,Nicaragua,227
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",2,Exports,pan,Panama,265
+201608,2016-08,10,Durango,16847490,"Parts of Machines and Apparatus for Preparing and Minerals Working Materials of Heading 8474, N.E.C",2,Exports,usa,United States,64125
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,bra,Brazil,78
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,chn,China,1353
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,deu,Germany,3094
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,hnd,Honduras,33707
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,jpn,Japan,37
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,kor,South Korea,20
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,pry,Paraguay,109
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,rou,Romania,10316
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,tun,Tunisia,1844
+201608,2016-08,10,Durango,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",2,Exports,usa,United States,1739186
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,bra,Brazil,33
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,chn,China,602
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,deu,Germany,26
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,hnd,Honduras,13564
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,jpn,Japan,43
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,pry,Paraguay,10
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,rou,Romania,9
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,tun,Tunisia,177
+201608,2016-08,10,Durango,16853890,"Parts of Electric Switches, Protectors and Connectors",2,Exports,usa,United States,484425
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,cze,Czech Republic,19160
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,deu,Germany,0
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,fra,France,391047
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,hnd,Honduras,3054719
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,nic,Nicaragua,2198727
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,rou,Romania,261939
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,slv,El Salvador,301891
+201608,2016-08,10,Durango,16854449,"Electric Conductors, for a Voltage <= 80 V",2,Exports,usa,United States,430464

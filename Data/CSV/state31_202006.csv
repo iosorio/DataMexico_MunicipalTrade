@@ -1,0 +1,962 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+202006,2020-06,31,Yucatán,1020329,"Porcine Meat, Frozen",1,Imports,usa,United States,272754
+202006,2020-06,31,Yucatán,2100590,"Corn, other than Seed",1,Imports,arg,Argentina,58760
+202006,2020-06,31,Yucatán,2100590,"Corn, other than Seed",1,Imports,usa,United States,17228032
+202006,2020-06,31,Yucatán,2120190,"Soya Beans, whether or not Broken (Excl. for Sowing Seed)",1,Imports,bra,Brazil,25802091
+202006,2020-06,31,Yucatán,2120190,"Soya Beans, whether or not Broken (Excl. for Sowing Seed)",1,Imports,usa,United States,20352507
+202006,2020-06,31,Yucatán,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,usa,United States,359
+202006,2020-06,31,Yucatán,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,can,Canada,667
+202006,2020-06,31,Yucatán,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,usa,United States,2238
+202006,2020-06,31,Yucatán,6330499,"Makeup for Skin Care, Antisolar Preparations and Tanning Machines (Exc. Medications)",1,Imports,chn,China,7558
+202006,2020-06,31,Yucatán,6330499,"Makeup for Skin Care, Antisolar Preparations and Tanning Machines (Exc. Medications)",1,Imports,gbr,United Kingdom,2443
+202006,2020-06,31,Yucatán,6330499,"Makeup for Skin Care, Antisolar Preparations and Tanning Machines (Exc. Medications)",1,Imports,kor,South Korea,181
+202006,2020-06,31,Yucatán,6330499,"Makeup for Skin Care, Antisolar Preparations and Tanning Machines (Exc. Medications)",1,Imports,usa,United States,4139
+202006,2020-06,31,Yucatán,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,usa,United States,428
+202006,2020-06,31,Yucatán,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,deu,Germany,145
+202006,2020-06,31,Yucatán,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,usa,United States,7050
+202006,2020-06,31,Yucatán,6340399,Lubricating Preparations,1,Imports,deu,Germany,1851
+202006,2020-06,31,Yucatán,6340399,Lubricating Preparations,1,Imports,usa,United States,67
+202006,2020-06,31,Yucatán,6340590,"Brighteners ""Lustres"" for Glass or Metal, Incl. Paper, Wadding, Felt, Nonwovens, Plastic or Cellular Rubber, Impregnated, Coated or Covered with such Preparations",1,Imports,chn,China,7713
+202006,2020-06,31,Yucatán,6340590,"Brighteners ""Lustres"" for Glass or Metal, Incl. Paper, Wadding, Felt, Nonwovens, Plastic or Cellular Rubber, Impregnated, Coated or Covered with such Preparations",1,Imports,usa,United States,386
+202006,2020-06,31,Yucatán,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,can,Canada,20
+202006,2020-06,31,Yucatán,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,chn,China,13
+202006,2020-06,31,Yucatán,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,fra,France,34
+202006,2020-06,31,Yucatán,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,irl,Ireland,78
+202006,2020-06,31,Yucatán,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,jpn,Japan,46
+202006,2020-06,31,Yucatán,6350610,"Products Suitable for Use as Glues or Adhesives, put up for Retail as Glues or Adhesives, with a Net Weight of <= 1 Kg",1,Imports,usa,United States,11646
+202006,2020-06,31,Yucatán,6381400,"Solvents and Diluents Organic Compounds, N.C.O.P .; Preparations for Paint or Varnish Removers (Exc. Solvents Nail Varnish)",1,Imports,usa,United States,6628
+202006,2020-06,31,Yucatán,6382200,"Diagnostic Reagents or Laboratory Reagents Backing and Prepared Diagnostic or Laboratory, Incl about Support.; Crms",1,Imports,chn,China,450
+202006,2020-06,31,Yucatán,6382200,"Diagnostic Reagents or Laboratory Reagents Backing and Prepared Diagnostic or Laboratory, Incl about Support.; Crms",1,Imports,usa,United States,5037
+202006,2020-06,31,Yucatán,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,deu,Germany,28706
+202006,2020-06,31,Yucatán,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,esp,Spain,9170
+202006,2020-06,31,Yucatán,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,546
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,chn,China,9072
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,cze,Czech Republic,5678
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,deu,Germany,387
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,rus,Russia,4964
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,twn,Taiwan (Region),168
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,usa,United States,19882
+202006,2020-06,31,Yucatán,7391733,"Hosing, Plastic, not Reinforced with other Materials and Accessories",1,Imports,chn,China,121
+202006,2020-06,31,Yucatán,7391733,"Hosing, Plastic, not Reinforced with other Materials and Accessories",1,Imports,twn,Taiwan (Region),33
+202006,2020-06,31,Yucatán,7391733,"Hosing, Plastic, not Reinforced with other Materials and Accessories",1,Imports,usa,United States,482
+202006,2020-06,31,Yucatán,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,bra,Brazil,110
+202006,2020-06,31,Yucatán,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,chn,China,5793
+202006,2020-06,31,Yucatán,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,mys,Malaysia,422
+202006,2020-06,31,Yucatán,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,usa,United States,711
+202006,2020-06,31,Yucatán,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,chn,China,212087
+202006,2020-06,31,Yucatán,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,jpn,Japan,24
+202006,2020-06,31,Yucatán,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,twn,Taiwan (Region),7
+202006,2020-06,31,Yucatán,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,77167
+202006,2020-06,31,Yucatán,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,chn,China,16833
+202006,2020-06,31,Yucatán,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,deu,Germany,17545
+202006,2020-06,31,Yucatán,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,esp,Spain,10
+202006,2020-06,31,Yucatán,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,ita,Italy,120
+202006,2020-06,31,Yucatán,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,7377
+202006,2020-06,31,Yucatán,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,can,Canada,4
+202006,2020-06,31,Yucatán,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,chn,China,211
+202006,2020-06,31,Yucatán,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,esp,Spain,273
+202006,2020-06,31,Yucatán,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,fra,France,901
+202006,2020-06,31,Yucatán,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,usa,United States,3856
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,chn,China,15
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,col,Colombia,300
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,usa,United States,143
+202006,2020-06,31,Yucatán,7392099,"Plates, Sheets, Sheets and Strips, of Non-Cellular Plastic (Exc. Self-Adhesive, as well as Coatings for Floors, Walls or Ceilings)",1,Imports,chn,China,8000
+202006,2020-06,31,Yucatán,7392099,"Plates, Sheets, Sheets and Strips, of Non-Cellular Plastic (Exc. Self-Adhesive, as well as Coatings for Floors, Walls or Ceilings)",1,Imports,usa,United States,2908
+202006,2020-06,31,Yucatán,7392113,"Plates, Sheets, Sheets and Strips, of Cellular Polyurethanes (Exc. Self-Adhesive, as well as Coatings for Floors, Walls or Ceilings)",1,Imports,chn,China,53529
+202006,2020-06,31,Yucatán,7392113,"Plates, Sheets, Sheets and Strips, of Cellular Polyurethanes (Exc. Self-Adhesive, as well as Coatings for Floors, Walls or Ceilings)",1,Imports,esp,Spain,21668
+202006,2020-06,31,Yucatán,7392113,"Plates, Sheets, Sheets and Strips, of Cellular Polyurethanes (Exc. Self-Adhesive, as well as Coatings for Floors, Walls or Ceilings)",1,Imports,usa,United States,46388
+202006,2020-06,31,Yucatán,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,chn,China,1528
+202006,2020-06,31,Yucatán,7392190,"Plates, Sheets, Sheets and Strips, of Plastic, Reinforced, Stratified or Combined with other Materials",1,Imports,usa,United States,12247
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,chn,China,31955
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,twn,Taiwan (Region),55
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,usa,United States,50407
+202006,2020-06,31,Yucatán,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,chn,China,39
+202006,2020-06,31,Yucatán,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",1,Imports,usa,United States,2677
+202006,2020-06,31,Yucatán,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,chn,China,604
+202006,2020-06,31,Yucatán,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,gtm,Guatemala,13652
+202006,2020-06,31,Yucatán,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,mys,Malaysia,7
+202006,2020-06,31,Yucatán,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,usa,United States,9472
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,784
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,ind,India,1318
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,twn,Taiwan (Region),807
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,509
+202006,2020-06,31,Yucatán,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,usa,United States,42934
+202006,2020-06,31,Yucatán,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,can,Canada,37
+202006,2020-06,31,Yucatán,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,chn,China,3005
+202006,2020-06,31,Yucatán,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,esp,Spain,688
+202006,2020-06,31,Yucatán,7392490,"Household Goods and Items of Sanitary Ware Plastic (Exc Tableware and other Articles for Table or Kitchen;. Baths, Showers, Sinks, Bidets, Lavatory Seats and Covers, Flushing Cisterns and Sanitary Ware Simlares )",1,Imports,usa,United States,55
+202006,2020-06,31,Yucatán,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,chn,China,6889
+202006,2020-06,31,Yucatán,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,esp,Spain,1044
+202006,2020-06,31,Yucatán,7392590,"Structural Elements for Making Floors, Walls, Partitions, Ceilings or Roofs, Plastic; Gutters and Accessories, Plastic; Railings, Fences and Barriers Like, of Plastics.; Large-Scale Shelving for Mounting and Fixing Permanently in Shops ""Tents"", Warehouses and Like, of Plastics.; Grooved Elements, Cupolas, Remates and other Ornamental Architectural Features, Plastic; Accessories and Fittings for Set, Plastic",1,Imports,usa,United States,24884
+202006,2020-06,31,Yucatán,7392630,"Fittings for Furniture, Coachwork and the Like., of Plastics",1,Imports,chn,China,32
+202006,2020-06,31,Yucatán,7392630,"Fittings for Furniture, Coachwork and the Like., of Plastics",1,Imports,deu,Germany,32
+202006,2020-06,31,Yucatán,7392630,"Fittings for Furniture, Coachwork and the Like., of Plastics",1,Imports,twn,Taiwan (Region),2942
+202006,2020-06,31,Yucatán,7392630,"Fittings for Furniture, Coachwork and the Like., of Plastics",1,Imports,usa,United States,10
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,aut,Austria,13740
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,bel,Belgium,1384
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,bra,Brazil,627
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,can,Canada,10196
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,che,Switzerland,1603
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,75597
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,cze,Czech Republic,9453
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,deu,Germany,52175
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,dnk,Denmark,37
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,esp,Spain,385
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,fra,France,6740
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,gbr,United Kingdom,1000
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,hkg,Hong Kong,291
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,hun,Hungary,9106
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,ind,India,5568
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,ita,Italy,8167
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,jpn,Japan,4367
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,1409
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,mar,Morocco,3964
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,mys,Malaysia,3
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,pol,Poland,861
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,prt,Portugal,1110
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,rou,Romania,14
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,sgp,Singapore,7925
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,svk,Slovakia,54
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,svn,Slovenia,243
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,swe,Sweden,327
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,tha,Thailand,308
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,twn,Taiwan (Region),2635
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,ukr,Ukraine,663
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,324382
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,1,Imports,vnm,Vietnam,75
+202006,2020-06,31,Yucatán,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,chn,China,21114
+202006,2020-06,31,Yucatán,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,kor,South Korea,245
+202006,2020-06,31,Yucatán,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,mys,Malaysia,546
+202006,2020-06,31,Yucatán,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,usa,United States,159
+202006,2020-06,31,Yucatán,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,esp,Spain,60
+202006,2020-06,31,Yucatán,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,usa,United States,2543
+202006,2020-06,31,Yucatán,7401390,"Chambers of Rubber ""Pneumatic Tires"" (Excl. of a Kind Used on Motor Cars, Incl. Station Wagons ""Break"" O ""Station Wagon"" [ ""Break 'O' Station Wagon '] and Racing Cars, Buses, Lorries and Bicycles)",1,Imports,chn,China,91996
+202006,2020-06,31,Yucatán,7401390,"Chambers of Rubber ""Pneumatic Tires"" (Excl. of a Kind Used on Motor Cars, Incl. Station Wagons ""Break"" O ""Station Wagon"" [ ""Break 'O' Station Wagon '] and Racing Cars, Buses, Lorries and Bicycles)",1,Imports,ita,Italy,406
+202006,2020-06,31,Yucatán,7401390,"Chambers of Rubber ""Pneumatic Tires"" (Excl. of a Kind Used on Motor Cars, Incl. Station Wagons ""Break"" O ""Station Wagon"" [ ""Break 'O' Station Wagon '] and Racing Cars, Buses, Lorries and Bicycles)",1,Imports,usa,United States,253
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,1460
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,49
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,esp,Spain,1462
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fra,France,711
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ind,India,706
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ita,Italy,2923
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,24
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,kor,South Korea,120
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,svk,Slovakia,96
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,tur,Turkey,296
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),216
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,3637
+202006,2020-06,31,Yucatán,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,vnm,Vietnam,218
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,aut,Austria,207
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,bra,Brazil,189
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,can,Canada,3114
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,4589
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,hun,Hungary,1827
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ind,India,723
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,kor,South Korea,1061
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,twn,Taiwan (Region),157
+202006,2020-06,31,Yucatán,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,228432
+202006,2020-06,31,Yucatán,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,chn,China,222
+202006,2020-06,31,Yucatán,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,col,Colombia,50
+202006,2020-06,31,Yucatán,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,esp,Spain,337
+202006,2020-06,31,Yucatán,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,usa,United States,1960
+202006,2020-06,31,Yucatán,10480100,"Newsprint, Specifically Note4 up to 48, in Rolls of a Width> 36 Cm, Square or Rectangular with one Side> 36 Cm and the Other> 15 Cm in the Unfolded",1,Imports,can,Canada,333339
+202006,2020-06,31,Yucatán,10480100,"Newsprint, Specifically Note4 up to 48, in Rolls of a Width> 36 Cm, Square or Rectangular with one Side> 36 Cm and the Other> 15 Cm in the Unfolded",1,Imports,chl,Chile,95102
+202006,2020-06,31,Yucatán,10480100,"Newsprint, Specifically Note4 up to 48, in Rolls of a Width> 36 Cm, Square or Rectangular with one Side> 36 Cm and the Other> 15 Cm in the Unfolded",1,Imports,usa,United States,101486
+202006,2020-06,31,Yucatán,10481910,Boxes Corrugated Paperboard,1,Imports,chn,China,47
+202006,2020-06,31,Yucatán,10481910,Boxes Corrugated Paperboard,1,Imports,usa,United States,17174
+202006,2020-06,31,Yucatán,10481920,"Boxes and Folding Cartons, Paper or Paperboard, not Corrugated",1,Imports,usa,United States,48629
+202006,2020-06,31,Yucatán,10481940,"Bags ""Bags"" and Cornets, Paper, Paperboard, Cellulose Wadding or Webs of Cellulose Fibers (Exc. Bags ""Bags"" with a Base Width> = 40 Cm, and Record Sleeves)",1,Imports,chn,China,720
+202006,2020-06,31,Yucatán,10481940,"Bags ""Bags"" and Cornets, Paper, Paperboard, Cellulose Wadding or Webs of Cellulose Fibers (Exc. Bags ""Bags"" with a Base Width> = 40 Cm, and Record Sleeves)",1,Imports,usa,United States,398
+202006,2020-06,31,Yucatán,10481960,"Shaped Cardboard Boxes Rigid Containers of a Kind Used in Offices, Shops ""Tents"" or Similar. (Exc. Containers)",1,Imports,esp,Spain,84
+202006,2020-06,31,Yucatán,10481960,"Shaped Cardboard Boxes Rigid Containers of a Kind Used in Offices, Shops ""Tents"" or Similar. (Exc. Containers)",1,Imports,gbr,United Kingdom,39
+202006,2020-06,31,Yucatán,10481960,"Shaped Cardboard Boxes Rigid Containers of a Kind Used in Offices, Shops ""Tents"" or Similar. (Exc. Containers)",1,Imports,usa,United States,21
+202006,2020-06,31,Yucatán,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,chn,China,8389
+202006,2020-06,31,Yucatán,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,gtm,Guatemala,8
+202006,2020-06,31,Yucatán,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,12658
+202006,2020-06,31,Yucatán,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,chn,China,1142
+202006,2020-06,31,Yucatán,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,deu,Germany,639
+202006,2020-06,31,Yucatán,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,gtm,Guatemala,702
+202006,2020-06,31,Yucatán,10482190,"Labels of all Kinds, Paper or Cardboard, Unprinted",1,Imports,usa,United States,9611
+202006,2020-06,31,Yucatán,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,gtm,Guatemala,29365
+202006,2020-06,31,Yucatán,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,twn,Taiwan (Region),19
+202006,2020-06,31,Yucatán,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,usa,United States,1438
+202006,2020-06,31,Yucatán,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,deu,Germany,123
+202006,2020-06,31,Yucatán,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,1326
+202006,2020-06,31,Yucatán,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,arg,Argentina,2260
+202006,2020-06,31,Yucatán,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,esp,Spain,5756
+202006,2020-06,31,Yucatán,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,ita,Italy,22
+202006,2020-06,31,Yucatán,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,usa,United States,13
+202006,2020-06,31,Yucatán,10490890,Decalcomanias (Exc. Vitrifiable),1,Imports,bra,Brazil,3577
+202006,2020-06,31,Yucatán,10490890,Decalcomanias (Exc. Vitrifiable),1,Imports,gbr,United Kingdom,42
+202006,2020-06,31,Yucatán,10490890,Decalcomanias (Exc. Vitrifiable),1,Imports,usa,United States,151272
+202006,2020-06,31,Yucatán,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,chn,China,64
+202006,2020-06,31,Yucatán,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,dnk,Denmark,28
+202006,2020-06,31,Yucatán,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,gbr,United Kingdom,43
+202006,2020-06,31,Yucatán,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,nld,Netherlands,3
+202006,2020-06,31,Yucatán,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,usa,United States,6661
+202006,2020-06,31,Yucatán,10491199,Printed,1,Imports,chn,China,3947
+202006,2020-06,31,Yucatán,10491199,Printed,1,Imports,usa,United States,3324
+202006,2020-06,31,Yucatán,11560312,"Nonwovens, Incl. Impregnated, Coated, Covered or Laminated, N.E.C., of Man-Made Filaments, Weighing> 25 G / M² but <= 70 G / M²",1,Imports,chn,China,12627
+202006,2020-06,31,Yucatán,11560312,"Nonwovens, Incl. Impregnated, Coated, Covered or Laminated, N.E.C., of Man-Made Filaments, Weighing> 25 G / M² but <= 70 G / M²",1,Imports,usa,United States,57766
+202006,2020-06,31,Yucatán,11560750,"Cordage, Ropes and Cables, Plaited or Not, Incl. Impregnated, Coated, Covered or Sheathed with Rubber or Plastics, Synthetic Fibers (Excl. of Polyethylene or Polypropylene)",1,Imports,chn,China,59185
+202006,2020-06,31,Yucatán,11560750,"Cordage, Ropes and Cables, Plaited or Not, Incl. Impregnated, Coated, Covered or Sheathed with Rubber or Plastics, Synthetic Fibers (Excl. of Polyethylene or Polypropylene)",1,Imports,ind,India,5023
+202006,2020-06,31,Yucatán,11560750,"Cordage, Ropes and Cables, Plaited or Not, Incl. Impregnated, Coated, Covered or Sheathed with Rubber or Plastics, Synthetic Fibers (Excl. of Polyethylene or Polypropylene)",1,Imports,usa,United States,75
+202006,2020-06,31,Yucatán,11580620,"Tapes Textile, Woven, Containing Elastomeric Yarn or Rubber Thread> = 5% by Weight (Exc. Velvet Ribbons, Plush, Fabrics Chenille Fabrics Toweling and Labels, Badges and Similar Articles.)",1,Imports,chn,China,10993
+202006,2020-06,31,Yucatán,11580620,"Tapes Textile, Woven, Containing Elastomeric Yarn or Rubber Thread> = 5% by Weight (Exc. Velvet Ribbons, Plush, Fabrics Chenille Fabrics Toweling and Labels, Badges and Similar Articles.)",1,Imports,usa,United States,515
+202006,2020-06,31,Yucatán,11581092,"Synthetic Embroidery or Artificial Fibers, on Textile, in the Piece, Strips or in Motifs (Excl. Embroidery Chemical or Air and Embroidery with Trimmed Fund)",1,Imports,chn,China,16420
+202006,2020-06,31,Yucatán,11581092,"Synthetic Embroidery or Artificial Fibers, on Textile, in the Piece, Strips or in Motifs (Excl. Embroidery Chemical or Air and Embroidery with Trimmed Fund)",1,Imports,usa,United States,3570
+202006,2020-06,31,Yucatán,11591190,Textile Products and Articles for Technical Uses,1,Imports,chn,China,88
+202006,2020-06,31,Yucatán,11591190,Textile Products and Articles for Technical Uses,1,Imports,esp,Spain,496
+202006,2020-06,31,Yucatán,11591190,Textile Products and Articles for Technical Uses,1,Imports,nor,Norway,4636
+202006,2020-06,31,Yucatán,11591190,Textile Products and Articles for Technical Uses,1,Imports,usa,United States,1728
+202006,2020-06,31,Yucatán,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,col,Colombia,1820
+202006,2020-06,31,Yucatán,11610620,"Shirts, Blouses, Knitted or Crocheted, of Man-Made Fibers, Knitted or Crocheted (Excl. ""T-Shirts"" and T)",1,Imports,vnm,Vietnam,903
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,chn,China,1302748
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,esp,Spain,216
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,hkg,Hong Kong,130
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,ita,Italy,820
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,kor,South Korea,3997
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,twn,Taiwan (Region),148
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,usa,United States,3950
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",1,Imports,vnm,Vietnam,7088
+202006,2020-06,31,Yucatán,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,aut,Austria,1095
+202006,2020-06,31,Yucatán,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,can,Canada,2871
+202006,2020-06,31,Yucatán,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,chn,China,70
+202006,2020-06,31,Yucatán,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,usa,United States,3645
+202006,2020-06,31,Yucatán,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,aut,Austria,1095
+202006,2020-06,31,Yucatán,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,chn,China,534
+202006,2020-06,31,Yucatán,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,swe,Sweden,982
+202006,2020-06,31,Yucatán,13680422,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Abrasives or of Ceramics (Excl. of Natural Diamond or Synthetic Chipboard, as well as the Stones of Sharpening or Polishing by Hand, Pumice Perfumed and Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,usa,United States,10503
+202006,2020-06,31,Yucatán,13681510,Articles of Graphite or other Carbon (Exc. for Electrical Purposes),1,Imports,twn,Taiwan (Region),6
+202006,2020-06,31,Yucatán,13681510,Articles of Graphite or other Carbon (Exc. for Electrical Purposes),1,Imports,usa,United States,20203
+202006,2020-06,31,Yucatán,13690919,"Appliances and Ceramics, for Chemical or other Technical Uses (Excl. of Porcelain or China, Articles Having a Hardness> = 9 on the Mohs Scale, Millstones, Grindstones and other Articles of Heading 6804, Items Ceramics Refractories, Electrical, Electrical Insulators and other Electrical Insulating Fittings)",1,Imports,ita,Italy,667
+202006,2020-06,31,Yucatán,13690919,"Appliances and Ceramics, for Chemical or other Technical Uses (Excl. of Porcelain or China, Articles Having a Hardness> = 9 on the Mohs Scale, Millstones, Grindstones and other Articles of Heading 6804, Items Ceramics Refractories, Electrical, Electrical Insulators and other Electrical Insulating Fittings)",1,Imports,usa,United States,80974
+202006,2020-06,31,Yucatán,13700910,"Mirrors Framed or Not, Incl. Rear-View Mirrors, Framed or without him Vehicle",1,Imports,chn,China,544
+202006,2020-06,31,Yucatán,13700910,"Mirrors Framed or Not, Incl. Rear-View Mirrors, Framed or without him Vehicle",1,Imports,kor,South Korea,58
+202006,2020-06,31,Yucatán,13700910,"Mirrors Framed or Not, Incl. Rear-View Mirrors, Framed or without him Vehicle",1,Imports,twn,Taiwan (Region),69
+202006,2020-06,31,Yucatán,14710122,"Cultured Pearls, Worked, whether Collated, but not Strung, Mounted or Set.; Cultured Pearls, Temporarily Strung Easy Transport",1,Imports,aus,Australia,702
+202006,2020-06,31,Yucatán,14710122,"Cultured Pearls, Worked, whether Collated, but not Strung, Mounted or Set.; Cultured Pearls, Temporarily Strung Easy Transport",1,Imports,jpn,Japan,6863
+202006,2020-06,31,Yucatán,14710122,"Cultured Pearls, Worked, whether Collated, but not Strung, Mounted or Set.; Cultured Pearls, Temporarily Strung Easy Transport",1,Imports,usa,United States,555
+202006,2020-06,31,Yucatán,14710239,"Diamonds, Worked, but not Mounted or Set (Excl. Industrial Diamonds)",1,Imports,bel,Belgium,6457
+202006,2020-06,31,Yucatán,14710239,"Diamonds, Worked, but not Mounted or Set (Excl. Industrial Diamonds)",1,Imports,ind,India,4480812
+202006,2020-06,31,Yucatán,14710239,"Diamonds, Worked, but not Mounted or Set (Excl. Industrial Diamonds)",1,Imports,tha,Thailand,1204
+202006,2020-06,31,Yucatán,14710239,"Diamonds, Worked, but not Mounted or Set (Excl. Industrial Diamonds)",1,Imports,usa,United States,556373
+202006,2020-06,31,Yucatán,14710391,"Rubies, Sapphires and Emeralds, Worked, whether Classified, but not Strung, Mounted or Set.; Rubies, Sapphires and Emeralds, Ungraded, Temporarily Skewered Facilitate Transport (Exc. Simply Sawn or Roughly Trimmed, as well as Imitations of Precious or Semiprecious Stones)",1,Imports,ind,India,3755
+202006,2020-06,31,Yucatán,14710391,"Rubies, Sapphires and Emeralds, Worked, whether Classified, but not Strung, Mounted or Set.; Rubies, Sapphires and Emeralds, Ungraded, Temporarily Skewered Facilitate Transport (Exc. Simply Sawn or Roughly Trimmed, as well as Imitations of Precious or Semiprecious Stones)",1,Imports,usa,United States,1909
+202006,2020-06,31,Yucatán,14710399,"Precious or Semiprecious Stones ""Natural"", Worked, whether Collated, but not Strung, Mounted or Set.; Precious Stones ""Natural"", Worked, Ungraded, Temporarily Strung Easy Transport (Exc. Simply Sawn or Roughly, as well as Diamonds, Rubies, Sapphires and Emeralds, Imitation Precious or Semiprecious Stones)",1,Imports,ind,India,2159
+202006,2020-06,31,Yucatán,14710399,"Precious or Semiprecious Stones ""Natural"", Worked, whether Collated, but not Strung, Mounted or Set.; Precious Stones ""Natural"", Worked, Ungraded, Temporarily Strung Easy Transport (Exc. Simply Sawn or Roughly, as well as Diamonds, Rubies, Sapphires and Emeralds, Imitation Precious or Semiprecious Stones)",1,Imports,tha,Thailand,24395
+202006,2020-06,31,Yucatán,14710399,"Precious or Semiprecious Stones ""Natural"", Worked, whether Collated, but not Strung, Mounted or Set.; Precious Stones ""Natural"", Worked, Ungraded, Temporarily Strung Easy Transport (Exc. Simply Sawn or Roughly, as well as Diamonds, Rubies, Sapphires and Emeralds, Imitation Precious or Semiprecious Stones)",1,Imports,usa,United States,5022
+202006,2020-06,31,Yucatán,14710490,"Precious or Semiprecious Stones, Synthetic or Reconstructed, Incl Collated, but not Strung, Mounted or Set.; Precious or Semiprecious Stones, Synthetic or Reconstructed, Worked, Ungraded, Temporarily Strung for Convenience of Transport (Excl. Simply Sawn or Roughly as well as Quartz Piezoelectric)",1,Imports,aut,Austria,44
+202006,2020-06,31,Yucatán,14710490,"Precious or Semiprecious Stones, Synthetic or Reconstructed, Incl Collated, but not Strung, Mounted or Set.; Precious or Semiprecious Stones, Synthetic or Reconstructed, Worked, Ungraded, Temporarily Strung for Convenience of Transport (Excl. Simply Sawn or Roughly as well as Quartz Piezoelectric)",1,Imports,tha,Thailand,19193
+202006,2020-06,31,Yucatán,14710490,"Precious or Semiprecious Stones, Synthetic or Reconstructed, Incl Collated, but not Strung, Mounted or Set.; Precious or Semiprecious Stones, Synthetic or Reconstructed, Worked, Ungraded, Temporarily Strung for Convenience of Transport (Excl. Simply Sawn or Roughly as well as Quartz Piezoelectric)",1,Imports,usa,United States,56386
+202006,2020-06,31,Yucatán,14710691,"Silver, Incl. Silver Plated with Gold or Platinum, Unwrought (Excl. Powders)",1,Imports,usa,United States,144203
+202006,2020-06,31,Yucatán,14710813,"Gold, Semi-Manufactured",1,Imports,can,Canada,3427
+202006,2020-06,31,Yucatán,14710813,"Gold, Semi-Manufactured",1,Imports,usa,United States,1156891
+202006,2020-06,31,Yucatán,14711019,"Platinum, Semimanufactured",1,Imports,can,Canada,764
+202006,2020-06,31,Yucatán,14711019,"Platinum, Semimanufactured",1,Imports,usa,United States,269477
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",1,Imports,can,Canada,462
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",1,Imports,ita,Italy,18
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",1,Imports,tha,Thailand,122780
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",1,Imports,usa,United States,498520
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",1,Imports,can,Canada,77663
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",1,Imports,ita,Italy,747
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",1,Imports,usa,United States,2908444
+202006,2020-06,31,Yucatán,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,chn,China,1642
+202006,2020-06,31,Yucatán,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,ita,Italy,5902
+202006,2020-06,31,Yucatán,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,twn,Taiwan (Region),203
+202006,2020-06,31,Yucatán,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,usa,United States,3078
+202006,2020-06,31,Yucatán,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,chn,China,581
+202006,2020-06,31,Yucatán,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,kor,South Korea,99
+202006,2020-06,31,Yucatán,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,2612
+202006,2020-06,31,Yucatán,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,chn,China,134
+202006,2020-06,31,Yucatán,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,ita,Italy,3776
+202006,2020-06,31,Yucatán,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,jpn,Japan,80
+202006,2020-06,31,Yucatán,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,kor,South Korea,32
+202006,2020-06,31,Yucatán,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,usa,United States,92
+202006,2020-06,31,Yucatán,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,ind,India,41
+202006,2020-06,31,Yucatán,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,kor,South Korea,204
+202006,2020-06,31,Yucatán,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,1708
+202006,2020-06,31,Yucatán,15731511,Roller Chain of Iron or Steel,1,Imports,chn,China,9279
+202006,2020-06,31,Yucatán,15731511,Roller Chain of Iron or Steel,1,Imports,deu,Germany,408
+202006,2020-06,31,Yucatán,15731511,Roller Chain of Iron or Steel,1,Imports,usa,United States,6298
+202006,2020-06,31,Yucatán,15731814,"Tapping Screws, of Iron or Steel (Excl. Wood Screws)",1,Imports,chn,China,86463
+202006,2020-06,31,Yucatán,15731814,"Tapping Screws, of Iron or Steel (Excl. Wood Screws)",1,Imports,idn,Indonesia,13
+202006,2020-06,31,Yucatán,15731814,"Tapping Screws, of Iron or Steel (Excl. Wood Screws)",1,Imports,twn,Taiwan (Region),164676
+202006,2020-06,31,Yucatán,15731814,"Tapping Screws, of Iron or Steel (Excl. Wood Screws)",1,Imports,usa,United States,2690
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,che,Switzerland,182
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,409075
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,75
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,523
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ind,India,80500
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,242
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,jpn,Japan,71
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,kor,South Korea,4305
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,tha,Thailand,15
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),15974
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,73665
+202006,2020-06,31,Yucatán,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,vnm,Vietnam,10020
+202006,2020-06,31,Yucatán,15731816,Nuts of Iron or Steel,1,Imports,chn,China,90485
+202006,2020-06,31,Yucatán,15731816,Nuts of Iron or Steel,1,Imports,ind,India,30130
+202006,2020-06,31,Yucatán,15731816,Nuts of Iron or Steel,1,Imports,kor,South Korea,439
+202006,2020-06,31,Yucatán,15731816,Nuts of Iron or Steel,1,Imports,twn,Taiwan (Region),7498
+202006,2020-06,31,Yucatán,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,7256
+202006,2020-06,31,Yucatán,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,bra,Brazil,28
+202006,2020-06,31,Yucatán,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,chn,China,450
+202006,2020-06,31,Yucatán,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,esp,Spain,19
+202006,2020-06,31,Yucatán,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,twn,Taiwan (Region),19
+202006,2020-06,31,Yucatán,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,807
+202006,2020-06,31,Yucatán,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,chn,China,9242
+202006,2020-06,31,Yucatán,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,usa,United States,811
+202006,2020-06,31,Yucatán,15731822,"Washers, of Iron or Steel",1,Imports,chn,China,34068
+202006,2020-06,31,Yucatán,15731822,"Washers, of Iron or Steel",1,Imports,deu,Germany,100
+202006,2020-06,31,Yucatán,15731822,"Washers, of Iron or Steel",1,Imports,jpn,Japan,1
+202006,2020-06,31,Yucatán,15731822,"Washers, of Iron or Steel",1,Imports,kor,South Korea,30
+202006,2020-06,31,Yucatán,15731822,"Washers, of Iron or Steel",1,Imports,twn,Taiwan (Region),209
+202006,2020-06,31,Yucatán,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,12582
+202006,2020-06,31,Yucatán,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,chn,China,1234
+202006,2020-06,31,Yucatán,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,deu,Germany,515
+202006,2020-06,31,Yucatán,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,kor,South Korea,719
+202006,2020-06,31,Yucatán,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,twn,Taiwan (Region),46
+202006,2020-06,31,Yucatán,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,14920
+202006,2020-06,31,Yucatán,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,chn,China,38
+202006,2020-06,31,Yucatán,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,gbr,United Kingdom,64
+202006,2020-06,31,Yucatán,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,738
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,bra,Brazil,61
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,can,Canada,9
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,che,Switzerland,3
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,309
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,jpn,Japan,135
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,kor,South Korea,2
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,twn,Taiwan (Region),29
+202006,2020-06,31,Yucatán,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,6372
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chl,Chile,3684
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chn,China,1115
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,ind,India,49
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,kor,South Korea,794
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,tha,Thailand,26
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,twn,Taiwan (Region),32
+202006,2020-06,31,Yucatán,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,usa,United States,2743
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,bra,Brazil,50
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,chn,China,3825
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,2458
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,jpn,Japan,189
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,nld,Netherlands,280
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,tha,Thailand,222
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),1545
+202006,2020-06,31,Yucatán,15732690,Articles of Iron or Steel,1,Imports,usa,United States,88987
+202006,2020-06,31,Yucatán,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,chn,China,6802
+202006,2020-06,31,Yucatán,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,ita,Italy,1264
+202006,2020-06,31,Yucatán,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,twn,Taiwan (Region),146
+202006,2020-06,31,Yucatán,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,usa,United States,1729
+202006,2020-06,31,Yucatán,15741999,Articles of Copper,1,Imports,chn,China,23
+202006,2020-06,31,Yucatán,15741999,Articles of Copper,1,Imports,usa,United States,2824
+202006,2020-06,31,Yucatán,15760429,"Bars and Solid Profiles, of Aluminum Alloys",1,Imports,chn,China,5440
+202006,2020-06,31,Yucatán,15760429,"Bars and Solid Profiles, of Aluminum Alloys",1,Imports,esp,Spain,50128
+202006,2020-06,31,Yucatán,15760429,"Bars and Solid Profiles, of Aluminum Alloys",1,Imports,usa,United States,175
+202006,2020-06,31,Yucatán,15761699,Aluminium Articles,1,Imports,chn,China,240
+202006,2020-06,31,Yucatán,15761699,Aluminium Articles,1,Imports,ita,Italy,140
+202006,2020-06,31,Yucatán,15761699,Aluminium Articles,1,Imports,jpn,Japan,664
+202006,2020-06,31,Yucatán,15761699,Aluminium Articles,1,Imports,usa,United States,876
+202006,2020-06,31,Yucatán,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,che,Switzerland,83
+202006,2020-06,31,Yucatán,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,chn,China,9
+202006,2020-06,31,Yucatán,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,ita,Italy,8
+202006,2020-06,31,Yucatán,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,pak,Pakistan,2
+202006,2020-06,31,Yucatán,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,usa,United States,530
+202006,2020-06,31,Yucatán,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,chn,China,195
+202006,2020-06,31,Yucatán,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,gbr,United Kingdom,36
+202006,2020-06,31,Yucatán,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),23
+202006,2020-06,31,Yucatán,15820551,"Hand Tools, for Domestic Use, Non-Mechanical, with Working Parts of Base Metal, N.E.C",1,Imports,usa,United States,228
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,220
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,deu,Germany,2954
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,esp,Spain,151
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,ind,India,35
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,nzl,New Zealand,26
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),1324
+202006,2020-06,31,Yucatán,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,277
+202006,2020-06,31,Yucatán,15820713,"Useful Drilling Or, Interchangeable, with Working Parts of Metal Carbide Sintered Cermet O",1,Imports,chl,Chile,126615
+202006,2020-06,31,Yucatán,15820713,"Useful Drilling Or, Interchangeable, with Working Parts of Metal Carbide Sintered Cermet O",1,Imports,chn,China,8
+202006,2020-06,31,Yucatán,15820713,"Useful Drilling Or, Interchangeable, with Working Parts of Metal Carbide Sintered Cermet O",1,Imports,kor,South Korea,1652
+202006,2020-06,31,Yucatán,15820713,"Useful Drilling Or, Interchangeable, with Working Parts of Metal Carbide Sintered Cermet O",1,Imports,usa,United States,2873
+202006,2020-06,31,Yucatán,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,chl,Chile,73323
+202006,2020-06,31,Yucatán,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,kor,South Korea,1446
+202006,2020-06,31,Yucatán,15820770,"Tools for Milling, Interchangeable",1,Imports,deu,Germany,1493
+202006,2020-06,31,Yucatán,15820770,"Tools for Milling, Interchangeable",1,Imports,esp,Spain,287
+202006,2020-06,31,Yucatán,15820770,"Tools for Milling, Interchangeable",1,Imports,twn,Taiwan (Region),22
+202006,2020-06,31,Yucatán,15820770,"Tools for Milling, Interchangeable",1,Imports,usa,United States,69
+202006,2020-06,31,Yucatán,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,che,Switzerland,42
+202006,2020-06,31,Yucatán,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,chn,China,5062
+202006,2020-06,31,Yucatán,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,usa,United States,6711
+202006,2020-06,31,Yucatán,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,che,Switzerland,7859
+202006,2020-06,31,Yucatán,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,chn,China,1386
+202006,2020-06,31,Yucatán,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,ita,Italy,2585
+202006,2020-06,31,Yucatán,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,jpn,Japan,7186
+202006,2020-06,31,Yucatán,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,twn,Taiwan (Region),3
+202006,2020-06,31,Yucatán,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,usa,United States,7954
+202006,2020-06,31,Yucatán,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,chn,China,4389
+202006,2020-06,31,Yucatán,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,esp,Spain,104
+202006,2020-06,31,Yucatán,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,kor,South Korea,52
+202006,2020-06,31,Yucatán,15830140,Common Metal Locks (Exc. Padlocks and Locks Used in Furniture or in Automobile Vehicles),1,Imports,usa,United States,391
+202006,2020-06,31,Yucatán,15830210,"Hinges of all Kinds, Incl. the Hinges and other Hinges of Base Metal",1,Imports,chn,China,35621
+202006,2020-06,31,Yucatán,15830210,"Hinges of all Kinds, Incl. the Hinges and other Hinges of Base Metal",1,Imports,esp,Spain,10
+202006,2020-06,31,Yucatán,15830210,"Hinges of all Kinds, Incl. the Hinges and other Hinges of Base Metal",1,Imports,twn,Taiwan (Region),12
+202006,2020-06,31,Yucatán,15830210,"Hinges of all Kinds, Incl. the Hinges and other Hinges of Base Metal",1,Imports,usa,United States,5410
+202006,2020-06,31,Yucatán,15830241,Garrisons and Fittings for Buildings,1,Imports,can,Canada,42
+202006,2020-06,31,Yucatán,15830241,Garrisons and Fittings for Buildings,1,Imports,chn,China,2429
+202006,2020-06,31,Yucatán,15830241,Garrisons and Fittings for Buildings,1,Imports,esp,Spain,1576
+202006,2020-06,31,Yucatán,15830241,Garrisons and Fittings for Buildings,1,Imports,twn,Taiwan (Region),20
+202006,2020-06,31,Yucatán,15830241,Garrisons and Fittings for Buildings,1,Imports,usa,United States,204
+202006,2020-06,31,Yucatán,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,chn,China,10574
+202006,2020-06,31,Yucatán,15830242,"Fittings and Similar Articles., of Base Metal, for Furniture",1,Imports,usa,United States,982
+202006,2020-06,31,Yucatán,15830249,"Fittings and Similar Articles., of Base Metal (Excl. for Motor Vehicles, for Buildings and Locks, Bolts with Lock, Clasps, Frames with Lock, Hinges and Wheels Mount)",1,Imports,chn,China,120
+202006,2020-06,31,Yucatán,15830249,"Fittings and Similar Articles., of Base Metal (Excl. for Motor Vehicles, for Buildings and Locks, Bolts with Lock, Clasps, Frames with Lock, Hinges and Wheels Mount)",1,Imports,twn,Taiwan (Region),100
+202006,2020-06,31,Yucatán,15830249,"Fittings and Similar Articles., of Base Metal (Excl. for Motor Vehicles, for Buildings and Locks, Bolts with Lock, Clasps, Frames with Lock, Hinges and Wheels Mount)",1,Imports,usa,United States,4909
+202006,2020-06,31,Yucatán,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,can,Canada,108
+202006,2020-06,31,Yucatán,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,chn,China,9841
+202006,2020-06,31,Yucatán,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,twn,Taiwan (Region),125
+202006,2020-06,31,Yucatán,15830250,"Hangers, Brackets and Similar Articles., of Base Metal",1,Imports,usa,United States,28821
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,chn,China,39
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,fra,France,1709
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,ind,India,40
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,ita,Italy,260
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,jpn,Japan,12
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,twn,Taiwan (Region),816
+202006,2020-06,31,Yucatán,15830990,"Stoppers, Lids",1,Imports,usa,United States,2195
+202006,2020-06,31,Yucatán,16840991,Parts of Piston Engines,1,Imports,chn,China,7290
+202006,2020-06,31,Yucatán,16840991,Parts of Piston Engines,1,Imports,deu,Germany,98
+202006,2020-06,31,Yucatán,16840991,Parts of Piston Engines,1,Imports,swe,Sweden,137
+202006,2020-06,31,Yucatán,16840991,Parts of Piston Engines,1,Imports,usa,United States,143
+202006,2020-06,31,Yucatán,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,chn,China,5091
+202006,2020-06,31,Yucatán,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,deu,Germany,416
+202006,2020-06,31,Yucatán,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,gbr,United Kingdom,813
+202006,2020-06,31,Yucatán,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,kor,South Korea,26
+202006,2020-06,31,Yucatán,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,twn,Taiwan (Region),56
+202006,2020-06,31,Yucatán,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,usa,United States,12625
+202006,2020-06,31,Yucatán,16841221,"Hydraulic Motors, Linear Acting ""Cylinders""",1,Imports,deu,Germany,2117
+202006,2020-06,31,Yucatán,16841221,"Hydraulic Motors, Linear Acting ""Cylinders""",1,Imports,ind,India,216
+202006,2020-06,31,Yucatán,16841221,"Hydraulic Motors, Linear Acting ""Cylinders""",1,Imports,kor,South Korea,690
+202006,2020-06,31,Yucatán,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,chn,China,117
+202006,2020-06,31,Yucatán,16841330,"Fuel Pumps, Lubricating or Cooling Engine Ignition or Compression",1,Imports,usa,United States,3496
+202006,2020-06,31,Yucatán,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,chn,China,874
+202006,2020-06,31,Yucatán,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,kor,South Korea,383
+202006,2020-06,31,Yucatán,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,usa,United States,13683
+202006,2020-06,31,Yucatán,16841391,Parts of Pumps for Liquids,1,Imports,chn,China,105
+202006,2020-06,31,Yucatán,16841391,Parts of Pumps for Liquids,1,Imports,deu,Germany,535
+202006,2020-06,31,Yucatán,16841391,Parts of Pumps for Liquids,1,Imports,fra,France,1400
+202006,2020-06,31,Yucatán,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,556
+202006,2020-06,31,Yucatán,16841410,Bomb of Void,1,Imports,arg,Argentina,831
+202006,2020-06,31,Yucatán,16841410,Bomb of Void,1,Imports,chn,China,2567
+202006,2020-06,31,Yucatán,16841410,Bomb of Void,1,Imports,deu,Germany,2194
+202006,2020-06,31,Yucatán,16841451,"Table Fans, Floor, Wall, Ceiling, Roof, Roof or Window, Electric Motor of an Output <= 125 W",1,Imports,chn,China,412139
+202006,2020-06,31,Yucatán,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,che,Switzerland,1359
+202006,2020-06,31,Yucatán,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,chn,China,55
+202006,2020-06,31,Yucatán,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,ind,India,48
+202006,2020-06,31,Yucatán,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,kor,South Korea,87
+202006,2020-06,31,Yucatán,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,tha,Thailand,103
+202006,2020-06,31,Yucatán,16841459,"Fans (Exc. Table, Foot, Wall or Window, with Electric Motor of Power <= 125 W)",1,Imports,twn,Taiwan (Region),106
+202006,2020-06,31,Yucatán,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,chn,China,1940
+202006,2020-06,31,Yucatán,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,esp,Spain,998
+202006,2020-06,31,Yucatán,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,jpn,Japan,153
+202006,2020-06,31,Yucatán,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,usa,United States,765
+202006,2020-06,31,Yucatán,16841510,"Machinery for Air Conditioning, the Window or Wall, Forming a Single Body or Type system Separate Elements ""Split-System""",1,Imports,chn,China,1628247
+202006,2020-06,31,Yucatán,16841950,Heat Exchangers,1,Imports,chn,China,2588
+202006,2020-06,31,Yucatán,16841950,Heat Exchangers,1,Imports,esp,Spain,3119
+202006,2020-06,31,Yucatán,16841950,Heat Exchangers,1,Imports,usa,United States,575
+202006,2020-06,31,Yucatán,16841989,"Machinery, Plant and Laboratory Equipment",1,Imports,che,Switzerland,4527
+202006,2020-06,31,Yucatán,16841989,"Machinery, Plant and Laboratory Equipment",1,Imports,gbr,United Kingdom,11670
+202006,2020-06,31,Yucatán,16841989,"Machinery, Plant and Laboratory Equipment",1,Imports,kor,South Korea,103
+202006,2020-06,31,Yucatán,16841989,"Machinery, Plant and Laboratory Equipment",1,Imports,usa,United States,25
+202006,2020-06,31,Yucatán,16842121,Apparatus for Filtering or Purifying Water,1,Imports,chn,China,29421
+202006,2020-06,31,Yucatán,16842121,Apparatus for Filtering or Purifying Water,1,Imports,gtm,Guatemala,69
+202006,2020-06,31,Yucatán,16842121,Apparatus for Filtering or Purifying Water,1,Imports,usa,United States,1911
+202006,2020-06,31,Yucatán,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,chn,China,571
+202006,2020-06,31,Yucatán,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,deu,Germany,26
+202006,2020-06,31,Yucatán,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,kor,South Korea,350
+202006,2020-06,31,Yucatán,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,twn,Taiwan (Region),160
+202006,2020-06,31,Yucatán,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,usa,United States,3323
+202006,2020-06,31,Yucatán,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,chn,China,211
+202006,2020-06,31,Yucatán,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,deu,Germany,332
+202006,2020-06,31,Yucatán,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,kor,South Korea,591
+202006,2020-06,31,Yucatán,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,swe,Sweden,327
+202006,2020-06,31,Yucatán,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,4760
+202006,2020-06,31,Yucatán,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,chn,China,3193
+202006,2020-06,31,Yucatán,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,esp,Spain,548
+202006,2020-06,31,Yucatán,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,gbr,United Kingdom,1142
+202006,2020-06,31,Yucatán,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,kor,South Korea,468
+202006,2020-06,31,Yucatán,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,twn,Taiwan (Region),89
+202006,2020-06,31,Yucatán,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,798
+202006,2020-06,31,Yucatán,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,chn,China,2481
+202006,2020-06,31,Yucatán,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,cze,Czech Republic,1285
+202006,2020-06,31,Yucatán,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,deu,Germany,133
+202006,2020-06,31,Yucatán,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,kor,South Korea,133
+202006,2020-06,31,Yucatán,16842199,Parts of Filtering or Purifying Liquids or Gases,1,Imports,usa,United States,202
+202006,2020-06,31,Yucatán,16842430,"Machinery Sandblasting Steam or Blasting Machines Simil., Incl. Water Cleaning Appliances with Built-In Motor (Excl. Machines and Apparatus for Cleaning Special Containers)",1,Imports,chn,China,2835
+202006,2020-06,31,Yucatán,16842430,"Machinery Sandblasting Steam or Blasting Machines Simil., Incl. Water Cleaning Appliances with Built-In Motor (Excl. Machines and Apparatus for Cleaning Special Containers)",1,Imports,kor,South Korea,6700
+202006,2020-06,31,Yucatán,16842489,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders",1,Imports,chn,China,42019
+202006,2020-06,31,Yucatán,16842489,"Mechanical, Incl. Hand for Projecting, Dispersing or Spraying Liquids or Powders",1,Imports,kor,South Korea,1008
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,che,Switzerland,40
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,chn,China,189
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,deu,Germany,5786
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,hun,Hungary,252
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,ita,Italy,2587
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,kor,South Korea,4157
+202006,2020-06,31,Yucatán,16843149,"Parts of Machines Handling Earth, Minerals or Ores",1,Imports,nzl,New Zealand,3028
+202006,2020-06,31,Yucatán,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,deu,Germany,2752
+202006,2020-06,31,Yucatán,16843890,"Parts of Machines and Apparatus for Industrial Preparation or Manufacture of Food or Drink, N.E.C",1,Imports,usa,United States,57500
+202006,2020-06,31,Yucatán,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,chn,China,57954
+202006,2020-06,31,Yucatán,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,jpn,Japan,3335
+202006,2020-06,31,Yucatán,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,mys,Malaysia,94
+202006,2020-06,31,Yucatán,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,usa,United States,32489
+202006,2020-06,31,Yucatán,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,chn,China,15
+202006,2020-06,31,Yucatán,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,ita,Italy,83
+202006,2020-06,31,Yucatán,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,jpn,Japan,17
+202006,2020-06,31,Yucatán,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,usa,United States,5291
+202006,2020-06,31,Yucatán,16847330,Parts and Accessories for Data Processing Machines,1,Imports,chn,China,1283
+202006,2020-06,31,Yucatán,16847330,Parts and Accessories for Data Processing Machines,1,Imports,kor,South Korea,41
+202006,2020-06,31,Yucatán,16847330,Parts and Accessories for Data Processing Machines,1,Imports,twn,Taiwan (Region),648
+202006,2020-06,31,Yucatán,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,chn,China,1364
+202006,2020-06,31,Yucatán,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,esp,Spain,39
+202006,2020-06,31,Yucatán,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,ita,Italy,9144
+202006,2020-06,31,Yucatán,16847790,Parts of Machines and Devices Working Rubber or Plastics or for the Manufacture of Products from these Materials,1,Imports,jpn,Japan,643
+202006,2020-06,31,Yucatán,16847989,Mechanical Machinery,1,Imports,che,Switzerland,43
+202006,2020-06,31,Yucatán,16847989,Mechanical Machinery,1,Imports,chn,China,75930
+202006,2020-06,31,Yucatán,16847989,Mechanical Machinery,1,Imports,fra,France,14541
+202006,2020-06,31,Yucatán,16847989,Mechanical Machinery,1,Imports,twn,Taiwan (Region),1026
+202006,2020-06,31,Yucatán,16847989,Mechanical Machinery,1,Imports,usa,United States,5903
+202006,2020-06,31,Yucatán,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,bra,Brazil,1397
+202006,2020-06,31,Yucatán,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,che,Switzerland,3964
+202006,2020-06,31,Yucatán,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,deu,Germany,416
+202006,2020-06,31,Yucatán,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,ita,Italy,166
+202006,2020-06,31,Yucatán,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,twn,Taiwan (Region),1109
+202006,2020-06,31,Yucatán,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,usa,United States,2525
+202006,2020-06,31,Yucatán,16848071,"Moulds; for Rubber or Plastics, Injection or Compression Types",1,Imports,chn,China,105000
+202006,2020-06,31,Yucatán,16848071,"Moulds; for Rubber or Plastics, Injection or Compression Types",1,Imports,ukr,Ukraine,4525
+202006,2020-06,31,Yucatán,16848071,"Moulds; for Rubber or Plastics, Injection or Compression Types",1,Imports,usa,United States,43674
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,bgr,Bulgaria,377
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,chn,China,233
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,cze,Czech Republic,1279
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,jpn,Japan,130
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,kor,South Korea,60
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,rou,Romania,1224
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,twn,Taiwan (Region),623
+202006,2020-06,31,Yucatán,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,usa,United States,2760
+202006,2020-06,31,Yucatán,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,chn,China,4221
+202006,2020-06,31,Yucatán,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,fra,France,814
+202006,2020-06,31,Yucatán,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,gbr,United Kingdom,403
+202006,2020-06,31,Yucatán,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,ita,Italy,45
+202006,2020-06,31,Yucatán,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,twn,Taiwan (Region),237
+202006,2020-06,31,Yucatán,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,usa,United States,728
+202006,2020-06,31,Yucatán,16848140,Safety or Relief Valves,1,Imports,chn,China,72
+202006,2020-06,31,Yucatán,16848140,Safety or Relief Valves,1,Imports,usa,United States,5643
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,bra,Brazil,8
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,3519
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,fra,France,379
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,gbr,United Kingdom,177
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ind,India,1719
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,jpn,Japan,563
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,twn,Taiwan (Region),339
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,19167
+202006,2020-06,31,Yucatán,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,chn,China,247
+202006,2020-06,31,Yucatán,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,ita,Italy,15470
+202006,2020-06,31,Yucatán,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,twn,Taiwan (Region),11
+202006,2020-06,31,Yucatán,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,usa,United States,8550
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,arg,Argentina,1468
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,chn,China,71943
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,deu,Germany,467
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,esp,Spain,1131
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,jpn,Japan,2726
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,kor,South Korea,591
+202006,2020-06,31,Yucatán,16848210,Ball Bearings,1,Imports,usa,United States,4256
+202006,2020-06,31,Yucatán,16848220,Tapered Roller Bearings,1,Imports,chn,China,13259
+202006,2020-06,31,Yucatán,16848220,Tapered Roller Bearings,1,Imports,usa,United States,64
+202006,2020-06,31,Yucatán,16848250,Cylindrical Roller Bearings Rolls,1,Imports,chn,China,9897
+202006,2020-06,31,Yucatán,16848250,Cylindrical Roller Bearings Rolls,1,Imports,usa,United States,4677
+202006,2020-06,31,Yucatán,16848299,Parts of Bearings,1,Imports,chn,China,19270
+202006,2020-06,31,Yucatán,16848299,Parts of Bearings,1,Imports,deu,Germany,25
+202006,2020-06,31,Yucatán,16848299,Parts of Bearings,1,Imports,ind,India,439
+202006,2020-06,31,Yucatán,16848299,Parts of Bearings,1,Imports,usa,United States,1070
+202006,2020-06,31,Yucatán,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,chn,China,861
+202006,2020-06,31,Yucatán,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,deu,Germany,136
+202006,2020-06,31,Yucatán,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,jpn,Japan,0
+202006,2020-06,31,Yucatán,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,kor,South Korea,70
+202006,2020-06,31,Yucatán,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,19041
+202006,2020-06,31,Yucatán,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,bra,Brazil,12
+202006,2020-06,31,Yucatán,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,7616
+202006,2020-06,31,Yucatán,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ind,India,26
+202006,2020-06,31,Yucatán,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,jpn,Japan,4
+202006,2020-06,31,Yucatán,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,kor,South Korea,1483
+202006,2020-06,31,Yucatán,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,21392
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,bra,Brazil,3313
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,can,Canada,257
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,che,Switzerland,165
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,chn,China,2030
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,730
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,jpn,Japan,958
+202006,2020-06,31,Yucatán,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,20381
+202006,2020-06,31,Yucatán,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,che,Switzerland,103
+202006,2020-06,31,Yucatán,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,chn,China,85
+202006,2020-06,31,Yucatán,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,usa,United States,3194
+202006,2020-06,31,Yucatán,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ita,Italy,426
+202006,2020-06,31,Yucatán,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,jpn,Japan,58
+202006,2020-06,31,Yucatán,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,usa,United States,29632
+202006,2020-06,31,Yucatán,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,jpn,Japan,101
+202006,2020-06,31,Yucatán,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,kor,South Korea,5
+202006,2020-06,31,Yucatán,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,twn,Taiwan (Region),38
+202006,2020-06,31,Yucatán,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,5540
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,chn,China,3528
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,ita,Italy,531
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,jpn,Japan,416
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,kor,South Korea,2774
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,tur,Turkey,203
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,twn,Taiwan (Region),418
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,2594
+202006,2020-06,31,Yucatán,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,vnm,Vietnam,23
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,bra,Brazil,2
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,chn,China,59
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,cze,Czech Republic,924
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,deu,Germany,607
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,gbr,United Kingdom,23
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,ita,Italy,383
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,kor,South Korea,80
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,twn,Taiwan (Region),25
+202006,2020-06,31,Yucatán,16848790,Parts of Machinery or Apparatus,1,Imports,usa,United States,6208
+202006,2020-06,31,Yucatán,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,kor,South Korea,865
+202006,2020-06,31,Yucatán,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,usa,United States,1241
+202006,2020-06,31,Yucatán,16850120,Universal Motors Power> 37.5 W,1,Imports,chn,China,487
+202006,2020-06,31,Yucatán,16850120,Universal Motors Power> 37.5 W,1,Imports,twn,Taiwan (Region),144
+202006,2020-06,31,Yucatán,16850120,Universal Motors Power> 37.5 W,1,Imports,usa,United States,6
+202006,2020-06,31,Yucatán,16850131,Electric Motors and Generators,1,Imports,chn,China,484
+202006,2020-06,31,Yucatán,16850131,Electric Motors and Generators,1,Imports,jpn,Japan,130
+202006,2020-06,31,Yucatán,16850131,Electric Motors and Generators,1,Imports,usa,United States,82
+202006,2020-06,31,Yucatán,16850140,"Ac Motors, Single-Phase, of an Output > 37.5 W",1,Imports,chn,China,1431
+202006,2020-06,31,Yucatán,16850140,"Ac Motors, Single-Phase, of an Output > 37.5 W",1,Imports,usa,United States,3531
+202006,2020-06,31,Yucatán,16850440,Electrical Static Converters,1,Imports,chn,China,274499
+202006,2020-06,31,Yucatán,16850440,Electrical Static Converters,1,Imports,cze,Czech Republic,175
+202006,2020-06,31,Yucatán,16850440,Electrical Static Converters,1,Imports,deu,Germany,293901
+202006,2020-06,31,Yucatán,16850440,Electrical Static Converters,1,Imports,idn,Indonesia,786
+202006,2020-06,31,Yucatán,16850440,Electrical Static Converters,1,Imports,twn,Taiwan (Region),75
+202006,2020-06,31,Yucatán,16850440,Electrical Static Converters,1,Imports,usa,United States,1637
+202006,2020-06,31,Yucatán,16850450,Electric Inductors,1,Imports,kor,South Korea,35
+202006,2020-06,31,Yucatán,16850450,Electric Inductors,1,Imports,usa,United States,179
+202006,2020-06,31,Yucatán,16851150,"Generators, Combustion Engines (Exc. the Dynamos and Motors)",1,Imports,jpn,Japan,1288
+202006,2020-06,31,Yucatán,16851150,"Generators, Combustion Engines (Exc. the Dynamos and Motors)",1,Imports,kor,South Korea,312
+202006,2020-06,31,Yucatán,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,chn,China,337
+202006,2020-06,31,Yucatán,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,deu,Germany,989
+202006,2020-06,31,Yucatán,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,usa,United States,33275
+202006,2020-06,31,Yucatán,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,chn,China,27609
+202006,2020-06,31,Yucatán,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,deu,Germany,848
+202006,2020-06,31,Yucatán,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,usa,United States,7245
+202006,2020-06,31,Yucatán,16851821,"Loudspeakers with a Speaker ""Speaker"" Mounted in their Enclosures",1,Imports,chn,China,3167
+202006,2020-06,31,Yucatán,16851821,"Loudspeakers with a Speaker ""Speaker"" Mounted in their Enclosures",1,Imports,usa,United States,943
+202006,2020-06,31,Yucatán,16851822,"Several Speakers with Speakers ""Loudspeakers"" Assembled in one Box",1,Imports,chn,China,15156
+202006,2020-06,31,Yucatán,16851829,"Speakers ""Loudspeakers"" Unassembled Boxes",1,Imports,chn,China,2328
+202006,2020-06,31,Yucatán,16851830,Electroacoustic Headphones Consisting of a Microphone and one or several Speakers,1,Imports,chn,China,7850
+202006,2020-06,31,Yucatán,16852351,"Recording Mechanisms, Solid State",1,Imports,deu,Germany,1739
+202006,2020-06,31,Yucatán,16852351,"Recording Mechanisms, Solid State",1,Imports,twn,Taiwan (Region),2152
+202006,2020-06,31,Yucatán,16852691,Radio Navigational Aid Apparatus,1,Imports,hkg,Hong Kong,1560
+202006,2020-06,31,Yucatán,16852691,Radio Navigational Aid Apparatus,1,Imports,jpn,Japan,1505
+202006,2020-06,31,Yucatán,16852691,Radio Navigational Aid Apparatus,1,Imports,ltu,Lithuania,27151
+202006,2020-06,31,Yucatán,16852691,Radio Navigational Aid Apparatus,1,Imports,usa,United States,18924
+202006,2020-06,31,Yucatán,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,can,Canada,3403
+202006,2020-06,31,Yucatán,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,chn,China,190
+202006,2020-06,31,Yucatán,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,usa,United States,980
+202006,2020-06,31,Yucatán,16853340,Variable Resistors,1,Imports,chn,China,17
+202006,2020-06,31,Yucatán,16853340,Variable Resistors,1,Imports,usa,United States,655
+202006,2020-06,31,Yucatán,16853610,Fuses and Fuse Breaker,1,Imports,chn,China,3210
+202006,2020-06,31,Yucatán,16853610,Fuses and Fuse Breaker,1,Imports,twn,Taiwan (Region),127
+202006,2020-06,31,Yucatán,16853610,Fuses and Fuse Breaker,1,Imports,usa,United States,5807
+202006,2020-06,31,Yucatán,16853630,"Apparatus for Protecting Electrical Circuits for a Voltage <= 1.000 V (Excl. Fuses, Fuse and Circuit Breaker)",1,Imports,chn,China,1362
+202006,2020-06,31,Yucatán,16853630,"Apparatus for Protecting Electrical Circuits for a Voltage <= 1.000 V (Excl. Fuses, Fuse and Circuit Breaker)",1,Imports,usa,United States,50455
+202006,2020-06,31,Yucatán,16853641,"Relays, for a Voltage <= 60 V",1,Imports,chn,China,457
+202006,2020-06,31,Yucatán,16853641,"Relays, for a Voltage <= 60 V",1,Imports,idn,Indonesia,41
+202006,2020-06,31,Yucatán,16853641,"Relays, for a Voltage <= 60 V",1,Imports,ita,Italy,89
+202006,2020-06,31,Yucatán,16853641,"Relays, for a Voltage <= 60 V",1,Imports,kor,South Korea,57
+202006,2020-06,31,Yucatán,16853641,"Relays, for a Voltage <= 60 V",1,Imports,prt,Portugal,12436
+202006,2020-06,31,Yucatán,16853641,"Relays, for a Voltage <= 60 V",1,Imports,usa,United States,323
+202006,2020-06,31,Yucatán,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,bgr,Bulgaria,294
+202006,2020-06,31,Yucatán,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,chn,China,297
+202006,2020-06,31,Yucatán,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,fra,France,11636
+202006,2020-06,31,Yucatán,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,ita,Italy,2171
+202006,2020-06,31,Yucatán,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,pol,Poland,254
+202006,2020-06,31,Yucatán,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,usa,United States,50
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,bgr,Bulgaria,16
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,che,Switzerland,39
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,6059
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,deu,Germany,444
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,dom,Dominican Republic,2331
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,fin,Finland,53
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,fra,France,895
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,gbr,United Kingdom,533
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,ind,India,86
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,jpn,Japan,1306
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,pol,Poland,336
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,rou,Romania,724
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,twn,Taiwan (Region),341
+202006,2020-06,31,Yucatán,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,9988
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,bel,Belgium,2919
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,bra,Brazil,15205
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,can,Canada,1656
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,che,Switzerland,18784
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,2762
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,cze,Czech Republic,20014
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,deu,Germany,96220
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,esp,Spain,13988
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,gbr,United Kingdom,281
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,hun,Hungary,421
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ind,India,303
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,ita,Italy,357
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,jpn,Japan,27677
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,mys,Malaysia,2846
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,tha,Thailand,2168
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,tur,Turkey,1559
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,twn,Taiwan (Region),238
+202006,2020-06,31,Yucatán,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,124523
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,15689
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,deu,Germany,7932
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,gbr,United Kingdom,1458
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,jpn,Japan,173
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,kor,South Korea,1586
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,swe,Sweden,5407
+202006,2020-06,31,Yucatán,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,23660
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,aut,Austria,10429
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,bel,Belgium,18020
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,che,Switzerland,15872
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,chn,China,15441
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,cze,Czech Republic,20664
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,deu,Germany,57825
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,esp,Spain,1153
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,hun,Hungary,27626
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,ita,Italy,1143
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,jpn,Japan,25732
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,kor,South Korea,69
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,lva,Latvia,528
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,mys,Malaysia,1999
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,prt,Portugal,11165
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,svk,Slovakia,40
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,ukr,Ukraine,151
+202006,2020-06,31,Yucatán,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,usa,United States,181164
+202006,2020-06,31,Yucatán,16854140,"Photosensitive Electrical Apparatus, Photovoltaic Cells",1,Imports,chn,China,3477872
+202006,2020-06,31,Yucatán,16854140,"Photosensitive Electrical Apparatus, Photovoltaic Cells",1,Imports,deu,Germany,518
+202006,2020-06,31,Yucatán,16854140,"Photosensitive Electrical Apparatus, Photovoltaic Cells",1,Imports,usa,United States,21
+202006,2020-06,31,Yucatán,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,6423
+202006,2020-06,31,Yucatán,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,kor,South Korea,18668
+202006,2020-06,31,Yucatán,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,mys,Malaysia,606
+202006,2020-06,31,Yucatán,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,twn,Taiwan (Region),85
+202006,2020-06,31,Yucatán,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,230954
+202006,2020-06,31,Yucatán,16854390,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,7648
+202006,2020-06,31,Yucatán,16854390,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,twn,Taiwan (Region),119
+202006,2020-06,31,Yucatán,16854390,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,9905
+202006,2020-06,31,Yucatán,16854430,Wiring Sets Used in Transportation,1,Imports,chn,China,1499
+202006,2020-06,31,Yucatán,16854430,Wiring Sets Used in Transportation,1,Imports,usa,United States,4786
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,aut,Austria,185
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,53975
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,deu,Germany,295
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,esp,Spain,224
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,gbr,United Kingdom,591
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,hnd,Honduras,22008
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,idn,Indonesia,183
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,jpn,Japan,27
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,kor,South Korea,284
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,pol,Poland,151
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,twn,Taiwan (Region),51
+202006,2020-06,31,Yucatán,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,55295
+202006,2020-06,31,Yucatán,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,aut,Austria,95962
+202006,2020-06,31,Yucatán,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,chn,China,35667
+202006,2020-06,31,Yucatán,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,deu,Germany,96163
+202006,2020-06,31,Yucatán,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,ita,Italy,365
+202006,2020-06,31,Yucatán,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,kor,South Korea,724
+202006,2020-06,31,Yucatán,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,usa,United States,204
+202006,2020-06,31,Yucatán,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,chn,China,189
+202006,2020-06,31,Yucatán,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,jpn,Japan,839
+202006,2020-06,31,Yucatán,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,kor,South Korea,741
+202006,2020-06,31,Yucatán,17870880,Suspension Shock Absorber for Automobile Vehicles,1,Imports,usa,United States,421
+202006,2020-06,31,Yucatán,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,chn,China,2733
+202006,2020-06,31,Yucatán,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,esp,Spain,234
+202006,2020-06,31,Yucatán,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,tur,Turkey,45
+202006,2020-06,31,Yucatán,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,twn,Taiwan (Region),8461
+202006,2020-06,31,Yucatán,17870899,Parts and Accessories for Special Purpose Motor Vehicles,1,Imports,usa,United States,465
+202006,2020-06,31,Yucatán,18900490,"Glasses ""Glasses"" Corrective, Protective or Other, and Similar Articles. (Exc. Glasses ""Glasses"" for Testing Eyesight, Glasses ""Glasses"" Sunglasses, Contact Lenses and Glasses and Frames ""Frames"" Spectacle ""Glasses"")",1,Imports,chn,China,14912
+202006,2020-06,31,Yucatán,18900490,"Glasses ""Glasses"" Corrective, Protective or Other, and Similar Articles. (Exc. Glasses ""Glasses"" for Testing Eyesight, Glasses ""Glasses"" Sunglasses, Contact Lenses and Glasses and Frames ""Frames"" Spectacle ""Glasses"")",1,Imports,twn,Taiwan (Region),6050
+202006,2020-06,31,Yucatán,18900490,"Glasses ""Glasses"" Corrective, Protective or Other, and Similar Articles. (Exc. Glasses ""Glasses"" for Testing Eyesight, Glasses ""Glasses"" Sunglasses, Contact Lenses and Glasses and Frames ""Frames"" Spectacle ""Glasses"")",1,Imports,usa,United States,57
+202006,2020-06,31,Yucatán,18901380,Liquid Crystal Devices and other Instruments and Optics Apparatus,1,Imports,chn,China,606
+202006,2020-06,31,Yucatán,18901380,Liquid Crystal Devices and other Instruments and Optics Apparatus,1,Imports,usa,United States,15
+202006,2020-06,31,Yucatán,18902519,"Thermometers and Pyrometers, not Combined with other Instruments (Excl. Liquid-Filled Thermometers for Direct Reading)",1,Imports,chn,China,6004
+202006,2020-06,31,Yucatán,18902519,"Thermometers and Pyrometers, not Combined with other Instruments (Excl. Liquid-Filled Thermometers for Direct Reading)",1,Imports,deu,Germany,625
+202006,2020-06,31,Yucatán,18902519,"Thermometers and Pyrometers, not Combined with other Instruments (Excl. Liquid-Filled Thermometers for Direct Reading)",1,Imports,gbr,United Kingdom,14411
+202006,2020-06,31,Yucatán,18902519,"Thermometers and Pyrometers, not Combined with other Instruments (Excl. Liquid-Filled Thermometers for Direct Reading)",1,Imports,jpn,Japan,986
+202006,2020-06,31,Yucatán,18902519,"Thermometers and Pyrometers, not Combined with other Instruments (Excl. Liquid-Filled Thermometers for Direct Reading)",1,Imports,usa,United States,151
+202006,2020-06,31,Yucatán,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,chn,China,993
+202006,2020-06,31,Yucatán,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,deu,Germany,152
+202006,2020-06,31,Yucatán,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,11283
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,bra,Brazil,311
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,101
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,ita,Italy,7636
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,jpn,Japan,308
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,kor,South Korea,272
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,twn,Taiwan (Region),88
+202006,2020-06,31,Yucatán,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,9389
+202006,2020-06,31,Yucatán,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,chn,China,1728
+202006,2020-06,31,Yucatán,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,gbr,United Kingdom,344
+202006,2020-06,31,Yucatán,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,twn,Taiwan (Region),354
+202006,2020-06,31,Yucatán,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,usa,United States,361
+202006,2020-06,31,Yucatán,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,chn,China,21
+202006,2020-06,31,Yucatán,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,deu,Germany,2106
+202006,2020-06,31,Yucatán,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,esp,Spain,2666
+202006,2020-06,31,Yucatán,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,ita,Italy,8083
+202006,2020-06,31,Yucatán,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,sgp,Singapore,187
+202006,2020-06,31,Yucatán,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,usa,United States,56
+202006,2020-06,31,Yucatán,18903210,Thermostats Regulating or Control,1,Imports,chn,China,209
+202006,2020-06,31,Yucatán,18903210,Thermostats Regulating or Control,1,Imports,esp,Spain,154
+202006,2020-06,31,Yucatán,18903210,Thermostats Regulating or Control,1,Imports,idn,Indonesia,210
+202006,2020-06,31,Yucatán,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,che,Switzerland,5336
+202006,2020-06,31,Yucatán,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,2082
+202006,2020-06,31,Yucatán,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,deu,Germany,296
+202006,2020-06,31,Yucatán,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,ita,Italy,3539
+202006,2020-06,31,Yucatán,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,kor,South Korea,25
+202006,2020-06,31,Yucatán,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,8991
+202006,2020-06,31,Yucatán,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,chn,China,1852
+202006,2020-06,31,Yucatán,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,ita,Italy,1010
+202006,2020-06,31,Yucatán,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,twn,Taiwan (Region),71
+202006,2020-06,31,Yucatán,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,usa,United States,2894
+202006,2020-06,31,Yucatán,18910700,"Time Switches and other Devices that Allow Driving a Device at any Given Time, with Clockwork O Synchronous Motor",1,Imports,prt,Portugal,27
+202006,2020-06,31,Yucatán,18910700,"Time Switches and other Devices that Allow Driving a Device at any Given Time, with Clockwork O Synchronous Motor",1,Imports,twn,Taiwan (Region),1501
+202006,2020-06,31,Yucatán,18910700,"Time Switches and other Devices that Allow Driving a Device at any Given Time, with Clockwork O Synchronous Motor",1,Imports,usa,United States,592
+202006,2020-06,31,Yucatán,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,chn,China,9834
+202006,2020-06,31,Yucatán,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,twn,Taiwan (Region),1104
+202006,2020-06,31,Yucatán,20940179,"Seats with Metal Frames, not Stuffing (Exc. Height Adjustable Swivel Seats; Furniture Medical, Surgical or Dental)",1,Imports,usa,United States,710
+202006,2020-06,31,Yucatán,20940320,Muebles de Metal,1,Imports,chn,China,43746
+202006,2020-06,31,Yucatán,20940320,Muebles de Metal,1,Imports,ind,India,4490
+202006,2020-06,31,Yucatán,20940320,Muebles de Metal,1,Imports,pol,Poland,2422
+202006,2020-06,31,Yucatán,20940320,Muebles de Metal,1,Imports,usa,United States,41315
+202006,2020-06,31,Yucatán,20940360,Wooden Furniture,1,Imports,chn,China,273
+202006,2020-06,31,Yucatán,20940360,Wooden Furniture,1,Imports,rus,Russia,23683
+202006,2020-06,31,Yucatán,20940360,Wooden Furniture,1,Imports,usa,United States,500
+202006,2020-06,31,Yucatán,20940360,Wooden Furniture,1,Imports,vnm,Vietnam,12930
+202006,2020-06,31,Yucatán,20940540,"Electrical Lighting, N.E.C",1,Imports,chn,China,1858
+202006,2020-06,31,Yucatán,20940540,"Electrical Lighting, N.E.C",1,Imports,twn,Taiwan (Region),132
+202006,2020-06,31,Yucatán,20940540,"Electrical Lighting, N.E.C",1,Imports,usa,United States,7123
+202006,2020-06,31,Yucatán,20950629,"Water Skis, Boards and other Articles for the Sports Acuíticos (Exc. Sailboards)",1,Imports,chn,China,12315
+202006,2020-06,31,Yucatán,20950629,"Water Skis, Boards and other Articles for the Sports Acuíticos (Exc. Sailboards)",1,Imports,usa,United States,1760
+202006,2020-06,31,Yucatán,20950691,"Articles for Physical Culture, Gymnastics or Athletics",1,Imports,chn,China,29185
+202006,2020-06,31,Yucatán,20950691,"Articles for Physical Culture, Gymnastics or Athletics",1,Imports,twn,Taiwan (Region),70
+202006,2020-06,31,Yucatán,20950691,"Articles for Physical Culture, Gymnastics or Athletics",1,Imports,usa,United States,22876
+202006,2020-06,31,Yucatán,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,chn,China,49
+202006,2020-06,31,Yucatán,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,fra,France,14
+202006,2020-06,31,Yucatán,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,usa,United States,3364
+202006,2020-06,31,Yucatán,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,chn,China,186
+202006,2020-06,31,Yucatán,20960390,"Brushes and Dusters; Prepared Heads for Broom or Brush; Squeegees Flexible Analog Matter; Brooms, Brushes, N.E.C",1,Imports,usa,United States,1826
+202006,2020-06,31,Yucatán,20960621,"Plastic Buttons, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,kor,South Korea,81
+202006,2020-06,31,Yucatán,20960621,"Plastic Buttons, not Covered with Textile (Exc. Pressure Buttons and Cuff Links)",1,Imports,usa,United States,19580
+202006,2020-06,31,Yucatán,20960719,"Zippers ""Closures Lightning"" (Exc. with Scoops of Base Metal)",1,Imports,can,Canada,2630
+202006,2020-06,31,Yucatán,20960719,"Zippers ""Closures Lightning"" (Exc. with Scoops of Base Metal)",1,Imports,chn,China,4
+202006,2020-06,31,Yucatán,20960719,"Zippers ""Closures Lightning"" (Exc. with Scoops of Base Metal)",1,Imports,usa,United States,6466
+202006,2020-06,31,Yucatán,20961210,"Typewriter Ribbons and Tapes Simil., Inked or otherwise Processed for Printing, Incl. on Spools or in Cartridges",1,Imports,jpn,Japan,112433
+202006,2020-06,31,Yucatán,20961210,"Typewriter Ribbons and Tapes Simil., Inked or otherwise Processed for Printing, Incl. on Spools or in Cartridges",1,Imports,usa,United States,1584
+202006,2020-06,31,Yucatán,20961519,"Combs, Hair Combs, Pins and Similar Articles., of Materials other than Rubber or Plastics",1,Imports,chn,China,5716
+202006,2020-06,31,Yucatán,1030289,"Fish, Fresh or Chilled, Nep",2,Exports,can,Canada,102530
+202006,2020-06,31,Yucatán,1030289,"Fish, Fresh or Chilled, Nep",2,Exports,usa,United States,2309322
+202006,2020-06,31,Yucatán,1030389,"Frozen Fish, Nep",2,Exports,usa,United States,173320
+202006,2020-06,31,Yucatán,1030449,"Fresh or Chilled Fish Fillets, Nep",2,Exports,usa,United States,614308
+202006,2020-06,31,Yucatán,1030459,"Fish, Fresh or Chilled Meat, whether or not Minced (No all Fillets, Tilapia, Catfish, Carp, Eel, Nile Perch, Snakeheads, Salmon, Swordfish, Toothfish and Fish of Bregmacerotidae Families, Euclichthyidae, Gadidae, Macrouridae, Melanonus, Merlucciidae, Moridae and Muraenolepididae)",2,Exports,usa,United States,246999
+202006,2020-06,31,Yucatán,1030489,"Frozen Fish Fillets, Nep",2,Exports,usa,United States,353314
+202006,2020-06,31,Yucatán,1030759,"Octopus ""Octopus Spp."", Smoked, Frozen, Dried, Salted or in Brine",2,Exports,jpn,Japan,454
+202006,2020-06,31,Yucatán,1030759,"Octopus ""Octopus Spp."", Smoked, Frozen, Dried, Salted or in Brine",2,Exports,usa,United States,172238
+202006,2020-06,31,Yucatán,1030759,"Octopus ""Octopus Spp."", Smoked, Frozen, Dried, Salted or in Brine",2,Exports,vnm,Vietnam,422003
+202006,2020-06,31,Yucatán,1040900,Natural Honey,2,Exports,deu,Germany,336018
+202006,2020-06,31,Yucatán,1040900,Natural Honey,2,Exports,esp,Spain,47520
+202006,2020-06,31,Yucatán,1040900,Natural Honey,2,Exports,gbr,United Kingdom,101850
+202006,2020-06,31,Yucatán,1040900,Natural Honey,2,Exports,jpn,Japan,90300
+202006,2020-06,31,Yucatán,1040900,Natural Honey,2,Exports,nld,Netherlands,35700
+202006,2020-06,31,Yucatán,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",2,Exports,fra,France,3765
+202006,2020-06,31,Yucatán,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",2,Exports,sgp,Singapore,3161
+202006,2020-06,31,Yucatán,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",2,Exports,usa,United States,9977
+202006,2020-06,31,Yucatán,3151620,"Fats and Vegetable Oils and their Fractions, Partly or Wholly Hydrogenated, Esterified or Elaidinised, Incl. Refinados (Excl. Fats and Oils and their Preparations Fractions Otherwise)",2,Exports,blz,Belize,2030
+202006,2020-06,31,Yucatán,3151620,"Fats and Vegetable Oils and their Fractions, Partly or Wholly Hydrogenated, Esterified or Elaidinised, Incl. Refinados (Excl. Fats and Oils and their Preparations Fractions Otherwise)",2,Exports,cub,Cuba,1698048
+202006,2020-06,31,Yucatán,3151620,"Fats and Vegetable Oils and their Fractions, Partly or Wholly Hydrogenated, Esterified or Elaidinised, Incl. Refinados (Excl. Fats and Oils and their Preparations Fractions Otherwise)",2,Exports,hnd,Honduras,175560
+202006,2020-06,31,Yucatán,4200190,"Vegetables, Fruit and other Parts Edible Plants Prepared or Pickled or Acetic Acid (Exc. Cucumbers and Gherkins)",2,Exports,blz,Belize,22335
+202006,2020-06,31,Yucatán,4200190,"Vegetables, Fruit and other Parts Edible Plants Prepared or Pickled or Acetic Acid (Exc. Cucumbers and Gherkins)",2,Exports,hnd,Honduras,16432
+202006,2020-06,31,Yucatán,4200190,"Vegetables, Fruit and other Parts Edible Plants Prepared or Pickled or Acetic Acid (Exc. Cucumbers and Gherkins)",2,Exports,kor,South Korea,27804
+202006,2020-06,31,Yucatán,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",2,Exports,blz,Belize,82668
+202006,2020-06,31,Yucatán,4210390,"Preparations for Prepared Sauces and Sauces; Condiments and Seasonings (Exc. Soy Sauce, Tomato Sauces, Mustard Flour and Prepared Mustard)",2,Exports,usa,United States,33544
+202006,2020-06,31,Yucatán,4210690,"Food Preparations, N.E.C",2,Exports,blz,Belize,23952
+202006,2020-06,31,Yucatán,4210690,"Food Preparations, N.E.C",2,Exports,cri,Costa Rica,29200
+202006,2020-06,31,Yucatán,4210690,"Food Preparations, N.E.C",2,Exports,esp,Spain,2439
+202006,2020-06,31,Yucatán,4210690,"Food Preparations, N.E.C",2,Exports,hnd,Honduras,4575
+202006,2020-06,31,Yucatán,4220900,Vinegar and Vinegar Substitutes Obtained from Acetic Acid,2,Exports,blz,Belize,14037
+202006,2020-06,31,Yucatán,4230990,Preparations of a Kind Used for Feeding the Animals,2,Exports,blz,Belize,30323
+202006,2020-06,31,Yucatán,4230990,Preparations of a Kind Used for Feeding the Animals,2,Exports,cub,Cuba,505871
+202006,2020-06,31,Yucatán,4230990,Preparations of a Kind Used for Feeding the Animals,2,Exports,hnd,Honduras,195031
+202006,2020-06,31,Yucatán,4230990,Preparations of a Kind Used for Feeding the Animals,2,Exports,slv,El Salvador,57428
+202006,2020-06,31,Yucatán,5250100,"Salt, Incl Table Salt and Denatured Salt, and Pure Sodium Chloride, Incl in Aqueous Solution or Containing Added Anticaking or Agents to Ensure Good Flowability Dissolution..; Seawater",2,Exports,blz,Belize,55762
+202006,2020-06,31,Yucatán,5250100,"Salt, Incl Table Salt and Denatured Salt, and Pure Sodium Chloride, Incl in Aqueous Solution or Containing Added Anticaking or Agents to Ensure Good Flowability Dissolution..; Seawater",2,Exports,cri,Costa Rica,3580
+202006,2020-06,31,Yucatán,5250100,"Salt, Incl Table Salt and Denatured Salt, and Pure Sodium Chloride, Incl in Aqueous Solution or Containing Added Anticaking or Agents to Ensure Good Flowability Dissolution..; Seawater",2,Exports,gtm,Guatemala,270
+202006,2020-06,31,Yucatán,5250100,"Salt, Incl Table Salt and Denatured Salt, and Pure Sodium Chloride, Incl in Aqueous Solution or Containing Added Anticaking or Agents to Ensure Good Flowability Dissolution..; Seawater",2,Exports,pri,Puerto Rico,10140
+202006,2020-06,31,Yucatán,5250100,"Salt, Incl Table Salt and Denatured Salt, and Pure Sodium Chloride, Incl in Aqueous Solution or Containing Added Anticaking or Agents to Ensure Good Flowability Dissolution..; Seawater",2,Exports,slv,El Salvador,42299
+202006,2020-06,31,Yucatán,5250100,"Salt, Incl Table Salt and Denatured Salt, and Pure Sodium Chloride, Incl in Aqueous Solution or Containing Added Anticaking or Agents to Ensure Good Flowability Dissolution..; Seawater",2,Exports,usa,United States,3352
+202006,2020-06,31,Yucatán,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",2,Exports,blz,Belize,37179
+202006,2020-06,31,Yucatán,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",2,Exports,cri,Costa Rica,14400
+202006,2020-06,31,Yucatán,6340220,"Surface-Active Preparations, Washing Preparations, Incl. Auxiliary Washing Preparations, and Cleaning Preparations, Incl. Containing Soap, put up for Retail (Exc. Agents Organic Surface, Soap and Organic Surface-Active Preparations in Bars, Breads or Cut or Molded Pieces or Shapes, as well as Organic Preparations Preparations for Washing the Skin, Liquid or Cream)",2,Exports,hnd,Honduras,2777
+202006,2020-06,31,Yucatán,6380891,Insecticides,2,Exports,blz,Belize,30350
+202006,2020-06,31,Yucatán,6380891,Insecticides,2,Exports,hnd,Honduras,4299
+202006,2020-06,31,Yucatán,6380894,Disinfectants (Exc. Subtitulo Goods 3808.50),2,Exports,blz,Belize,221
+202006,2020-06,31,Yucatán,6380894,Disinfectants (Exc. Subtitulo Goods 3808.50),2,Exports,gtm,Guatemala,12230
+202006,2020-06,31,Yucatán,6380894,Disinfectants (Exc. Subtitulo Goods 3808.50),2,Exports,jam,Jamaica,960
+202006,2020-06,31,Yucatán,6380894,Disinfectants (Exc. Subtitulo Goods 3808.50),2,Exports,slv,El Salvador,1875
+202006,2020-06,31,Yucatán,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",2,Exports,blz,Belize,9595
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",2,Exports,blz,Belize,10601
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",2,Exports,cub,Cuba,22663
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",2,Exports,gtm,Guatemala,1925
+202006,2020-06,31,Yucatán,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",2,Exports,usa,United States,35359
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,blz,Belize,10687
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,gtm,Guatemala,23621
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,hnd,Honduras,9070
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,slv,El Salvador,9450
+202006,2020-06,31,Yucatán,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",2,Exports,usa,United States,211
+202006,2020-06,31,Yucatán,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",2,Exports,blz,Belize,100109
+202006,2020-06,31,Yucatán,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",2,Exports,cub,Cuba,30574
+202006,2020-06,31,Yucatán,7392321,"Bags ""Bags"" Bags and Cones, of Polymers of Ethylene",2,Exports,usa,United States,106114
+202006,2020-06,31,Yucatán,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",2,Exports,esp,Spain,120
+202006,2020-06,31,Yucatán,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",2,Exports,pri,Puerto Rico,40
+202006,2020-06,31,Yucatán,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",2,Exports,slv,El Salvador,1467
+202006,2020-06,31,Yucatán,7392329,"Bags ""Bags"" Bags and Cones, of Plastics",2,Exports,usa,United States,2776
+202006,2020-06,31,Yucatán,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",2,Exports,blz,Belize,75495
+202006,2020-06,31,Yucatán,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",2,Exports,slv,El Salvador,269500
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,blz,Belize,13888
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,gtm,Guatemala,20358
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,slv,El Salvador,229454
+202006,2020-06,31,Yucatán,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,usa,United States,90
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,2,Exports,blz,Belize,5
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,2,Exports,can,Canada,96
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,2,Exports,chn,China,1879
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,2,Exports,tto,Trinidad and Tobago,2510
+202006,2020-06,31,Yucatán,7392690,Plastic Items and Articles of other Materials,2,Exports,usa,United States,125318
+202006,2020-06,31,Yucatán,10481910,Boxes Corrugated Paperboard,2,Exports,blz,Belize,395
+202006,2020-06,31,Yucatán,10481910,Boxes Corrugated Paperboard,2,Exports,gtm,Guatemala,57
+202006,2020-06,31,Yucatán,10481910,Boxes Corrugated Paperboard,2,Exports,slv,El Salvador,149
+202006,2020-06,31,Yucatán,10481910,Boxes Corrugated Paperboard,2,Exports,usa,United States,3315
+202006,2020-06,31,Yucatán,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",2,Exports,blz,Belize,56740
+202006,2020-06,31,Yucatán,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",2,Exports,usa,United States,758
+202006,2020-06,31,Yucatán,11620463,"Long Pants, Blazers, Shorts ""Britches"" and ""Shorts"", of Synthetic Fibers, Knitted or Crocheted (Excl. Knitted or Crocheted, Panties and Swimwear)",2,Exports,usa,United States,95016
+202006,2020-06,31,Yucatán,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",2,Exports,can,Canada,500
+202006,2020-06,31,Yucatán,11621133,"Abrigo Sets Knitted or Sport ""Training Sports"" and other Apparel, N.E.C., of Man-Made Fibers, Knitted or Crocheted (Excl. Knitted)",2,Exports,usa,United States,3922
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",2,Exports,pri,Puerto Rico,55141
+202006,2020-06,31,Yucatán,11630790,"Textile Articles, Assembled",2,Exports,usa,United States,151220
+202006,2020-06,31,Yucatán,13680229,"Stone Carving, Natural, Different from the Stones Limestone, Granite and Slate, and Articles Thereof, Simply Cut or Sawn, with Flat or even Surface (Excl. the Articles of Stone all or part of the Surface has been Surfaced , Sanded Polished or Brushed, Tiles, Cubes and Similar Articles Subheading 6802 10;. Setts, Curbstones and Flagstones)",2,Exports,usa,United States,106793
+202006,2020-06,31,Yucatán,14710239,"Diamonds, Worked, but not Mounted or Set (Excl. Industrial Diamonds)",2,Exports,can,Canada,200544
+202006,2020-06,31,Yucatán,14710239,"Diamonds, Worked, but not Mounted or Set (Excl. Industrial Diamonds)",2,Exports,usa,United States,1039573
+202006,2020-06,31,Yucatán,14710399,"Precious or Semiprecious Stones ""Natural"", Worked, whether Collated, but not Strung, Mounted or Set.; Precious Stones ""Natural"", Worked, Ungraded, Temporarily Strung Easy Transport (Exc. Simply Sawn or Roughly, as well as Diamonds, Rubies, Sapphires and Emeralds, Imitation Precious or Semiprecious Stones)",2,Exports,usa,United States,5049
+202006,2020-06,31,Yucatán,14710490,"Precious or Semiprecious Stones, Synthetic or Reconstructed, Incl Collated, but not Strung, Mounted or Set.; Precious or Semiprecious Stones, Synthetic or Reconstructed, Worked, Ungraded, Temporarily Strung for Convenience of Transport (Excl. Simply Sawn or Roughly as well as Quartz Piezoelectric)",2,Exports,usa,United States,22795
+202006,2020-06,31,Yucatán,14711291,"Waste and Scrap Gold or Plated ""Plaqué"" Gold, as well as other Waste and Scrap of Gold or Gold Compounds of the Kind Used Principally for the Recovery of Precious Metal (Excl. Ash Containing Gold or Compounds Gold, Waste and Scrap of Gold or Plated ""Plating"" Gold that have been Fused Cast Blocks, Ingots, or the Like; Sweepings Containing other Precious Metal)",2,Exports,can,Canada,209307
+202006,2020-06,31,Yucatán,14711291,"Waste and Scrap Gold or Plated ""Plaqué"" Gold, as well as other Waste and Scrap of Gold or Gold Compounds of the Kind Used Principally for the Recovery of Precious Metal (Excl. Ash Containing Gold or Compounds Gold, Waste and Scrap of Gold or Plated ""Plating"" Gold that have been Fused Cast Blocks, Ingots, or the Like; Sweepings Containing other Precious Metal)",2,Exports,usa,United States,612909
+202006,2020-06,31,Yucatán,14711299,"Waste and Scrap Silver or Plated ""Plaqué"" Silver, as well as other Waste and Scrap Containing Silver or Silver Compounds of the Kind Used Principally for the Recovery of Precious Metal (Excl. Ash Containing Silver or Compounds Silver; Waste and Scrap of Silver or Plated ""Plaqué"" of Silver that were Fused Cast Blocks, Ingots, or Similar Forms)",2,Exports,usa,United States,5387
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",2,Exports,aus,Australia,305
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",2,Exports,can,Canada,14884
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",2,Exports,gbr,United Kingdom,391
+202006,2020-06,31,Yucatán,14711311,"Jewelry and Parts Thereof, of Silver, Incl. Coated or Plated with Precious Metal ""Plaqué"" (Exc. with over 100 Years)",2,Exports,usa,United States,884328
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",2,Exports,aus,Australia,27310
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",2,Exports,can,Canada,578367
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",2,Exports,gbr,United Kingdom,862814
+202006,2020-06,31,Yucatán,14711319,"Articles of Jewelry and Parts, of Precious Metals other than Silver (Exc. with more than 100 Years)",2,Exports,usa,United States,4327998
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",2,Exports,blz,Belize,142
+202006,2020-06,31,Yucatán,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",2,Exports,usa,United States,12876
+202006,2020-06,31,Yucatán,20960200,"Vegetable or Mineral Carving, and Articles Thereof, N.C.O.P .; Articles Molded or Carved Wax, Paraffin, Stearin, Natural Gums or Resins or of Modeling Pastes and other Articles Molded or Carved, N.C.O.P .; Worked, Unhardened Gelatin and Articles Thereof, N.E.C",2,Exports,can,Canada,8840
+202006,2020-06,31,Yucatán,20960200,"Vegetable or Mineral Carving, and Articles Thereof, N.C.O.P .; Articles Molded or Carved Wax, Paraffin, Stearin, Natural Gums or Resins or of Modeling Pastes and other Articles Molded or Carved, N.C.O.P .; Worked, Unhardened Gelatin and Articles Thereof, N.E.C",2,Exports,usa,United States,1994

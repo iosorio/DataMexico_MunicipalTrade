@@ -1,0 +1,515 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+201604,2016-04,17,Morelos,2120242,"Shelled Groundnuts, whether or not Broken (Excl. Sowing Seeds, Peanuts or Raw)",1,Imports,nic,Nicaragua,40550
+201604,2016-04,17,Morelos,2120242,"Shelled Groundnuts, whether or not Broken (Excl. Sowing Seeds, Peanuts or Raw)",1,Imports,usa,United States,218078
+201604,2016-04,17,Morelos,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",1,Imports,arg,Argentina,1
+201604,2016-04,17,Morelos,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",1,Imports,bra,Brazil,17425
+201604,2016-04,17,Morelos,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",1,Imports,che,Switzerland,11851
+201604,2016-04,17,Morelos,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",1,Imports,chn,China,16697
+201604,2016-04,17,Morelos,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",1,Imports,ind,India,1
+201604,2016-04,17,Morelos,2130219,"Vegetable Saps and Extracts (Excl. Liquorice, Hops, as well as Opio)",1,Imports,usa,United States,54953
+201604,2016-04,17,Morelos,6282110,Iron Oxides and Hydroxides,1,Imports,usa,United States,17366
+201604,2016-04,17,Morelos,6291590,"Acyclic Monocarboxylic Acids, their Anhydrides, Halides, Peroxides and Peroxyacids; their Halogenated, Sulfonated, Nitrated or Nitrosated (Exc. Formic Acid and Acetic Acid, Mono-, Di- O Trichloroacetic, Propionic Acid, Butanoic Acid and Pentanoic, Palmitic and Stearic Acids, their Salts and Esters, and Acetic Anhydride)",1,Imports,arg,Argentina,1
+201604,2016-04,17,Morelos,6291590,"Acyclic Monocarboxylic Acids, their Anhydrides, Halides, Peroxides and Peroxyacids; their Halogenated, Sulfonated, Nitrated or Nitrosated (Exc. Formic Acid and Acetic Acid, Mono-, Di- O Trichloroacetic, Propionic Acid, Butanoic Acid and Pentanoic, Palmitic and Stearic Acids, their Salts and Esters, and Acetic Anhydride)",1,Imports,deu,Germany,114655
+201604,2016-04,17,Morelos,6291590,"Acyclic Monocarboxylic Acids, their Anhydrides, Halides, Peroxides and Peroxyacids; their Halogenated, Sulfonated, Nitrated or Nitrosated (Exc. Formic Acid and Acetic Acid, Mono-, Di- O Trichloroacetic, Propionic Acid, Butanoic Acid and Pentanoic, Palmitic and Stearic Acids, their Salts and Esters, and Acetic Anhydride)",1,Imports,mys,Malaysia,2382
+201604,2016-04,17,Morelos,6291590,"Acyclic Monocarboxylic Acids, their Anhydrides, Halides, Peroxides and Peroxyacids; their Halogenated, Sulfonated, Nitrated or Nitrosated (Exc. Formic Acid and Acetic Acid, Mono-, Di- O Trichloroacetic, Propionic Acid, Butanoic Acid and Pentanoic, Palmitic and Stearic Acids, their Salts and Esters, and Acetic Anhydride)",1,Imports,usa,United States,62599
+201604,2016-04,17,Morelos,6291830,"Carboxylic Acids with Aldehyde or Ketone Function but without other Oxygenated Function, their Anhydrides, Halides, Peroxides, Peroxyacids and their Halogenated, Sulfonated, Nitrated or Nitrosated",1,Imports,chn,China,33390
+201604,2016-04,17,Morelos,6291830,"Carboxylic Acids with Aldehyde or Ketone Function but without other Oxygenated Function, their Anhydrides, Halides, Peroxides, Peroxyacids and their Halogenated, Sulfonated, Nitrated or Nitrosated",1,Imports,usa,United States,400510
+201604,2016-04,17,Morelos,6293090,"Organic Sulfur Compounds (Exc. Dithiocarbonates ""Xanthates"", Thiocarbamates and Dithiocarbamates, Mono-, Di- or Tetrasulphides and Methionine)",1,Imports,arg,Argentina,1
+201604,2016-04,17,Morelos,6293090,"Organic Sulfur Compounds (Exc. Dithiocarbonates ""Xanthates"", Thiocarbamates and Dithiocarbamates, Mono-, Di- or Tetrasulphides and Methionine)",1,Imports,chn,China,129650
+201604,2016-04,17,Morelos,6293090,"Organic Sulfur Compounds (Exc. Dithiocarbonates ""Xanthates"", Thiocarbamates and Dithiocarbamates, Mono-, Di- or Tetrasulphides and Methionine)",1,Imports,ind,India,51600
+201604,2016-04,17,Morelos,6293090,"Organic Sulfur Compounds (Exc. Dithiocarbonates ""Xanthates"", Thiocarbamates and Dithiocarbamates, Mono-, Di- or Tetrasulphides and Methionine)",1,Imports,nld,Netherlands,4069
+201604,2016-04,17,Morelos,6293339,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyridine, Incl Hydrogenated Unfused (Exc Pyridine, Piperidine, Alfentanil ""Dci"" Anileridine ""Dci"";.. Bezitramide ""Dci"" Bromazepam ""Dci"" Ketobemidone ""Inn"", Difenoxin ""Inn"", Diphenoxylate ""Inn"", Dipipanone ""Inn"" Fentanyl ""Inn"" Methylphenidate ""Inn"", Pentazocine ""Inn"", Pethidine ""Inn"", Intermediary Pethidine ""Inn"" Phencyclidine "" Dci """" Pcp ""Phenoperidine"" Dci ""Pipradrol"" Dci ""Piritramide"" Dci ""Propiram"" Inn ""And Trimeperidine"" Inn "", and Salts Thereof)",1,Imports,chn,China,102850
+201604,2016-04,17,Morelos,6293339,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyridine, Incl Hydrogenated Unfused (Exc Pyridine, Piperidine, Alfentanil ""Dci"" Anileridine ""Dci"";.. Bezitramide ""Dci"" Bromazepam ""Dci"" Ketobemidone ""Inn"", Difenoxin ""Inn"", Diphenoxylate ""Inn"", Dipipanone ""Inn"" Fentanyl ""Inn"" Methylphenidate ""Inn"", Pentazocine ""Inn"", Pethidine ""Inn"", Intermediary Pethidine ""Inn"" Phencyclidine "" Dci """" Pcp ""Phenoperidine"" Dci ""Pipradrol"" Dci ""Piritramide"" Dci ""Propiram"" Inn ""And Trimeperidine"" Inn "", and Salts Thereof)",1,Imports,ind,India,3030
+201604,2016-04,17,Morelos,6293339,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyridine, Incl Hydrogenated Unfused (Exc Pyridine, Piperidine, Alfentanil ""Dci"" Anileridine ""Dci"";.. Bezitramide ""Dci"" Bromazepam ""Dci"" Ketobemidone ""Inn"", Difenoxin ""Inn"", Diphenoxylate ""Inn"", Dipipanone ""Inn"" Fentanyl ""Inn"" Methylphenidate ""Inn"", Pentazocine ""Inn"", Pethidine ""Inn"", Intermediary Pethidine ""Inn"" Phencyclidine "" Dci """" Pcp ""Phenoperidine"" Dci ""Pipradrol"" Dci ""Piritramide"" Dci ""Propiram"" Inn ""And Trimeperidine"" Inn "", and Salts Thereof)",1,Imports,usa,United States,1
+201604,2016-04,17,Morelos,6293359,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyrimidine, Incl Hydrogenated, O Piperazine (Exc Malonylurea ""Barbiturate Acid"" and their Derivatives;.. Allobarbital ""Dci"" Amobarbital ""Dci"" Barbital ""Dci"" Butalbital ""Dci"", Butobarbital, Cyclobarbital ""Dci"" Methylphenobarbital ""Dci"" Pentobarbital ""Dci"" Phenobarbital ""Dci"" Secbutabarbital ""Dci"" Secobarbital ""Dci"" and Vinylbital ""Dci""; Loprazolam ""Dci"" Mecloqualone ""Dci"" , Methaqualone ""Inn"" and Zipeprol ""Inn"", and Salts Thereof)",1,Imports,chn,China,6950
+201604,2016-04,17,Morelos,6293359,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyrimidine, Incl Hydrogenated, O Piperazine (Exc Malonylurea ""Barbiturate Acid"" and their Derivatives;.. Allobarbital ""Dci"" Amobarbital ""Dci"" Barbital ""Dci"" Butalbital ""Dci"", Butobarbital, Cyclobarbital ""Dci"" Methylphenobarbital ""Dci"" Pentobarbital ""Dci"" Phenobarbital ""Dci"" Secbutabarbital ""Dci"" Secobarbital ""Dci"" and Vinylbital ""Dci""; Loprazolam ""Dci"" Mecloqualone ""Dci"" , Methaqualone ""Inn"" and Zipeprol ""Inn"", and Salts Thereof)",1,Imports,esp,Spain,3
+201604,2016-04,17,Morelos,6293359,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyrimidine, Incl Hydrogenated, O Piperazine (Exc Malonylurea ""Barbiturate Acid"" and their Derivatives;.. Allobarbital ""Dci"" Amobarbital ""Dci"" Barbital ""Dci"" Butalbital ""Dci"", Butobarbital, Cyclobarbital ""Dci"" Methylphenobarbital ""Dci"" Pentobarbital ""Dci"" Phenobarbital ""Dci"" Secbutabarbital ""Dci"" Secobarbital ""Dci"" and Vinylbital ""Dci""; Loprazolam ""Dci"" Mecloqualone ""Dci"" , Methaqualone ""Inn"" and Zipeprol ""Inn"", and Salts Thereof)",1,Imports,ind,India,1392
+201604,2016-04,17,Morelos,6293359,"Heterocyclic Compounds with Heteroatom / S Nitrogen Exclusively, in the Structure Cycle Pyrimidine, Incl Hydrogenated, O Piperazine (Exc Malonylurea ""Barbiturate Acid"" and their Derivatives;.. Allobarbital ""Dci"" Amobarbital ""Dci"" Barbital ""Dci"" Butalbital ""Dci"", Butobarbital, Cyclobarbital ""Dci"" Methylphenobarbital ""Dci"" Pentobarbital ""Dci"" Phenobarbital ""Dci"" Secbutabarbital ""Dci"" Secobarbital ""Dci"" and Vinylbital ""Dci""; Loprazolam ""Dci"" Mecloqualone ""Dci"" , Methaqualone ""Inn"" and Zipeprol ""Inn"", and Salts Thereof)",1,Imports,ita,Italy,683
+201604,2016-04,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,chn,China,91356
+201604,2016-04,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,esp,Spain,1
+201604,2016-04,17,Morelos,6293399,"Heterocyclic Compounds with Heteroatom / S Nitrogen only (Exc Compounds in the Structure Cycle Pyrazole, Imidazole, Pyridine or Triazine, Incl Hydrogenated Unfused;.. Compounds Containing in the Structure Quinoline or Isoquinoline, Incl Hydrogenated, not further Fused;. Compounds in the Structure Cycle Pyrimidine, Incl Hydrogenated, or Piperazine;. Lactams; Alprazolam ""Dci"" Camazepam ""Dci"", Chlordiazepoxide ""Dci"" Clonazepam ""Dci"", Clorazepate, Delorazepam ""Dci"" Diazepam ""Dci"" Estazolam ""Dci ""Fludiazepam"" Inn ""Flunitrazepam"" Inn "", Flurazepam"" Inn "", Halazepam"" Inn "", Ethyl Loflazepate"" Inn ""Lorazepam"" Inn "", Lormetazepam"" Inn "", Mazindol"" Inn "", Medazepam"" Inn "", Midazolam ""Inn"", Nimetazepam ""Inn"", Nitrazepam ""Inn"", Nordazepam ""Inn"" Oxazepam ""Inn"", Pinazepam ""Inn"", Prazepam ""Inn"", Pyrovalerone ""Inn"", Temazepam ""Inn"", Tetrazepam ""Inn"" and Triazolam ""Inn"", Salts Thereof)",1,Imports,ind,India,2101
+201604,2016-04,17,Morelos,6320890,"Paints and Varnishes Based Natural Polymers Synthetic or Modified, in a Dispersed or Dissolved Non-Aqueous Medium",1,Imports,che,Switzerland,5640
+201604,2016-04,17,Morelos,6320890,"Paints and Varnishes Based Natural Polymers Synthetic or Modified, in a Dispersed or Dissolved Non-Aqueous Medium",1,Imports,col,Colombia,87
+201604,2016-04,17,Morelos,6320890,"Paints and Varnishes Based Natural Polymers Synthetic or Modified, in a Dispersed or Dissolved Non-Aqueous Medium",1,Imports,jpn,Japan,149251
+201604,2016-04,17,Morelos,6320890,"Paints and Varnishes Based Natural Polymers Synthetic or Modified, in a Dispersed or Dissolved Non-Aqueous Medium",1,Imports,nld,Netherlands,43519
+201604,2016-04,17,Morelos,6320890,"Paints and Varnishes Based Natural Polymers Synthetic or Modified, in a Dispersed or Dissolved Non-Aqueous Medium",1,Imports,usa,United States,28445
+201604,2016-04,17,Morelos,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,deu,Germany,44
+201604,2016-04,17,Morelos,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,ita,Italy,112
+201604,2016-04,17,Morelos,6321410,"Putty, Resin Cement and other Mastics; Painters ""Fillings"" Used in Painting",1,Imports,usa,United States,974
+201604,2016-04,17,Morelos,6340399,Lubricating Preparations,1,Imports,fra,France,3547
+201604,2016-04,17,Morelos,6340399,Lubricating Preparations,1,Imports,usa,United States,42551
+201604,2016-04,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,deu,Germany,4793
+201604,2016-04,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,fra,France,97
+201604,2016-04,17,Morelos,6350691,"Polymer or Rubber Based Adhesives (Exc. Conditioned for Retail Sale as Glues or Adhesives, Net Weight <= 1 Kg)",1,Imports,usa,United States,85180
+201604,2016-04,17,Morelos,6380991,"Sizings and Finishing Products, Accelerate the Dyeing or Fixing of Dyestuffs and other Products and Preparations ""Eg Dressings and Mordants"", of a Kind Used in the Textile Industry or Industries Simil., N.E.C. (Exc. Based Materials Amylaceouos)",1,Imports,deu,Germany,6560
+201604,2016-04,17,Morelos,6380991,"Sizings and Finishing Products, Accelerate the Dyeing or Fixing of Dyestuffs and other Products and Preparations ""Eg Dressings and Mordants"", of a Kind Used in the Textile Industry or Industries Simil., N.E.C. (Exc. Based Materials Amylaceouos)",1,Imports,gbr,United Kingdom,32
+201604,2016-04,17,Morelos,6380991,"Sizings and Finishing Products, Accelerate the Dyeing or Fixing of Dyestuffs and other Products and Preparations ""Eg Dressings and Mordants"", of a Kind Used in the Textile Industry or Industries Simil., N.E.C. (Exc. Based Materials Amylaceouos)",1,Imports,tha,Thailand,154
+201604,2016-04,17,Morelos,6380991,"Sizings and Finishing Products, Accelerate the Dyeing or Fixing of Dyestuffs and other Products and Preparations ""Eg Dressings and Mordants"", of a Kind Used in the Textile Industry or Industries Simil., N.E.C. (Exc. Based Materials Amylaceouos)",1,Imports,usa,United States,52
+201604,2016-04,17,Morelos,6382200,"Diagnostic Reagents or Laboratory Reagents Backing and Prepared Diagnostic or Laboratory, Incl about Support.; Crms",1,Imports,can,Canada,1069
+201604,2016-04,17,Morelos,6382200,"Diagnostic Reagents or Laboratory Reagents Backing and Prepared Diagnostic or Laboratory, Incl about Support.; Crms",1,Imports,deu,Germany,160
+201604,2016-04,17,Morelos,6382200,"Diagnostic Reagents or Laboratory Reagents Backing and Prepared Diagnostic or Laboratory, Incl about Support.; Crms",1,Imports,usa,United States,9359
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,bra,Brazil,22611
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,che,Switzerland,7320
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,deu,Germany,354277
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,fra,France,11733
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,gbr,United Kingdom,54172
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,jpn,Japan,20866
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,twn,Taiwan (Region),6230
+201604,2016-04,17,Morelos,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,318506
+201604,2016-04,17,Morelos,7390210,"Polypropylene, in Primary Forms",1,Imports,usa,United States,238767
+201604,2016-04,17,Morelos,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,chn,China,71
+201604,2016-04,17,Morelos,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,gbr,United Kingdom,722
+201604,2016-04,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,chn,China,268
+201604,2016-04,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,deu,Germany,373
+201604,2016-04,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,nld,Netherlands,78
+201604,2016-04,17,Morelos,7391740,"Joints, Elbows, ""Eacores"" and other Pipe Fittings, Plastic",1,Imports,usa,United States,5202
+201604,2016-04,17,Morelos,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,gbr,United Kingdom,1034
+201604,2016-04,17,Morelos,7391910,"Sheets, Tapes and Others, Self-Adhesive, Plastic, in Width Rolls <= 20 Cm",1,Imports,usa,United States,7602
+201604,2016-04,17,Morelos,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,deu,Germany,5565
+201604,2016-04,17,Morelos,7391990,"Plastic Plates, Sheets, Strip and other Flat Shapes",1,Imports,usa,United States,352
+201604,2016-04,17,Morelos,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,can,Canada,261
+201604,2016-04,17,Morelos,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,ita,Italy,207
+201604,2016-04,17,Morelos,7392010,"Plates, Sheets, Sheets and Strips, of Non-Cellular Polymers of Ethylene without Similar Combination with other Materials",1,Imports,usa,United States,8536
+201604,2016-04,17,Morelos,7392049,"Plates, Sheets and Strip, of Polymers of Vinyl Chloride, Non-Cellular, Containing Plasticizers <6% by Weight, not Reinforced, Laminated or Fitted Similarly with other Materials, without Support, not Worked or only in Surface or Merely Cut into Squares or Rectangles (Exc. Autoadhesivas as well as Floor Coverings, Wall and Ceiling Coverings of Heading 3918)",1,Imports,fra,France,21701
+201604,2016-04,17,Morelos,7392049,"Plates, Sheets and Strip, of Polymers of Vinyl Chloride, Non-Cellular, Containing Plasticizers <6% by Weight, not Reinforced, Laminated or Fitted Similarly with other Materials, without Support, not Worked or only in Surface or Merely Cut into Squares or Rectangles (Exc. Autoadhesivas as well as Floor Coverings, Wall and Ceiling Coverings of Heading 3918)",1,Imports,ita,Italy,56694
+201604,2016-04,17,Morelos,7392049,"Plates, Sheets and Strip, of Polymers of Vinyl Chloride, Non-Cellular, Containing Plasticizers <6% by Weight, not Reinforced, Laminated or Fitted Similarly with other Materials, without Support, not Worked or only in Surface or Merely Cut into Squares or Rectangles (Exc. Autoadhesivas as well as Floor Coverings, Wall and Ceiling Coverings of Heading 3918)",1,Imports,usa,United States,229329
+201604,2016-04,17,Morelos,7392119,"Plates, Sheets, Strips, Plastic Cell, not Worked or only on the Surface or Merely Cut into Squares or Rectangles (Exc. Polymer Styrene Polymers Vinyl Chloride, Polyurethanes O Regenerated Cellulose, Adhesive Products and Floor Coverings, Wall and Ceiling Coverings of Heading 3918 and Surgical or Dental Sterilized Adhesive Barriers of Heading 3006.10.30)",1,Imports,chn,China,16241
+201604,2016-04,17,Morelos,7392119,"Plates, Sheets, Strips, Plastic Cell, not Worked or only on the Surface or Merely Cut into Squares or Rectangles (Exc. Polymer Styrene Polymers Vinyl Chloride, Polyurethanes O Regenerated Cellulose, Adhesive Products and Floor Coverings, Wall and Ceiling Coverings of Heading 3918 and Surgical or Dental Sterilized Adhesive Barriers of Heading 3006.10.30)",1,Imports,sgp,Singapore,471
+201604,2016-04,17,Morelos,7392119,"Plates, Sheets, Strips, Plastic Cell, not Worked or only on the Surface or Merely Cut into Squares or Rectangles (Exc. Polymer Styrene Polymers Vinyl Chloride, Polyurethanes O Regenerated Cellulose, Adhesive Products and Floor Coverings, Wall and Ceiling Coverings of Heading 3918 and Surgical or Dental Sterilized Adhesive Barriers of Heading 3006.10.30)",1,Imports,usa,United States,28496
+201604,2016-04,17,Morelos,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,chn,China,180
+201604,2016-04,17,Morelos,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,fra,France,171
+201604,2016-04,17,Morelos,7392310,"Boxes, Crates and Similar Articles. for Conveyance or Packing; Plastic",1,Imports,usa,United States,6578
+201604,2016-04,17,Morelos,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,bel,Belgium,4485
+201604,2016-04,17,Morelos,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,fra,France,23
+201604,2016-04,17,Morelos,7392330,"Carboys ""Demijohns"" Bottles, Flasks and Similar Articles. for Conveyance or Packing, Plastic",1,Imports,usa,United States,3200
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,bel,Belgium,7326
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,bra,Brazil,39464
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,chn,China,3434
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,ecu,Ecuador,12
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,fra,France,250
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,gtm,Guatemala,19778
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,jpn,Japan,137
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,nld,Netherlands,20
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",1,Imports,usa,United States,71255
+201604,2016-04,17,Morelos,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,deu,Germany,969
+201604,2016-04,17,Morelos,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,esp,Spain,127
+201604,2016-04,17,Morelos,7392390,"Articles for the Conveyance or Packing of Goods, of Plastics (Excl Boxes, Crates and Similar Articles)",1,Imports,usa,United States,5697
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,aut,Austria,32923
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,bel,Belgium,44
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,bra,Brazil,78470
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,can,Canada,1887
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,che,Switzerland,1679
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,164161
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,deu,Germany,24316
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,emu,European Community,124
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,esp,Spain,12281
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,fra,France,70195
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,hkg,Hong Kong,84
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,idn,Indonesia,10
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,ind,India,861
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,irl,Ireland,2406
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,ita,Italy,47371
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,jpn,Japan,4289
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,kor,South Korea,90349
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,mys,Malaysia,19520
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,nld,Netherlands,2923
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,pol,Poland,394
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,sgp,Singapore,10136
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,tha,Thailand,26
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,tur,Turkey,408
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,twn,Taiwan (Region),1866
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,240942
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,che,Switzerland,15
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,deu,Germany,2720
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,idn,Indonesia,156
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,ind,India,32
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,jpn,Japan,408
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,tur,Turkey,1366
+201604,2016-04,17,Morelos,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,usa,United States,2279
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,bel,Belgium,36
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,che,Switzerland,18
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,13769
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,9816
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fra,France,23688
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ita,Italy,140
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,12182
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,kor,South Korea,362
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,nld,Netherlands,8
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),2
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,81006
+201604,2016-04,17,Morelos,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,vnm,Vietnam,148
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,bel,Belgium,1115
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,963
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,deu,Germany,186941
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,dnk,Denmark,174
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,dom,Dominican Republic,365
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,fra,France,604
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ind,India,211
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,ita,Italy,105
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,kor,South Korea,426
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,tha,Thailand,16
+201604,2016-04,17,Morelos,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,72829
+201604,2016-04,17,Morelos,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,chn,China,644
+201604,2016-04,17,Morelos,8420292,"Cases and Containers, with Outer Surface of Sheeting of Plastics or of Textile Materials",1,Imports,usa,United States,399
+201604,2016-04,17,Morelos,10481910,Boxes Corrugated Paperboard,1,Imports,usa,United States,28310
+201604,2016-04,17,Morelos,10482110,"Labels of all Kinds, Paper or Paperboard, Printed",1,Imports,usa,United States,52395
+201604,2016-04,17,Morelos,10482290,"Bobbins, Spools, Bobbins and Supports Simil. Pulp, Paper or Paperboard, Incl. Hardened O Perforados (Exc. of a Kind Used for Winding Yarn Textiles)",1,Imports,cze,Czech Republic,23815
+201604,2016-04,17,Morelos,10482290,"Bobbins, Spools, Bobbins and Supports Simil. Pulp, Paper or Paperboard, Incl. Hardened O Perforados (Exc. of a Kind Used for Winding Yarn Textiles)",1,Imports,deu,Germany,38307
+201604,2016-04,17,Morelos,10482290,"Bobbins, Spools, Bobbins and Supports Simil. Pulp, Paper or Paperboard, Incl. Hardened O Perforados (Exc. of a Kind Used for Winding Yarn Textiles)",1,Imports,usa,United States,22521
+201604,2016-04,17,Morelos,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,kor,South Korea,978
+201604,2016-04,17,Morelos,10482390,"Paper, Cardboard, Cellulose Wadding and Cellulose Fiber Nappa, in Strips or in Rolls of Width <= 36 Cm or in Square or Rectangular Sheets in which there is no Side> 36 Cm, Unfolded",1,Imports,usa,United States,20099
+201604,2016-04,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,chn,China,340
+201604,2016-04,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,cyp,Cyprus,3341
+201604,2016-04,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,esp,Spain,624
+201604,2016-04,17,Morelos,10490199,"Books, Brochures,Printed (Exc. in Single Sheets, Dictionaries, Encyclopedias, Periodic Printed Publications and Advertising)",1,Imports,usa,United States,36350
+201604,2016-04,17,Morelos,11591190,Textile Products and Articles for Technical Uses,1,Imports,gbr,United Kingdom,20969
+201604,2016-04,17,Morelos,11591190,Textile Products and Articles for Technical Uses,1,Imports,jpn,Japan,682
+201604,2016-04,17,Morelos,11591190,Textile Products and Articles for Technical Uses,1,Imports,usa,United States,4286
+201604,2016-04,17,Morelos,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,chn,China,1453
+201604,2016-04,17,Morelos,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,deu,Germany,3503
+201604,2016-04,17,Morelos,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,gbr,United Kingdom,10695
+201604,2016-04,17,Morelos,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,ita,Italy,10624
+201604,2016-04,17,Morelos,13680421,"Grindstones and Similar Articles., without Frameworks, for Grinding, Sharpening, Polishing, Trueing or Cutting, of Agglomerated Synthetic or Natural Diamond (Excl. Stones Sharpening or Polishing by Hand as well as Grinding Wheels Etc. Specifically for Dental Drill Engines)",1,Imports,usa,United States,10674
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,bra,Brazil,48955
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,can,Canada,810
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,deu,Germany,1250
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,fra,France,1469
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,ita,Italy,243
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",1,Imports,usa,United States,624943
+201604,2016-04,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,bra,Brazil,1088
+201604,2016-04,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,gbr,United Kingdom,720
+201604,2016-04,17,Morelos,13680530,"Natural or Artificial Abrasive Powder or Grain on Support that is not only of Textile Fabrics, Paper or Paperboard only Incl. Trimmed, Sewn or otherwise Made",1,Imports,usa,United States,154465
+201604,2016-04,17,Morelos,13701990,"Glass Fibers,",1,Imports,chn,China,89196
+201604,2016-04,17,Morelos,13701990,"Glass Fibers,",1,Imports,fra,France,2098
+201604,2016-04,17,Morelos,13701990,"Glass Fibers,",1,Imports,nld,Netherlands,11842
+201604,2016-04,17,Morelos,13701990,"Glass Fibers,",1,Imports,twn,Taiwan (Region),23117
+201604,2016-04,17,Morelos,13701990,"Glass Fibers,",1,Imports,usa,United States,7616
+201604,2016-04,17,Morelos,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,deu,Germany,5277
+201604,2016-04,17,Morelos,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,fra,France,36
+201604,2016-04,17,Morelos,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,jpn,Japan,7518
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,bel,Belgium,185
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,can,Canada,71
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,che,Switzerland,195
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,1240
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,653
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,esp,Spain,2
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,fra,France,47
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,ita,Italy,1602
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,jpn,Japan,12325
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,kor,South Korea,1063
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,sgp,Singapore,1
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),140
+201604,2016-04,17,Morelos,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,5173
+201604,2016-04,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,chn,China,19
+201604,2016-04,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,deu,Germany,0
+201604,2016-04,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,jpn,Japan,5931
+201604,2016-04,17,Morelos,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,15016
+201604,2016-04,17,Morelos,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,deu,Germany,128
+201604,2016-04,17,Morelos,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,ita,Italy,26846
+201604,2016-04,17,Morelos,15731819,"Fixing Elements and Devices, Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,105
+201604,2016-04,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,chn,China,42
+201604,2016-04,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,deu,Germany,17
+201604,2016-04,17,Morelos,15731821,"Spring Washers ""Spring"" and other Lock, of Iron or Steel",1,Imports,jpn,Japan,82
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,bel,Belgium,164
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,che,Switzerland,22
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,chn,China,3014
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,deu,Germany,260
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,fra,France,27
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,ita,Italy,1086
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,jpn,Japan,1012
+201604,2016-04,17,Morelos,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,651
+201604,2016-04,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,bel,Belgium,89
+201604,2016-04,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,deu,Germany,172
+201604,2016-04,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,esp,Spain,66
+201604,2016-04,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,fra,France,116
+201604,2016-04,17,Morelos,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,38
+201604,2016-04,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,che,Switzerland,108
+201604,2016-04,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,chn,China,3253
+201604,2016-04,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,jpn,Japan,3847
+201604,2016-04,17,Morelos,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,664
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,bel,Belgium,7701
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,can,Canada,313
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,che,Switzerland,234
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,chn,China,34185
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,12435
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,fra,France,1167
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,hnd,Honduras,69
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,ita,Italy,7652
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,jpn,Japan,193
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,nld,Netherlands,137
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,sgp,Singapore,76
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,swe,Sweden,204
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,twn,Taiwan (Region),467
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,1,Imports,usa,United States,132798
+201604,2016-04,17,Morelos,15761699,Aluminium Articles,1,Imports,chn,China,4151
+201604,2016-04,17,Morelos,15761699,Aluminium Articles,1,Imports,ind,India,2842
+201604,2016-04,17,Morelos,15761699,Aluminium Articles,1,Imports,usa,United States,734
+201604,2016-04,17,Morelos,15820239,"Circular Saw Blades, Incl. Strawberries Sierra, Incl. the Parties, of Base Metal, with Working Parts of Materials Steel",1,Imports,chn,China,246
+201604,2016-04,17,Morelos,15820239,"Circular Saw Blades, Incl. Strawberries Sierra, Incl. the Parties, of Base Metal, with Working Parts of Materials Steel",1,Imports,idn,Indonesia,6031
+201604,2016-04,17,Morelos,15820239,"Circular Saw Blades, Incl. Strawberries Sierra, Incl. the Parties, of Base Metal, with Working Parts of Materials Steel",1,Imports,ind,India,355
+201604,2016-04,17,Morelos,15820239,"Circular Saw Blades, Incl. Strawberries Sierra, Incl. the Parties, of Base Metal, with Working Parts of Materials Steel",1,Imports,lux,Luxembourg,6077
+201604,2016-04,17,Morelos,15820239,"Circular Saw Blades, Incl. Strawberries Sierra, Incl. the Parties, of Base Metal, with Working Parts of Materials Steel",1,Imports,usa,United States,16343
+201604,2016-04,17,Morelos,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,cze,Czech Republic,187
+201604,2016-04,17,Morelos,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,deu,Germany,10
+201604,2016-04,17,Morelos,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,usa,United States,81
+201604,2016-04,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,73
+201604,2016-04,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,cze,Czech Republic,915
+201604,2016-04,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,ind,India,65
+201604,2016-04,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,ita,Italy,1513
+201604,2016-04,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,twn,Taiwan (Region),324
+201604,2016-04,17,Morelos,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,34276
+201604,2016-04,17,Morelos,15820750,"Drilling Tools, Interchangeable (Exc. Drilling or as well as Roscar ""Incl. Tapping"")",1,Imports,deu,Germany,710
+201604,2016-04,17,Morelos,15820750,"Drilling Tools, Interchangeable (Exc. Drilling or as well as Roscar ""Incl. Tapping"")",1,Imports,usa,United States,226
+201604,2016-04,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,aut,Austria,431
+201604,2016-04,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,chn,China,408
+201604,2016-04,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,gbr,United Kingdom,1040
+201604,2016-04,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,usa,United States,17417
+201604,2016-04,17,Morelos,15820890,"Knives and Cutting Blades, of Base Metal, for Machines or Mechanical (Exc. for Treating Metal, Woodworking, for Kitchen Appliances or Food Industry Machines, for Machines Agricultural, Horticultural or Forestry)",1,Imports,vnm,Vietnam,820
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,bra,Brazil,52748
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,chl,Chile,6
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,deu,Germany,8676
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,fra,France,201
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,ind,India,39018
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,jpn,Japan,3871
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",1,Imports,usa,United States,29730
+201604,2016-04,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,chn,China,1004
+201604,2016-04,17,Morelos,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,usa,United States,751
+201604,2016-04,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,fra,France,86191
+201604,2016-04,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,jpn,Japan,15700
+201604,2016-04,17,Morelos,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,53346
+201604,2016-04,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,deu,Germany,3616
+201604,2016-04,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,ita,Italy,54
+201604,2016-04,17,Morelos,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,25929
+201604,2016-04,17,Morelos,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,hkg,Hong Kong,3290
+201604,2016-04,17,Morelos,16842290,"Parts of Dishwashing Machines, of Machines for Packaging and other Machinery of Heading 8422, N.E.C",1,Imports,usa,United States,11540
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,bel,Belgium,4927
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,che,Switzerland,3578
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,chn,China,563
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,cze,Czech Republic,57
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,deu,Germany,15045
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,fra,France,17382
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,ita,Italy,20509
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,jpn,Japan,1252
+201604,2016-04,17,Morelos,16844849,"Parts and Accessories of Weaving or its Machinery or Apparatus Auxiliary, N.E.C",1,Imports,usa,United States,8851
+201604,2016-04,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,chn,China,22926
+201604,2016-04,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,jpn,Japan,4650
+201604,2016-04,17,Morelos,16846610,Tool Holders for Machine Tools and Hand Tool of any Kind; Dieheads Auto Open,1,Imports,usa,United States,73631
+201604,2016-04,17,Morelos,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,bra,Brazil,1619
+201604,2016-04,17,Morelos,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,chn,China,1279
+201604,2016-04,17,Morelos,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,fra,France,16058
+201604,2016-04,17,Morelos,16846694,Parts and Accessories of Machine Tools for Working Metal without Removing Material,1,Imports,usa,United States,61980
+201604,2016-04,17,Morelos,16847150,Automatic Data Processing Machines and Units Thereof,1,Imports,twn,Taiwan (Region),10768
+201604,2016-04,17,Morelos,16847150,Automatic Data Processing Machines and Units Thereof,1,Imports,usa,United States,6384
+201604,2016-04,17,Morelos,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,fra,France,97
+201604,2016-04,17,Morelos,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,hkg,Hong Kong,44211
+201604,2016-04,17,Morelos,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,jpn,Japan,133573
+201604,2016-04,17,Morelos,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,twn,Taiwan (Region),985
+201604,2016-04,17,Morelos,16847160,"Digital Units for Automatic Machines for Data Processing or Processing, even with Memory Units",1,Imports,usa,United States,8948
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,bel,Belgium,97881
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,can,Canada,22658
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,chn,China,83625
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,cze,Czech Republic,5504
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,isr,Israel,2599
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,jpn,Japan,2871
+201604,2016-04,17,Morelos,16847989,Mechanical Machinery,1,Imports,usa,United States,65123
+201604,2016-04,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,deu,Germany,3050
+201604,2016-04,17,Morelos,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,usa,United States,2961
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,bel,Belgium,444
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,can,Canada,1125
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,70545
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,9155
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,esp,Spain,1682
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,hun,Hungary,650
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ita,Italy,12018
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,jpn,Japan,12411
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,kor,South Korea,41
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,nld,Netherlands,1741
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,swe,Sweden,21
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,twn,Taiwan (Region),15351
+201604,2016-04,17,Morelos,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,103477
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,aut,Austria,816
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,bel,Belgium,72
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,bgd,Bangladesh,12
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,deu,Germany,10848
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,fra,France,1876
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,jpn,Japan,32591
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,kor,South Korea,9
+201604,2016-04,17,Morelos,16848210,Ball Bearings,1,Imports,usa,United States,79
+201604,2016-04,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,deu,Germany,1005
+201604,2016-04,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,fra,France,145
+201604,2016-04,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,jpn,Japan,42096
+201604,2016-04,17,Morelos,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,2802
+201604,2016-04,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,can,Canada,12
+201604,2016-04,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,chn,China,242
+201604,2016-04,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,ita,Italy,811
+201604,2016-04,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,svk,Slovakia,61
+201604,2016-04,17,Morelos,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,30900
+201604,2016-04,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,chn,China,203
+201604,2016-04,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,deu,Germany,35445
+201604,2016-04,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,ita,Italy,962
+201604,2016-04,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,jpn,Japan,968
+201604,2016-04,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,tha,Thailand,6830
+201604,2016-04,17,Morelos,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,2435
+201604,2016-04,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,deu,Germany,63
+201604,2016-04,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,ind,India,933
+201604,2016-04,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,ita,Italy,1415
+201604,2016-04,17,Morelos,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,368
+201604,2016-04,17,Morelos,16848410,Together or Assortments,1,Imports,deu,Germany,6807
+201604,2016-04,17,Morelos,16848410,Together or Assortments,1,Imports,jpn,Japan,8675
+201604,2016-04,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,deu,Germany,23958
+201604,2016-04,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,ita,Italy,3374
+201604,2016-04,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,jpn,Japan,16441
+201604,2016-04,17,Morelos,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,2500
+201604,2016-04,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,chn,China,753
+201604,2016-04,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,fra,France,37
+201604,2016-04,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,gbr,United Kingdom,34
+201604,2016-04,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,ita,Italy,279
+201604,2016-04,17,Morelos,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,2071
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,che,Switzerland,2148
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,deu,Germany,2586
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,dnk,Denmark,1470
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,esp,Spain,1752
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,fra,France,552
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,hun,Hungary,558
+201604,2016-04,17,Morelos,16850110,Electric Motors of an Output not Exceeding 37.5W,1,Imports,jpn,Japan,490
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,bel,Belgium,64331
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,can,Canada,585
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,chn,China,23139
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,deu,Germany,6883
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,fra,France,6462
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,gbr,United Kingdom,548
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,jpn,Japan,12585
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,phl,Philippines,844
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,twn,Taiwan (Region),1606
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,usa,United States,9075
+201604,2016-04,17,Morelos,16850440,Electrical Static Converters,1,Imports,vnm,Vietnam,96
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,bel,Belgium,934
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,chn,China,210711
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,deu,Germany,4253
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,isr,Israel,13842
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,jpn,Japan,61349
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,mys,Malaysia,14036
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,tha,Thailand,60831
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,twn,Taiwan (Region),3945
+201604,2016-04,17,Morelos,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,usa,United States,19008
+201604,2016-04,17,Morelos,16852851,"Input or Output Units, for Automatic Machine for Processing Data",1,Imports,chn,China,21130
+201604,2016-04,17,Morelos,16852851,"Input or Output Units, for Automatic Machine for Processing Data",1,Imports,jpn,Japan,153
+201604,2016-04,17,Morelos,16852910,Aerials and Aerial Reflectors of all Kinds; Appropriate Parties for Use Therewith,1,Imports,usa,United States,6040
+201604,2016-04,17,Morelos,16853610,Fuses and Fuse Breaker,1,Imports,bel,Belgium,6
+201604,2016-04,17,Morelos,16853610,Fuses and Fuse Breaker,1,Imports,deu,Germany,164
+201604,2016-04,17,Morelos,16853610,Fuses and Fuse Breaker,1,Imports,fra,France,36
+201604,2016-04,17,Morelos,16853610,Fuses and Fuse Breaker,1,Imports,usa,United States,37
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,aut,Austria,53
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,che,Switzerland,19
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,207
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,deu,Germany,767
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,fra,France,625
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,ita,Italy,349
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,ltu,Lithuania,1162
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,sgp,Singapore,33
+201604,2016-04,17,Morelos,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,3027
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,1467
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,cri,Costa Rica,1117
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,est,Estonia,149
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,fra,France,332
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,jpn,Japan,6832
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,rou,Romania,10562
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,swe,Sweden,6
+201604,2016-04,17,Morelos,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,6242
+201604,2016-04,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,can,Canada,7367
+201604,2016-04,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,625
+201604,2016-04,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,deu,Germany,79472
+201604,2016-04,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,fra,France,2003
+201604,2016-04,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,ita,Italy,3936
+201604,2016-04,17,Morelos,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,8578
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,che,Switzerland,975
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,chn,China,132
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,deu,Germany,2621
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,dom,Dominican Republic,27
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,fra,France,2071
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,ita,Italy,2393
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,jpn,Japan,2630
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,mlt,Malta,152
+201604,2016-04,17,Morelos,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,usa,United States,8351
+201604,2016-04,17,Morelos,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,che,Switzerland,392
+201604,2016-04,17,Morelos,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,2694
+201604,2016-04,17,Morelos,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,hun,Hungary,508
+201604,2016-04,17,Morelos,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,8348
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,4536
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,deu,Germany,151946
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,fra,France,1197
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,hun,Hungary,14957
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,idn,Indonesia,224
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,ita,Italy,305
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,pol,Poland,5725
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,svk,Slovakia,857
+201604,2016-04,17,Morelos,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,50607
+201604,2016-04,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,chn,China,3586
+201604,2016-04,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,deu,Germany,188
+201604,2016-04,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,ltu,Lithuania,520
+201604,2016-04,17,Morelos,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,13740
+201604,2016-04,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,deu,Germany,4417
+201604,2016-04,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,jpn,Japan,23369
+201604,2016-04,17,Morelos,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,1212
+201604,2016-04,17,Morelos,18902780,Instruments and Apparatus for Physical or Chemical Analysis,1,Imports,jpn,Japan,29623
+201604,2016-04,17,Morelos,18902780,Instruments and Apparatus for Physical or Chemical Analysis,1,Imports,usa,United States,2747
+201604,2016-04,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,che,Switzerland,633
+201604,2016-04,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,deu,Germany,1846
+201604,2016-04,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,esp,Spain,1895
+201604,2016-04,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,jpn,Japan,7102
+201604,2016-04,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,sgp,Singapore,486
+201604,2016-04,17,Morelos,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,usa,United States,63728
+201604,2016-04,17,Morelos,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,can,Canada,1228
+201604,2016-04,17,Morelos,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,deu,Germany,252
+201604,2016-04,17,Morelos,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,usa,United States,5076
+201604,2016-04,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,chn,China,478
+201604,2016-04,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,esp,Spain,146
+201604,2016-04,17,Morelos,18903210,Thermostats Regulating or Control,1,Imports,usa,United States,6124
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,bra,Brazil,1276
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,4324
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,twn,Taiwan (Region),277
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,5104
+201604,2016-04,17,Morelos,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,deu,Germany,2475
+201604,2016-04,17,Morelos,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,dnk,Denmark,7243
+201604,2016-04,17,Morelos,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,swe,Sweden,515
+201604,2016-04,17,Morelos,18903290,"Parts and Accessories for Instruments and Apparatus for Regulating or Controlling,",1,Imports,usa,United States,21632
+201604,2016-04,17,Morelos,20940510,Lamps and other Electric Lighting,1,Imports,can,Canada,31344
+201604,2016-04,17,Morelos,20940510,Lamps and other Electric Lighting,1,Imports,chn,China,6881
+201604,2016-04,17,Morelos,20940510,Lamps and other Electric Lighting,1,Imports,nld,Netherlands,732
+201604,2016-04,17,Morelos,20940510,Lamps and other Electric Lighting,1,Imports,usa,United States,55953
+201604,2016-04,17,Morelos,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,cze,Czech Republic,1981
+201604,2016-04,17,Morelos,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,deu,Germany,4600
+201604,2016-04,17,Morelos,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,esp,Spain,3984
+201604,2016-04,17,Morelos,20960350,"Brushes Constituting Parts of Machines, Equipment or Vehicles",1,Imports,usa,United States,400
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,col,Colombia,7247
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,cri,Costa Rica,858
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,dom,Dominican Republic,113654
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,gtm,Guatemala,72276
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,pri,Puerto Rico,4934
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,slv,El Salvador,14927
+201604,2016-04,17,Morelos,7392350,"Stoppers, Lids, Caps and other Closures, Plastic",2,Exports,ven,Venezuela,115344
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,arg,Argentina,1
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,bra,Brazil,20400
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,can,Canada,3573
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,cub,Cuba,7
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,esp,Spain,1343
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,gtm,Guatemala,649
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,irl,Ireland,56091
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,rus,Russia,850
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,sgp,Singapore,222
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,slv,El Salvador,5508
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,usa,United States,1102443
+201604,2016-04,17,Morelos,7392690,Plastic Items and Articles of other Materials,2,Exports,ven,Venezuela,3224
+201604,2016-04,17,Morelos,10481910,Boxes Corrugated Paperboard,2,Exports,usa,United States,5105
+201604,2016-04,17,Morelos,13680510,"Natural or Artificial Abrasive Powder or Grain with Support Textile Fabrics States Alone, Incl. Trimmed Sewn or Otherwise",2,Exports,usa,United States,2457419
+201604,2016-04,17,Morelos,15732690,Articles of Iron or Steel,2,Exports,usa,United States,232991
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,chl,Chile,15224
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,col,Colombia,114097
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,cri,Costa Rica,2729
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,dom,Dominican Republic,57282
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,ecu,Ecuador,204288
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,gtm,Guatemala,40855
+201604,2016-04,17,Morelos,15830990,"Stoppers, Lids",2,Exports,per,Peru,60678
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,2,Exports,cub,Cuba,22
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,2,Exports,pan,Panama,1934
+201604,2016-04,17,Morelos,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,2,Exports,usa,United States,153

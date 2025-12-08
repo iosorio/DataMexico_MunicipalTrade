@@ -1,0 +1,506 @@
+Month ID,Month,State ID,State,HS6 ID,HS6,Flow ID,Flow,Country ID,Country,Trade Value
+201201,2012-01,27,Tabasco,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,deu,Germany,32
+201201,2012-01,27,Tabasco,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,nor,Norway,1371
+201201,2012-01,27,Tabasco,5271019,"Petroleum Oils, Containing by Weight 70% or more of Petroleum Oils or Oils from Bituminous Minerals, not Light Oils and Preparations",1,Imports,usa,United States,8572
+201201,2012-01,27,Tabasco,6340290,"Surface-Active Preparations for Washing, Incl the Auxiliary Washing Preparations and Cleaning Preparations (Exc Upgraded for Retail, as well as Agents Organic Surface;.. Soap and Organic Surface-Active Preparations Bars, Cakes or Pieces or Molded Pieces or Shapes; Products and Preparations Preparations for Washing the Skin, Liquid or Cream)",1,Imports,usa,United States,121251
+201201,2012-01,27,Tabasco,6340319,"Lubricating Preparations, Incl. Cutting Oils, Preparations Nut Release Preparations, Antirust or Anticorrosion Preparations and Mold Release, Based on Lubricants, Containing Oils of Petroleum or Obtained from Bituminous Minerals (Exc. those Containing Petroleum Oils Mineral Bituminous, as Basic Constituents,> = 70% by Weight and Preparations for the Treatment of Textile Materials, Leather, Furskins or other Materials)",1,Imports,usa,United States,19816
+201201,2012-01,27,Tabasco,6340399,Lubricating Preparations,1,Imports,usa,United States,61727
+201201,2012-01,27,Tabasco,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,ita,Italy,52780
+201201,2012-01,27,Tabasco,6382490,Chemical Products and Preparations of the Chemical or Allied Industries,1,Imports,usa,United States,3790238
+201201,2012-01,27,Tabasco,7391732,"Flexible Tubes, Plastic, Unreinforced or Combined with other Materials",1,Imports,usa,United States,13306
+201201,2012-01,27,Tabasco,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,deu,Germany,1689
+201201,2012-01,27,Tabasco,7391739,"Flexible Tubes, Plastic, Reinforced or otherwise Combined with other Materials and Accessories",1,Imports,usa,United States,218968
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,1,Imports,can,Canada,170
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,1,Imports,chn,China,27
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,1,Imports,gbr,United Kingdom,29030
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,1,Imports,nld,Netherlands,2772
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,1,Imports,usa,United States,108596
+201201,2012-01,27,Tabasco,7400922,"Rubber Tubes Vulcanised Reinforced or otherwise Combined only with Metal, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,tur,Turkey,2695
+201201,2012-01,27,Tabasco,7400922,"Rubber Tubes Vulcanised Reinforced or otherwise Combined only with Metal, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,usa,United States,26200
+201201,2012-01,27,Tabasco,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,deu,Germany,198
+201201,2012-01,27,Tabasco,7400931,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, no Accessories",1,Imports,usa,United States,2422
+201201,2012-01,27,Tabasco,7400932,"Tubes Vulcanised Rubber, Reinforced or otherwise Combined only with Textile, with Accessories ""Incl. Together, Elbows, [Fittings]""",1,Imports,usa,United States,28990
+201201,2012-01,27,Tabasco,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,can,Canada,2931
+201201,2012-01,27,Tabasco,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,deu,Germany,26
+201201,2012-01,27,Tabasco,7401039,"Belts, of Vulcanized Rubber (Exc Belts, Endless, Striated Section Keystone, Circumference Exterior> 60 Cm but <= 240 Cm;. Belts, Endless, Notched ""Synchronous"" Circumference Exterior> 60 Cm but <= 198 Cm)",1,Imports,usa,United States,499
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,bel,Belgium,35
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,can,Canada,323
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,chn,China,850
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,deu,Germany,309
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fin,Finland,626
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,fra,France,16
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,gbr,United Kingdom,3165
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ind,India,5003
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,ita,Italy,1912
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,jpn,Japan,50
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,twn,Taiwan (Region),761
+201201,2012-01,27,Tabasco,7401693,"Gaskets, of Vulcanised Rubber (Exc. Cellular Rubber)",1,Imports,usa,United States,129581
+201201,2012-01,27,Tabasco,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,can,Canada,459
+201201,2012-01,27,Tabasco,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,chn,China,624
+201201,2012-01,27,Tabasco,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,jpn,Japan,730
+201201,2012-01,27,Tabasco,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,nld,Netherlands,89519
+201201,2012-01,27,Tabasco,7401699,"Articles of Vulcanised Rubber, N.E.C",1,Imports,usa,United States,99999
+201201,2012-01,27,Tabasco,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,deu,Germany,15
+201201,2012-01,27,Tabasco,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,gbr,United Kingdom,41
+201201,2012-01,27,Tabasco,10482370,"Articles of Paper Pulp, Molded or Pressed N.E.C",1,Imports,usa,United States,1337
+201201,2012-01,27,Tabasco,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,esp,Spain,9
+201201,2012-01,27,Tabasco,10491110,"Printed Advertising, Commercial and Similar Catalogs",1,Imports,usa,United States,545
+201201,2012-01,27,Tabasco,11591190,Textile Products and Articles for Technical Uses,1,Imports,gbr,United Kingdom,231
+201201,2012-01,27,Tabasco,11591190,Textile Products and Articles for Technical Uses,1,Imports,usa,United States,3275
+201201,2012-01,27,Tabasco,13681381,"Brake Linings, Mineral Based Substance O Cellulose, Incl. Combined with Textile or other Materials (Excl. Containing Asbestos)",1,Imports,chn,China,930
+201201,2012-01,27,Tabasco,13681381,"Brake Linings, Mineral Based Substance O Cellulose, Incl. Combined with Textile or other Materials (Excl. Containing Asbestos)",1,Imports,usa,United States,2032
+201201,2012-01,27,Tabasco,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,chn,China,2661
+201201,2012-01,27,Tabasco,15730722,"Elbows, Bends and Sleeves Pipe, Stainless Steel, Threaded (Exc. Moldeados)",1,Imports,usa,United States,2677
+201201,2012-01,27,Tabasco,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,gbr,United Kingdom,26606
+201201,2012-01,27,Tabasco,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,sgp,Singapore,7881
+201201,2012-01,27,Tabasco,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,twn,Taiwan (Region),34
+201201,2012-01,27,Tabasco,15730729,"Pipe Fittings, Stainless Steel (Exc. Moldeados, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,3283
+201201,2012-01,27,Tabasco,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,chn,China,116909
+201201,2012-01,27,Tabasco,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,ind,India,3963
+201201,2012-01,27,Tabasco,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,ita,Italy,644
+201201,2012-01,27,Tabasco,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,kor,South Korea,332
+201201,2012-01,27,Tabasco,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,phl,Philippines,437
+201201,2012-01,27,Tabasco,15730791,"Pipe Flanges, of Iron or Steel (Excl. Cast or Stainless Steel)",1,Imports,usa,United States,3634
+201201,2012-01,27,Tabasco,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,can,Canada,19665
+201201,2012-01,27,Tabasco,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,chn,China,225
+201201,2012-01,27,Tabasco,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,twn,Taiwan (Region),72
+201201,2012-01,27,Tabasco,15730792,"Elbows, Bends and Sleeves Pipe, of Iron or Steel, Threaded (Excl. Molded or Stainless Steel)",1,Imports,usa,United States,364477
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,can,Canada,3710
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,chn,China,249991
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,deu,Germany,2616
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,gbr,United Kingdom,247
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,ind,India,5351
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,ita,Italy,12
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,kor,South Korea,66
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,phl,Philippines,166
+201201,2012-01,27,Tabasco,15730799,"Pipe Fittings, of Iron or Steel (Excl. Molded or Stainless Steel, as well as Elbows, Bends and Sleeves Threaded Fittings, Flanges and Butt Weld Fittings)",1,Imports,usa,United States,119483
+201201,2012-01,27,Tabasco,15730900,"Reservoirs, Tanks, Vats and Tanks Simil., of Iron or Steel, for any Material, of Capacity> 300 L, not Devices with Mechanical or Thermal, Incl. with Mechanical or Thermal (Exc. Containers Specially Designed and Equipped for one or several Means of Transport and Containers Compressed or Liquefied Gas)",1,Imports,can,Canada,1044
+201201,2012-01,27,Tabasco,15730900,"Reservoirs, Tanks, Vats and Tanks Simil., of Iron or Steel, for any Material, of Capacity> 300 L, not Devices with Mechanical or Thermal, Incl. with Mechanical or Thermal (Exc. Containers Specially Designed and Equipped for one or several Means of Transport and Containers Compressed or Liquefied Gas)",1,Imports,idn,Indonesia,425809
+201201,2012-01,27,Tabasco,15730900,"Reservoirs, Tanks, Vats and Tanks Simil., of Iron or Steel, for any Material, of Capacity> 300 L, not Devices with Mechanical or Thermal, Incl. with Mechanical or Thermal (Exc. Containers Specially Designed and Equipped for one or several Means of Transport and Containers Compressed or Liquefied Gas)",1,Imports,usa,United States,3639
+201201,2012-01,27,Tabasco,15731210,"Cables, of Iron or Steel (Excl. Insulated Electricity, and Barbed Wire and Twisted Fencing Wire)",1,Imports,usa,United States,66121
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,bel,Belgium,51
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,bra,Brazil,136
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,can,Canada,1515
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,chn,China,1
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,deu,Germany,987
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,gbr,United Kingdom,625
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,irl,Ireland,282
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,twn,Taiwan (Region),672
+201201,2012-01,27,Tabasco,15731815,"Screws and Bolts, Threaded, of Iron or Steel",1,Imports,usa,United States,65354
+201201,2012-01,27,Tabasco,15731816,Nuts of Iron or Steel,1,Imports,can,Canada,2270
+201201,2012-01,27,Tabasco,15731816,Nuts of Iron or Steel,1,Imports,deu,Germany,503
+201201,2012-01,27,Tabasco,15731816,Nuts of Iron or Steel,1,Imports,fra,France,972
+201201,2012-01,27,Tabasco,15731816,Nuts of Iron or Steel,1,Imports,swe,Sweden,1142
+201201,2012-01,27,Tabasco,15731816,Nuts of Iron or Steel,1,Imports,twn,Taiwan (Region),11
+201201,2012-01,27,Tabasco,15731816,Nuts of Iron or Steel,1,Imports,usa,United States,3856
+201201,2012-01,27,Tabasco,15731822,"Washers, of Iron or Steel",1,Imports,deu,Germany,40
+201201,2012-01,27,Tabasco,15731822,"Washers, of Iron or Steel",1,Imports,gbr,United Kingdom,14
+201201,2012-01,27,Tabasco,15731822,"Washers, of Iron or Steel",1,Imports,usa,United States,2338
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,bel,Belgium,582
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,can,Canada,806
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,deu,Germany,1239
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,gbr,United Kingdom,21
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,nld,Netherlands,11
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,twn,Taiwan (Region),90
+201201,2012-01,27,Tabasco,15731824,"Pbarcacoas ""Grills"", Pins or Dowel, of Iron or Steel",1,Imports,usa,United States,10080
+201201,2012-01,27,Tabasco,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,bel,Belgium,400
+201201,2012-01,27,Tabasco,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,can,Canada,1760
+201201,2012-01,27,Tabasco,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,deu,Germany,1
+201201,2012-01,27,Tabasco,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,gbr,United Kingdom,9640
+201201,2012-01,27,Tabasco,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,twn,Taiwan (Region),2
+201201,2012-01,27,Tabasco,15731829,"Fixing Elements and Devices, not Threaded, of Iron or Steel, N.E.C",1,Imports,usa,United States,2241
+201201,2012-01,27,Tabasco,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,are,United Arab Emirates,107
+201201,2012-01,27,Tabasco,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,bel,Belgium,511
+201201,2012-01,27,Tabasco,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,gbr,United Kingdom,321
+201201,2012-01,27,Tabasco,15732020,"Helicoidal Springs, Iron or Steel (Exc. Flat Spiral Springs, Watchmaking Springs)",1,Imports,usa,United States,5303
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,bel,Belgium,337
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,chn,China,37
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,deu,Germany,8528
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,fin,Finland,903
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,gbr,United Kingdom,15
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,ita,Italy,3148
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,twn,Taiwan (Region),121
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",1,Imports,usa,United States,115302
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,can,Canada,3631
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,chn,China,33036
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,deu,Germany,552
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,ecu,Ecuador,263
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,fra,France,6
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,gbr,United Kingdom,69665
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,1,Imports,usa,United States,67679
+201201,2012-01,27,Tabasco,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,can,Canada,194
+201201,2012-01,27,Tabasco,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,chn,China,32
+201201,2012-01,27,Tabasco,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,gbr,United Kingdom,5365
+201201,2012-01,27,Tabasco,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,ind,India,27
+201201,2012-01,27,Tabasco,15741220,"Splices ""Fittings"", Elbows, Sleeves and other Pipe Fittings, Copper Alloys",1,Imports,usa,United States,1226
+201201,2012-01,27,Tabasco,15741521,"Washers, Incl. Spring Washers ""Spring"" Copper",1,Imports,usa,United States,57
+201201,2012-01,27,Tabasco,15741529,"Rivets, Cotters, Pins and Similar Articles., not Threaded, of Copper (Excl. Washers, Incl. Spring Washers ""Spring"")",1,Imports,can,Canada,427
+201201,2012-01,27,Tabasco,15741529,"Rivets, Cotters, Pins and Similar Articles., not Threaded, of Copper (Excl. Washers, Incl. Spring Washers ""Spring"")",1,Imports,deu,Germany,7
+201201,2012-01,27,Tabasco,15741529,"Rivets, Cotters, Pins and Similar Articles., not Threaded, of Copper (Excl. Washers, Incl. Spring Washers ""Spring"")",1,Imports,usa,United States,4701
+201201,2012-01,27,Tabasco,15741533,"Screws, Bolts, Nuts and Similar Articles, Threaded, of Copper (Excl. Screw Hooks, Eye Bolts, Lag Screws, Threaded Metal Plugs and Bung Screwed)",1,Imports,usa,United States,1186
+201201,2012-01,27,Tabasco,15741999,Articles of Copper,1,Imports,deu,Germany,37
+201201,2012-01,27,Tabasco,15741999,Articles of Copper,1,Imports,usa,United States,5462
+201201,2012-01,27,Tabasco,15761699,Aluminium Articles,1,Imports,can,Canada,256
+201201,2012-01,27,Tabasco,15761699,Aluminium Articles,1,Imports,deu,Germany,418
+201201,2012-01,27,Tabasco,15761699,Aluminium Articles,1,Imports,usa,United States,10019
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,chn,China,72
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,deu,Germany,268
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,esp,Spain,719
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,jpn,Japan,220
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,sen,Senegal,130
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,swe,Sweden,317
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,twn,Taiwan (Region),52
+201201,2012-01,27,Tabasco,15820320,"Pliers, Incl. Chopping, Pincers and Pliers Hand of Base Metal (Exc. Tweezers)",1,Imports,usa,United States,1942
+201201,2012-01,27,Tabasco,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,can,Canada,1320
+201201,2012-01,27,Tabasco,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,chn,China,6
+201201,2012-01,27,Tabasco,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,esp,Spain,19774
+201201,2012-01,27,Tabasco,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,twn,Taiwan (Region),446
+201201,2012-01,27,Tabasco,15820411,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Fixed",1,Imports,usa,United States,22025
+201201,2012-01,27,Tabasco,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,chn,China,20
+201201,2012-01,27,Tabasco,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,esp,Spain,23285
+201201,2012-01,27,Tabasco,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,gbr,United Kingdom,55
+201201,2012-01,27,Tabasco,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,svn,Slovenia,663
+201201,2012-01,27,Tabasco,15820412,"Hand Adjustment Keys, Incl. Torque Meter Wrenches, of Base Metal, of Boca Adjustable",1,Imports,usa,United States,1129
+201201,2012-01,27,Tabasco,15820420,"Interchangeable Spanner Sockets, Incl. with Mango, Common Metal",1,Imports,esp,Spain,562
+201201,2012-01,27,Tabasco,15820420,"Interchangeable Spanner Sockets, Incl. with Mango, Common Metal",1,Imports,gbr,United Kingdom,50
+201201,2012-01,27,Tabasco,15820420,"Interchangeable Spanner Sockets, Incl. with Mango, Common Metal",1,Imports,twn,Taiwan (Region),117
+201201,2012-01,27,Tabasco,15820420,"Interchangeable Spanner Sockets, Incl. with Mango, Common Metal",1,Imports,usa,United States,994
+201201,2012-01,27,Tabasco,15820540,Screwdrivers Hand,1,Imports,chn,China,46
+201201,2012-01,27,Tabasco,15820540,Screwdrivers Hand,1,Imports,esp,Spain,363
+201201,2012-01,27,Tabasco,15820540,Screwdrivers Hand,1,Imports,gbr,United Kingdom,51
+201201,2012-01,27,Tabasco,15820540,Screwdrivers Hand,1,Imports,usa,United States,14
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,can,Canada,26
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,chn,China,458
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,esp,Spain,459
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",1,Imports,usa,United States,22180
+201201,2012-01,27,Tabasco,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,bel,Belgium,184864
+201201,2012-01,27,Tabasco,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,chn,China,10711
+201201,2012-01,27,Tabasco,15820719,"Useful Drilling Or, Swap, Incl. the Parts, with Working Parts of Materials of Sintered Metal Carbide or Cermet",1,Imports,usa,United States,579508
+201201,2012-01,27,Tabasco,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,chn,China,57
+201201,2012-01,27,Tabasco,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,jpn,Japan,622
+201201,2012-01,27,Tabasco,15820790,"Interchangeable, for Hand Tools, Incl. Mechanical, or for Machine Tools, N.E.C",1,Imports,usa,United States,4524
+201201,2012-01,27,Tabasco,15830249,"Fittings and Similar Articles., of Base Metal (Excl. for Motor Vehicles, for Buildings and Locks, Bolts with Lock, Clasps, Frames with Lock, Hinges and Wheels Mount)",1,Imports,usa,United States,12245
+201201,2012-01,27,Tabasco,15830990,"Stoppers, Lids",1,Imports,bel,Belgium,2138
+201201,2012-01,27,Tabasco,15830990,"Stoppers, Lids",1,Imports,can,Canada,2529
+201201,2012-01,27,Tabasco,15830990,"Stoppers, Lids",1,Imports,deu,Germany,36
+201201,2012-01,27,Tabasco,15830990,"Stoppers, Lids",1,Imports,ind,India,46
+201201,2012-01,27,Tabasco,15830990,"Stoppers, Lids",1,Imports,usa,United States,8581
+201201,2012-01,27,Tabasco,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,deu,Germany,4823
+201201,2012-01,27,Tabasco,16840999,Parts for Internal Combustion Piston Engines (Excluding Spark-Ignition),1,Imports,usa,United States,61484
+201201,2012-01,27,Tabasco,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,fra,France,1873
+201201,2012-01,27,Tabasco,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,gbr,United Kingdom,2570
+201201,2012-01,27,Tabasco,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,pol,Poland,2630
+201201,2012-01,27,Tabasco,16841229,"Hydraulic Motors (Excl. Hydraulic Turbines and Water Wheels of Heading 8410, Steam Turbines of Heading 8410, Steam Turbines and Hydraulic Motors, Linear Acting ""Cylinders"")",1,Imports,usa,United States,125587
+201201,2012-01,27,Tabasco,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,ind,India,39805
+201201,2012-01,27,Tabasco,16841231,"Pneumatic Motors, Linear Acting ""Cylinders""",1,Imports,usa,United States,4415
+201201,2012-01,27,Tabasco,16841239,"Tires Motors (Excl. Linear Acting Pneumatic Motors ""Cylinders"")",1,Imports,gbr,United Kingdom,3555
+201201,2012-01,27,Tabasco,16841239,"Tires Motors (Excl. Linear Acting Pneumatic Motors ""Cylinders"")",1,Imports,usa,United States,22945
+201201,2012-01,27,Tabasco,16841290,"Engine Parts and Motors, N.E.C",1,Imports,can,Canada,620064
+201201,2012-01,27,Tabasco,16841290,"Engine Parts and Motors, N.E.C",1,Imports,gbr,United Kingdom,78340
+201201,2012-01,27,Tabasco,16841290,"Engine Parts and Motors, N.E.C",1,Imports,usa,United States,441167
+201201,2012-01,27,Tabasco,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,can,Canada,42110
+201201,2012-01,27,Tabasco,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,chn,China,866517
+201201,2012-01,27,Tabasco,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,ita,Italy,566
+201201,2012-01,27,Tabasco,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,jpn,Japan,2214
+201201,2012-01,27,Tabasco,16841350,"Reciprocating Positive Displacement Pumps, Mechanically Actuated (Exc. Pumps Subheadings 8413.11 8413.19 U, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression and Concrete Pumps)",1,Imports,usa,United States,3089404
+201201,2012-01,27,Tabasco,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,can,Canada,1073531
+201201,2012-01,27,Tabasco,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,deu,Germany,8197
+201201,2012-01,27,Tabasco,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,fra,France,2953
+201201,2012-01,27,Tabasco,16841360,"Rotating Volumetric Pumps, Mechanically Actuated (Exc. Fuel Pumps, Engine Oil or Coolant)",1,Imports,usa,United States,21518
+201201,2012-01,27,Tabasco,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,are,United Arab Emirates,399995
+201201,2012-01,27,Tabasco,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,chn,China,29668
+201201,2012-01,27,Tabasco,16841370,"Mechanically Actuated Centrifugal Pumps (Exc. Fuel Pumps, Engine Oil or Coolant and Concrete Pumps)",1,Imports,usa,United States,46957
+201201,2012-01,27,Tabasco,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,chn,China,455160
+201201,2012-01,27,Tabasco,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,fra,France,4501
+201201,2012-01,27,Tabasco,16841381,"Liquid Pumps, Mechanically Actuated (Exc. so as Pumps of Subheading 8413.11 or 8413.19, Fuel Pumps, Oil or Engine Coolant Spark Ignition or Compression, Concrete Pumps And, in General, Pumps Volumetric Reciprocating or Rotary and Pumps Centrifuges of all Types)",1,Imports,usa,United States,176107
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,arg,Argentina,3758
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,can,Canada,307391
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,chn,China,115319
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,deu,Germany,1058
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,gbr,United Kingdom,268
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,ind,India,975
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,sgp,Singapore,3655
+201201,2012-01,27,Tabasco,16841391,Parts of Pumps for Liquids,1,Imports,usa,United States,340930
+201201,2012-01,27,Tabasco,16841490,"Parts of Air or Vacuum Pumps, Air or other Gas Compressors and Fans",1,Imports,usa,United States,8160
+201201,2012-01,27,Tabasco,16841590,Parts of Machinery for Air Conditioning and Devices for Changing the Temperature and Humidity,1,Imports,dom,Dominican Republic,617
+201201,2012-01,27,Tabasco,16841590,Parts of Machinery for Air Conditioning and Devices for Changing the Temperature and Humidity,1,Imports,usa,United States,13398
+201201,2012-01,27,Tabasco,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,deu,Germany,1365
+201201,2012-01,27,Tabasco,16842123,Apparatus for Filtering Lubricants or Fuel in Spark Ignition Engines or Compression,1,Imports,usa,United States,17593
+201201,2012-01,27,Tabasco,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,gbr,United Kingdom,14
+201201,2012-01,27,Tabasco,16842129,"Apparatus for Filtering or Purifying Liquids (Ex. Apparatus for Filtering or Purifying Water and Beverages, or Lubricants, Engine Fuels)",1,Imports,usa,United States,135400
+201201,2012-01,27,Tabasco,16842131,Air Inlet Filters Engine Ignition or Compression,1,Imports,usa,United States,6346
+201201,2012-01,27,Tabasco,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,can,Canada,19125
+201201,2012-01,27,Tabasco,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,deu,Germany,590
+201201,2012-01,27,Tabasco,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,idn,Indonesia,558742
+201201,2012-01,27,Tabasco,16842139,Apparatus for Filtering or Purifying Gases,1,Imports,usa,United States,7625
+201201,2012-01,27,Tabasco,16842539,"Winches and Capstans, no Electric Motor",1,Imports,usa,United States,144452
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,are,United Arab Emirates,25026
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,arg,Argentina,139681
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,aus,Australia,42033
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,aut,Austria,42061
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,bel,Belgium,41711
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,bra,Brazil,10113
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,can,Canada,754160
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,chn,China,624079
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,deu,Germany,74423
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,ecu,Ecuador,55241
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,gbr,United Kingdom,970112
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,lva,Latvia,921
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,mys,Malaysia,1
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,nor,Norway,53777
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,per,Peru,635
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,twn,Taiwan (Region),2
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,1,Imports,usa,United States,2607480
+201201,2012-01,27,Tabasco,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,chn,China,10203
+201201,2012-01,27,Tabasco,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,mys,Malaysia,79
+201201,2012-01,27,Tabasco,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,tha,Thailand,4415
+201201,2012-01,27,Tabasco,16844399,"Parts and Accessories of Printers, Photocopiers and Facsimile Machines",1,Imports,usa,United States,3800
+201201,2012-01,27,Tabasco,16847130,Machines for Processing Data,1,Imports,chn,China,17114
+201201,2012-01,27,Tabasco,16847130,Machines for Processing Data,1,Imports,deu,Germany,41405
+201201,2012-01,27,Tabasco,16847130,Machines for Processing Data,1,Imports,mys,Malaysia,1054
+201201,2012-01,27,Tabasco,16847130,Machines for Processing Data,1,Imports,usa,United States,11181
+201201,2012-01,27,Tabasco,16847150,Automatic Data Processing Machines and Units Thereof,1,Imports,deu,Germany,7781
+201201,2012-01,27,Tabasco,16847150,Automatic Data Processing Machines and Units Thereof,1,Imports,usa,United States,15491
+201201,2012-01,27,Tabasco,16847180,"Units of Automatic Data Processing Machines (Excl. Processing, Input, Output and Memory)",1,Imports,usa,United States,47650
+201201,2012-01,27,Tabasco,16847330,Parts and Accessories for Data Processing Machines,1,Imports,deu,Germany,1027
+201201,2012-01,27,Tabasco,16847330,Parts and Accessories for Data Processing Machines,1,Imports,gbr,United Kingdom,736
+201201,2012-01,27,Tabasco,16847330,Parts and Accessories for Data Processing Machines,1,Imports,hun,Hungary,1243
+201201,2012-01,27,Tabasco,16847330,Parts and Accessories for Data Processing Machines,1,Imports,jpn,Japan,1860
+201201,2012-01,27,Tabasco,16847330,Parts and Accessories for Data Processing Machines,1,Imports,twn,Taiwan (Region),410
+201201,2012-01,27,Tabasco,16847330,Parts and Accessories for Data Processing Machines,1,Imports,usa,United States,14222
+201201,2012-01,27,Tabasco,16847989,Mechanical Machinery,1,Imports,arg,Argentina,55945
+201201,2012-01,27,Tabasco,16847989,Mechanical Machinery,1,Imports,can,Canada,741623
+201201,2012-01,27,Tabasco,16847989,Mechanical Machinery,1,Imports,deu,Germany,155294
+201201,2012-01,27,Tabasco,16847989,Mechanical Machinery,1,Imports,usa,United States,554292
+201201,2012-01,27,Tabasco,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,can,Canada,32265
+201201,2012-01,27,Tabasco,16847990,"Machinery and Parts Mechanical, N.E.C",1,Imports,usa,United States,258406
+201201,2012-01,27,Tabasco,16848110,Pressure Reducing Valves,1,Imports,arg,Argentina,32244
+201201,2012-01,27,Tabasco,16848110,Pressure Reducing Valves,1,Imports,gbr,United Kingdom,2490
+201201,2012-01,27,Tabasco,16848110,Pressure Reducing Valves,1,Imports,usa,United States,1015
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,chn,China,632
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,esp,Spain,530033
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,fra,France,38
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,idn,Indonesia,249
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,ind,India,250094
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,sgp,Singapore,72238
+201201,2012-01,27,Tabasco,16848120,Valves for Hydraulic or Pneumatic Transmissions,1,Imports,usa,United States,230582
+201201,2012-01,27,Tabasco,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,deu,Germany,24
+201201,2012-01,27,Tabasco,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,esp,Spain,12834
+201201,2012-01,27,Tabasco,16848130,"Check Valves for Pipes, Boiler Shells, Tanks or Similar Containers",1,Imports,usa,United States,144296
+201201,2012-01,27,Tabasco,16848140,Safety or Relief Valves,1,Imports,deu,Germany,360
+201201,2012-01,27,Tabasco,16848140,Safety or Relief Valves,1,Imports,gbr,United Kingdom,2543
+201201,2012-01,27,Tabasco,16848140,Safety or Relief Valves,1,Imports,usa,United States,241350
+201201,2012-01,27,Tabasco,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,chn,China,240224
+201201,2012-01,27,Tabasco,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,deu,Germany,525165
+201201,2012-01,27,Tabasco,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,gbr,United Kingdom,3412
+201201,2012-01,27,Tabasco,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,idn,Indonesia,133075
+201201,2012-01,27,Tabasco,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,ind,India,91863
+201201,2012-01,27,Tabasco,16848180,"Taps, Cocks, Valves and Similar Appliances, for Pipes, Boiler Shells or the Like",1,Imports,usa,United States,529771
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,arg,Argentina,1641
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,can,Canada,1880
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,chn,China,132042
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,fra,France,7782
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,gbr,United Kingdom,14367
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,ind,India,4178
+201201,2012-01,27,Tabasco,16848190,"Parts of Taps, Cocks, Valves and Similar",1,Imports,usa,United States,505575
+201201,2012-01,27,Tabasco,16848210,Ball Bearings,1,Imports,chn,China,1014
+201201,2012-01,27,Tabasco,16848210,Ball Bearings,1,Imports,deu,Germany,1770
+201201,2012-01,27,Tabasco,16848210,Ball Bearings,1,Imports,gbr,United Kingdom,9
+201201,2012-01,27,Tabasco,16848210,Ball Bearings,1,Imports,usa,United States,39445
+201201,2012-01,27,Tabasco,16848220,Tapered Roller Bearings,1,Imports,chn,China,731
+201201,2012-01,27,Tabasco,16848220,Tapered Roller Bearings,1,Imports,deu,Germany,10053
+201201,2012-01,27,Tabasco,16848220,Tapered Roller Bearings,1,Imports,ind,India,563
+201201,2012-01,27,Tabasco,16848220,Tapered Roller Bearings,1,Imports,swe,Sweden,10937
+201201,2012-01,27,Tabasco,16848220,Tapered Roller Bearings,1,Imports,usa,United States,2189
+201201,2012-01,27,Tabasco,16848240,Needle Roller Bearings,1,Imports,jpn,Japan,5763
+201201,2012-01,27,Tabasco,16848240,Needle Roller Bearings,1,Imports,usa,United States,25126
+201201,2012-01,27,Tabasco,16848250,Cylindrical Roller Bearings Rolls,1,Imports,chn,China,533
+201201,2012-01,27,Tabasco,16848250,Cylindrical Roller Bearings Rolls,1,Imports,deu,Germany,407
+201201,2012-01,27,Tabasco,16848250,Cylindrical Roller Bearings Rolls,1,Imports,svk,Slovakia,151
+201201,2012-01,27,Tabasco,16848250,Cylindrical Roller Bearings Rolls,1,Imports,usa,United States,7047
+201201,2012-01,27,Tabasco,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,deu,Germany,83
+201201,2012-01,27,Tabasco,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,gbr,United Kingdom,128
+201201,2012-01,27,Tabasco,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,ind,India,10393
+201201,2012-01,27,Tabasco,16848291,"Balls, Needles and Rollers for Bearings (Excl. Steel Balls of Heading 7326)",1,Imports,usa,United States,16608
+201201,2012-01,27,Tabasco,16848299,Parts of Bearings,1,Imports,can,Canada,88
+201201,2012-01,27,Tabasco,16848299,Parts of Bearings,1,Imports,usa,United States,16545
+201201,2012-01,27,Tabasco,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,can,Canada,69873
+201201,2012-01,27,Tabasco,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,fin,Finland,255763
+201201,2012-01,27,Tabasco,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,ind,India,576
+201201,2012-01,27,Tabasco,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,tur,Turkey,3163
+201201,2012-01,27,Tabasco,16848310,"Transmission Shafts, Incl. Camshafts and Crankshafts, and Cranks",1,Imports,usa,United States,75832
+201201,2012-01,27,Tabasco,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,can,Canada,3556
+201201,2012-01,27,Tabasco,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,gbr,United Kingdom,127
+201201,2012-01,27,Tabasco,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,twn,Taiwan (Region),85
+201201,2012-01,27,Tabasco,16848330,Boxes Bearing Housings and Bearings for Machines,1,Imports,usa,United States,81769
+201201,2012-01,27,Tabasco,16848340,Gearboxes and other Speed Changers,1,Imports,bra,Brazil,658
+201201,2012-01,27,Tabasco,16848340,Gearboxes and other Speed Changers,1,Imports,can,Canada,35256
+201201,2012-01,27,Tabasco,16848340,Gearboxes and other Speed Changers,1,Imports,gbr,United Kingdom,250
+201201,2012-01,27,Tabasco,16848340,Gearboxes and other Speed Changers,1,Imports,usa,United States,14095
+201201,2012-01,27,Tabasco,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,bra,Brazil,150
+201201,2012-01,27,Tabasco,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,can,Canada,11901
+201201,2012-01,27,Tabasco,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,gbr,United Kingdom,150
+201201,2012-01,27,Tabasco,16848350,"Flywheels and Pulleys, Incl. Pulley Blocks",1,Imports,usa,United States,15289
+201201,2012-01,27,Tabasco,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,jpn,Japan,7014
+201201,2012-01,27,Tabasco,16848360,"Clutches and Shaft Couplings, Incl. Universal Joints, for Machines",1,Imports,usa,United States,50031
+201201,2012-01,27,Tabasco,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,can,Canada,417
+201201,2012-01,27,Tabasco,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,deu,Germany,152
+201201,2012-01,27,Tabasco,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ind,India,868
+201201,2012-01,27,Tabasco,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,ita,Italy,945
+201201,2012-01,27,Tabasco,16848390,"Parts of Toothed Wheels, Chain Sprockets and other Transmission Elements Presented Separately",1,Imports,usa,United States,68904
+201201,2012-01,27,Tabasco,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,bra,Brazil,110
+201201,2012-01,27,Tabasco,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,ind,India,7584
+201201,2012-01,27,Tabasco,16848420,Mechanical Joints or Gaskets Watertight,1,Imports,usa,United States,6035
+201201,2012-01,27,Tabasco,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,can,Canada,12454
+201201,2012-01,27,Tabasco,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,chn,China,3234
+201201,2012-01,27,Tabasco,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,dnk,Denmark,1371
+201201,2012-01,27,Tabasco,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,gbr,United Kingdom,1602
+201201,2012-01,27,Tabasco,16848490,"Assortments or Gaskets Different in Composition Pouches, Envelopes or Containers Analogs",1,Imports,usa,United States,120751
+201201,2012-01,27,Tabasco,16848790,Parts of Machinery or Apparatus,1,Imports,chn,China,312
+201201,2012-01,27,Tabasco,16848790,Parts of Machinery or Apparatus,1,Imports,ind,India,576
+201201,2012-01,27,Tabasco,16848790,Parts of Machinery or Apparatus,1,Imports,usa,United States,57012
+201201,2012-01,27,Tabasco,16850440,Electrical Static Converters,1,Imports,chn,China,7862
+201201,2012-01,27,Tabasco,16850440,Electrical Static Converters,1,Imports,gbr,United Kingdom,5152
+201201,2012-01,27,Tabasco,16850440,Electrical Static Converters,1,Imports,jpn,Japan,7680
+201201,2012-01,27,Tabasco,16850440,Electrical Static Converters,1,Imports,phl,Philippines,1219
+201201,2012-01,27,Tabasco,16850440,Electrical Static Converters,1,Imports,tha,Thailand,1949
+201201,2012-01,27,Tabasco,16850440,Electrical Static Converters,1,Imports,usa,United States,16204
+201201,2012-01,27,Tabasco,16850650,"Batteries and Batteries, Lithium",1,Imports,can,Canada,8565
+201201,2012-01,27,Tabasco,16850650,"Batteries and Batteries, Lithium",1,Imports,fra,France,33799
+201201,2012-01,27,Tabasco,16850650,"Batteries and Batteries, Lithium",1,Imports,gbr,United Kingdom,6799
+201201,2012-01,27,Tabasco,16850650,"Batteries and Batteries, Lithium",1,Imports,usa,United States,141280
+201201,2012-01,27,Tabasco,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,dom,Dominican Republic,76
+201201,2012-01,27,Tabasco,16851680,"Heating Resistors, Power (Exc. Carbon Graphite Agglomerated O)",1,Imports,usa,United States,8103
+201201,2012-01,27,Tabasco,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,can,Canada,11029
+201201,2012-01,27,Tabasco,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,chn,China,8305
+201201,2012-01,27,Tabasco,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,deu,Germany,1831
+201201,2012-01,27,Tabasco,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,twn,Taiwan (Region),5880
+201201,2012-01,27,Tabasco,16851762,"Machines for the Reception, Conversion and Transmission or Regeneration of Voice, Images or other Data",1,Imports,usa,United States,17209
+201201,2012-01,27,Tabasco,16853229,"Fixed Capacitors (Exc. Tantalum, Aluminum Electrolytic Capacitors, Capacitors with Dielectrics Ceramic, Paper or Plastic and Power Capacitors)",1,Imports,usa,United States,9558
+201201,2012-01,27,Tabasco,16853641,"Relays, for a Voltage <= 60 V",1,Imports,chn,China,230
+201201,2012-01,27,Tabasco,16853641,"Relays, for a Voltage <= 60 V",1,Imports,usa,United States,5292
+201201,2012-01,27,Tabasco,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,che,Switzerland,313
+201201,2012-01,27,Tabasco,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,deu,Germany,22
+201201,2012-01,27,Tabasco,16853649,"Relays for a Voltage> 60 V but <= 1,000 V",1,Imports,usa,United States,1233
+201201,2012-01,27,Tabasco,16853650,Switches for a Voltage <= 1.000 V,1,Imports,chn,China,2214
+201201,2012-01,27,Tabasco,16853650,Switches for a Voltage <= 1.000 V,1,Imports,cri,Costa Rica,32
+201201,2012-01,27,Tabasco,16853650,Switches for a Voltage <= 1.000 V,1,Imports,cze,Czech Republic,43
+201201,2012-01,27,Tabasco,16853650,Switches for a Voltage <= 1.000 V,1,Imports,dom,Dominican Republic,50
+201201,2012-01,27,Tabasco,16853650,Switches for a Voltage <= 1.000 V,1,Imports,usa,United States,26103
+201201,2012-01,27,Tabasco,16853669,"Plugs and Sockets, for a Voltage not Exceeding 1000 V",1,Imports,chn,China,316
+201201,2012-01,27,Tabasco,16853669,"Plugs and Sockets, for a Voltage not Exceeding 1000 V",1,Imports,usa,United States,13610
+201201,2012-01,27,Tabasco,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,chn,China,548
+201201,2012-01,27,Tabasco,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,gbr,United Kingdom,852
+201201,2012-01,27,Tabasco,16853690,"Electrical Apparatus for Switching and Protecting Electrical Circuits, Voltage <= 1.000 V",1,Imports,usa,United States,87922
+201201,2012-01,27,Tabasco,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,chn,China,149
+201201,2012-01,27,Tabasco,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,deu,Germany,2791
+201201,2012-01,27,Tabasco,16853710,"Appliances for Electric Control or Distribution of Electricity, for a Voltage <= 1000 V",1,Imports,usa,United States,488809
+201201,2012-01,27,Tabasco,16853890,"Parts of Electric Switches, Protectors and Connectors",1,Imports,usa,United States,30488
+201201,2012-01,27,Tabasco,16854129,Transistors with a Dissipation Rate> = 1 W (Other than Phototransistors),1,Imports,phl,Philippines,12
+201201,2012-01,27,Tabasco,16854129,Transistors with a Dissipation Rate> = 1 W (Other than Phototransistors),1,Imports,usa,United States,23364
+201201,2012-01,27,Tabasco,16854231,"Integrated Electronic Circuits and Drivers, Converters, Logic Circuits, Amplifiers",1,Imports,chn,China,859
+201201,2012-01,27,Tabasco,16854231,"Integrated Electronic Circuits and Drivers, Converters, Logic Circuits, Amplifiers",1,Imports,mys,Malaysia,36
+201201,2012-01,27,Tabasco,16854231,"Integrated Electronic Circuits and Drivers, Converters, Logic Circuits, Amplifiers",1,Imports,tha,Thailand,19
+201201,2012-01,27,Tabasco,16854231,"Integrated Electronic Circuits and Drivers, Converters, Logic Circuits, Amplifiers",1,Imports,usa,United States,12017
+201201,2012-01,27,Tabasco,16854239,Electronic Integrated Circuits,1,Imports,mys,Malaysia,248
+201201,2012-01,27,Tabasco,16854239,Electronic Integrated Circuits,1,Imports,phl,Philippines,118
+201201,2012-01,27,Tabasco,16854239,Electronic Integrated Circuits,1,Imports,usa,United States,225
+201201,2012-01,27,Tabasco,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,can,Canada,6620
+201201,2012-01,27,Tabasco,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,chn,China,13702
+201201,2012-01,27,Tabasco,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,twn,Taiwan (Region),14327
+201201,2012-01,27,Tabasco,16854370,"Parts of Machines and Electrical Apparatus, Having Individual Functions",1,Imports,usa,United States,42172
+201201,2012-01,27,Tabasco,16854420,"Electric Cables and Conductors Coaxial, Isolated",1,Imports,usa,United States,7368
+201201,2012-01,27,Tabasco,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,can,Canada,7455
+201201,2012-01,27,Tabasco,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,chn,China,678
+201201,2012-01,27,Tabasco,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,deu,Germany,205
+201201,2012-01,27,Tabasco,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,twn,Taiwan (Region),21
+201201,2012-01,27,Tabasco,16854442,"Electric Conductors, for a Voltage <= 1000 V",1,Imports,usa,United States,66342
+201201,2012-01,27,Tabasco,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,deu,Germany,785
+201201,2012-01,27,Tabasco,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,gbr,United Kingdom,823
+201201,2012-01,27,Tabasco,16854449,"Electric Conductors, for a Voltage <= 80 V",1,Imports,usa,United States,85081
+201201,2012-01,27,Tabasco,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,gbr,United Kingdom,4824
+201201,2012-01,27,Tabasco,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,mys,Malaysia,672
+201201,2012-01,27,Tabasco,16854890,"Electrical Parts of Machinery or Apparatus, not Specified or Included Elsewhere",1,Imports,usa,United States,52802
+201201,2012-01,27,Tabasco,18901580,"Instruments and Apparatus Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology or Geophysics (Excl. Compasses, Rangefinders, Theodolites, Tacheometers, Levels and Instruments and Apparatus for Photogrammetry)",1,Imports,usa,United States,743486
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",1,Imports,fra,France,4024
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",1,Imports,gbr,United Kingdom,66054
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",1,Imports,nld,Netherlands,19060
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",1,Imports,phl,Philippines,98
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",1,Imports,sgp,Singapore,3222
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",1,Imports,usa,United States,3437362
+201201,2012-01,27,Tabasco,18901780,"Hand Instruments for Measuring Length, N.E.C",1,Imports,chn,China,289
+201201,2012-01,27,Tabasco,18901780,"Hand Instruments for Measuring Length, N.E.C",1,Imports,esp,Spain,179
+201201,2012-01,27,Tabasco,18901780,"Hand Instruments for Measuring Length, N.E.C",1,Imports,tha,Thailand,54
+201201,2012-01,27,Tabasco,18901780,"Hand Instruments for Measuring Length, N.E.C",1,Imports,usa,United States,2473
+201201,2012-01,27,Tabasco,18902590,"Parts and Accessories Hydrometers -Hydrometers and Instruments Flotantes Simil., Thermometers, Pyrometers, Barometers, Hygrometers and Psychrometers, N.E.C",1,Imports,usa,United States,4070
+201201,2012-01,27,Tabasco,18902610,Instruments and Apparatus for Measuring or Checking the Flow or Level of Liquids,1,Imports,usa,United States,138346
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,chn,China,734
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,deu,Germany,8314
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,gbr,United Kingdom,595
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,mys,Malaysia,7393
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,pol,Poland,527
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,1,Imports,usa,United States,101486
+201201,2012-01,27,Tabasco,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,can,Canada,5873
+201201,2012-01,27,Tabasco,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,gbr,United Kingdom,46888
+201201,2012-01,27,Tabasco,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,sgp,Singapore,24006
+201201,2012-01,27,Tabasco,18902690,"Parts and Accessories of Instruments and Apparatus for Measurement or Control of Flow, Level, Pressure of Liquids or Gases",1,Imports,usa,United States,140014
+201201,2012-01,27,Tabasco,18902710,Analyzers Gas or Smoke,1,Imports,gbr,United Kingdom,11377
+201201,2012-01,27,Tabasco,18902710,Analyzers Gas or Smoke,1,Imports,usa,United States,7064
+201201,2012-01,27,Tabasco,18902790,"Microtomes, Parts and Accessories",1,Imports,can,Canada,12974
+201201,2012-01,27,Tabasco,18902790,"Microtomes, Parts and Accessories",1,Imports,chn,China,686
+201201,2012-01,27,Tabasco,18902790,"Microtomes, Parts and Accessories",1,Imports,gbr,United Kingdom,4717
+201201,2012-01,27,Tabasco,18902790,"Microtomes, Parts and Accessories",1,Imports,sgp,Singapore,52683
+201201,2012-01,27,Tabasco,18902790,"Microtomes, Parts and Accessories",1,Imports,usa,United States,13218
+201201,2012-01,27,Tabasco,18903033,"Instruments and Apparatus Voltage Measurements O Review Current, Resistance or Power Electrico, without Recording Device (Excl. Multimeters, Oscilloscopes and Oscillographs)",1,Imports,usa,United States,12249
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,can,Canada,12832
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,esp,Spain,70
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,gbr,United Kingdom,9765
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,ind,India,1719
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,lka,Sri Lanka,1219
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,rus,Russia,2805
+201201,2012-01,27,Tabasco,18903180,"Instruments, Machinery, Non-Optical, for Measuring or Checking",1,Imports,usa,United States,448838
+201201,2012-01,27,Tabasco,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,can,Canada,5269
+201201,2012-01,27,Tabasco,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,gbr,United Kingdom,49048
+201201,2012-01,27,Tabasco,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",1,Imports,usa,United States,44400
+201201,2012-01,27,Tabasco,18903210,Thermostats Regulating or Control,1,Imports,chn,China,1619
+201201,2012-01,27,Tabasco,18903210,Thermostats Regulating or Control,1,Imports,deu,Germany,60
+201201,2012-01,27,Tabasco,18903210,Thermostats Regulating or Control,1,Imports,pol,Poland,3328
+201201,2012-01,27,Tabasco,18903210,Thermostats Regulating or Control,1,Imports,usa,United States,231
+201201,2012-01,27,Tabasco,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,chn,China,775
+201201,2012-01,27,Tabasco,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,deu,Germany,404
+201201,2012-01,27,Tabasco,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,gbr,United Kingdom,1177
+201201,2012-01,27,Tabasco,18903289,Instruments and Apparatus for Regulating or Controlling other than Hydraulic or Pneumatic,1,Imports,usa,United States,12717
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,2,Exports,blz,Belize,100
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,2,Exports,bra,Brazil,1885
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,2,Exports,ecu,Ecuador,1068
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,2,Exports,tha,Thailand,3438
+201201,2012-01,27,Tabasco,7392690,Plastic Items and Articles of other Materials,2,Exports,usa,United States,7
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",2,Exports,blz,Belize,509
+201201,2012-01,27,Tabasco,15732619,"Articles of Iron or Steel, Forged or Stamped, but not otherwise Worked (Exc. Balls and Similar Articles. for Mills)",2,Exports,usa,United States,40954
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,2,Exports,blz,Belize,10438
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,2,Exports,chl,Chile,10989
+201201,2012-01,27,Tabasco,15732690,Articles of Iron or Steel,2,Exports,usa,United States,49079
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",2,Exports,blz,Belize,25
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",2,Exports,ecu,Ecuador,931
+201201,2012-01,27,Tabasco,15820559,"Hand Tools, Incl. Glaziers' Diamonds, of Base Metal, N.E.C",2,Exports,egy,Egypt,1112
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,bra,Brazil,23963
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,can,Canada,1177830
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,col,Colombia,250983
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,ecu,Ecuador,111104
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,gtm,Guatemala,26775
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,nor,Norway,20218
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,per,Peru,33209
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,usa,United States,1122296
+201201,2012-01,27,Tabasco,16843143,Parts of Machines Drilling Derricks of Subheadings,2,Exports,ven,Venezuela,178508
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,bra,Brazil,14089
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,can,Canada,143122
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,ecu,Ecuador,12009
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,gbr,United Kingdom,38742
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,sgp,Singapore,65058
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,tha,Thailand,5430
+201201,2012-01,27,Tabasco,18901590,"Parts and Accessories of Instruments and Apparatus of Geodesy, Topography, Surveying, Hydrography, Oceanography, Hydrology, Meteorology and Geophysics, and for Rangefinders, N.E.C",2,Exports,usa,United States,978881
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,2,Exports,blz,Belize,5799
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,2,Exports,can,Canada,3125
+201201,2012-01,27,Tabasco,18902620,Instruments and Apparatus for Measuring or Checking Pressure of Liquids or Gases,2,Exports,usa,United States,23827
+201201,2012-01,27,Tabasco,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",2,Exports,col,Colombia,2233
+201201,2012-01,27,Tabasco,18903190,"Parts and Accessories for Instruments, Machines and Apparatus for Measuring or Checking",2,Exports,usa,United States,65898
