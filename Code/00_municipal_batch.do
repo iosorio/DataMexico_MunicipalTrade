@@ -19,7 +19,8 @@ Prerequisites
 * ----------------------------------------------------------------------
 * User settings
 * ----------------------------------------------------------------------
-local disk "/Volumes/Samsung2TB"
+*local disk "/Volumes/Samsung2TB"
+local disk "/Users/Israel"
 local start_year 2006
 local end_year   2025
 local py_exec    "!python3"
@@ -33,7 +34,7 @@ cap mkdir Code
 cap mkdir Code/batch
 cap mkdir DATA
 cap mkdir DATA/CSV
-
+cap mkdir DATA/DTA
 * ----------------------------------------------------------------------
 * Housekeeping: remove stale batch and log files
 * ----------------------------------------------------------------------

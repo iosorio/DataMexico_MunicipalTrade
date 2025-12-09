@@ -1,5 +1,6 @@
 batch*.do
- mun*.dta
+state*.csv
 mun*.csv
 *.log
-code/~00_Run_Python.do.stswp
+*.stswp
+all_trade_*.dta

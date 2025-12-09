@@ -19,6 +19,9 @@ Notes
 - Requires ``pandas`` and ``pyarrow`` (``pip install pandas pyarrow``).
 - Assumes every CSV has the same column set; columns missing in a given file
   are filled with ``NA`` to keep the schema consistent.
+- A "Parquet shard" is simply a temporary Parquet file that holds a batch of
+  concatenated CSV rows; sharding keeps memory manageable and allows Arrow to
+  read the intermediate dataset in parallel.
 - Keeps intermediate Parquet shards under the same parent directory as the
   output file (``<output>.parts``) so the final Arrow load happens from a
   fast local disk.
@@ -33,7 +36,7 @@ import os
 import pathlib
 import shutil
 import tempfile
-from typing import Iterable, List, Sequence
+from typing import Iterable, List, Optional, Sequence
 
 import pandas as pd
 import pyarrow as pa
@@ -62,6 +65,20 @@ def _discover_column_order(csv_path: pathlib.Path) -> List[str]:
     return sample.columns.tolist()
 
 
+def _safe_read_csv(csv_path: pathlib.Path, column_order: Optional[Sequence[str]] = None) -> Optional[pd.DataFrame]:
+    """Read a CSV, returning ``None`` if the file is empty."""
+
+    try:
+        df = pd.read_csv(csv_path)
+    except pd.errors.EmptyDataError:
+        return None
+
+    if column_order is not None:
+        df = df.reindex(columns=column_order)
+
+    return df
+
+
 def _chunks(seq: Sequence[str], chunk_size: int) -> Iterable[List[str]]:
     for i in range(0, len(seq), chunk_size):
         yield list(seq[i : i + chunk_size])
@@ -82,9 +99,11 @@ def _process_files(
             csv_path = csv_dir / filename
             if not csv_path.exists():
                 continue
-            df = pd.read_csv(csv_path)
-            # Enforce a stable column order and fill missing columns
-            df = df.reindex(columns=column_order)
+
+            df = _safe_read_csv(csv_path, column_order)
+            if df is None:
+                continue
+
             frames.append(df)
 
         if not frames:
@@ -129,7 +148,21 @@ def build_argument_parser() -> argparse.ArgumentParser:
         "--batch-size",
         type=int,
         default=1000,
-        help="Number of CSV files to concatenate per Parquet shard.",
+        help=(
+            "How many CSV files each worker concatenates before writing a Parquet shard "
+            "(a temporary Parquet file holding that batch); larger batches reduce shard "
+            "counts but need more RAM per worker."
+        ),
+    )
+    parser.add_argument(
+        "--stata-version",
+        type=int,
+        default=118,
+        choices=[114, 117, 118],
+        help=(
+            "Stata .dta version to write. Use 118 (default) to preserve UTF-8 text and "
+            "avoid Latin-1 encoding errors with accented characters."
+        ),
     )
     return parser
 
@@ -146,10 +179,25 @@ def main() -> None:
         raise RuntimeError("No entries found in the donefile catalog.")
 
     # Pick the first available CSV to define the canonical column order
-    sample_path = next((csv_dir / name for name in filenames if (csv_dir / name).exists()), None)
-    if sample_path is None:
-        raise FileNotFoundError("None of the listed CSV files were found in the CSV directory.")
-    column_order = _discover_column_order(sample_path)
+    sample_path: Optional[pathlib.Path] = None
+    column_order: Optional[Sequence[str]] = None
+    for name in filenames:
+        candidate = csv_dir / name
+        if not candidate.exists():
+            continue
+        try:
+            column_order = _discover_column_order(candidate)
+        except pd.errors.EmptyDataError:
+            # Skip empty files when trying to infer columns
+            continue
+
+        sample_path = candidate
+        break
+
+    if sample_path is None or column_order is None:
+        raise FileNotFoundError(
+            "None of the listed CSV files were found with parsable columns; check for empty files."
+        )
 
     output_dir = args.output.with_suffix(args.output.suffix + ".parts")
     if output_dir.exists():
@@ -186,11 +234,16 @@ def main() -> None:
     df = table.to_pandas(split_blocks=True, self_destruct=True)
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
-    df.to_stata(args.output, write_index=False)
+    df.to_stata(
+        args.output,
+        write_index=False,
+        version=args.stata_version,  # v118 writes UTF-8 natively; older versions stay ASCII/Latin-1
+    )
 
     shutil.rmtree(output_dir, ignore_errors=True)
 
 
 if __name__ == "__main__":
     main()
+	
 	
