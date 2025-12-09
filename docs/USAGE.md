@@ -1,124 +1,103 @@
 # Usage Guide
 
-This guide explains how to make the most of the files in this
-repository.  It covers two primary workflows: running the full batch
-download via Stata and calling the Python script directly for
-fine‑grained control.  Examples assume a Unix‑like shell and that
-the current working directory is the root of the cloned repository.
+This guide walks through the end-to-end workflow for downloading municipal and
+state trade data from DataMéxico, running the supporting Python utilities, and
+building analysis-ready Stata datasets.
 
 ## 1. Batch download with Stata
 
-Running the Stata do‑file automates the retrieval of trade data for
-every municipality and month in the predefined range (January 2006
-through December 2025).  Follow these steps:
+The main batch driver is `Code/00_municipal_batch.do`. It builds per-state
+command files that call the Python downloader for every municipality×month
+combination and avoids re-downloading files that already exist.
 
-1. Ensure you have Stata installed and available on your system.  Set
-   your working directory in Stata to the repository root:
+Steps:
 
-   ```stata
-   cd "path/to/datamexico-municipal-trade"
-   ```
-
-2. Verify that the Python script can be executed.  You may need to
-   adjust the `python` command in the do‑file if your default
-   Python interpreter differs (e.g., `python3` vs. `python`).
-
-3. Execute the do‑file:
+1. Open Stata and set the working directory to the repository root (adjust the
+   `local disk` value in the do-file if your data live elsewhere).
+2. Run the do-file:
 
    ```stata
-   do code/00_Run_Python.do
+   do Code/00_municipal_batch.do
    ```
 
-   This generates one batch file per two‑digit state code under
-   `code/batch/` and a shell script `myscript.sh` that launches
-   each batch via Stata‑MP.  By default, `myscript.sh` runs all
-   but the last batch in the background, with the final batch
-   running in the foreground to synchronise.  You can open
-   `myscript.sh` to inspect or modify the commands.  To run
-   sequentially, comment out the final `!./myscript.sh` line in
-   the do‑file and run each `batchXX.do` manually.
+   What happens under the hood:
 
-The script performs the following operations:
+   - `Code/donefiles_catalog.py` scans `Data/CSV/` and writes
+     `Data/CSV/donefiles.dta`, which Stata uses to skip completed downloads.
+   - A full calendar of months between `start_year` and `end_year` is crossed
+     with all municipalities to create one download command per combination.
+   - Per-state batch files are saved in `Code/batch/`, and `myscript.sh` launches
+     them in parallel with Stata-MP. Uncomment the final `!./myscript.sh` line to
+     start downloads immediately, or execute the batch files manually.
 
-- Reads the current contents of `data/csv/` to determine which
-  municipality/month files have already been downloaded.
-- Imports the list of municipalities from `code/municipalities_datamexico.csv`.
-- Generates all month identifiers between 2006 and 2025.
-- Expands to all combinations of municipality × month and constructs
-  a Python command for each pair.
-- Writes these commands to a temporary batch file and executes it.
-- Skips any combinations for which the corresponding CSV already
-  exists in `data/csv/`.
+## 2. Individual downloads with Python
 
-The batch download may take several hours depending on network
-conditions and the number of municipalities.
-
-## 2. Individual download with Python
-
-If you want to download data for a single municipality or perform
-ad‑hoc queries, you can call the Python script directly.  The
-interface uses command‑line arguments:
+For ad-hoc pulls, call the downloader directly without Stata:
 
 ```bash
-python code/municipal_trade_download.py \
-    --month <YYYYMM> \
-    --municipality <INEGI_CODE> \
-    --flows <flows> \
-    --limit <n> \
-    --output <path/to/output.csv>
-```
-
-Parameters:
-
-- `--month` (required when not reading a local JSON file) – six digit
-  string representing the year and month (e.g., `200601` for
-  January 2006).
-- `--municipality` – integer INEGI code identifying the municipality.
-- `--flows` – comma‑separated list of trade flows to include: `1`
-  for imports, `2` for exports.  Defaults to `1,2` (both).
-- `--limit` – number of records to request per page.  The API
-  supports pagination; large values (e.g., one billion) effectively
-  disable paging.
-- `--output` – path to the CSV file where results are saved.  Parent
-  directories will be created if necessary.
-- `--json-file` – alternatively, pass the path to a JSON file
-  previously downloaded from the API; the script will read it and
-  produce a CSV without making network calls.
-
-### Example
-
-Download exports only for the municipality with code `1001` in
-December 2010:
-
-```bash
-python code/municipal_trade_download.py \
+python Code/municipal_trade_download_2.py \
     --month 201012 \
     --municipality 1001 \
     --flows 2 \
-    --output data/csv/mun1001_201012_exports.csv
+    --drilldowns Month,Municipality,HS6,Flow,Country \
+    --output Data/CSV/mun1001_201012_exports.csv
 ```
 
-## 3. Troubleshooting
+- Use `--state` instead of `--municipality` to aggregate by state.
+- `--drilldowns` controls cube dimensions; defaults are provided based on the
+  geography you choose.
+- Pass `--json-file path/to/api_response.json` to convert a saved API payload to
+  CSV without making any network request.
 
-- **Missing dependency:** If Python complains about missing modules,
-  run `pip install -r requirements.txt` to ensure `pandas` and
-  `requests` are installed.  The Stata script does not install
-  packages automatically.
-- **Large downloads:** The API may throttle or return incomplete
-  responses when the limit is set very high.  If this happens, try
-  lowering the `--limit` to something like `50000` and let the
-  script page through the results.
-- **Partial data:** If you interrupt the batch process, previously
-  downloaded CSV files remain in `data/csv/`.  Re‑running the do‑file
-  skips them, so you can resume without starting over.
-- **Authentication:** The DataMéxico API is publicly accessible; no
-  API key is required as of this writing.  If authentication is
-  introduced in the future, you may need to update the Python script
-  accordingly.
+## 3. Cataloging and aggregating CSV outputs
 
-## 4. API Reference
+Once downloads finish, you can combine the outputs into a single Stata dataset.
+This is optional but helpful for downstream analysis.
 
-For detailed information about the available filters, measures and
-dimensions in the DataMéxico API, consult the official
-documentation at <https://www.economia.gob.mx/datamexico>.  The
-municipal foreign trade cube used by this script is `economy_foreign_trade_mun`.
+1. **Create or refresh the donefile catalog.** This lists the CSVs on disk and is
+   reused by both Stata and Python utilities:
+
+   ```bash
+   python Code/donefiles_catalog.py \
+       --csv-dir Data/CSV \
+       --start-year 2006 \
+       --end-year 2025 \
+       --output Data/CSV/donefiles.dta
+   ```
+
+   The do-file `Code/01_append_donefiles.do` demonstrates how to split this
+   catalog into municipal (`donefiles_mun.dta`) and state (`donefiles_sta.dta`)
+   subsets for separate aggregation runs.
+
+2. **Aggregate CSVs in parallel.** Pick the appropriate donefile and run:
+
+   ```bash
+   python Code/aggregate_csvs.py \
+       --donefile Data/CSV/donefiles_mun.dta \
+       --csv-dir Data/CSV \
+       --output Data/DTA/all_trade_mun.dta \
+       --workers 12 \
+       --batch-size 2000
+   ```
+
+   Notes:
+   - Requires `pandas` and `pyarrow` (`pip install pandas pyarrow`).
+   - Columns missing from individual CSVs are filled with `NA` to keep the
+     schema consistent.
+   - Intermediate Parquet shards are written under `<output>.parts/` to manage
+     memory usage and speed up the final Arrow load.
+
+3. **Apply labels (optional).** Use the generated label snippets in
+   `Code/labels_*.do` to attach value labels in Stata. See
+   `Code/01_append_donefiles.do` for an example of reading the aggregated `.dta`
+   file, applying labels, and saving a cleaned copy.
+
+## 4. Troubleshooting
+
+- **Missing dependencies:** Run `pip install -r requirements.txt` and `pip install
+  pyarrow` to ensure all Python packages are available.
+- **Large downloads:** If the API throttles or returns incomplete pages, lower
+  `--limit` in the Python downloader so pagination proceeds with smaller page
+  sizes.
+- **Interrupted runs:** Re-running `Code/00_municipal_batch.do` will skip files
+  already present in `Data/CSV/`, letting you resume after a partial download.
